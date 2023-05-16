@@ -1,7 +1,7 @@
 [@MAIN]
 {
 #SAY
-Here's the list of wines i have available. 
+以下是我所提供的葡萄酒名单。
  
 <Close/@exit>
 
