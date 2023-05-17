@@ -31,39 +31,39 @@ Show me the items you wish to repair.
 10
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
-(MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-WoodenSword
-WoodenBow
-Dagger
-EbonySword
-EbonyBow
-BronzeSword
-ShortBow
-ShortSword
-SharpHoaSword
-�ǹ�
-IronSword
-BronzeAxe
-Trident
-HookedSword
-Scimitar
+(HP)药物小量 1
+(HP)药物小量 5
+(HP)药物小量 10
+(MP)药物小量 1
+(MP)药物小量 5
+(MP)药物小量 10
+(HP)药物中量 1
+(HP)药物中量 5
+(HP)药物中量 10
+(MP)药物中量 1
+(MP)药物中量 5
+(MP)药物中量 10
+木剑
+木弓
+匕首
+乌木剑
+乌木弓
+青铜剑
+短弓
+短剑
+锋利的华剑
+骨弓
+铁剑
+青铜斧
+三叉戟
+钩状剑
+弯刀
 BladesOfVelocity
-CompoundBow
-Candle
-DungeonEscape
-RandomTeleport
-����(��)
-����(Ů)
-LightArmour(��)
-LightArmour(Ů)
+复合弓
+蜡烛
+地牢逃脱
+随机传送卷
+布衣(男)
+布衣(女)
+轻甲(男)
+轻甲(女)

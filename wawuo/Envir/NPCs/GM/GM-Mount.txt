@@ -35,7 +35,7 @@ Buy.
 27
 
 [Trade]
-BengalTiger
+孟加拉虎
 BlueTiger
 BlackLeopard
 IceLeopard
@@ -53,7 +53,7 @@ BronzeBell
 SilverBell
 GoldBell
 GreenBell
-Saddle
+鞍座
 RedRibbon
 BlueRibbon
 BlackRibbon
@@ -62,5 +62,5 @@ WhiteMask
 BlackMask
 SilverMask
 TitaniumMask
-RawMeat
-LeanMeat
+生肉
+瘦肉精

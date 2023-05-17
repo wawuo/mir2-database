@@ -1,96 +1,97 @@
 [@MAIN]
 #SAY
-I am craft lady, specialized in the creation of new items.
-I have been sent here to check the living conditions of people.
-Unfortunately, it seems that many people are still suffering from
-poverty. So, I would like to help them with my making skills.
-If you also want anything to be made, you may as well ask me.
-<Crafting/@Craft>
+我是一个手工制品女士，专注于创造新的物品。
+我被派来检查人们的生活条件。
+不幸的是，看起来很多人仍然在贫困中挣扎。
+因此，我希望用我的制作技能帮助他们。
+如果你也想要制作任何东西，可以问问我。
+
+<工艺/@Craft>
 
 [@Craft]
-SunPotion
+太阳药水
 
 [@BuySell]
 #SAY
-Please select the Recipe you either want to Buy or Sell.
-<Buy Back/@BuyBack>
+请选择你想购买或出售的配方
+<返回购买/@BuyBack>
 
 [RECIPE]
-(HP)DrugXL
-(MP)DrugXL
-AmuletOfRevival
-PeddlerTorch
-GreenPoison
-RedPoison
-BlackThread
-WhiteThread
-RedThread
-Dumpling
-BeefDumpling
-BoneDumpling
-ChickenDumpling
-EggDumpling
-BoneBroth
-ChickenBroth
-EggBroth
-HerbalTea
-MeatSoup
-ZerkSoup
-LargeBone
-Bone
-SewingGoods
-BoneHammer
-FishBait
-BoneDecapitator
-BoneHood
-BoneRobe(��)
-BoneRobe(Ů)
-BugBracelet
-BugNecklace
-BugRing
-NephriteBelt
-NephriteBracelet
-NephriteNecklace
-NephriteRing
-NephriteShoes
-RedJadeBelt
-RedJadeBracelet
-RedJadeNecklace
-RedJadeRing
-RedJadeShoes
-WhiteGoldBelt
-WhiteGoldBracelet
-WhiteGoldNecklace
-WhiteGoldRing
-WhiteGoldShoes
-NephriteBelt(H)
-NephriteBracelet(H)
-NephriteNecklace(H)
-NephriteRing(H)
-NephriteShoes(H)
-RedJadeBelt(H)
-RedJadeBracelet(H)
-RedJadeNecklace(H)
-RedJadeRing(H)
-RedJadeShoes(H)
-WhiteGoldBelt(H)
-WhiteGoldBracelet(H)
-WhiteGoldNecklace(H)
-WhiteGoldRing(H)
-WhiteGoldShoes(H)
-AccuracyGem
-AgilityGem
-BraveryGem
-EnduranceGem
-DisillusionGem
-DurabilityGem
-EvilSlayerGem
-FreezingGem
-MagicGem
-PoisonGem
-ProtectionGem
-SoulGem
-StormGem
+(HP)药物XL
+(MP)药物XL
+复活护身符
+小贩火炬
+绿毒
+红色毒药
+黑线
+白线
+红线
+饺子
+牛肉饺子
+骨头饺子
+鸡肉饺子
+鸡蛋饺子
+骨头汤
+鸡肉汤
+蛋汤
+草药茶
+肉汤
+鸡汤
+大骨
+骨头
+缝制物品
+骨锤
+鱼饵
+骨质疏松器
+帽子
+骨骼之翼(男)
+骨骼之翼(女)
+虫子手镯
+虫子颈链
+虫子戒指
+翡翠腰带
+翡翠手镯
+翡翠链
+翡翠戒指
+翡翠鞋
+红玉腰带
+红玉手镯
+红玉项链
+红玉戒指
+红玉鞋
+白金腰带
+白金手镯
+白金项链
+白金戒指
+白金鞋
+翡翠腰带(H)
+翡翠手镯(H)
+翡翠链(H)
+翡翠戒指(H)
+翡翠鞋(H)
+红玉腰带(H)
+红玉手镯(H)
+红玉项链(H)
+红玉戒指(H)
+红玉鞋(H)
+白金腰带(H)
+白金手镯(H)
+白金项链(H)
+白金戒指(H)
+白金鞋(H)
+准确度宝石
+敏捷宝石
+勇敢宝石
+耐力宝石
+幻觉宝石
+耐用性宝石
+屠龙宝典
+冰冻宝石
+魔法宝石
+毒药宝石
+保护宝石
+灵魂宝石
+风暴宝石
 
 [Quests]
 -1

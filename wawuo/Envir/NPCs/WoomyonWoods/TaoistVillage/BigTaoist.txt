@@ -41,7 +41,7 @@ Ah friend, Will you take my orders and get through the hard way?
 [@Quest1]
 #SAY
 Well. This is my duty. This is why i have waited for you instead of
-leaving here You came here with a JadeCrystal.. My name is Abel,
+leaving here You came here with a 翡翠水晶.. My name is Abel,
 and my nickname was Thunderman before i died. Originally I had
 striven for martial art training since I was 5 years old When I was
 30 years old I was never scared of anyone in the world Then I was 
@@ -112,7 +112,7 @@ Murder. Fighting and slaying for over 100 years when i faught against
 a certain RedEvilApe the RedMoonSword was finally broken I recovered
 my spirit from grasp of the huge demonic power and I aquired a
 skill to let my soul remain even after my body Died. Now I would
-like to ask you, get back the RedMoonChip and bring it to me
+like to ask you, get back the 红月亮芯片 and bring it to me
 If left alone, other person will become a victim like me....
 <Close/@Quest8>
 

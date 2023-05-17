@@ -13,7 +13,7 @@ LEVEL > 47
 LEVEL < 56
 #SAY
 A Mysterious Stone with Ancient symbols.
-"The Bones are crunching the Fear is <within/@prajnacavea>"
+"The 骨头s are crunching the Fear is <within/@prajnacavea>"
 {PrajnaHeart/LightSteelBlue} Required {Level48~55./KHAKI}
  
 <Close/@exit>

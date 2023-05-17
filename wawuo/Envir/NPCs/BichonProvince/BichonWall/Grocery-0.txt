@@ -34,8 +34,8 @@ These are the items still available to purchase back.
 
 [@Ask]
 #SAY
-I deal with <Candle/candle>,<Dungeonescape/dungeonescape>,
-<RandomTeleport/randomteleport>,<RepairOil/repairoil> and so on forth.
+I deal with <蜡烛/candle>,<Dungeonescape/dungeonescape>,
+<随机传送卷/randomteleport>,<修复油/repairoil> and so on forth.
 I have heard that there are <Townteleport/townteleport> which come
 from monsters only
  
@@ -43,7 +43,7 @@ from monsters only
 
 [@candle]
 #SAY
-Candles are needed when it's dark. without a Candle
+蜡烛s are needed when it's dark. without a 蜡烛
 you can not see anything-even your foot for darkness.
  
 <Back/@Ask>
@@ -53,7 +53,7 @@ you can not see anything-even your foot for darkness.
 A Dungeonescape scroll is a magic paper that moves you promptly
 to certain fields near the last village you visited.
 The power of Dungeonescape scroll is weak compared with
-TownTeleport scrolls but it could still save your life.
+城镇传送阵 scrolls but it could still save your life.
  
 <Back/@Ask>
 
@@ -70,7 +70,7 @@ to help you out of a tight situation.
 
 [@repairoil]
 #SAY
-A RepairOil makes the durabillity of you hand weapon rise,
+A 修复油 makes the durabillity of you hand weapon rise,
 but this oil doesn't special repair your weapon, so
 remember that then maximum durabillity of the weapon
 goes down as time goes by.
@@ -82,7 +82,7 @@ This will make hunts last longer.
 
 [@townteleport]
 #SAY
-TownTeleport scrolls carn't be made now because the ancient
+城镇传送阵 scrolls carn't be made now because the ancient
 skill is lost.... however....
 I have heard that it may come randomly from Monsters
 and you can return to a village promptly by using it...
@@ -95,13 +95,13 @@ and you can return to a village promptly by using it...
 17
 
 [Trade]
-Candle
-Torch
-RandomTeleport
-TownTeleport
-DungeonEscape
-Amulet
-RepairOil
+蜡烛
+火炬
+随机传送卷
+城镇传送阵
+地牢逃脱
+护身符
+修复油
 
 [Quests]
 42

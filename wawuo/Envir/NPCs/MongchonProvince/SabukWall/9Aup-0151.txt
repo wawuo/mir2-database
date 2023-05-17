@@ -21,7 +21,7 @@ How do you feel about my song?
 [@Refine]
 #SAY
 I can upgrade weapons for you for a small fee. To make an Upgrade you 
-need {BlackIronOre/LightSteelBlue}, Jewelery, Weapon and {Gold/Gold}. Do you have these 
+need {黑铁矿/LightSteelBlue}, Jewelery, Weapon and {Gold/Gold}. Do you have these 
 ready for me? 
 <Return/@main> <Close/@exit>
 

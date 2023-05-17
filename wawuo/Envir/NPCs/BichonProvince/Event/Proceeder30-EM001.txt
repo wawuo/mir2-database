@@ -349,8 +349,8 @@ Param2 13
 Param3 16
 MonGen CaveMaggot 1
 MonGen AxeSkeleton 1
-MonGen BoneWarrior 1
-MonGen BoneFighter 3
+MonGen 骨头Warrior 1
+MonGen 骨头Fighter 3
 [@check2]
 #IF
 CHECKMON >= 1 em001
@@ -378,8 +378,8 @@ SET [503] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen CursedShaman 1
-MonGen CursedPriest 1
+MonGen 诅咒dShaman 1
+MonGen 诅咒dPriest 1
 MonGen ShamanZombie 1
 MonGen CrawlerZombie 2
 [@check3]
@@ -591,9 +591,9 @@ SET [510] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen BoneArcher 1
-MonGen BoneBlademan 1
-MonGen BoneCaptain 1
+MonGen 骨头Archer 1
+MonGen 骨头Blademan 1
+MonGen 骨头Captain 1
 [@check10]
 #IF
 CHECKMON >= 1 em001

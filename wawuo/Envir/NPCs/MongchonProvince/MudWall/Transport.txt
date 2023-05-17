@@ -25,12 +25,12 @@ Which place would you like to go?
  
 My service fee is 2000 gold.
 
-<<BorderVillage/@Border>>
+<<边境村/@Border>>
 <<BichonWall/@BichonWall>>
-<<SerpentValley/@Serpent>>
-<<TaoistSchool/@TaoVillage>>
-<<CastleGi-Ryoong/@CastleGi>>
-<<WoomyonCamp/@Camp>>
+<<蛇谷/@Serpent>>
+<<道教之家/@TaoVillage>>
+<<吉良城堡/@CastleGi>>
+<<沃玛营地/@Camp>>
 
 [@Border]
 #IF

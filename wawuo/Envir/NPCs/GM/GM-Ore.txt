@@ -30,7 +30,7 @@ CopperOre
 IronOre
 SilverOre
 GoldOre
-BlackIronOre
+黑铁矿
 Amethyst
 Ruby
 Platinum

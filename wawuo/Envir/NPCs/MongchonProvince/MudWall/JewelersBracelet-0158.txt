@@ -41,9 +41,9 @@ You can repair various kinds of Bracelets and Gloves.
 6
 
 [Trade]
-IronBracelet
-ThinBracelet
-LeatherGlove
-SilverBracelet
-SteelBracelet
-LargeBracelet
+铁手镯
+瘦手镯
+皮手套
+银手镯
+钢制手镯
+大手镯

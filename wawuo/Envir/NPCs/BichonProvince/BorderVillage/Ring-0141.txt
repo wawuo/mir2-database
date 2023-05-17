@@ -43,10 +43,10 @@ Would you like to repair a ring?
 7
 
 [Trade]
-CopperRing
-HexagonalRing
-GlassRing
-HornRing
-IronRing
-WhiteJadeRing
-BlueRing
+铜戒指
+六角戒指
+玻璃戒指
+喇叭戒指
+铁戒指
+白玉戒指
+蓝戒指

@@ -34,24 +34,24 @@ These are the items still available to purchase back.
 13
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
-(MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-(HP)DrugLarge 1
-(HP)DrugLarge 5
-(HP)DrugLarge 10
-(MP)DrugLarge 1
-(MP)DrugLarge 5
-(MP)DrugLarge 10
+(HP)药物小量 1
+(HP)药物小量 5
+(HP)药物小量 10
+(MP)药物小量 1
+(MP)药物小量 5
+(MP)药物小量 10
+(HP)药物中量 1
+(HP)药物中量 5
+(HP)药物中量 10
+(MP)药物中量 1
+(MP)药物中量 5
+(MP)药物中量 10
+(HP)药物大量 1
+(HP)药物大量 5
+(HP)药物大量 10
+(MP)药物大量 1
+(MP)药物大量 5
+(MP)药物大量 10
 
 
 [Quests]

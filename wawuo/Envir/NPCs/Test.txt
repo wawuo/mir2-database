@@ -27,51 +27,51 @@ GOTO @Assassin
 
 [@Warrior]
 #ACT
-GIVEITEM BlackTigerArmour(��) 1
-GIVEITEM BlackTigerArmour(Ů) 1
+GIVEITEM BlackTigerArmour(男) 1
+GIVEITEM BlackTigerArmour(女) 1
 GIVEITEM HelmetOfKings 1
 GIVEITEM BlackTigerHammer 1
 GIVEITEM TarragonNecklace 1	
-GIVEITEM DualTitanAmulet 2
+GIVEITEM 双天王护身符 2
 GIVEITEM PledgeRing	2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1
+GIVEITEM 黑暗腰带	1
+GIVEITEM 黑暗之靴 1
 GIVEITEM HolyDCStone 1
 #SAY
 <Spells/@SpellsWarrior>
 
 [@SpellsWarrior]
 #ACT
-GIVESKILL Fencing 3
-GIVESKILL Slaying 3
-GIVESKILL Thrusting 3
+GIVESKILL 击剑 3
+GIVESKILL 杀人 3
+GIVESKILL 刺杀 3
 GIVESKILL Half Moon 3
 GIVESKILL Shoulder Dash 3
 GIVESKILL Twin Drake Blade 3
-GIVESKILL En����ment 3
-GIVESKILL ʨ�Ӻ� 3
-GIVESKILL CrossHalfMoon 3
-GIVESKILL BladeAvalanche 3
-GIVESKILL ������ 3
-GIVESKILL Rage 3
-GIVESKILL Fury 3
-GIVESKILL CounterAttack 3
-GIVESKILL Fury 3
-GIVESKILL SlashingBurst 3
-GIVESKILL ImmortalSkin 3
+GIVESKILL En陷阱ment 3
+GIVESKILL 狮子吼 3
+GIVESKILL 十字半月 3
+GIVESKILL 刀锋雪崩 3
+GIVESKILL 保护场 3
+GIVESKILL 愤怒 3
+GIVESKILL 怒击 3
+GIVESKILL 反击 3
+GIVESKILL 怒击 3
+GIVESKILL 斩击爆裂 3
+GIVESKILL 不朽的皮肤 3
 #SAY
 <Level/@Level>
 
 [@Wizard]
 #ACT
-GIVEITEM LotusArmour(��) 1
-GIVEITEM LotusArmour(Ů) 1
+GIVEITEM LotusArmour(男) 1
+GIVEITEM LotusArmour(女) 1
 GIVEITEM HelmetOfSorcery 1
 GIVEITEM TarragonNecklace 1
-GIVEITEM EvilWhispAmulet 2
+GIVEITEM 诅咒护身符 2
 GIVEITEM CrimsonRubyRing 2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1
+GIVEITEM 黑暗腰带	1
+GIVEITEM 黑暗之靴 1
 GIVEITEM HolyMCStone 1
 GIVEITEM StaffOfLotus 1
 #SAY
@@ -81,85 +81,85 @@ GIVEITEM StaffOfLotus 1
 #ACT
 GIVESKILL Fireball 3
 GIVESKILL Repulse 3
-GIVESKILL ElectricShock 3
+GIVESKILL 电击 3
 GIVESKILL GreatFireball 3
-GIVESKILL HellFire 3
+GIVESKILL 地狱之火 3
 GIVESKILL Thunderbolt 3
-GIVESKILL Teleport 3
+GIVESKILL 传送 3
 GIVESKILL Firewall 3
 GIVESKILL Lighning 3
 GIVESKILL Frostcrunch 3
 GIVESKILL Thunderstorm 3
 GIVESKILL Magicshield 3
 GIVESKILL Turnundead 3
-GIVESKILL Vampirism 3
-GIVESKILL ���籩 3
-GIVESKILL �����ƻ��� 3
-GIVESKILL Mirroring 3
+GIVESKILL 吸血术 3
+GIVESKILL 冰风暴 3
+GIVESKILL 火焰破坏者 3
+GIVESKILL 镜像 3
 GIVESKILL Flamefield 3
-GIVESKILL Blizzard 3
-GIVESKILL MagicBooster 3
-GIVESKILL MeteorStrike 3
+GIVESKILL 暴风雪 3
+GIVESKILL 魔力助推器 3
+GIVESKILL 流星打击 3
 GIVESKILL Cataclysm 3
-GIVESKILL IceThrust 3
+GIVESKILL 冰刺 3
 GIVESKILL FireBounce 3
 #SAY
 <Level/@Level>
 
 [@Taoist]
 #ACT
-GIVEITEM CraneArmour(��) 1
-GIVEITEM CraneArmour(Ů) 1
+GIVEITEM CraneArmour(男) 1
+GIVEITEM CraneArmour(女) 1
 GIVEITEM PurifiedMask 1
 GIVEITEM TarragonNecklace 1
-GIVEITEM SacredAngelAmulet 2
+GIVEITEM 神圣护身符 2
 GIVEITEM FiveElementRing 2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1 
+GIVEITEM 黑暗腰带	1
+GIVEITEM 黑暗之靴 1 
 GIVEITEM HolySCStone 1
 #SAY
 <Spells/@SpellsTaoist>
 
 [@SpellsTaoist]
 #ACT
-GIVESKILL Healing 3
-GIVESKILL SpiritSword 3
-GIVESKILL Poisoning 3
+GIVESKILL 疗伤 3
+GIVESKILL 精神之剑 3
+GIVESKILL 中毒 3
 GIVESKILL SoulFireball 3
-GIVESKILL SummonSkeleton 3
-GIVESKILL Hiding 3
-GIVESKILL MassHiding 3
-GIVESKILL SoulShield 3
-GIVESKILL Revelation 3
-GIVESKILL BlessedArmour 3
-GIVESKILL EnergyRepulsor 3
-GIVESKILL TrapHexagon 3
-GIVESKILL Purification 
-GIVESKILL MassHealing 3
-GIVESKILL Hallucination 3
-GIVESKILL UltimateEnhancer 3
-GIVESKILL SummonShinsu 3
-GIVESKILL Reincarnation 3
-GIVESKILL SummonHolyDeva 3
-GIVESKILL Curse 3
-GIVESKILL Plague 3
-GIVESKILL PoisonCloud 3
-GIVESKILL EnergyShield 3
+GIVESKILL 召唤骷髅 3
+GIVESKILL 躲藏 3
+GIVESKILL 大规模躲藏 3
+GIVESKILL 灵魂盾牌 3
+GIVESKILL 启示 3
+GIVESKILL 受祝福的盔甲 3
+GIVESKILL 能量反击器 3
+GIVESKILL 陷阱六边形 3
+GIVESKILL 净化 
+GIVESKILL 大规模治疗 3
+GIVESKILL 幻觉 3
+GIVESKILL 终极强化器 3
+GIVESKILL 召唤神术 3
+GIVESKILL 转世 3
+GIVESKILL 召唤圣德瓦 3
+GIVESKILL 诅咒 3
+GIVESKILL 瘟疫 3
+GIVESKILL 毒云 3
+GIVESKILL 能量护盾 3
 GIVESKILL PetEnhancer 3
-GIVESKILL HealingCircle 3
+GIVESKILL 治愈圈 3
 #SAY
 <Level/@Level>
 
 [@Assassin]
 #ACT
-GIVEITEM StealthArmour(��) 1
-GIVEITEM StealthArmour(Ů) 1
+GIVEITEM StealthArmour(男) 1
+GIVEITEM StealthArmour(女) 1
 GIVEITEM DemonShadow 1
 GIVEITEM TarragonNecklace 1
-GIVEITEM DualTitanAmulet 2
+GIVEITEM 双天王护身符 2
 GIVEITEM PledgeRing	2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1
+GIVEITEM 黑暗腰带	1
+GIVEITEM 黑暗之靴 1
 GIVEITEM HolyDCStone 1
 #SAY
 <Spells/@SpellsAssassin>
@@ -168,20 +168,20 @@ GIVEITEM HolyDCStone 1
 #ACT
 GIVESKILL Fatalsword 3
 GIVESKILL Doubleslash 3
-GIVESKILL Haste 3
-GIVESKILL �Ṧ 3
+GIVESKILL 障碍物 3
+GIVESKILL 轻功 3
 GIVESKILL Heavenlysword 3
-GIVESKILL ��������
+GIVESKILL 火焰喷射
  3
-GIVESKILL Trap 3
-GIVESKILL ���� 3
-GIVESKILL �¹� 3
-GIVESKILL ���� 3
+GIVESKILL 陷阱 3
+GIVESKILL 毒剑 3
+GIVESKILL 月光 3
+GIVESKILL 猎手 3
 GIVESKILL Swiftfeet 3
-GIVESKILL �ڰ�֮��
+GIVESKILL 黑暗之躯
  3
-GIVESKILL Hemorrhage 3
-GIVESKILL MoonMist 3
+GIVESKILL 出血 3
+GIVESKILL 月雾 3
 #SAY
 <Level/@Level>
 

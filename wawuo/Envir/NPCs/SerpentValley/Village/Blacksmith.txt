@@ -45,25 +45,25 @@ Show me the weapon that needs it.
 14
 
 [Trade]
-WoodenSword
-WoodenBow
-HoaSword
-Dagger
-EbonySword
-EbonyBow
-BronzeSword
-SharpHoaSword
-ShortSword
-ShortBow
-IronSword
-�ǹ�
-BronzeAxe
-HookedSword
-Trident
-Scimitar
-BladesofVelocity
-CompoundBow
-PickAxe
+木剑
+木弓
+剑侠情缘
+匕首
+乌木剑
+乌木弓
+青铜剑
+锋利的华剑
+短剑
+短弓
+铁剑
+骨弓
+青铜斧
+钩状剑
+三叉戟
+弯刀
+速度的刀刃
+复合弓
+镐头
 
 [Quests]
 -29

@@ -38,31 +38,31 @@ Archer:   <Skill List/@Arc1>
 
 [@War1]
 #SAY
-Level  7: Fencing
-Level 15: Slaying
-Level 22: Thrusting
-Level 26: HalfMoon
-Level 30: ShoulderDash
+Level  7: 击剑
+Level 15: 杀人
+Level 22: 刺杀
+Level 26: 半月形
+Level 30: 肩部冲刺
 Level 32: TwinDragonBlade
-Level 32: En����ment
+Level 32: En陷阱ment
 <More/@War2> <Back/@helpbooks>
 
 [@War2]
 #SAY
-Level 35: ����֮��
-Level 36: ʨ�Ӻ�
-Level 38: CrossHalfMoon
-Level 38: BladeAvalanche
-Level 39: ������
-Level 44: Rage
-Level 50: SlashingBurst
+Level 35: 火焰之剑
+Level 36: 狮子吼
+Level 38: 十字半月
+Level 38: 刀锋雪崩
+Level 39: 保护场
+Level 44: 愤怒
+Level 50: 斩击爆裂
 <Back/@helpbooks>
 
 [@Wiz1]
 #SAY
-Level  7: FireBall
-Level 12: Repulsion
-Level 13: ElectricShock
+Level  7: 火球
+Level 12: 斥力
+Level 13: 电击
 Level 15: GreatFireball
 Level 16: Hellfire
 Level 17: Thunderbolt
@@ -70,132 +70,132 @@ Level 17: Thunderbolt
 
 [@Wiz2]
 #SAY
-Level 19: Teleport
-Level 22: FireBang
-Level 24: FireWall
-Level 26: Lightning
-Level 28: FrostCrunch
+Level 19: 传送
+Level 22: 火焰弹
+Level 24: 火墙
+Level 26: 闪电
+Level 28: 寒霜紧缩
 Level 30: Thunderstorm
-Level 31: MagicShield
-Level 32: TurnUndead
+Level 31: 魔法盾
+Level 32: 亡灵转化
 <More/@Wiz3> <Back/@helpBooks>
 
 [@Wiz3]
 #SAY
-Level 33: Vampirism
+Level 33: 吸血术
 Level 35: IceStrom
-Level 38: �����ƻ���
-Level 41: Mirroring
-Level 42: FlameField
-Level 44: Blizzard
-Level 49: MeteorStrike
+Level 38: 火焰破坏者
+Level 41: 镜像
+Level 42: 火焰场
+Level 44: 暴风雪
+Level 49: 流星打击
 Level 53: IceFreeze
 <Back/@helpBooks>
 
 [@Tao1]
 #SAY
-Level  7: Healing
-Level  9: SpiritSword
-Level 14: Poisoning
-Level 18: SoulFireBall
-Level 19: SummonSkeletonton
-Level 20: Hiding
+Level  7: 疗伤
+Level  9: 精神之剑
+Level 14: 中毒
+Level 18: 灵魂火球
+Level 19: 召唤骷髅ton
+Level 20: 躲藏
 <More/@Tao2> <Back/@helpbooks>
 
 [@Tao2]
 #SAY
-Level 21: MassHiding
-Level 22: SoulShield
-Level 23: Revelation
-Level 25: BlessedArmour
-Level 27: EnergyRepulsor
-Level 28: TrapHexagon
-Level 30: Purification
+Level 21: 大规模躲藏
+Level 22: 灵魂盾牌
+Level 23: 启示
+Level 25: 受祝福的盔甲
+Level 27: 能量反击器
+Level 28: 陷阱六边形
+Level 30: 净化
 <More/@Tao3> <Back/@helpBooks>
 
 [@Tao3]
 #SAY
-Level 31: MassHealing
-Level 31: Hallucination
-Level 33: UltimateEnhancer
-Level 35: SummonShinsu
-Level 37: Reincarnation
-Level 38: SummonHolyDeva
-Level 40: Curse
-Level 43: PoisonCloud
+Level 31: 大规模治疗
+Level 31: 幻觉
+Level 33: 终极强化器
+Level 35: 召唤神术
+Level 37: 转世
+Level 38: 召唤圣德瓦
+Level 40: 诅咒
+Level 43: 毒云
 Level 48: CelestalShield
 <Back/@helpBooks>
 
 
 [@Assa1]
 #SAY
-Level  7: FatalSword
-Level 15: DoubleSlash
-Level 20: Haste
-Level 25: FlashDash
-Level 27: �Ṧ
-Level 30: HeavenlySword
-Level 33: ��������
+Level  7: 致命之剑
+Level 15: 双击
+Level 20: 障碍物
+Level 25: 闪光冲刺
+Level 27: 轻功
+Level 30: 天堂之剑
+Level 33: 火焰喷射
 
 <More/@Assa2> <Back/@helpBooks>
 
 [@Assa2]
 #SAY
-Level 33: Trap
-Level 34: ����
-Level 36: �¹�
-Level 38: ����
-Level 40: SwiftFeet
-Level 46: �ڰ�֮��
+Level 33: 陷阱
+Level 34: 毒剑
+Level 36: 月光
+Level 38: 猎手
+Level 40: 迅捷脚步
+Level 46: 黑暗之躯
 
-Level 47: Hemorrhage
-Level 50: CresentSlash
+Level 47: 出血
+Level 50: 裂缝
 <Back/@helpBooks>
 
 
 [@Arc1]
 #SAY
-Level  7: Focus
-Level  9: StraightShot
+Level  7: 焦点
+Level  9: 直击
 Level 11: MentalState
-Level 14: DoubleShot
-Level 19: Meditation
-Level 20: ElementalShot
-Level 22: ExplosiveTrap
+Level 14: 双响炮
+Level 19: 冥想
+Level 20: 元素射击
+Level 22: 爆炸性陷阱
 <More/@Arc2> <Back/@helpBooks>
 
 [@Arc2]
 #SAY
-Level 23: Concentration
-Level 26: VampireShot
-Level 28: SummonVampire
-Level 30: BackStep
-Level 31: DelayedExplosion
-Level 33: ElementalBarrier
+Level 23: 专注力
+Level 26: 吸血鬼射击
+Level 28: 召唤吸血鬼
+Level 30: 后撤步
+Level 31: 延迟爆炸
+Level 33: 元素屏障
 Level 35: BindingShot
 <More/@Arc3> <Back/@helpBooks>
 
 [@Arc3]
 #SAY
-Level 37: SummonToad
-Level 40: PoisonShot
-Level 43: CrippleShot
-Level 46: SummonSnakes
-Level 48: NapalmShot
-Level 50: OneWithNature
+Level 37: 召唤蟾蜍
+Level 40: 毒药射击
+Level 43: 残废射击
+Level 46: 召唤蛇类
+Level 48: 汽油弹
+Level 50: 与自然同在
 <Back/@helpBooks>
 
 [Types]
 20
 
 [Trade]
-Fencing
-Slaying
-FireBall
-Repulsion
-Healing
-SpiritSword
-FatalSword
-DoubleSlash
-Focus
-StraightShot
+击剑
+杀人
+火球
+斥力
+疗伤
+双闸刀
+致命之剑
+双击
+焦点
+直击

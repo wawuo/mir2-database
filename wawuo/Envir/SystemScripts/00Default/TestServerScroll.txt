@@ -27,7 +27,7 @@ Thankyou for testing.
 <Mongchon/@GMMongchon>
 <PrajnaIsland/@GMPrajna>
 <PastBichon SafeZone/@GMPastBichon>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@R001]
 #ACT
@@ -45,7 +45,7 @@ CLOSE
 <OmaCave/@BichonOmaCave>
 <DeadMines/@BichonMines>
 <ContestRoom/@BichonContest>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@BichonContest]
 #ACT
@@ -72,7 +72,7 @@ CLOSE
 <Woomyon SafeZone/@WoomyonSZ>
 <InsectCave/@WoomyonInsect>
 <WoomaTemple/@WoomyonWoomaT>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@WoomyonSZ]
 #ACT
@@ -93,7 +93,7 @@ CLOSE
 #SAY
 <SerpentValley SafeZone/@SerpentSZ>
 <SerpentMines/@SerpentMines>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@SerpentSZ]
 #ACT
@@ -116,7 +116,7 @@ CLOSE
 <SecretCave/@MWSabukSecret>
 <Swamp/@MWSwamp>
 <ForgottenCity/@MWForgottenCity>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@MWSafeZone]
 #ACT
@@ -174,7 +174,7 @@ CLOSE
 <BlackDragonDungeon/@BDD>
 <IceTemple/@CastleIceTemp>
 <DragonSwamp/@CastleDragonSwamp>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@CastleGISZ]
 #ACT
@@ -201,7 +201,7 @@ CLOSE
 <PrajnaIsland SafeZone/@PrajnaSZ>
 <PrajnaCave/@PrajnaCave>
 <PrajnaTemple/@PrajnaTemple>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@PrajnaSZ]
 #ACT
@@ -226,7 +226,7 @@ CLOSE
 <DarkForest/@TaoDarkForest>
 <RedValley/@TaoRedValley>
 <Lunar/@TaoLunar>
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 [@TaoSafeZone]
 #ACT
@@ -276,6 +276,6 @@ GameMaster:
 @Superman           @Level
 @Goto               @RecallMob
 @GiveSkill          @Info
-<Back/@_UseItem(1)>
+<返回/@_UseItem(1)>
 
 }

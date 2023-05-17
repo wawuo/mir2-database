@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样邪恶的人......
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -13,32 +13,32 @@ GOTO @Main-1
 #SAY
 Hello Traveller. What can I do for you? 
 
-I see you're wearing: {<$ARMOUR>/CORAL}
-I see you're wearing: {<$HELMET>/CORAL}
-I see you're wearing: {<$BELT>/CORAL}
-I see you're wearing: {<$BOOTS>/CORAL}
+我看到你穿着: {<$ARMOUR>/CORAL}
+我看到你穿着: {<$HELMET>/CORAL}
+我看到你穿着: {<$BELT>/CORAL}
+我看到你穿着: {<$BOOTS>/CORAL}
 
-<View/@BuySell> Store.
-<Repair/@Repair> Drapery pieces.
+<查看/@BuySell> Store.
+<修理/@Repair> Drapery pieces.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to Buy or Sell?
+有什么相买或卖的?
 <Buy Back/@BuyBack>
  
 <Back/@main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+这些是仍可购买的物品.
  
 <Back/@main>
 
 [@Repair]
 #SAY
-Would you like to repair a drapery piece?
+您需要修理窗帘吗？
  
 <Back/@main>
 
@@ -50,11 +50,11 @@ Would you like to repair a drapery piece?
 10
 
 [Trade]
-����(��)
-����(Ů)
-LightArmour(��)
-LightArmour(Ů)
-BronzeHelmet
-MagicHelmet
-LeatherBelt
-LowShoes
+布衣(男)
+布衣(女)
+轻甲(男)
+轻甲(女)
+青铜头盔
+双闸刀
+皮腰带
+低帮鞋

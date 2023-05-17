@@ -19,7 +19,7 @@ Please <Show me some more/@DungeonPage2> Locations
 传送 Region: <WasteLands/@WLD1>
  
  
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
  
 [@BPD1]
 #SAY
@@ -27,7 +27,7 @@ Available Dungeons in BichonProvince.
  
 传送 to: <OmaCavern/@OC1>
 传送 to: <DeadMines/@DM1>
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
 
 [@SVD1]
 #SAY
@@ -35,7 +35,7 @@ Available Dungeons in SerpentValley.
  
 传送 to: <SerpentDeadMines/@SDM1>
 传送 to: <ViperCave/@VC1>
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
 
 [@MPD1]
 #SAY
@@ -46,7 +46,7 @@ Available Dungeons in MonchonProvince.
 传送 to: <SabukSecretCave/@SSC1>
 传送 to: <ZumaTemple/@ZT1>
 传送 to: <FoxTemple/@FT1>
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
 
 [@WWSD1]
 #SAY
@@ -54,7 +54,7 @@ Available Dungeons in WoomyonWoods(S).
  
 传送 to: <InsectCave/@IC1>
 传送 to: <WoomaTemple/@WT1>
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
 
 [@WWND1]
 #SAY
@@ -65,14 +65,14 @@ Available Dungeons in WoomyonWoods(N).
 传送 to: <RedValley/@RV1>
 传送 to: <DarkForest/@DF1>
 
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
 
 [@SeoVD1]
 #SAY
 Available Dungeons in SeokchoValley.
  
 传送 to: <TrollMines/@TM1>
-<Back/@DungeonPage2>
+<返回/@DungeonPage2>
 
 [@CGCD1]
 #SAY
@@ -80,7 +80,7 @@ Available Dungeons in CastleGi-Ryoong.
  
 传送 to: <BlackDragonDungeon/@BDD1>
 传送 to: <DragonCavern/@DC1>
-<Back/@DungeonPage2>
+<返回/@DungeonPage2>
 
 
 [@PID1]
@@ -89,7 +89,7 @@ Available Dungeons in PrajnaIsland.
  
 传送 to: <PrajnaStoneCave/@PSC1>
 传送 to: <PrajnaTemple/@PT1>
-<Back/@DungeonPage2>
+<返回/@DungeonPage2>
 
 [@PBD1]
 #IF
@@ -98,12 +98,12 @@ LEVEL > 42
 Available Dungeons in PastBichon.
  
 传送 to: <EvilMirPalace/@EM1>
-<Back/@DungeonPage2>
+<返回/@DungeonPage2>
 
 #ELSESAY
 Sorry you aint the correct level.
  
-<Back/@DungeonPage2>
+<返回/@DungeonPage2>
 
 [@WLD1]
 #SAY
@@ -111,7 +111,7 @@ Available Dungeons in WasteLands.
  
 传送 to: <RedCave/@RC1>
 传送 to: <HellCavern/@HC1>
-<Back/@DungeonPage2>
+<返回/@DungeonPage2>
 
 [@OC1]
 #ACT

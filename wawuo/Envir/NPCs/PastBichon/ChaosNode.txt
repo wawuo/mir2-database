@@ -1,12 +1,12 @@
 [@main]
 #IF
-CHECKITEM DragonScale 1 
+CHECKITEM 龙鳞 1 
 #ACT
-TAKEITEM DragonScale 1
+TAKEITEM 龙鳞 1
 #SAY
 <Enter the Dragons Lair./@tele>
 #ELSESAY
-You do not have the {DragonScale/LightSteelBlue}!
+You do not have the {龙鳞/LightSteelBlue}!
 <Close/@exit>
 
 [@tele]

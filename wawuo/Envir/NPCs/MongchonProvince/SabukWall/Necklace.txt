@@ -44,10 +44,10 @@ Would you like to repair a necklace?
 
 
 [Trade]
-GoldNecklace
-PrecisionNecklace
-BlackNecklace
-EbonyNecklace
-YellowNecklace
+黄金项链
+精准项链
+黑色项链
+黑檀木项链
+黄色项链
 
 [Quests]

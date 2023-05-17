@@ -25,226 +25,222 @@ Buy.
 
 [@Warrior]
 #Act
-GIVESKILL Fencing 3
-GIVESKILL Slaying 3
-GIVESKILL Thrusting 3
-GIVESKILL HalfMoon 3
-GIVESKILL ShoulderDash 3
-GIVESKILL TwinDrakeBlade 3
-GIVESKILL En����ment 3
-GIVESKILL ����֮�� 3
-GIVESKILL ʨ�Ӻ� 3
-GIVESKILL CrossHalfMoon 3
-GIVESKILL BladeAvalanche 3
-GIVESKILL ������ 3
-GIVESKILL Rage 3
-GIVESKILL CounterAttack 3
-GIVESKILL SlashingBurst 3
-GIVESKILL Fury 3
-GIVESKILL ImmortalSkin 3
+GIVESKILL 击剑 3
+GIVESKILL 杀人 3
+GIVESKILL 刺杀 3
+GIVESKILL 半月形 3
+GIVESKILL 肩部冲刺 3
+GIVESKILL 双闸刀 3
+GIVESKILL 禁锢 3
+GIVESKILL 火焰之剑 3
+GIVESKILL 狮子吼 3
+GIVESKILL 十字半月 3
+GIVESKILL 刀锋雪崩 3
+GIVESKILL 保护场 3
+GIVESKILL 愤怒 3
+GIVESKILL 反击 3
+GIVESKILL 斩击爆裂 3
+GIVESKILL 怒击 3
+GIVESKILL 不朽的皮肤 3
 [@Wizard]
 #ACT
-GIVESKILL FireBall 3
-GIVESKILL Repulsion 3
-GIVESKILL ElectricShock 3
-GIVESKILL GreatFireBall 3
-GIVESKILL HellFire 3
-GIVESKILL ThunderBolt 3
-GIVESKILL Teleport 3
-GIVESKILL FireBang 3
-GIVESKILL FireWall 3
-GIVESKILL Lightning 3
-GIVESKILL FrostCrunch 3
-GIVESKILL ThunderStorm 3
-GIVESKILL MagicShield 3
-GIVESKILL TurnUndead 3
-GIVESKILL Vampirism 3
-GIVESKILL ���籩 3
-GIVESKILL �����ƻ��� 3
-GIVESKILL Mirroring 3
-GIVESKILL FlameField 3
-GIVESKILL Blizzard 3
-GIVESKILL MagicBooster 3
-GIVESKILL MeteorStrike 3
-GIVESKILL IceThrust 3
-GIVESKILL StormEscape 3
-GIVESKILL FastMove 3
+GIVESKILL 火球 3
+GIVESKILL 斥力 3
+GIVESKILL 电击 3
+GIVESKILL 大火球 3
+GIVESKILL 地狱之火 3
+GIVESKILL 霹雳火 3
+GIVESKILL 传送 3
+GIVESKILL 火焰弹 3
+GIVESKILL 火墙 3
+GIVESKILL 闪电 3
+GIVESKILL 寒霜紧缩 3
+GIVESKILL 雷霆风暴 3
+GIVESKILL 魔法盾 3
+GIVESKILL 亡灵转化 3
+GIVESKILL 吸血术 3
+GIVESKILL 冰风暴 3
+GIVESKILL 火焰破坏者 3
+GIVESKILL 镜像 3
+GIVESKILL 火焰场 3
+GIVESKILL 暴风雪 3
+GIVESKILL 魔力助推器 3
+GIVESKILL 流星打击 3
+GIVESKILL 冰刺 3
+GIVESKILL 风暴逃逸 3
+GIVESKILL 快速移动 3
 [@Taoist]
 #ACT
-GIVESKILL Healing 3
-GIVESKILL SpiritSword 3
-GIVESKILL Poisoning 3
-GIVESKILL SoulFireBall 3
-GIVESKILL SummonSkeleton 3
-GIVESKILL Hiding 3
-GIVESKILL MassHiding 3
-GIVESKILL SoulShield 3
-GIVESKILL Revelation 3
-GIVESKILL BlessedArmour 3
-GIVESKILL EnergyRepulsor 3
-GIVESKILL TrapHexagon 3
-GIVESKILL Purification 3
-GIVESKILL MassHealing 3
-GIVESKILL Hallucination 3
-GIVESKILL UltimateEnhancer 3
-GIVESKILL SummonShinsu 3
-GIVESKILL Reincarnation 3
-GIVESKILL SummonHolyDeva 3
-GIVESKILL Curse 3
-GIVESKILL Plague 3
-GIVESKILL PoisonCloud 3
-GIVESKILL EnergyShield 3
-GIVESKILL HealingCircle 3
+GIVESKILL 疗伤 3
+GIVESKILL 精神之剑 3
+GIVESKILL 中毒 3
+GIVESKILL 灵魂火球 3
+GIVESKILL 召唤骷髅 3
+GIVESKILL 躲藏 3
+GIVESKILL 大规模躲藏 3
+GIVESKILL 灵魂盾牌 3
+GIVESKILL 启示 3
+GIVESKILL 受祝福的盔甲 3
+GIVESKILL 能量反击器 3
+GIVESKILL 陷阱六边形 3
+GIVESKILL 净化 3
+GIVESKILL 大规模治疗 3
+GIVESKILL 幻觉 3
+GIVESKILL 终极强化器 3
+GIVESKILL 召唤神术 3
+GIVESKILL 转世 3
+GIVESKILL 召唤圣德瓦 3
+GIVESKILL 诅咒 3
+GIVESKILL 瘟疫 3
+GIVESKILL 毒云 3
+GIVESKILL 能量护盾 3
+GIVESKILL 治愈圈 3
 [@Assassin]
 #ACT
-GIVESKILL FatalSword 3
-GIVESKILL DoubleSlash 3
-GIVESKILL Haste 3
-GIVESKILL FlashDash 3
-GIVESKILL �Ṧ 3
-GIVESKILL HeavenlySword 3
-GIVESKILL ��������
- 3
-GIVESKILL Trap 3
-GIVESKILL ���� 3
-GIVESKILL �¹� 3
-GIVESKILL ���� 3
-GIVESKILL SwiftFeet 3
-GIVESKILL �ڰ�֮��
- 3
-GIVESKILL Hemorrhage 3
+GIVESKILL 致命之剑 3
+GIVESKILL 双击 3
+GIVESKILL 障碍物 3
+GIVESKILL 闪光冲刺 3
+GIVESKILL 轻功 3
+GIVESKILL 天堂之剑 3
+GIVESKILL 火焰喷射 3
+GIVESKILL 陷阱 3
+GIVESKILL 毒剑 3
+GIVESKILL 月光 3
+GIVESKILL 猎手 3
+GIVESKILL 迅捷脚步 3
+GIVESKILL 黑暗之躯 3
+GIVESKILL 出血 3
 GIVESKILL CrescentSlash 3
-GIVESKILL MoonMist 3
-GIVESKILL CatTongue 3
+GIVESKILL 月雾 3
+GIVESKILL 猫头鹰 3
 [@Archer]
 #ACT
-GIVESKILL Focus 
-GIVESKILL StraightShot 3
-GIVESKILL DoubleShot 3
-GIVESKILL ExplosiveTrap 3
-GIVESKILL DelayedExplosion 3
-GIVESKILL Meditation 3
-GIVESKILL BackStep 3
-GIVESKILL ElementalShot 3
-GIVESKILL Concentration 3
-GIVESKILL ElementalBarrier 3
-GIVESKILL SummonVampire 3
-GIVESKILL VampireShot 3
-GIVESKILL SummonToad 3
-GIVESKILL PoisonShot 3
-GIVESKILL CrippleShot 3
-GIVESKILL SummonSnakes 3
-GIVESKILL NapalmShot 3
-GIVESKILL OneWithNature 3
-GIVESKILL StoneTrap 3
-GIVESKILL Portal 3
+GIVESKILL 焦点 
+GIVESKILL 直击 3
+GIVESKILL 双响炮 3
+GIVESKILL 爆炸性陷阱 3
+GIVESKILL 延迟爆炸 3
+GIVESKILL 冥想 3
+GIVESKILL 后撤步 3
+GIVESKILL 元素射击 3
+GIVESKILL 专注力 3
+GIVESKILL 元素屏障 3
+GIVESKILL 召唤吸血鬼 3
+GIVESKILL 吸血鬼射击 3
+GIVESKILL 召唤蟾蜍 3
+GIVESKILL 毒药射击 3
+GIVESKILL 残废射击 3
+GIVESKILL 召唤蛇类 3
+GIVESKILL 汽油弹 3
+GIVESKILL 与自然同在 3
+GIVESKILL 石头陷阱 3
+GIVESKILL 传送门 3
 
 [Types]
 20
 
 [Trade]
-Fencing
-Slaying
-Thrusting
-HalfMoon
-ShoulderDash
-TwinDrakeBlade
-En����ment
-����֮��
-ʨ�Ӻ�
-CrossHalfMoon
-BladeAvalanche
-������
-Rage
-CounterAttack
-SlashingBurst
-Fury
-ImmortalSkin
-FireBall
-Repulsion
-ElectricShock
-GreatFireBall
-HellFire
-ThunderBolt
-Teleport
-FireBang
-FireWall
-Lightning
-FrostCrunch
-ThunderStorm
-MagicShield
-TurnUndead
-Vampirism
-���籩
-�����ƻ���
-Mirroring
-FlameField
-Blizzard
-MagicBooster
-MeteorStrike
-IceThrust
-StormEscape
-FastMove
-Healing
-SpiritSword
-Poisoning
-SoulFireBall
-SummonSkeleton
-Hiding
-MassHiding
-SoulShield
-Revelation
-BlessedArmour
-EnergyRepulsor
-TrapHexagon
-Purification
-MassHealing
-Hallucination
-UltimateEnhancer
-SummonShinsu
-Reincarnation
-SummonHolyDeva
-Curse
-Plague
-PoisonCloud
-EnergyShield
-HealingCircle
-FatalSword
-DoubleSlash
-Haste
-FlashDash
-�Ṧ
-HeavenlySword
-��������
-
-Trap
-����
-�¹�
-����
-SwiftFeet
-�ڰ�֮��
-
-Hemorrhage
-CresentSlash
-MoonMist
-CatTongue
-Focus
-StraightShot
-DoubleShot
-ExplosiveTrap
-DelayedExplosion
-Meditation
-BackStep
-ElementalShot
-Concentration
-ElementalBarrier
-SummonVampire
-VampireShot
-SummonToad
-PoisonShot
-CrippleShot
-SummonSnakes
-NapalmShot
-OneWithNature
-StoneTrap
-Portal
+击剑
+杀人
+刺杀
+半月形
+肩部冲刺
+双闸刀
+禁锢
+火焰之剑
+狮子吼
+十字半月
+刀锋雪崩
+保护场
+愤怒
+反击
+斩击爆裂
+怒击
+不朽的皮肤
+火球
+斥力
+电击
+大火球
+地狱之火
+霹雳火
+传送
+火焰弹
+火墙
+闪电
+寒霜紧缩
+雷霆风暴
+魔法盾
+亡灵转化
+吸血术
+冰风暴
+火焰破坏者
+镜像
+火焰场
+暴风雪
+魔力助推器
+流星打击
+冰刺
+风暴逃逸
+快速移动
+疗伤
+精神之剑
+中毒
+灵魂火球
+召唤骷髅
+躲藏
+大规模躲藏
+灵魂盾牌
+启示
+受祝福的盔甲
+能量反击器
+陷阱六边形
+净化
+大规模治疗
+幻觉
+终极强化器
+召唤神术
+转世
+召唤圣德瓦
+诅咒
+瘟疫
+毒云
+能量护盾
+治愈圈
+致命之剑
+双击
+障碍物
+闪光冲刺
+轻功
+天堂之剑
+火焰喷射
+陷阱
+毒剑
+月光
+猎手
+迅捷脚步
+黑暗之躯
+出血
+裂缝
+月雾
+猫头鹰
+焦点
+直击
+双响炮
+爆炸性陷阱
+延迟爆炸
+冥想
+后撤步
+元素射击
+专注力
+元素屏障
+召唤吸血鬼
+吸血鬼射击
+召唤蟾蜍
+毒药射击
+残废射击
+召唤蛇类
+汽油弹
+与自然同在
+石头陷阱
+传送门

@@ -23,7 +23,7 @@ If you would like a Bichon Token you can purchase one from me.
 #SAY
 In a book written 100 years ago,there is a section where it
 explainshow to enter hell. It is said the patch to hell was discovered
-past the BorderVillage. To investigate this area, we have prepared
+past the 边境村. To investigate this area, we have prepared
 many investigators. If you'd like to see this place too, you should go
 ask their leader.
 Also you will need the Bichon Token to go thought the cave.
@@ -40,7 +40,7 @@ Please choose what you want to buy.
 
 
 [Trade]
-BichonToken
+比熊令牌
 
 [Quests]
 60

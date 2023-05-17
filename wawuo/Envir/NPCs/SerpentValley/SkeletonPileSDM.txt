@@ -1,6 +1,6 @@
 [@MAIN]
 #SAY
-The Bones.. They look freshly eaten.
+The 骨头s.. They look freshly eaten.
  
 <Close/@exit>
 

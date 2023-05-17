@@ -13,10 +13,10 @@ REDUCEPKPOINT 100
 CHECKGENDER Male
 #ACT
 CHANGEGENDER
-LocalMessage "Gender Changed to Female. Please relog to take effect." Hint
+LocalMessage "性别变更为女性。请重新登录以便生效." Hint
 #ELSEACT
 CHANGEGENDER
-LocalMessage "Gender Changed to Male. Please relog to take effect." Hint
+LocalMessage "性别变更为男性。请重新登录以便生效." Hint
 
 ;;ExtraDrop 24Hour
 [@_UseItem(6)]
@@ -54,7 +54,7 @@ GIVEITEM 复活卷轴 1
 
 [@_UseItem(10)]
 #ACT
-GIVEITEM AMULET 3000
+GIVEITEM 护身符 3000
 
 ;;PK Point 药酒
 [@_UseItem(11)]

@@ -19,46 +19,46 @@ Hello traveler, What can i do for you?
 
 [@mbind]
 #SAY
-I can exchange GoldBars,Bundles and Chests back in {Gold/Gold}.
+I can exchange 金条s,Bundles and Chests back in {Gold/Gold}.
 Tell me your wishes.
  
-Exchange: <GoldBar/@GBar> into {Gold/GOLD} - Commission {(2000 Gold)/Gold}
-Exchange: <GoldBarBundle/@GBBundle> into {Gold/GOLD} - Commission {(10000 Gold)/Gold}
-Exchange: <GoldChest/@GChest> into {Gold/GOLD} - Commission {(20000 Gold)/Gold}
+Exchange: <金条/@GBar> into {Gold/GOLD} - Commission {(2000 Gold)/Gold}
+Exchange: <金条包/@GBBundle> into {Gold/GOLD} - Commission {(10000 Gold)/Gold}
+Exchange: <金柜/@GChest> into {Gold/GOLD} - Commission {(20000 Gold)/Gold}
 <Back/@main> - <Close/@exit>
 
 [@GBar]
 #IF
-CHECKITEM GoldBar 1
+CHECKITEM 金条 1
 #ACT
-TAKEITEM GoldBar 1
+TAKEITEM 金条 1
 GIVEGOLD 998000
 #ELSESAY
-You have no GoldBar for me to Exchange...
+You have no 金条 for me to Exchange...
 Come back only if u do have one.
  
 <Back/@mbind> - <Close/@exit>
 
 [@GBBundle]
 #IF
-CHECKITEM GoldBarBundle 1
+CHECKITEM 金条包 1
 #ACT
-TAKEITEM GoldBarBundle 1
+TAKEITEM 金条包 1
 GIVEGOLD 4990000
 #ELSESAY
-You have no GoldBarBundle for me to Exchange...
+You have no 金条包 for me to Exchange...
 Come back only if u do have one.
  
 <Back/@mbind> - <Close/@exit>
 
 [@GChest]
 #IF
-CHECKITEM GoldChest 1
+CHECKITEM 金柜 1
 #ACT
-TAKEITEM GoldChest 1
+TAKEITEM 金柜 1
 GIVEGOLD 9980000
 #ELSESAY
-You have no GoldChest for me to Exchange...
+You have no 金柜 for me to Exchange...
 Come back only if u do have one.
  
 <Back/@mbind> - <Close/@exit>

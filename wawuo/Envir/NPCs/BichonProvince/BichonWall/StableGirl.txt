@@ -31,7 +31,7 @@ What would you like to purchase?
 19
 
 [Trade]
-BengalTiger
-Saddle
-RawMeat
-LeanMeat
+孟加拉虎
+鞍座
+生肉
+瘦肉精

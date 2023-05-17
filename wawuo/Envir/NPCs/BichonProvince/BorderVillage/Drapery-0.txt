@@ -45,11 +45,11 @@ Would you like to repair a drapery piece?
 10
 
 [Trade]
-����(��)
-����(Ů)
-LightArmour(��)
-LightArmour(Ů)
-BronzeHelmet
-MagicHelmet
-LeatherBelt
-LowShoes
+布衣(男)
+布衣(女)
+轻甲(男)
+轻甲(女)
+青铜头盔
+双闸刀
+皮腰带
+低帮鞋

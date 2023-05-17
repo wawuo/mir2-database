@@ -13,8 +13,8 @@ GOTO @Main-1
 #SAY
 Welcome, what can I do for you?
  
-<Sell/@Sell> Meat.
-<Ask/@Meathelp> about how to gain meat.
+<Sell/@Sell> 肉类.
+<Ask/@肉类help> about how to gain meat.
  
 <Close/@Exit>
 
@@ -26,9 +26,9 @@ I'll buy it at low price.
  
 <Back/@Main>
 
-[@Meathelp]
+[@肉类help]
 #SAY
-Meat can be gained from {Hens/Crimson}, {Deer/Crimson}, {Sheep/Crimson}, and {Wolves/Crimson}.
+肉类 can be gained from {Hens/Crimson}, {Deer/Crimson}, {Sheep/Crimson}, and {Wolves/Crimson}.
 To get meat from any of the above, first of all kill the animal.
 Once you have killed it, press the ALT button, while left clicking
 on the dead body for a few seconds.

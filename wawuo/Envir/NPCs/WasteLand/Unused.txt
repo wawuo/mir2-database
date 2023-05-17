@@ -25,11 +25,11 @@ The following are the items i can forge.
 * AncientHeavyArmour
 * Defense stats : Ac 6-20 - Amc 3-7 - Dc 0-1 - Hp +10.
 * Items required for forging,
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 RhinoLeather
 - 32 MammothLeather
-- 30 LargeBone
-- 12 ArmourBook(DC)
+- 30 大骨
+- 12 铠甲书(DC)
 - 10 Platinum
 -  5 StrongRope
 
@@ -39,23 +39,23 @@ The following are the items i can forge.
 #IF
 GENDER MALE
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM RhinoLeather 34
 CHECKITEM MammothLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(DC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(DC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM RhinoLeather 34
 TAKEITEM MammothLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(DC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientHeavyArmour(��) 1
+GIVEITEM AncientHeavyArmour(男) 1
 LINEMESSAGE "You have forged AncientHeavyArmour." Hint
 BREAK
 CLOSE
@@ -66,23 +66,23 @@ GOTO @arm12F
 [@arm12F]
 #IF
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM RhinoLeather 34
 CHECKITEM MammothLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(DC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(DC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM RhinoLeather 34
 TAKEITEM MammothLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(DC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientHeavyArmour(Ů) 1
+GIVEITEM AncientHeavyArmour(女) 1
 LINEMESSAGE "You have forged AncientHeavyArmour." Hint
 BREAK
 CLOSE
@@ -91,11 +91,11 @@ CLOSE
 You don't have enough ingredients.
 Please check again.In order to make the AncientHeavyArmour,
 * Items required for forging,
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 RhinoLeather
 - 32 MammothLeather
-- 30 LargeBone
-- 12 ArmourBook(DC)
+- 30 大骨
+- 12 铠甲书(DC)
 - 10 Platinum
 -  5 StrongRope
 
@@ -106,11 +106,11 @@ Please check again.In order to make the AncientHeavyArmour,
 * AncientRobe
 * Defense stats : Ac 4-14 - Amc 5-8 - Mc 0-7 - Hp +10. 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 BeastLeather
 - 32 UndeadLeather
-- 30 LargeBone
-- 12 ArmourBook(MC)
+- 30 大骨
+- 12 铠甲书(MC)
 - 10 Platinum
 -  5 StrongRope
 
@@ -121,23 +121,23 @@ Please check again.In order to make the AncientHeavyArmour,
 #IF
 GENDER MALE
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM BeastLeather 34
 CHECKITEM UndeadLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(MC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(MC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM BeastLeather 34
 TAKEITEM UndeadLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(MC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientRobe(��) 1
+GIVEITEM AncientRobe(男) 1
 LINEMESSAGE "You have forged AncientRobe." Hint
 BREAK
 CLOSE
@@ -148,23 +148,23 @@ GOTO @arm23F
 [@arm23F]
 #IF
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM BeastLeather 34
 CHECKITEM UndeadLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(MC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(MC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM BeastLeather 34
 TAKEITEM UndeadLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(MC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientRobe(Ů) 1
+GIVEITEM AncientRobe(女) 1
 LINEMESSAGE "You have forged AncientRobe." Hint
 BREAK
 CLOSE
@@ -173,11 +173,11 @@ CLOSE
 You don't have enough ingredients.
 Please check again.In order to make the AncientRobe, 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 BeastLeather
 - 32 UndeadLeather
-- 30 LargeBone
-- 12 ArmourBook(MC)
+- 30 大骨
+- 12 铠甲书(MC)
 - 10 Platinum
 -  5 StrongRope   
 
@@ -189,11 +189,11 @@ Please check again.In order to make the AncientRobe,
 * AncientPlate
 * Defense stats : Ac 6-15 - Amc 5-10 - Sc 0-6 - Hp +10. 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 DemonLeather
 - 32 LightLeather
-- 30 LargeBone
-- 12 ArmourBook(SC)
+- 30 大骨
+- 12 铠甲书(SC)
 - 10 Platinum
 -  5 StrongRope
 
@@ -204,23 +204,23 @@ Please check again.In order to make the AncientRobe,
 #IF
 GENDER MALE
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM DemonLeather 34
 CHECKITEM LightLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(SC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(SC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM DemonLeather 34
 TAKEITEM LightLeather 32
-TAKEITEM LargeBone 30
+TAKEITEM 大骨 30
 TAKEITEM ArmourBookSC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEitem AncientPlate(��) 1
+GIVEitem AncientPlate(男) 1
 LINEMESSAGE "You have forged AncientPlate." Hint
 BREAK
 CLOSE
@@ -231,23 +231,23 @@ GOTO @arm33F
 [@arm33F]
 #IF
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM DemonLeather 34
 CHECKITEM LightLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(SC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(SC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM DemonLeather 34
 TAKEITEM LightLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(SC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(SC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientPlate(Ů) 1
+GIVEITEM AncientPlate(女) 1
 LINEMESSAGE "You have forged AncientPlate." Hint
 BREAK
 CLOSE
@@ -256,11 +256,11 @@ CLOSE
 You don't have enough ingredients.
 Please check again.In order to make the AncientPlate, 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 DemonLeather
 - 32 LightLeather
-- 30 LargeBone
-- 12 ArmourBook(SC)
+- 30 大骨
+- 12 铠甲书(SC)
 - 10 Platinum
 -  5 StrongRope   
 
@@ -272,11 +272,11 @@ Please check again.In order to make the AncientPlate,
 * AncientSuit
 * Defense stats : Ac 6-15 - Amc 5-10 - Dc 0-1 - Hp +10. 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 MammothLeather
 - 32 BaboonLeather
-- 30 LargeBone
-- 12 ArmourBook(DC)
+- 30 大骨
+- 12 铠甲书(DC)
 - 10 Platinum
 -  5 StrongRope
 
@@ -287,23 +287,23 @@ Please check again.In order to make the AncientPlate,
 #IF
 GENDER MALE
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM MammothLeather 34
 CHECKITEM BaboonLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(DC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(DC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM MammothLeather 34
 TAKEITEM BaboonLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(DC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientSuit(��) 1
+GIVEITEM AncientSuit(男) 1
 LINEMESSAGE "You have forged AncientSuit." Hint
 BREAK
 CLOSE
@@ -314,23 +314,23 @@ GOTO @arm43F
 [@arm43F]
 #IF
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM MammothLeather 34
 CHECKITEM BaboonLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(DC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(DC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM DemonLeather 34
 TAKEITEM BaboonLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(DC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientSuit(Ů) 1 
+GIVEITEM AncientSuit(女) 1 
 LINEMESSAGE "You have forged AncientSuit." Hint
 BREAK
 CLOSE
@@ -339,11 +339,11 @@ CLOSE
 You don't have enough ingredients.
 Please check again.In order to make the AncientSuit, 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 MammothLeather
 - 32 BaboonLeather
-- 30 LargeBone
-- 12 ArmourBook(DC)
+- 30 大骨
+- 12 铠甲书(DC)
 - 10 Platinum
 -  5 StrongRope   
 
@@ -354,11 +354,11 @@ Please check again.In order to make the AncientSuit,
 * AncientLeather
 * Defense stats : Ac 4-16 - Amc 6-10 - Mc 1-2 - Hp +10. 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 BeastLeather
 - 32 MammothLeather
-- 30 LargeBone
-- 12 ArmourBook(MC)
+- 30 大骨
+- 12 铠甲书(MC)
 - 10 Platinum
 -  5 StrongRope
 
@@ -369,23 +369,23 @@ Please check again.In order to make the AncientSuit,
 #IF
 GENDER MALE
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM BeastLeather 34
 CHECKITEM MammothLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(MC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(MC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM BeastLeather 34
 TAKEITEM MammothLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(MC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientLeather(��) 1
+GIVEITEM AncientLeather(男) 1
 LINEMESSAGE "You have forged AncientLeather." Hint
 BREAK
 CLOSE
@@ -396,23 +396,23 @@ GOTO @arm53F
 [@arm53F]
 #IF
 CHECKGOLD > 20000
-CHECKITEM RustyArmour 40
+CHECKITEM 锈迹斑斑的盔甲 40
 CHECKITEM BeastLeather 34
 CHECKITEM MammothLeather 32
-CHECKITEM LargeBone 30
-CHECKITEM ArmourBook(MC) 12
+CHECKITEM 大骨 30
+CHECKITEM 铠甲书(MC) 12
 CHECKITEM Platinum 10
 CHECKITEM StrongRope 5
 #ACT
 TAKEGOLD 20000
-TAKEITEM RustyArmour 40
+TAKEITEM 锈迹斑斑的盔甲 40
 TAKEITEM BeastLeather 34
 TAKEITEM MammothLeather 32
-TAKEITEM LargeBone 30
-TAKEITEM ArmourBook(MC) 12
+TAKEITEM 大骨 30
+TAKEITEM 铠甲书(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientLeather(Ů) 1
+GIVEITEM AncientLeather(女) 1
 LINEMESSAGE "You have forged AncientLeather." Hint
 BREAK
 CLOSE
@@ -421,11 +421,11 @@ CLOSE
 You don't have enough ingredients.
 Please check again.In order to make the AncientLeather, 
 * Items required for forging, 
-- 40 RustyArmour
+- 40 锈迹斑斑的盔甲
 - 34 BeastLeather
 - 32 UndeadLeather
-- 30 LargeBone
-- 12 ArmourBook(MC)
+- 30 大骨
+- 12 铠甲书(MC)
 - 10 Platinum
 -  5 StrongRope   
 

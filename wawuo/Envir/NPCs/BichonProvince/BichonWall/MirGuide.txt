@@ -38,7 +38,7 @@ Ask me anytime, I will be glad to guide you.
 #SAY
 Start hunting around the town and move further.
 Bichon-Province, WoomyonWoods, Mongchon-Province, TaoVillage,
-and CastleGi-Ryoong are the main hunting fields.
+and 吉良城堡 are the main hunting fields.
 Please refer to the whole map by pressing B.
 
 <<Level 1>3/@lvl1-3>>      <<Level 3>7/@lvl3-7>>      <<Level 7>11/@lvl7-11>>
@@ -72,8 +72,8 @@ But be specially aware of poison from Spitting Spider.
 
 [@level11-21]
 #SAY
-Go to dungeon from Level 11. It is a dark place where Candle
-and Portal Scroll are considered as essential items.
+Go to dungeon from Level 11. It is a dark place where 蜡烛
+and 传送门 Scroll are considered as essential items.
 Moreover, be ready with enough potions since it is located
 far away from town.
 
@@ -84,7 +84,7 @@ far away from town.
 [@lvl11-14]
 #SAY
 If you wish for a safe hunt, try RedSnake,
-TigerSnake, and in SerpentValley and OmaFighter.
+TigerSnake, and in 蛇谷 and OmaFighter.
 If you are a Wizard who learned Hellfire skill,
 raft driving is most recommended.
 
@@ -95,7 +95,7 @@ raft driving is most recommended.
 If you wish for higher exp cave. Go OmaCave northwest
 of Bichon-province. This is the first dungeon in Mir world where CaveBat,
 CaveMaggot, and Skeletons appear.
-Bring Candles, Town Teleports and enough potions.
+Bring 蜡烛s, Town 传送s and enough potions.
 It is located far away from town.
 But be specially aware of the poison from CaveMaggots. You may be paralyzed.
 
@@ -183,10 +183,10 @@ Warrior skill type:
 Select any skill you wish to know.
 Remember, Warrior skills are all melee type.
 
-<Fencing 7/@fencing>      <ShoulderDash 30/@sdash>     <LionsRoar 36/@lionsroar>
-<Slaying 15/@slaying>     <TwinDrakeBlade 32/@tdb>     <CrossHalfmoon 38/@chm>
-<Thrusting 22/@thrusting>     <En陷阱ment 32/@en陷阱ment>     <BladeAvalanche 38/@BA>
-<Halfmoon 26/@halfmoon>     <火焰之剑 35/@fsword>     <Rage 44/@rage>
+<击剑 7/@fencing>      <肩部冲刺 30/@sdash>     <LionsRoar 36/@lionsroar>
+<杀人 15/@slaying>     <双闸刀 32/@tdb>     <CrossHalfmoon 38/@chm>
+<刺杀 22/@thrusting>     <En陷阱ment 32/@en陷阱ment>     <刀锋雪崩 38/@BA>
+<Halfmoon 26/@halfmoon>     <火焰之剑 35/@fsword>     <愤怒 44/@rage>
 <保护场 39/@profield>
 
 <Back/@combat>                 <Go to Main/@main>
@@ -197,10 +197,10 @@ Wizard skill page 1:
 Characteristic of Wizard skills are all long range attack and some does
 multiple attack. But it consumes much MP.
 
-<Fireball 7/@fireball>     <Hellfire 16/@hellfire>     <FireWall 24/@fwall>
-<Repulsion 12/@repulse>     <Thunderbolt 17/@tbolt>     <Lightning 26/@lightning>
-<ElecShock 13/@eshock>     <Teleport 19/@tele>     <FrostCrunch 28/@fcrunch>
-<GreatFireBall 15/@gfball>     <FireBang 22/@fbang>     <Thunderstorm 30/@tstorm>
+<Fireball 7/@fireball>     <Hellfire 16/@hellfire>     <火墙 24/@fwall>
+<斥力 12/@repulse>     <Thunderbolt 17/@tbolt>     <闪电 26/@lightning>
+<ElecShock 13/@eshock>     <传送 19/@tele>     <寒霜紧缩 28/@fcrunch>
+<大火球 15/@gfball>     <火焰弹 22/@fbang>     <Thunderstorm 30/@tstorm>
 
 <Back/@combat>              <Go to Next/@wizskill2>
 
@@ -208,10 +208,10 @@ multiple attack. But it consumes much MP.
 #SAY
 Wizard skill page 2:
 
-<MagicShield 31/@mshield>     <Mirroring 41/@mirror>
-<TurnUndead 32/@turnundead>     <FlameField 42/@ffield>
-<Vampirism 33/@vamp>     <Blizzard 44/@blizzard>
-<冰风暴 35/@冰风暴>   <MeteorStrike 49/@meteor>
+<魔法盾 31/@mshield>     <镜像 41/@mirror>
+<亡灵转化 32/@turnundead>     <火焰场 42/@ffield>
+<吸血术 33/@vamp>     <暴风雪 44/@blizzard>
+<冰风暴 35/@冰风暴>   <流星打击 49/@meteor>
 <火焰破坏者 38/@fdisrupt>
 
 <Back/@combat>                   <Go to Main/@main>
@@ -221,10 +221,10 @@ Wizard skill page 2:
 Taoist skill page 1:
 Only Taoists can use tallisman or poison as one of the skills.
 
-<Healing 7/@healing>     <SummonSkeleton 19/@summonskel>     <Revelation 23/@rev>
-<SpiritSword 9/@ssword>     <Hiding 20/@hiding>     <BlessedArmour 25/@blessarm>
-<Poisoning 14/@poison>     <MassHiding 21/@masshide>     <EnergyRepulsor 27/@energyrep>
-<SoulFireBall 18/@sfb>   <SoulShield 22/@soulshield>   <TrapHexagon 28/@陷阱hex>
+<疗伤 7/@healing>     <召唤骷髅 19/@summonskel>     <启示 23/@rev>
+<精神之剑 9/@ssword>     <躲藏 20/@hiding>     <受祝福的盔甲 25/@blessarm>
+<中毒 14/@poison>     <大规模躲藏 21/@masshide>     <能量反击器 27/@energyrep>
+<灵魂火球 18/@sfb>   <灵魂盾牌 22/@soulshield>   <陷阱六边形 28/@陷阱hex>
 
 <Back/@combat>                         <Go to Next/@taoskill2>
 
@@ -232,9 +232,9 @@ Only Taoists can use tallisman or poison as one of the skills.
 #SAY
 Taoist skill page 2:
 
-<Purification 30/@puri>     <MassHealing 31/@massheal>     <Hallucination 31/@halluc>
-<UltimateEnhancer 33/@ultimateenhance>     <SummonShinsu 35/@summonshin>     <Reincarnation 37/@rein>
-<SummonHolyDeva 38/@summondeva>     <Curse 40/@curse>     <PoisonCloud 43/@poisoncloud>
+<净化 30/@puri>     <大规模治疗 31/@massheal>     <幻觉 31/@halluc>
+<终极强化器 33/@ultimateenhance>     <召唤神术 35/@summonshin>     <转世 37/@rein>
+<召唤圣德瓦 38/@summondeva>     <诅咒 40/@curse>     <毒云 43/@poisoncloud>
 
 <Back/@combat>                         <Go to Main/@main>
 
@@ -247,16 +247,16 @@ others, which naturally makes them excellent at making fast kills. It is necessa
 for them to avoid being in battles with multiple enemies due to their weak vitality 
 and strength.
 
-<FatalSword 7/@fatalsword>     <轻功 27/@轻功>     <毒剑 34/@毒剑>
-<DoubleSlash 15/@doubleslash>     <HeavenlySword 30/@heavenlysword>     <月光 36/@月光>
-<Haste 20/@haste>     <火焰喷射
+<致命之剑 7/@fatalsword>     <轻功 27/@轻功>     <毒剑 34/@毒剑>
+<双击 15/@doubleslash>     <天堂之剑 30/@heavenlysword>     <月光 36/@月光>
+<障碍物 20/@haste>     <火焰喷射
  33/@火焰喷射
 >     <猎手 38/@猎手>
-<FlashDash 25/@闪光冲刺>     <Trap 33/@陷阱>     <SwiftFeet 40/@迅捷脚步>
+<闪光冲刺 25/@闪光冲刺>     <陷阱 33/@陷阱>     <迅捷脚步 40/@迅捷脚步>
 <黑暗之躯
  46/@黑暗之躯
->     <CresentSlash 50/@cresentslash>     <Hemorrhage 47/@hemorrhage>
-<MoonMist 60/@moonmist>
+>     <裂缝 50/@cresentslash>     <出血 47/@hemorrhage>
+<月雾 60/@moonmist>
 
 <Back/@combat>              <Go to Main/@main>
 
@@ -271,11 +271,11 @@ leave themselves open to frontal attacks. However,
 their physical prowess and deadly aim allows them to instil 
 fear into anyone they hit.
 
-<Focus 7/@focus>     <ElementalShot 20/@elementalshot>     <Backstep 30/@backstep>
-<StraightShot 9/@straightshot>     <ExplosiveTrap 22/@explosive陷阱>     <DelayedExplosion 31/@delayedexplosion>
-<MentalState 11/@mentalstate>     <Concentration 23/@concentration>     <ElementalBarrier 33/@elementalbarrier>
-<DoubleShot 14/@doubleshot>     <VampireShot 26/@vampireshot>     <BindingShot 35/@bindingshot>
-<Meditation 19/@meditation>     <SummonVampire 28/@summonvampire> <SummonToad 37/@summontoad>
+<焦点 7/@focus>     <元素射击 20/@elementalshot>     <Backstep 30/@backstep>
+<直击 9/@straightshot>     <爆炸性陷阱 22/@explosive陷阱>     <延迟爆炸 31/@delayedexplosion>
+<MentalState 11/@mentalstate>     <专注力 23/@concentration>     <元素屏障 33/@elementalbarrier>
+<双响炮 14/@doubleshot>     <吸血鬼射击 26/@vampireshot>     <BindingShot 35/@bindingshot>
+<冥想 19/@meditation>     <召唤吸血鬼 28/@summonvampire> <召唤蟾蜍 37/@summontoad>
 
 <Back/@combat>              <Go to Next/@arcskill2>
 
@@ -283,8 +283,8 @@ fear into anyone they hit.
 #SAY
 Archer skill page 2:
 
-<PoisonShot 40/@poisonshot>      <StoneTrap 40/@stone陷阱>       <CrippleShot 43/@crippleshot>   
-<SummonSnakes 46/@summonsnakes>  <NapalmShot 48/@napalmshot>     <OneWithNature 50/@onewithnature>
+<毒药射击 40/@poisonshot>      <石头陷阱 40/@stone陷阱>       <残废射击 43/@crippleshot>   
+<召唤蛇类 46/@summonsnakes>  <汽油弹 48/@napalmshot>     <与自然同在 50/@onewithnature>
 
 <Back/@combat>                         <Go to Main/@main>
 
@@ -293,7 +293,7 @@ Archer skill page 2:
 
 [@fencing]
 #SAY
-Fencing (Level 7)
+击剑 (Level 7)
 
 HItting accuracy will be increased in accordance with practice level.
 
@@ -301,7 +301,7 @@ HItting accuracy will be increased in accordance with practice level.
 
 [@slaying]
 #SAY
-Slaying (Level 15)
+杀人 (Level 15)
 
 HItting accuracy and destructive power will be increased
 in accordance with practice level.
@@ -310,7 +310,7 @@ in accordance with practice level.
 
 [@thrusting]
 #SAY
-Thrusting (Level 22)
+刺杀 (Level 22)
 
 Attack two people straight in a row. Click to activate or deactivate the skill.
 No MP will be consumed.
@@ -319,7 +319,7 @@ No MP will be consumed.
 
 [@halfmoon]
 #SAY
-HalfMoon (Level 26)
+半月形 (Level 26)
 
 Damage 4 enemies at once near by. MP will be consumed.
 
@@ -327,7 +327,7 @@ Damage 4 enemies at once near by. MP will be consumed.
 
 [@sdash]
 #SAY
-ShoulderDash (Level 30)
+肩部冲刺 (Level 30)
 
 Push away enemies by charging them with his shoulder, inflicting damage if
 they hit any obstacles. Skill will be ineffective at higher level enemy.
@@ -337,7 +337,7 @@ MP will be consumed.
 
 [@tdb]
 #SAY
-TwinDrakeBlade (Level 32)
+双闸刀 (Level 32)
 
 The art of making multiple power attacks that have the energy equivalent to
 two identical drakes rising the sky.
@@ -378,7 +378,7 @@ MP will be consumed.
 
 [@chm]
 #SAY
-CrossHalfMoon (Level 38)
+十字半月 (Level 38)
 
 All the enemies nearby 8 o'clock direction at once.
 Skill key must be clicked. MP will be consumed.
@@ -387,7 +387,7 @@ Skill key must be clicked. MP will be consumed.
 
 [@BA]
 #SAY
-BladeAvalanche (Level 38)
+刀锋雪崩 (Level 38)
 
 Multiple area attack against enemies a distance away.
 MP will be consumed.
@@ -396,7 +396,7 @@ MP will be consumed.
 
 [@rage]
 #SAY
-Rage (Level 44)
+愤怒 (Level 44)
 
 Enhances your inner force to increase its power for a certain time.
 Defense power and duration time will depend on the skill level.
@@ -426,7 +426,7 @@ Flame attack can damage the target distance away.
 
 [@repulse]
 #SAY
-Repulsion (Level 12)
+斥力 (Level 12)
 
 Allows you to push away mobs and people at 8 o'clock direction.
 Skill will be ineffective at higher level enemy.
@@ -447,7 +447,7 @@ MP will be consumed.
 
 [@gfball]
 #SAY
-GreatFireBall (Level 15)
+大火球 (Level 15)
 
 More powerful skill of the basic fireball.
 MP will be consumed.
@@ -475,7 +475,7 @@ MP will be consumed.
 
 [@tele]
 #SAY
-Teleport (Level 19)
+传送 (Level 19)
 
 Allows a wizard to move instantly to a random place in a Marian Province.
 Skill training will increase the chance of landing near towns.
@@ -485,7 +485,7 @@ MP will be consumed.
 
 [@fbang]
 #SAY
-FireBang (Level 22)
+火焰弹 (Level 22)
 
 Create a 3x3 square high temperature fire flash,
 instantly damaging every enemy in range.
@@ -495,7 +495,7 @@ MP will be consumed.
 
 [@fwall]
 #SAY
-FireWall (Level 24)
+火墙 (Level 24)
 
 A strong flame around targeted area with 3x3 square range.
 MP will be consumed.
@@ -504,7 +504,7 @@ MP will be consumed.
 
 [@lightning]
 #SAY
-Lightning (Level 26)
+闪电 (Level 26)
 Throws a boly of lightning forwards from the casters hands.
 It damages all objects(9-10 enemies) in its path.
 MP will be consumed.
@@ -513,7 +513,7 @@ MP will be consumed.
 
 [@fcrunch]
 #SAY
-FrostCrunch (Level 28)
+寒霜紧缩 (Level 28)
 
 The art of freezing that uses the force of ice.
 When it is cast, it randomly freezes enemies and after they are frozen, their
@@ -534,7 +534,7 @@ MP will be consumed.
 
 [@mshield]
 #SAY
-MagicShield (Level 31)
+魔法盾 (Level 31)
 
 Creates a shield which protects damage from monsters.
 Duration time depends on the skill level.
@@ -544,7 +544,7 @@ MP will be consumed.
 
 [@turnundead]
 #SAY
-TurnUndead (Level 32)
+亡灵转化 (Level 32)
 
 Specialized in undead type monsters.
 As the skill level reaches max, one shot one kill will be possible.
@@ -554,7 +554,7 @@ MP will be consumed.
 
 [@vamp]
 #SAY
-Vampirism (Level 33)
+吸血术 (Level 33)
 Absorbs strength of enemy to recover players strength.
 MP will be consumed.
 
@@ -581,7 +581,7 @@ MP will be consumed.
 
 [@mirror]
 #SAY
-Mirroring (Level 41)
+镜像 (Level 41)
 
 Create an image and fight enemy together. Image appears when skill is
 clicked, click once more will remove image.
@@ -591,7 +591,7 @@ MP will continously be consumed while the image is in use.
 
 [@ffield]
 #SAY
-FlameField (Level 42)
+火焰场 (Level 42)
 
 5x5 square range attack with a dreadful flame. (Max. 24 enemies at once)
 MP will be consumed.
@@ -600,11 +600,11 @@ MP will be consumed.
 
 [@blizzard]
 #SAY
-Blizzard (Level 44)
+暴风雪 (Level 44)
 
 Attacks all monsters in a certain area with meteors of fire falling from the sky.
 This will burn all the objects within the area.
-It has a very long casting time but gives a higher damage than the Blizzard skill.
+It has a very long casting time but gives a higher damage than the 暴风雪 skill.
 If the caster is attacked while using the skill, it will be cancelled.
 The damage inflicted raises with the skill level.
 
@@ -612,11 +612,11 @@ The damage inflicted raises with the skill level.
 
 [@meteor]
 #SAY
-MeteorStrike (Level 49)
+流星打击 (Level 49)
 
 Attacks all monsters in a certain area with meteors of fire falling from the sky.
 This will burn all the objects within the area. 
-It has a very long casting time but gives a higher damage than the Blizzard skill.
+It has a very long casting time but gives a higher damage than the 暴风雪 skill.
 If the caster is attacked while using the skill, it will be cancelled. 
 The damage inflicted raises with the skill level.
 
@@ -624,7 +624,7 @@ The damage inflicted raises with the skill level.
 ------------------------------------------------------------------------------------------------------
 [@healing]
 #SAY
-Healing (Level 7)
+疗伤 (Level 7)
 Heal himself or other players.
 MP will be consumed.
 
@@ -632,7 +632,7 @@ MP will be consumed.
 
 [@ssword]
 #SAY
-SpiritSword (Level 9)
+精神之剑 (Level 9)
 
 Increase attack accuracy.
 
@@ -640,7 +640,7 @@ Increase attack accuracy.
 
 [@poison]
 #SAY
-Poisoning (Level 14)
+中毒 (Level 14)
 
 Poison that keeps giving damage over certain time to enemies.
 MP and Poison will be consumed.
@@ -649,7 +649,7 @@ MP and Poison will be consumed.
 
 [@sfb]
 #SAY
-SoulFireBall (Level 18)
+灵魂火球 (Level 18)
 
 Executes long-distance attacks like a wizards fireball skill,
 by hurling an amulet.
@@ -659,7 +659,7 @@ MP and amulet will be consumed.
 
 [@summonskel]
 #SAY
-SummonSkeleton (Level 19)
+召唤骷髅 (Level 19)
 
 Create a familiar by making his shape through strong magic and resurrecting
 a spirit of strong power into this shape.
@@ -669,9 +669,9 @@ MP and amulet will be consumed.
 
 [@hiding]
 #SAY
-Hiding (Level 20)
+躲藏 (Level 20)
 
-Makes invisible to mobs by hiding traces. Hiding will allow player not to be
+Makes invisible to mobs by hiding traces. 躲藏 will allow player not to be
 seen if unless do not move or attack after exercising this skill.
 It's a useful skill to make any situation 1 on 1, as you can hide and use a
 distance attack and only attacked mobs will approach you.
@@ -680,7 +680,7 @@ distance attack and only attacked mobs will approach you.
 
 [@masshide]
 #SAY
-MassHiding (Level 21)
+大规模躲藏 (Level 21)
 
 Upgrade version of hiding skill which also affect other players to be invisible.
 Max. 9 people can be invisible if all are in 3x3 square area.
@@ -690,7 +690,7 @@ MP and amulet will be consumed.
 
 [@soulshield]
 #SAY
-SoulShield (Level 22)
+灵魂盾牌 (Level 22)
 
 Increases magic defensive power.
 Its duration will be extended according to practice levels and SC power.
@@ -700,7 +700,7 @@ MP and amulet will be consumed.
 
 [@rev]
 #SAY
-Revelation (Level 23)
+启示 (Level 23)
 Reveals other HP (players or mobs).
 Its duration will be extended according to practice levels and SC power.
 MP will be consumed.
@@ -709,7 +709,7 @@ MP will be consumed.
 
 [@blessarm]
 #SAY
-BlessedArmour (Level 25)
+受祝福的盔甲 (Level 25)
 
 Increases physical defensive power which also affects people around
 the player. Duration time increases are practices level.
@@ -719,7 +719,7 @@ MP and amulet will be consumed.
 
 [@energyrep]
 #SAY
-EnergyRepulsor (Level 27)
+能量反击器 (Level 27)
 
 A wave of energy that sends anything stood next to them
 at 8o'clock direction reeling backwards.
@@ -730,11 +730,11 @@ MP will be consumed.
 
 [@陷阱hex]
 #SAY
-TrapHexagon (Level 28)
+陷阱六边形 (Level 28)
 
-Trap a mob - confining it from the outer world.
+陷阱 a mob - confining it from the outer world.
 This 陷阱 will disappear if approach nearby hexagon.
-Trapped mob can evade it when they are attacked from distance.
+陷阱ped mob can evade it when they are attacked from distance.
 The 陷阱 Hexagon emits light to indicate its boundary.
 His skill is ineffective at higher level enemy.
 MP and amulet will be consumed.
@@ -743,7 +743,7 @@ MP and amulet will be consumed.
 
 [@puri]
 #SAY
-Purification (Level 30)
+净化 (Level 30)
 
 Purifies poisoned or corrupted body by dark foce.
 MP and amulet will be consumed.
@@ -752,7 +752,7 @@ MP and amulet will be consumed.
 
 [@massheal]
 #SAY
-MassHealing (Level 31)
+大规模治疗 (Level 31)
 
 Heal several players at once 3X3 square max. 9 people.
 MP will be consumed.
@@ -761,7 +761,7 @@ MP will be consumed.
 
 [@halluc]
 #SAY
-Hallucination (Level 31)
+幻觉 (Level 31)
 
 Distracts enemy in chaos to fight each other.
 MP and amulet will be consumed.
@@ -770,7 +770,7 @@ MP and amulet will be consumed.
 
 [@ultimateenhance]
 #SAY
-UltimateEnhancer (Level 33)
+终极强化器 (Level 33)
 
 Increases physical attack.
 MP and amulet will be consumed.
@@ -779,7 +779,7 @@ MP and amulet will be consumed.
 
 [@summonshin]
 #SAY
-SummonShinsu (Level 35)
+召唤神术 (Level 35)
 
 Summons a powerful fire breathing beast called Shinsu that will act as
 his or her own familiar.
@@ -789,7 +789,7 @@ MP and amulet will be consumed.
 
 [@summondeva]
 #SAY
-SummonHolyDeva (Level 38)
+召唤圣德瓦 (Level 38)
 
 Summons a HolyDeva.
 MP and amulet will be consumed.
@@ -798,7 +798,7 @@ MP and amulet will be consumed.
 
 [@curse]
 #SAY
-Curse (Level 40)
+诅咒 (Level 40)
 
 Reduces mob attacks (Attack Speed, DC, MC, SC)
 
@@ -806,18 +806,18 @@ Reduces mob attacks (Attack Speed, DC, MC, SC)
 
 [@rein]
 #SAY
-Reincarnation (Level 37)
+转世 (Level 37)
 
 A supreme skill of Taoists which can revive a dead player.
 This skill requires long casting time and cast can be cancelled if attacked.
 So it is suggested to clean up the area and cast the skill with alliance protection.
-Success rate depends on the skill level. It requires an Amulet of Revival.
+Success rate depends on the skill level. It requires an 护身符 of Revival.
 
 <Back/@taoskill>                     <Go to Main/@main>
 
 [@poisoncloud]
 #SAY
-PoisonCloud (Level 43)
+毒云 (Level 43)
 
 Throw the amulet and a very strong poison cloud will appear in the area.
 This requires high concentration of Taoism and mentality.
@@ -830,7 +830,7 @@ It requires Grey Poison.
 
 [@focus]
 #SAY
-Focus (Level 7)
+焦点 (Level 7)
 
 Passively increases chance to hit with physical attacks. 
 Can also proc a critical attack to do extra damage.
@@ -839,7 +839,7 @@ Can also proc a critical attack to do extra damage.
 
 [@straightshot]
 #SAY
-StraightShot (Level 9)
+直击 (Level 9)
 
 Infuses your arrow with mana to deal extra damage.
 
@@ -855,7 +855,7 @@ TO BE ADDED
 
 [@doubleshot]
 #SAY
-DoubleShot (Level 14)
+双响炮 (Level 14)
 
 Fire double arrows at your target.
 
@@ -863,7 +863,7 @@ Fire double arrows at your target.
 
 [@meditation]
 #SAY
-Meditation (Level 19)
+冥想 (Level 19)
 
 Allows gathering of elements when attacking monsters. 
 Can gain up to 4 elements.
@@ -872,7 +872,7 @@ Can gain up to 4 elements.
 
 [@elementalshot]
 #SAY
-ElementalShot (Level 20)
+元素射击 (Level 20)
 
 High damage magical attack. Damage is increased per element. 
 Generates 2 elements if none exist. Pushes back target if 
@@ -882,7 +882,7 @@ archer is higher level.
 
 [@explosive陷阱]
 #SAY
-ExplosiveTrap (Level 22)
+爆炸性陷阱 (Level 22)
 
 Lay down a row of 陷阱s that explode on contact with an enemy.
 
@@ -890,7 +890,7 @@ Lay down a row of 陷阱s that explode on contact with an enemy.
 
 [@concentration]
 #SAY
-Concentration (Level 23)
+专注力 (Level 23)
 
 Increase the chance of gathering elements whilst active.
 
@@ -902,13 +902,13 @@ VamnpireShot (Level 26)
 
 Fire a leaching arrow that can heal the archer based on 
 damage done. Chance to gain Vampire buff which enhances 
-Cripple Shot and OneWithNature spells.
+Cripple Shot and 与自然同在 spells.
 
 <Back/@arcskill>                     <Go to Main/@main>
 
 [@summonvampire]
 #SAY
-SummonVampire (Level 28)
+召唤吸血鬼 (Level 28)
 
 Summon a spider vampire every 40 seconds to fight for you. 
 The vampire pet can leach HP to its master.
@@ -917,7 +917,7 @@ The vampire pet can leach HP to its master.
 
 [@backstep]
 #SAY
-BackStep (Level 30)
+后撤步 (Level 30)
 
 Leap backwards out of danger.
 
@@ -925,7 +925,7 @@ Leap backwards out of danger.
 
 [@delayedexplosion]
 #SAY
-DelayedExplosion (Level 31)
+延迟爆炸 (Level 31)
 
 Fire an arrow that has a delayed explosion. 
 Gather more elements for more damage.
@@ -934,7 +934,7 @@ Gather more elements for more damage.
 
 [@elementalbarrier]
 #SAY
-ElementalBarrier (Level 33)
+元素屏障 (Level 33)
 
 Protects the caster with an elemental barrier. 
 More elements on cast increases damage reduction.
@@ -951,7 +951,7 @@ TO BE ADDED
 
 [@summontoad]
 #SAY
-SummonToad (Level 37)
+召唤蟾蜍 (Level 37)
 
 Summon a toad to fight for you for 15 seconds. 
 The toad cannot move and will explode if its master 
@@ -961,27 +961,27 @@ leaves its view range.
 
 [@poisonshot]
 #SAY
-PoisonShot (Level 40)
+毒药射击 (Level 40)
 
 Fire a poison arrow to green poison enemies. 
 Lasts maximum of 15 seconds. Chance to gain Poison 
-Buff which enhances Cripple Shot and OneWithNature spells.
+Buff which enhances Cripple Shot and 与自然同在 spells.
 
 <Back/@arcskill>                     <Go to Main/@main>
 
 [@crippleshot]
 #SAY
-CrippleShot (Level 43)
+残废射击 (Level 43)
 
 A special arrow that has enhances effects. 
-PoisonShot buff will make Cripple shot produce a 3×3 
+毒药射击 buff will make Cripple shot produce a 3×3 
 AOE poison attack. VampBuff will make Cripple shot 
 hit twice and steal HP.
 <Back/@arcskill>                     <Go to Main/@main>
 
 [@summonsnakes]
 #SAY
-SummonSnakes (Level 46)
+召唤蛇类 (Level 46)
 
 Summon a Totem that spawns a swarm of snakes that aggro 
 all monsters nearby and attack with a chance to paralysis 
@@ -991,7 +991,7 @@ the target. Can only be cast every 80 seconds.
 
 [@napalmshot]
 #SAY
-NapalmShot (Level 48)
+汽油弹 (Level 48)
 
 Fire an arrow that explodes in a 5×5 radius around the target.
 
@@ -999,7 +999,7 @@ Fire an arrow that explodes in a 5×5 radius around the target.
 
 [@onewithnature]
 #SAY
-OneWithNature (Level 50)
+与自然同在 (Level 50)
 
 Summon an elemental ring around the archer that deals damage 
 to all targets within a 5×5 radius of the archer.
@@ -1008,7 +1008,7 @@ to all targets within a 5×5 radius of the archer.
 
 [@stone陷阱]
 #SAY
-StoneTrap (Level 40)
+石头陷阱 (Level 40)
 
 TO BE ADDED.
                                 
@@ -1046,7 +1046,7 @@ that will be disposed and click ground.
 <Item shop/@34678>
 *Weapon  *Accessory  *Clothing  *Blacksmith  *Regent  *Peddler
 <Special shop/@36487>
-*Meat store  *Lottery  *Bookstore  *Warehouse
+*肉类 store  *Lottery  *Bookstore  *Warehouse
 <Special structure/@37894>
 *Palace  *Competing room
 <Special NPC/@37682>
@@ -1082,10 +1082,10 @@ guild information and etc.
 
 [@slicemeat]
 #SAY
-Slice meat: Getting Meat from domestic animal such as chicken, Deer.
+Slice meat: Getting 肉类 from domestic animal such as chicken, Deer.
 Click at dead a body of those (Alt+left click) and acquire meat after slicing action.
 
-Mining: Equip PickAxe to mine. Left click will automatically of mining.
+Mining: Equip 镐头 to mine. Left click will automatically of mining.
 Those acquired minerals will be used as raw material for
 crafting items or for selling.
 

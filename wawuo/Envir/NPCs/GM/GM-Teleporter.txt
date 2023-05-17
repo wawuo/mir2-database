@@ -6,7 +6,7 @@ ISADMIN
 To teleport back to this map: {@MOVE R001 100 100/LimeGreen} / Or use {@GM/LimeGreen}
 Tip: {@observer/LIMEGREEN} if you want to be invisible to other players.
  
-Teleport to <Towns/@TeleTownMain> , <Dungeons/@Dungeons> , <Dungeon Boss/@DungeonBoss>
+传送 to <Towns/@TeleTownMain> , <Dungeons/@Dungeons> , <Dungeon Boss/@DungeonBoss>
 <Ancient Dungeons/@Ancient>
  
  
@@ -15,8 +15,8 @@ Teleport to <Towns/@TeleTownMain> , <Dungeons/@Dungeons> , <Dungeon Boss/@Dungeo
 MOVE 0 300 300
 [@TeleTownMain]
 
-<Bichon Province/@TeleBichonProvince> , <Border Village/@TeleBorderVillage> , <Woomyon Woods/@TeleWoomyonWoods> , <Serpent Valley/@TeleSerpentValley>
-<Mongcon Province/@TeleMongconProvince> , <Sabuk Wall/@TeleSabukWall> , <Castle Gi-Ryoong/@TeleCastleGiRyoong> , <Prajna Island/@TelePrajnaIsland>
+<Bichon Province/@TeleBichonProvince> , <Border Village/@Tele边境村> , <Woomyon Woods/@TeleWoomyonWoods> , <Serpent Valley/@Tele蛇谷>
+<Mongcon Province/@TeleMongconProvince> , <Sabuk Wall/@TeleSabukWall> , <Castle Gi-Ryoong/@TeleCastleGiRyoong> , <般若岛/@TelePrajnaIsland>
 <Past Bichon/@TelePastBichon> , <Tao Village/@TeleTaoVillage> , <Waste Land/@TeleWasteLand> , <Seokcho Valley/@TeleSeokchoValley> , <White Village/@TeleWhiteVillage>
 <Forgoten City/@ForgotenCity> , <TreePath/@TreePath>
  
@@ -33,7 +33,7 @@ MOVE 0 300 300
 
 <Oma Cave/@OmaCave> , <Natural Cave/@NaturalCave> , <Wooma Temple/@WoomaTemple> , <Dead Mine/@DeadMine> , <Insect Cave/@InsectCave> ,
 <Fox Cave/@FoxCave> , <Zuma Temple/@ZumaTemple> , <Bug Cave/@BugCave> , <Stone Temple/@StoneTemple> , 
-<Ice Hell/@IceHell> , <Mineral Mine/@MineralMine> , <Hell Cavern/@HellCavern> , <Hell Fire/@HellFire> , 
+<Ice Hell/@IceHell> , <Mineral Mine/@MineralMine> , <Hell Cavern/@HellCavern> , <Hell Fire/@地狱之火> , 
 <Red Cavern/@RedCavern> , <Prajna Temple/@PrajnaTemple> , <Prajna Stone Cave/@PrajnaStoneCave> , 
 <Black Dragon Dungeon/@BlackDragonDungeon> , <Ghoul Cave/@GhoulCave> , <Mystery Cave/@MysteryCave> , 
 <Swamp/@Swamp> , <Red Valley/@RedValley> , <Lunar/@Lunar> , <Viper Path/@ViperPath> , <WhiteDragonPassage/@WDP> , 
@@ -49,11 +49,11 @@ Tip: {@gamemaster/LimeGreen} before you move.
  
  
 <Main Menu/@Main> - <Exit/@Exit>
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
+ 
+ 
+ 
+ 
+ 
 
 //////////////////////////////////////////////////////////////////// PROVINCES/TOWNS
 //////////////////////////////////////////////////////////////////// BW
@@ -106,7 +106,7 @@ MOVE 0139 17 22
 #ACT
 MOVE 0127 8 11
 //////////////////////////////////////////////////////////////////// Border *No Shops*
-[@TeleBorderVillage]
+[@Tele边境村]
 #ACT
 MOVE 0 288 616
 //////////////////////////////////////////////////////////////////// WW *No Shops*
@@ -123,7 +123,7 @@ Caves: <Insect Cave/@InsectCave> , <WoomaTemple/@WoomaTemple>
 #ACT
 MOVE 1 315 82
 //////////////////////////////////////////////////////////////////// SV
-[@TeleSerpentValley]
+[@Tele蛇谷]
 #SAY
 I will guide you to the desired store.
 Where shall I teleport you?
@@ -840,12 +840,12 @@ MOVE D2012 82 83
 #ACT
 MOVE D2013 81 81
 //////////////////////////////////////////////////////////////////// Hell Fire
-[@HellFire]
+[@地狱之火]
 #SAY
-<HellFire_1F/@HF1>
-<HellFire_2F/@HF2>
-<HellFire_3F/@HF3>
-<HellFire_KingsRoom/@HF4>
+<地狱之火_1F/@HF1>
+<地狱之火_2F/@HF2>
+<地狱之火_3F/@HF3>
+<地狱之火_KingsRoom/@HF4>
 
 <Main Menu/@Main> - <Exit/@Exit>
 [@HF1]

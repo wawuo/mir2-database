@@ -28,4 +28,4 @@ What Posion's do you wish to buy?
 
 [Trade]
 GrenPoison
-RedPoison
+红色毒药

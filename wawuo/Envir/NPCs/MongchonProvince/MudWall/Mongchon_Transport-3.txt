@@ -23,12 +23,12 @@ Maybe next <Time/@exit>
 #SAY
 Which place would you like to go?
  
-<<BorderVillage/@Border>>
+<<边境村/@Border>>
 <<BichonWall/@BichonWall>>
-<<SerpentValley/@Serpent>>
+<<蛇谷/@Serpent>>
 <<MudWall/@MudWall>>
-<<TaoistSchool/@TaoVillage>>
-<<CastleGi-Ryoong/@CastleGi>>
+<<道教之家/@TaoVillage>>
+<<吉良城堡/@CastleGi>>
 
 [@Border]
 #ACT

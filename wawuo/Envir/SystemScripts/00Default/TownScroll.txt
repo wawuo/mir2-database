@@ -3,23 +3,23 @@
 #SAY
 Which Town or Village would you like to visit? 
  
-传送 to: <Border Village/@BVV&T1>
-传送 to: <Bichon Wall/@BWV&T1>
-传送 to: <Serpent Village/@SVV&T1>
-传送 to: <Mud Wall/@MWV&T1>
-传送 to: <Sabuk Castle/@SCV&T1>
+Teleport to: <Border Village/@BVV&T1>
+Teleport to: <Bichon Wall/@BWV&T1>
+Teleport to: <Serpent Village/@SVV&T1>
+Teleport to: <Mud Wall/@MWV&T1>
+Teleport to: <Sabuk Castle/@SCV&T1>
 Please <Show me some more/@MoreV&T1> Locations
 
 [@MoreV&T1]
 #SAY
-传送 to: <Fortress/@FV&T1>
-传送 to: <Seokcho Village/@SeoVV&T1>
-传送 to: <CastleGi-Ryoong Castle/@CRCV&T1>
-传送 to: <Taoist Village/@TVV&T1>
-传送 to: <Prajna Town/@PTV&T1> 
-传送 to: <PastBichon Village/@PBV&T1> Required Level30
-传送 to: <WasteLands/@WLV&T1>
-<Back/@_UseItem(49)>
+Teleport to: <Fortress/@FV&T1>
+Teleport to: <Seokcho Village/@SeoVV&T1>
+Teleport to: <CastleGi-Ryoong Castle/@CRCV&T1>
+Teleport to: <Taoist Village/@TVV&T1>
+Teleport to: <Prajna Town/@PTV&T1> 
+Teleport to: <PastBichon Village/@PBV&T1> Required Level30
+Teleport to: <WasteLands/@WLV&T1>
+<??/@_UseItem(49)>
 
 [@BVV&T1]
 #ACT
@@ -69,7 +69,7 @@ MOVE 6 124 157
 #ELSESAY
 Sorry you are not the correct level.
  
-<Back/@_UseItem(49)>
+<??/@_UseItem(49)>
 
 [@WLV&T1]
 #ACT

@@ -27,5 +27,5 @@ What Posion's do you wish to buy?
 13
 
 [Trade]
-GreenPoison
-RedPoison
+绿毒
+红色毒药

@@ -34,7 +34,7 @@ SnakeWine
 Ebony(Fruit)
 RedSnakeTeeth
 BoxofHolyWater(3)
-SkeletonBone
+Skeleton骨头
 OliviasRing
 Relics
 CookBook
@@ -48,7 +48,7 @@ CaveReport
 SkeletonHead
 RareCopperOre
 OldNecklace
-JadeCrystal
+翡翠水晶
 BugBlood
 BluJadePendant
 Antidote
@@ -56,7 +56,7 @@ GatheringGlove
 GatheringTool
 GreenHerb
 MobBlood
-RedDagger
+Red匕首
 OldRobe
 StolenGold
 HiddenScroll

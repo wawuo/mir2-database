@@ -44,7 +44,7 @@ Special repair.
 SpiritHelmet
 RecallHelmet
 MirHelmet
-BoneHood
+帽子
 MysteryHelmet
 TarragonHelmet
 RaidersHelmet
@@ -55,8 +55,8 @@ CheongboHelmet(WIZ)
 CheongboHelmet(TAO)
 CheongboHelmet(ASSA)
 CheongboHelmet(ARCH)
-BronzeHelmet
-MagicHelmet
+青铜头盔
+双闸刀
 BrassHelmet
 GoldenTiara
 SkeletonHelmet

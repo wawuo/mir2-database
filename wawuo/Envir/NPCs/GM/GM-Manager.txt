@@ -33,8 +33,8 @@ GOTO @GiveHorn
 
 [@GiveHorn]
 #ACT
-CHECKITEM WoomaHorn 1
-GIVEITEM WoomaHorn 1
+CHECKITEM 禾马角 1
+GIVEITEM 禾马角 1
 GOTO @CREATEGUILD
 #ELSEACT
 GOTO @CREATEGUILD
@@ -92,7 +92,7 @@ server develops and adds in more functionality over time.
 Sabuk Wall Management Panel
 
 <Start War/End War/@StartWar>             <Statistics/@SWStatistics>
-<Teleport to InnerWall/@InnerWall>
+<传送 to InnerWall/@InnerWall>
 <Guard Check/@Guards>
 <Gate/Wall Check/@Gates>
 <Repair All/@SWReset>
@@ -265,12 +265,12 @@ LocalMessage "SabukWall Walls/Gate/Guards Repaired/Revived" Hint
 [@SWStatistics]
 #SAY
 Below are some Sabuk Statistics.
-‎ 
+ 
 
 Conquest Gold Stored: <$CONQUESTGOLD(1)>
 Conquest Intrest Rate: <$CONQUESTRATE(1)>
 Next Conquest Date: <$CONQUESTSCHEDULE(1)>
-‎ 
+ 
 <Back/@Sabuk>     <Exit/@Exit>
 
 [@Hero]
@@ -316,7 +316,7 @@ Apply Rebirth          Delete Rebirth             Check Rebirth
 <Rebirth 2/@RB2>                 <Rebirth 2/@RB2DEL>                       <Rebirth 2/@RB2CHK>
 <Rebirth 3/@RB3>                 <Rebirth 3/@RB3DEL>                       <Rebirth 3/@RB3CHK>
 <All/@RB123>                             <All/@DEL123>
-‎ 
+ 
 <Check Main Rebirth Flag/@RBMAIN>      <Delete Main Rebirth Flag/@RBMAINDEL>      <Apply Main Rebirth Flag/@RBMAINADD>
 
 <Back/@Main>

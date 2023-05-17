@@ -49,58 +49,58 @@ You can repair various kinds of Items.
 14
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
-(MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-WoodenSword
-WoodenBow
-Dagger
-EbonySword
-EbonyBow
-BronzeSword
-ShortBow
-ShortSword
-SharpHoaSword
-�ǹ�
-IronSword
-BronzeAxe
-Trident
-HookedSword
-Scimitar
+(HP)药物小量 1
+(HP)药物小量 5
+(HP)药物小量 10
+(MP)药物小量 1
+(MP)药物小量 5
+(MP)药物小量 10
+(HP)药物中量 1
+(HP)药物中量 5
+(HP)药物中量 10
+(MP)药物中量 1
+(MP)药物中量 5
+(MP)药物中量 10
+木剑
+木弓
+匕首
+乌木剑
+乌木弓
+青铜剑
+短弓
+短剑
+锋利的华剑
+骨弓
+铁剑
+青铜斧
+三叉戟
+钩状剑
+弯刀
 BladesOfVelocity
-CompoundBow
-LightArmour(��)
-LightArmour(Ů)
-BronzeHelmet
-MagicHelmet
+复合弓
+轻甲(男)
+轻甲(女)
+青铜头盔
+双闸刀
 BrassHelmet
-LeatherBelt
-ChainBelt
-LowShoes
-LeatherBoots
+皮腰带
+链带
+低帮鞋
+皮靴
 NagaNecklace
 PheonixBead
 AmberNecklace
 LanternNecklace
-HornRing
-IronRing
-WhiteJadeRing
-BlueRing
+喇叭戒指
+铁戒指
+白玉戒指
+蓝戒指
 BlackRing
 SerpentEyeRing
 PearlRing
 GoldRing
-SteelBracelet
-LargeBracelet
-StrainBracelet
-MonkBracelet
-EbonyBracelet
+钢制手镯
+大手镯
+应变手镯
+和尚手链
+黑檀木手镯

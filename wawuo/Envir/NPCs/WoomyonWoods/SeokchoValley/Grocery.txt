@@ -39,23 +39,23 @@ These are the items still available to purchase back.
 13
 
 [Trade]
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-(HP)DrugLarge 1
-(HP)DrugLarge 5
-(HP)DrugLarge 10
-(MP)DrugLarge 1
-(MP)DrugLarge 5
-(MP)DrugLarge 10
-Candle
-Torch
-RandomTeleport
-TownTeleport
-DungeonEscape
-Amulet
-GreenPoison
-RedPoison
+(HP)药物中量 1
+(HP)药物中量 5
+(HP)药物中量 10
+(MP)药物中量 1
+(MP)药物中量 5
+(MP)药物中量 10
+(HP)药物大量 1
+(HP)药物大量 5
+(HP)药物大量 10
+(MP)药物大量 1
+(MP)药物大量 5
+(MP)药物大量 10
+蜡烛
+火炬
+随机传送卷
+城镇传送阵
+地牢逃脱
+护身符
+绿毒
+红色毒药

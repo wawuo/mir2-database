@@ -57,24 +57,24 @@ Quick Entry to:
 [@AOC]
 #ACT
 MOVE D001A
-GIVEITEM TownTeleport 1
+GIVEITEM 城镇传送阵 1
 
 [@AWT]
 #ACT
 MOVE D021A
-GIVEITEM TownTeleport 1
+GIVEITEM 城镇传送阵 1
 
 [@AST]
 #ACT
 MOVE D710A
-GIVEITEM TownTeleport 1
+GIVEITEM 城镇传送阵 1
 
 [@AZT]
 #ACT
 MOVE 0157A
-GIVEITEM TownTeleport 1
+GIVEITEM 城镇传送阵 1
 
 [@APC]
 #ACT
 MOVE D2051A
-GIVEITEM TownTeleport 1
+GIVEITEM 城镇传送阵 1

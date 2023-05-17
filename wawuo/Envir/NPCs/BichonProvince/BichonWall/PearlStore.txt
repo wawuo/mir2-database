@@ -26,6 +26,6 @@ Please select the item you want to buy.
 36
 
 [Trade]
-WonderBox(L)
-WonderBox(��)
-WonderBox(H)
+神奇宝盒(大)
+神奇宝盒(中)
+神奇宝盒(S)

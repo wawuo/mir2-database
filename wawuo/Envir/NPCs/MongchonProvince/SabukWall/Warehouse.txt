@@ -36,7 +36,7 @@ What would like to purchase?
 1
 
 [Trade]
-Stamp
-GoldBar
-GoldBarBundle
-GoldChest
+勋章
+金条
+金条包
+金柜

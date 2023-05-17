@@ -1,10 +1,10 @@
 [FrostTigerSpawn]
 Global=714
 
-[骨头EliteSpawn]
+[BoneEliteSpawn]
 Global=822
 
-[骨头WhooSpawn]
+[BoneWhooSpawn]
 Global=27
 
 [GhoulSpawn]
@@ -67,10 +67,10 @@ Global=0
 [DiamondTerrapinSpawn]
 Global=66
 
-[骨头LordSpawn]
+[BoneLordSpawn]
 Global=54
 
-[Ancient骨头LordSpawn]
+[AncientBoneLordSpawn]
 Global=131
 
 [MinotaurKingSpawn]

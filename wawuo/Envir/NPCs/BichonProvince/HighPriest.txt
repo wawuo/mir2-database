@@ -1,7 +1,7 @@
 [@Main]
 #SAY
-Don't get to close.. I've lost everything..
-Who sent you?
+不要靠近... 我已经失去了一切...
+谁派你来的？
 
 <Close/@exit>
 

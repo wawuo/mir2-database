@@ -2,7 +2,7 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人......。
  
  
 <Close/@exit>
@@ -11,59 +11,60 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome. Thanks for dropping in.
+欢迎。谢谢你的光临。
 
-I see you're wearing: {<$WEAPON>/CORAL}
+我看到你正在穿着: {<$WEAPON>/CORAL}
 
-<View/@BuySell> Store.
-<Repair/@Repair> Weapon.
+<查看/@BuySell> 商店
+<修理/@Repair> 武器
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to Buy or Sell?
-<Buy Back/@BuyBack>
+您想购买或出售哪件物品？
+<返回到购买/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+这些是仍然可以回购的物品.
  
-<Back/@main>
+<返回/@main>
 
 [@Repair]
 #SAY
-Would you like to repair a weapon?
-Show me the weapon that needs it.
- 
-<Back/@main>
+你想修理一件武器吗？
+让我看看需要修理的武器。
+
+<返回/@main>
 
 [Types]
 1
 14
 
 [Trade]
-WoodenSword
-WoodenBow
-HoaSword
-Dagger
-EbonySword
-EbonyBow
-BronzeSword
-SharpHoaSword
-ShortSword
-ShortBow
-IronSword
-�ǹ�
-BronzeAxe
-HookedSword
-Trident
-Scimitar
-BladesofVelocity
-CompoundBow
-PickAxe
+木剑
+木弓
+剑侠情缘
+匕首
+乌木剑
+乌木弓
+青铜剑
+锋利的华剑
+短剑
+短弓
+铁剑
+骨弓
+青铜斧
+钩状剑
+三叉戟
+弯刀
+速度的刀刃
+复合弓
+镐头
+
 
 [Quests]
 5
