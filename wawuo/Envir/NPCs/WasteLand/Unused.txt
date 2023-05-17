@@ -1,9 +1,9 @@
 [@main]
-Hello traveler, I'm the craft NPC for this cave.
+你好 旅行者、 I'm the craft NPC for this cave.
 What can I help you with?
 
 <Craft Items/@craft>.
-<Close/@exit>
+<关闭/@exit>
 
 
 [@craft]
@@ -18,7 +18,7 @@ The following are the items i can forge.
    
 * It will cost 20,000 Gold to forge an item.
 
-<Exit/@exit>
+<退出/@exit>
 
 [@arm1]
 #SAY
@@ -33,7 +33,7 @@ The following are the items i can forge.
 - 10 Platinum
 -  5 StrongRope
 
-<Forge Now/@arm12>    <Back/@main>
+<Forge Now/@arm12>    <返回/@main>
 
 [@arm12]
 #IF
@@ -99,7 +99,7 @@ Please check again.In order to make the AncientHeavyArmour,
 - 10 Platinum
 -  5 StrongRope
 
-<Back/@main>
+<返回/@main>
               
 [@arm2]
 #SAY
@@ -114,7 +114,7 @@ Please check again.In order to make the AncientHeavyArmour,
 - 10 Platinum
 -  5 StrongRope
 
-<Forge Now/@arm23>    <Back/@main>
+<Forge Now/@arm23>    <返回/@main>
 
 
 [@arm23]
@@ -181,7 +181,7 @@ Please check again.In order to make the AncientRobe,
 - 10 Platinum
 -  5 StrongRope   
 
-<Back/@main>   
+<返回/@main>   
 
 
 [@arm3]
@@ -197,7 +197,7 @@ Please check again.In order to make the AncientRobe,
 - 10 Platinum
 -  5 StrongRope
 
-<Forge Now/@arm33>    <Back/@main>
+<Forge Now/@arm33>    <返回/@main>
 
 
 [@arm33]
@@ -264,7 +264,7 @@ Please check again.In order to make the AncientPlate,
 - 10 Platinum
 -  5 StrongRope   
 
-<Back/@main>
+<返回/@main>
 
 
 [@arm4]
@@ -280,7 +280,7 @@ Please check again.In order to make the AncientPlate,
 - 10 Platinum
 -  5 StrongRope
 
-<Forge Now/@arm43>    <Back/@main>
+<Forge Now/@arm43>    <返回/@main>
 
 
 [@arm43]
@@ -347,7 +347,7 @@ Please check again.In order to make the AncientSuit,
 - 10 Platinum
 -  5 StrongRope   
 
-<Back/@main>                       
+<返回/@main>                       
 
 [@arm5]
 #SAY
@@ -362,7 +362,7 @@ Please check again.In order to make the AncientSuit,
 - 10 Platinum
 -  5 StrongRope
 
-<Forge Now/@arm53>    <Back/@main>
+<Forge Now/@arm53>    <返回/@main>
 
 
 [@arm53]
@@ -429,4 +429,4 @@ Please check again.In order to make the AncientLeather,
 - 10 Platinum
 -  5 StrongRope   
 
-<Back/@main>                                                                                                                                                                                                                                               
+<返回/@main>                                                                                                                                                                                                                                               

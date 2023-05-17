@@ -4,7 +4,7 @@
  
 <Read/@Read>
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 
 [@Read]
@@ -26,5 +26,5 @@ MOVE LABY01
 #ELSESAY
 You need to have the {ScrollOfSeal/LightSteelBlue} to enter!
  
-<Close/@Exit>
+<¹Ø±Õ/@Exit>
 

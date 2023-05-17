@@ -8,9 +8,9 @@ GOTO @MAIN-2
 
 [@MAIN-1]
 #SAY
-Hello again traveler.. How are you on this fine day? 
+你好 again traveler.. How are you on this fine day? 
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN-2]
 #IF
@@ -18,12 +18,12 @@ CHECKQUEST 155 1
 #SAY
 Well you have proven yourself to me. 
 I shall inform those will <listen/@listen>.
-<Close/@exit>
+<关闭/@exit>
 #ELSESAY
 How can I trust you? I don't even know who you are.
 Maybe you could do something for me? 
  
-<Close/@exit>
+<关闭/@exit>
 
 [@listen]
 #ACT
@@ -31,7 +31,7 @@ SET [539] 1
 #SAY
 Farewell traveler.
  
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 155

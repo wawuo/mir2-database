@@ -21,8 +21,8 @@ CHECKITEM TimeStonePiece 1
 TAKEITEM TimeStonePiece 1
 MOVE 6 63 247
 #ELSESAY
-I'm sorry you do not have a {TimeStonePiece/LightSteelBlue}.
-<Close/@exit>          
+I'm ±§Ç¸ you do not have a {TimeStonePiece/LightSteelBlue}.
+<¹Ø±Õ/@exit>          
 
 [@level40]
 #ACT

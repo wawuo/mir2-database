@@ -7,7 +7,7 @@ TAKEITEM 龙鳞 1
 <Enter the Dragons Lair./@tele>
 #ELSESAY
 You do not have the {龙鳞/LightSteelBlue}!
-<Close/@exit>
+<关闭/@exit>
 
 [@tele]
 #ACT

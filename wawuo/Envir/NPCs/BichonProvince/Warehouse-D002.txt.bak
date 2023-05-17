@@ -1,0 +1,16 @@
+[@MAIN]
+#SAY
+ÄãºÃ traveller. How can i help you?
+ 
+<Access/@Storage> Storage
+
+<¹Ø±Õ/@exit>
+
+
+
+[@Storage]
+#SAY
+What item do you want to store or withdraw?
+ 
+<Back/@Main> - <¹Ø±Õ/@exit>
+

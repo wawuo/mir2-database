@@ -2,7 +2,7 @@
 #SAY
 Ahh...where am i?
 
-<Exit/@exit>
+<ÍË³ö/@exit>
 
 
 [Quests]

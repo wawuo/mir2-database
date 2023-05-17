@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -17,7 +17,7 @@ Bichon Token.
 If you would like a Bichon Token you can purchase one from me.
 <Buy Bichon Token/@Buy>
 <Ask about Bichon Token/@Ask>
-<Close/@Exit>
+<关闭/@Exit>
 
 [@Ask]
 #SAY
@@ -36,7 +36,7 @@ Also you will need the Bichon Token to go thought the cave.
 Please choose what you want to buy.
  
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Trade]

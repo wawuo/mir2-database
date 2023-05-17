@@ -1,14 +1,14 @@
 [@main]
 #SAY
-How are you? Mirian <$USERNAME>!
-I am the Guild Territory Merchant and
-I'm in charge of guild territory rent and sales.
+你好吗？米里安<$USERNAME>!
+我是公会领地商人，并且
+我负责公会领地的租金和销售.
 
 <What is/@info> a guild territory?
 I want to <rent/@rent> a guild territory.
 I want to <go/@move> to my guild territory.
 I want to check the <list/@agitbuy> of guild territories.
-I want to <trade/@trade> my guild territory.
+I want to <交易/@trade> my guild territory.
 
 [@info]
 #SAY
@@ -20,7 +20,7 @@ where privacy is still not guaranteed. Guild members may
 have private conversations and socialize with other members.
 In short, it is a residence for clans.
 
-<Back/@main>
+<返回/@main>
 
 [@rent]
 #SAY
@@ -30,7 +30,7 @@ If you want to extend, talk to the 'GT Steward' in the territory.
 After paying the fee of 1,000,000 {Gold/Gold},
 the rent will be extended for an additional 7 days.
 
-Do you still want to rent a territory? <Rent/@agitreg> <Cancel/@exit>
+Do you still want to rent a territory? <Rent/@agitreg> <取消/@exit>
 
 [@move]
 #SAY
@@ -41,7 +41,7 @@ If you wish to return to castles or villages, look
 for the Armed Transporter at the entrance of the
 guild territory.
 
-Do you want to move to the guild territory? <Move/@agitmove> <Cancel/@exit>
+Do you want to move to the guild territory? <移动/@agitmove> <取消/@exit>
 
 [@agitbuy]
 #SAY
@@ -52,7 +52,7 @@ to the guild master who owns the territory. And if you wish to
 purchase the guild territory after reaching agreement,
 use the 'trade' menu of the main screen.
 
-<Back/@main>
+<返回/@main>
 
 [@trade]
 #SAY
@@ -62,4 +62,4 @@ the ownership is transferred in 24 hours and the previous owners
 are automatically 'kicked out' from the territory.
 So, please think carefully berfore trading the guild territory.
 
-Will you trade? <Trade/@agittrade> <Cancel/@exit>
+Will you trade? <交易/@agittrade> <取消/@exit>

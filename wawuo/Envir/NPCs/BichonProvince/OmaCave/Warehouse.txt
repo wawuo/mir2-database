@@ -1,10 +1,10 @@
 [@MAIN]
 #SAY
-Hello traveller. How can i help you?
+你好 traveller. How can i help you?
  
 <Access/@Storage> Storage
 
-<Close/@exit>
+<关闭/@exit>
 
 
 
@@ -12,5 +12,5 @@ Hello traveller. How can i help you?
 #SAY
 What item do you want to store or withdraw?
  
-<Back/@Main> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 

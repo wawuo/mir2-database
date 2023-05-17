@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -17,7 +17,7 @@ GOTO @Main-1
 那么你怎么说？
  
 我将使用这个 <服务/@tele>
-Maybe next <Time/@exit> 
+下次吧 <Time/@exit> 
 
 [@tele]
 #SAY
@@ -90,7 +90,7 @@ GOTO @gold
 #SAY
 对不起，你没有足够的黄金。
 
-<Exit/@Exit>
+<退出/@Exit>
 
 [Quests]
 49

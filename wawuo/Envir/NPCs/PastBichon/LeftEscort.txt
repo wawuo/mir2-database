@@ -3,7 +3,7 @@
 I will gladly die for the general, if I can protect
 him by doing so.
 <Talk/@talk>
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [@talk]
 #SAY
@@ -11,5 +11,5 @@ You know what makes my life harder?
 Before the relief comes I can not leave the spot freely
 even for toilet. I wonder I might suffer from
 constipation one day...
-<close/@exit>
+<¹Ø±Õ/@exit>
 

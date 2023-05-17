@@ -2,7 +2,7 @@
 #SAY
 He seems to be pisoned, He has cold sweat on his face.
 
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 
 [Quests]

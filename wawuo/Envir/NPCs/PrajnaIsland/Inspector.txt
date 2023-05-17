@@ -2,21 +2,21 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello I'm the inspector dispatched from Bichon.
+你好，我是 the inspector dispatched from Bichon.
 I sincerely ask you to cooperate with the authorities
 if and when something happens around here.
  <Ask/@ask1> what he is investigating
  <Ask/@ask2> about the Bottomless Pit
- <Close/@exit>
+ <关闭/@exit>
 
 [@ask1]
 Lately, a number of unidentified monsters have been seen
@@ -30,7 +30,7 @@ whether that place has something to do with monsters.
 We haven't been able to locate the exact position of this
 Bottomless Pit... If you discover it's whereabouts,
 please make sure you inform me as soon as you can.
- <Close/@exit>
+ <关闭/@exit>
 
 [@ask2]
 I dont actually know in great detail, but from what I heard,
@@ -43,7 +43,7 @@ avoid being out in the wilderness alone.
 [@next2]
 I'm afraid that's all the information I have. If you want to
 know more about it, go and speak to the village chief
- <Close/@exit>
+ <关闭/@exit>
 
 [Quests]
 121

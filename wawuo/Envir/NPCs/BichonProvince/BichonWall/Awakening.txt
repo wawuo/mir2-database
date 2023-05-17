@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -22,16 +22,16 @@ Welcome <$USERNAME>, I am the Awakening Master.
 #SAY
 Choose which Item you wish to Disassemble.
  
-<Back/@Main>
+<返回/@Main>
 
 [@Downgrade]
 #SAY
 Choose which Item you wish to Downgrade.
  
-<Back/@Main>
+<返回/@Main>
 
 [@Reset]
 #SAY
 Choose which Item you wish to Reset.
  
-<Back/@Main>
+<返回/@Main>

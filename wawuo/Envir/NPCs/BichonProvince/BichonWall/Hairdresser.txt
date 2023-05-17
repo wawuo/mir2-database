@@ -4,7 +4,7 @@ I am the local hairdresser, specialized in the cutting hair.
 I have been sent here to check the living conditions of people.
 Unfortunately, it seems that many people are still suffering from
 poverty and can't afford to get a hair cut.
-I'm happy to do it for 20,000 gold.
+I'm happy to do it for 20,000         ½ð±Ò
 
 However I must warn you, you will need to relog after changing your hair.
 
@@ -22,7 +22,7 @@ What haircut would you like?
 <Blue Afro/@BlAfro>
 
 
-<Exit/@exit>         <Back/@Main>
+<ÍË³ö/@exit>         <·µ»Ø/@Main>
 
 [@Brown]
 #IF

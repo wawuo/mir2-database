@@ -5,7 +5,7 @@ CHECKPKPOINT > 199
 我不会帮助像你这样的恶人......。
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 

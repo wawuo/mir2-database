@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -18,4 +18,4 @@ Mir continent, will be erected.
 If you wish to know the names of the heroes,
 go over there and look at the statues.
  
-<Close/@exit>
+<关闭/@exit>

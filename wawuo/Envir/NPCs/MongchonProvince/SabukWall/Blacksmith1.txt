@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -14,19 +14,19 @@ GOTO @Main-1
 Hey! Jude, don't make it bad... Well customer get here..
 How do you feel about my song?
 
-I see you're wearing: {<$WEAPON>/CORAL}
+我看到你正穿着: {<$WEAPON>/CORAL}
 
 <Weapon Refine/@Refine>
 <Retrieve Weapon/@RefineCollect>
 <Check Weapon/@RefineCheck>
-<Close/@exit>
+<关闭/@exit>
 
 [@Refine]
 #SAY
 I can upgrade weapons for you for a small fee. To make an Upgrade you 
 need {黑铁矿/LightSteelBlue}, Jewelery, Weapon and {Gold/Gold}. Do you have these 
 ready for me? 
-<Return/@main> <Close/@exit>
+<Return/@main> <关闭/@exit>
 
 [@RefineCollect]
 

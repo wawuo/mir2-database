@@ -26,10 +26,10 @@ GOTO @Main-2
 #SAY
 Greeting's Traveler. The morale of the City has improved.
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [@MAIN-2]
 #SAY
 Greeting's Traveler. How are you on this fine day?
  
-<Close/@exit>
+<¹Ø±Õ/@exit>

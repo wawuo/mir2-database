@@ -2,16 +2,16 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello. I am the 'Commission Merchant'. I am in charge
+你好. I am the 'Commission Merchant'. I am in charge
 of commission sales. We are located at five places of
 Bichon Province, Mongchon Province, Tao Village, Prajna
 Island and Past Bichon, the item sales information are
@@ -21,7 +21,7 @@ all shared by the five merchants.
 
 
 
-<Close/@exit> <Help/@help>
+<关闭/@exit> <Help/@help>
 
 [@help]
 #SAY
@@ -35,7 +35,7 @@ The following are 'cautions' in the commission sale.
    for sale
 5. Trust money amount: can be set in the range of
    1,000 - 50,000,000 {Gold/Gold}. 
-<Back/@main>
+<返回/@main>
 
 [@Market]
 #SAY

@@ -7,7 +7,7 @@ CHECKQUEST 153 1
 A Mysterious Stone with Ancient symbols.
 "Dungeon of the Ancient <Ones/@omacavea>" {Level10~22./KHAKI}
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 #ELSEACT
 GOTO @MAIN-1
 #ELSESAY
@@ -22,7 +22,7 @@ SET [536] 1
 A Mysterious Stone with Unknown symbols.
  
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [@omacavea]
 #IF

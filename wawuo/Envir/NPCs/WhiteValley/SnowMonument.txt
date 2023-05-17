@@ -5,7 +5,7 @@ An Monument which read's
 "Those who dare enters will die"
 <Enter/@move1>
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [@move1]
 #IF

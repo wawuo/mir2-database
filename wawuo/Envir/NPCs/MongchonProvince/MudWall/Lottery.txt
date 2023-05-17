@@ -12,7 +12,7 @@ I will not speak to such a person like you.
  
 Your PK POINTS: <$PKPOINT>
  
-<Exit/@Exit>
+<退出/@Exit>
 
 [@NPCNUMBER]
 #IF
@@ -92,7 +92,7 @@ NPC didnt select a number
 
 [@MainPage]
 #SAY
-Hello, Do you want to play a game?
+你好, Do you want to play a game?
 All you have to do is guess what number I'm thinking
 If you guess correctly you will be gifted 100,000 {Gold/GOLD}
 However if you guess wrongly you will lose 10,000 {Gold/GOLD}
@@ -100,7 +100,7 @@ However if you guess wrongly you will lose 10,000 {Gold/GOLD}
 Would you like to <Play/@PLAY>?
  
  
-<Close/@EXIT>
+<关闭/@EXIT>
 
 [@Play]
 The rules are simple. All you have to do is guess the number
@@ -136,7 +136,7 @@ Congratulations, you Won! Enjoy your 100,000 {Gold/GOLD} Coins.
  
  
  
-<Play again/@NPCNUMBER> - <Close/@EXIT>
+<Play again/@NPCNUMBER> - <关闭/@EXIT>
 #ELSEACT
 GIVEGOLD 100000
 
@@ -153,7 +153,7 @@ Unfortunately you lost, better luck next time.
  
  
  
-<Play again/@NPCNUMBER> - <Close/@EXIT>
+<Play again/@NPCNUMBER> - <关闭/@EXIT>
 #ELSEACT
 TAKEGOLD 10000
 
@@ -163,4 +163,4 @@ Please come back when you have the funds to gamble.
  
  
  
-<Close/@EXIT>
+<关闭/@EXIT>

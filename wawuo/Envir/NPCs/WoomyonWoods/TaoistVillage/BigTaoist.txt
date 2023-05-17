@@ -4,9 +4,9 @@ CHECK [530] 1
 #ACT
 GOTO @Next1
 #ELSESAY
-Welcome <$USERNAME>, What can i do for you?
+Welcome <$USERNAME>, 欢迎。我能为你做什么?
 
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 SET [530] 1
 
@@ -16,9 +16,9 @@ CHECKQUEST 146 1
 #ACT
 GOTO @CHECK2
 #ELSESAY
-Welcome <$USERNAME>, What can i do for you?
+Welcome <$USERNAME>, 欢迎。我能为你做什么?
 
-<Close/@exit>
+<关闭/@exit>
 
 [@CHECK2]
 #IF
@@ -114,7 +114,7 @@ my spirit from grasp of the huge demonic power and I aquired a
 skill to let my soul remain even after my body Died. Now I would
 like to ask you, get back the 红月亮芯片 and bring it to me
 If left alone, other person will become a victim like me....
-<Close/@Quest8>
+<关闭/@Quest8>
 
 [@Quest8]
 #ACT
@@ -124,9 +124,9 @@ CLOSE
 
 [@Next3]
 #SAY
-Welcome <$USERNAME>, What can i do for you?
+Welcome <$USERNAME>, 欢迎。我能为你做什么?
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 -146

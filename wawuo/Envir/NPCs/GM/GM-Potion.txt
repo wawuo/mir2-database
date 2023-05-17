@@ -2,7 +2,7 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you have {<$HP> | <$MAXHP> HP/RED} and {<$MP> | <$MAXMP> MP/ROYALBLUE}
 <Buy/@Buy> Potion
 <Sell/@Sell> Potion
@@ -16,14 +16,14 @@ MOVE 0 300 300
 #SAY
 Buy.
  
-<Back/@Main>
+<返回/@Main>
 
 
 [@Sell]
 #SAY
 Sell.
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]

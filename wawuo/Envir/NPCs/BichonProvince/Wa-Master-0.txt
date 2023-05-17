@@ -3,7 +3,7 @@
 My beloved house..
 It was burned to the ground thanks to this war!
 I'm still waiting to hear back from the castle..
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [Quests]
 -7

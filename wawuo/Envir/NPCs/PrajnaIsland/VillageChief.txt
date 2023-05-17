@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -19,7 +19,7 @@ GOTO @Main-1
  <ask/@ask2> about the monsters
  <ask/@ask3> about the Bottomless Pit
  <move outside/@Tmove>
- <close/@exit>
+ <关闭/@exit>
 
 [@ask1]
  According to the legend, 1000 years ago there was an
@@ -46,7 +46,7 @@ GOTO @Main-1
 [@next3]
  What? Unbelievable you say? Ha ha ha...
  of course, that's why I told you it is a legend! 
- <close/@exit>
+ <关闭/@exit>
 
 [@ask2]
  I believe that the monsters spotted recently must be
@@ -61,7 +61,7 @@ GOTO @Main-1
  Why must something like this happen in the very twilight
  of my life?
  What misfortune... what sadness... bah! 
- <close/@exit>
+ <关闭/@exit>
 
 [@ask3]
  The "Bottomless Pit"? Now there's something I haven't
@@ -101,7 +101,7 @@ GOTO @Main-1
  where was the pit but it might appear again.
  Village elders, who are aware of the incidents,
  aew anxious about that. 
- <close/@exit>
+ <关闭/@exit>
 
 [@Tmove]
 #IF

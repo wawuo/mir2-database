@@ -8,7 +8,7 @@
 <Weapon shop/@go-weap>   <Armour shop/@go-cloth>   <Accessory shop/@go-access>   
 <General Store/@go-pot>   <Book store/@go-book>
 
-<Close/@Exit>
+<¹Ø±Õ/@Exit>
  
 [@go-weap]
 #ACT

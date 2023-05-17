@@ -11,36 +11,36 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello Traveller. What can I do for you? 
+你好旅行者。我能为你做什么? 
 
 我看到你穿着: {<$ARMOUR>/CORAL}
 我看到你穿着: {<$HELMET>/CORAL}
 我看到你穿着: {<$BELT>/CORAL}
 我看到你穿着: {<$BOOTS>/CORAL}
 
-<查看/@BuySell> Store.
-<修理/@Repair> Drapery pieces.
+<查看/@BuySell> 商店
+<修理/@Repair> 布帘.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
 有什么相买或卖的?
-<Buy Back/@BuyBack>
+<返回 购买/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@BuyBack]
 #SAY
 这些是仍可购买的物品.
  
-<Back/@main>
+<返回/@main>
 
 [@Repair]
 #SAY
 您需要修理窗帘吗？
  
-<Back/@main>
+<返回/@main>
 
 
 [Types]

@@ -2,7 +2,7 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 <Buy/@Buy> Crafting Material
 <Sell/@Sell> Crafting Material
 
@@ -13,14 +13,14 @@ MOVE 0 300 300
 #SAY
 Buy.
  
-<Back/@Main>
+<返回/@Main>
 
 
 [@Sell]
 #SAY
 Sell.
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]

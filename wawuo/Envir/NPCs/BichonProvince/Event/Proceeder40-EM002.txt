@@ -15,7 +15,7 @@ GOTO @next1
 [@done2]
 #SAY
 You have already completed this quest!
-<Exit/@exit>
+<退出/@exit>
 [@next1]
 #IF
 CHECK [501] 1

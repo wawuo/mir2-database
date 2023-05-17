@@ -10,7 +10,7 @@ Are you ready?
 #SAY
 Please turn back and never come back.
 
-<Exit/@exit>
+<ÍË³ö/@exit>
 
 [@yes]
 #SAY

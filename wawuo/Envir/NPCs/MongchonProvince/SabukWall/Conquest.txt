@@ -13,7 +13,7 @@ Next Conquest Date:
 
 * <$CONQUESTSCHEDULE(1)> {Attacking Guild/Orange}
 
- <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>      <Exit/@exit>
+ <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>      <ÍË³ö/@exit>
 
 #ELSEACT
 LocalMessage "Come back when you own Sabuk Wall!" Hint

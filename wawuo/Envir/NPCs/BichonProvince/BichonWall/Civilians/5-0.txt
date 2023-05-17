@@ -16,16 +16,16 @@ GOTO @MAIN-3
 
 [@MAIN-1]
 #SAY
-Hello traveler.. I have been hearing good things about 
+你好 traveler.. I have been hearing good things about 
 the Emperors good deeds.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN-2]
 #SAY
-Hello again traveler.. Its a fine day is it not.
+你好 again traveler.. Its a fine day is it not.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN-3]
 #IF
@@ -35,7 +35,7 @@ Thankyou traveler you have saved me some time.
 And boy o boy doesn't she talk a lot of rubbish..
  
 So you want my help spreading the good deed's of the <Emperor/@Emperor>?
-<Close/@exit>
+<关闭/@exit>
 #ELSESAY
 How about you do something for me first? 
  
@@ -47,6 +47,6 @@ SET [541] 1
 #SAY
 Very well traveler.. 
  
-<Close/@exit>
+<关闭/@exit>
 [Quests]
 156

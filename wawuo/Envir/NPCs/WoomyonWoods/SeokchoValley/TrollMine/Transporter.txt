@@ -10,7 +10,7 @@ that lurks in the 4th floor?
 I'm afraid if you haven't heard of the beast
 then it's best I don't help you get to his lair.
 
-<I have heard the tails/@yes> <Exit/@exit>
+<I have heard the tails/@yes> <ÍË³ö/@exit>
 
 [@yes]
 #SAY

@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -16,16 +16,16 @@ I sell Items for your Tiger! Please take alook!
 I see you have: {<$MOUNT>/CORAL}
 Mount Loyalty: {<$MOUNTLOYALTY>/CORAL}
 
-<View/@BuySell> Store.
+<查看/@BuySell> 商店
  
-<Close/@exit>
+<关闭/@exit>
 
 
 [@BuySell]
 #SAY
 What would you like to purchase?
  
-<Back/@main>
+<返回/@main>
 
 [Type]
 19

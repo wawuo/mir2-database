@@ -16,12 +16,12 @@ A Mysterious Stone. With Ancient symbols.
 "Banished Creatures <within./@Woomaa>"
 {WoomaHeart/LightSteelBlue} Required {Level 43~48./KHAI}
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 #ELSESAY
 Nothing happens.
  
  
-<Close/@Exit>
+<¹Ø±Õ/@Exit>
 
 [@Woomaa]
 #IF

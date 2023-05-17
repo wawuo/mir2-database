@@ -23,7 +23,7 @@ Go and see the owner of this school.
 [@Main-2]
 #SAY
 The HolyWeapon... I would never believe it.
-<Close/@Exit>
+<¹Ø±Õ/@Exit>
 
 [@Main-3]
 #SAY

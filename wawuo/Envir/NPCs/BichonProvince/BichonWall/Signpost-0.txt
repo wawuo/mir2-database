@@ -13,7 +13,7 @@
 <Accessory shop/@go-access>   <Reagent Store/@go-pot>   <Bichon Inner Wall/@go-palace>
 <Book store/@go-book>  <Butcher's shop/@go-meat>
 
-<Close/@Exit>
+<¹Ø±Õ/@Exit>
  
 
 [@ask]
@@ -22,7 +22,7 @@ News:
 
 
 
-<Back/@Main>
+<·µ»Ø/@Main>
 
 [@go-weap]
 #ACT

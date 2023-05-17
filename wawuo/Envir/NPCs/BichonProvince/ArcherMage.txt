@@ -3,7 +3,7 @@
 我是MasterMage Don，你叫什么名字？
 欢迎来到我的家...
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 -10

@@ -3,7 +3,7 @@
 
 [@main-1]
 #SAY
-I will guide you to the desired store.
+I will guide you to the desired ил╣Й
 Where shall I teleport you?
 
 <Weapon shop/@Weapon>   <Reagent store/@reagent>

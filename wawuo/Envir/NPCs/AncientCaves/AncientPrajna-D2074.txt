@@ -16,12 +16,12 @@ A Mysterious Stone with Ancient symbols.
 "The 骨头s are crunching the Fear is <within/@prajnacavea>"
 {PrajnaHeart/LightSteelBlue} Required {Level48~55./KHAKI}
  
-<Close/@exit>
+<关闭/@exit>
 #ELSESAY
 Nothing happens. 
  
  
-<Close/@exit>
+<关闭/@exit>
 
 [@prajnacavea]
 #IF
@@ -33,4 +33,4 @@ MOVE D2051A 113 174
 Nothing happens.
  
  
-<Close/@exit>
+<关闭/@exit>

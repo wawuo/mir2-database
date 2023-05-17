@@ -12,8 +12,8 @@ SunPotion
 
 [@BuySell]
 #SAY
-Please select the Recipe you either want to Buy or Sell.
-<Buy Back/@BuyBack>
+有什么要出售或购买.
+<返回 购买/@BuyBack>
 
 [RECIPE]
 (HP)药物XL

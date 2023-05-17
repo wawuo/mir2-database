@@ -16,12 +16,12 @@ A Mysterious Stone with Ancient symbols.
 "The still dont remain still for <long./@zumatemplea>"
 {ZumaHeart/LightSteelBlue} Required {Level55~70./KHAKI}
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 #ELSESAY
 Nothing happens.
  
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [@zumatemplea]
 #IF

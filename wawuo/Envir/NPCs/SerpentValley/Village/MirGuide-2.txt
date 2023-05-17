@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -40,7 +40,7 @@ Please refer to the whole map by pressing B.
 
 <LV1~3/@lvl1-3>      <LV3~7/@lvl3-7>      <LV7~11/@lvl7-11>
 
-<Back/@hunting>                           <Go to Main/@main>
+<返回/@hunting>                           <Go to Main/@main>
 
 [@lvl1-3]
 #SAY
@@ -49,7 +49,7 @@ They do not attack until you hit them.
 In fact, you can get some fresh <meat/@slicemeat> and by trading it with butcher in town,
 you can money in return.
 
-<Back/@level1-11>                              <Go to Main/@main>
+<返回/@level1-11>                              <Go to Main/@main>
 
 [@slicemeat]
 #SAY
@@ -60,11 +60,11 @@ Mining: Equip 镐头 to mine. Left click will automatically of mining.
 Those acquired minerals will be used as raw material for
 crafting items or for selling.
 
-<Back/@basic>              <Go to Next/@slicemeatnext>
+<返回/@basic>              <Go to Next/@slicemeatnext>
 
 [@slicemeatnext]
 #SAY
-Medicinal stuff: You can acquire some medicinal stuff from dead body of
+Medicinal 材料: You can acquire some medicinal 材料 from dead body of
 some monsters when taken such slicing meat action.
 ( SpittingSpider, CannibalPlant, CaveMaggot )
 
@@ -72,14 +72,14 @@ Item: You can acquire some item from dead body of some
 monsters when taken such slicing meat action.
 ( SpiderBat, ToxicGhoul, Dung, etc )
 
-<Back/@basic>                <Go to Main/@main>
+<返回/@basic>                <Go to Main/@main>
 
 [@lvl3-7]
 #SAY
 Once you go far away from town, hunt HookingCat, RakingCat, Yob, Wolf,
 ShellNipper, Keratoid and etc.
 
-<Back/@level1-11>            <Go to Main/@main>
+<返回/@level1-11>            <Go to Main/@main>
 
 [@lvl7-11]
 #SAY
@@ -88,7 +88,7 @@ The combat abillity will be increased, so try Oma, ForestYeti, CannibalPlant,
 VisceralWorm, SpittingSpider and etc at this time.
 But be specially aware of poison from Spitting Spider.
 
-<Back/@level1-11>              <Go to Main/@main>
+<返回/@level1-11>              <Go to Main/@main>
 
 [@level11-21]
 #SAY
@@ -99,7 +99,7 @@ far away from town.
 
 <LV 11~14/@lvl11-14>      <LV 14~17/@lvl14-17>      <LV 17~22/@lvl17-22>
 
-<Back/@hunting>                    <Go to Main/@main>
+<返回/@hunting>                    <Go to Main/@main>
 
 [@lvl11-14]
 #SAY
@@ -108,7 +108,7 @@ TigerSnake, and in 蛇谷 and OmaFighter.
 If you are a Wizard who learned Hellfire skill,
 raft driving is most recommended.
 
-<Back/@level11-21>         <Go to Main/@main>
+<返回/@level11-21>         <Go to Main/@main>
 
 [@lvl14-17]
 #SAY
@@ -119,7 +119,7 @@ Bring 蜡烛, 传送门 Scroll and enough potions.
 It is located far away from town.
 But be specially aware of poison from CaveMaggot. You mat be paralyzed.
 
-<Back/@level11-21>                 <Go to Main/@main>
+<返回/@level11-21>                 <Go to Main/@main>
 
 [@lvl17-22]
 #SAY
@@ -129,7 +129,7 @@ This place may give you a difficult time because killed Zombie will keep
 reviving for a few times.
 Thunderbolt of Wizard is very effective in this place.
 
-<Back/@level11-21>                   <Go to Main/@main>
+<返回/@level11-21>                   <Go to Main/@main>
 
 [@level21-30]
 #SAY
@@ -138,7 +138,7 @@ MineralMine at the first half of Level 20.
 And go AngledStoneTomb or Treepath at Level 30 to 35.
 Unstoppable tense atmosphere during the battle will be given.
 
-<Back/@hunting>                      <Go to Main/@main>
+<返回/@hunting>                      <Go to Main/@main>
 
 [@level31-40]
 #SAY
@@ -148,7 +148,7 @@ half of Level 30.
 Go to PrajnaTemple at Level 35 to 40.
 RedValley would be an alternative choice at this level.
 
-<Back/@hunting>                   <Go to Main/@main>
+<返回/@hunting>                   <Go to Main/@main>
 
 [@level41]
 #SAY
@@ -158,7 +158,7 @@ By the time you get used to this place, go to PastBichon by the TimeStone
 in Prajna field.
 You will meet scary monsters and fire dragon.
 
-<Back/@hunting>                   <Go to Main/@main>
+<返回/@hunting>                   <Go to Main/@main>
 
 [@combat]
 #SAY
@@ -185,13 +185,13 @@ it will be disappeared and success message will appear.
 3) Open skill screen(F11), activate learned skill.
 (Decide which key will be used for quick slot.)
 
-<Back/@combat>                                    <Go to Next/@skilllearningnext>
+<返回/@combat>                                    <Go to Next/@skilllearningnext>
 
 [@skilllearningnext]
 #SAY
 4) Detailed explanation is displayed in skill type section.
 
-<Back/@combat>                       <Go to Main/@main>
+<返回/@combat>                       <Go to Main/@main>
 
 [@warrskill]
 #SAY
@@ -205,7 +205,7 @@ Remember, Warrior skills are all melee type.
 <Halfmoon 26/@halfmoon>     <火焰之剑 35/@fsword>     <愤怒 44/@rage>
 <保护场 39/@profield>
 
-<Back/@combat>                 <Go to Main/@main>
+<返回/@combat>                 <Go to Main/@main>
 
 [@wizskill]
 #SAY
@@ -218,7 +218,7 @@ multiple attack. But it consumes much MP.
 <ElecShock 13/@eshock>     <传送 19/@tele>     <寒霜紧缩 28/@fcrunch>
 <大火球 15/@gfball>     <火焰弹 22/@fbang>     <Thunderstorm 30/@tstorm>
 
-<Back/@combat>              <Go to Next/@wizskill2>
+<返回/@combat>              <Go to Next/@wizskill2>
 
 [@wizskill2]
 #SAY
@@ -230,7 +230,7 @@ Wizard skill page 2:
 <冰风暴 35/@冰风暴>   <流星打击 49/@meteor>
 <火焰破坏者 38/@fdisrupt>
 
-<Back/@combat>                   <Go to Main/@main>
+<返回/@combat>                   <Go to Main/@main>
 
 [@taoskill]
 #SAY
@@ -242,7 +242,7 @@ Only Taoists can use tallisman or poison as one of the skills.
 <中毒 14/@poison>     <大规模躲藏 21/@masshide>     <能量反击器 27/@energyrep>
 <灵魂火球 18/@sfb>   <灵魂盾牌 22/@soulshield>   <陷阱六边形 28/@陷阱hex>
 
-<Back/@combat>                         <Go to Next/@taoskill2>
+<返回/@combat>                         <Go to Next/@taoskill2>
 
 [@taoskill2]
 #SAY
@@ -252,7 +252,7 @@ Taoist skill page 2:
 <终极强化器 33/@ultimateenhance>     <召唤神术 35/@summonshin>     <转世 37/@rein>
 <召唤圣德瓦 38/@summondeva>     <诅咒 40/@curse>     <毒云 43/@poisoncloud>
 
-<Back/@combat>                         <Go to Main/@main>
+<返回/@combat>                         <Go to Main/@main>
 
 [@fencing]
 #SAY
@@ -260,7 +260,7 @@ Taoist skill page 2:
 
 HItting accuracy will be increased in accordance with practice level.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@slaying]
 #SAY
@@ -269,7 +269,7 @@ HItting accuracy will be increased in accordance with practice level.
 HItting accuracy and destructive power will be increased
 in accordance with practice level.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@thrusting]
 #SAY
@@ -278,7 +278,7 @@ in accordance with practice level.
 Attack two people straight in a row. Click to activate or deactivate the skill.
 No MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@halfmoon]
 #SAY
@@ -286,7 +286,7 @@ No MP will be consumed.
 
 Damage 4 enemies at once near by. MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@sdash]
 #SAY
@@ -296,7 +296,7 @@ Push away enemies by charging them with his shoulder, inflicting damage if
 they hit any obstacles. Skill will be ineffective at higher level enemy.
 MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@tdb]
 #SAY
@@ -308,7 +308,7 @@ It has a low chance of making the enemy stunned for a while.
 (Stunned Enemies get 1.5 times more damage than when they are hit under
 normal condition).
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@en陷阱ment]
 #SAY
@@ -317,7 +317,7 @@ En陷阱ment (Level 32)
 Pull one enemy nearby.
 MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@fsword]
 #SAY
@@ -327,7 +327,7 @@ Powerful hit on enemy.
 Keep clicking skill key and left click the target in 15 seconds.
 MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@lionsroar]
 #SAY
@@ -337,7 +337,7 @@ Paralyze enemies within 5x5 square range for certain probability.
 Skill will be ineffective at higher level enemy.
 MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@chm]
 #SAY
@@ -346,7 +346,7 @@ MP will be consumed.
 All the enemies nearby 8 o'clock direction at once.
 Skill key must be clicked. MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@BA]
 #SAY
@@ -355,7 +355,7 @@ Skill key must be clicked. MP will be consumed.
 Multiple area attack against enemies a distance away.
 MP will be consumed.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@rage]
 #SAY
@@ -365,7 +365,7 @@ Enhances your inner force to increase its power for a certain time.
 Defense power and duration time will depend on the skill level.
 Once the skill has been used, you will have to wait to use it again.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@profield]
 #SAY
@@ -376,7 +376,7 @@ This will enhance the protection from enemies.
 Defense power and duration time will depend on the skill level.
 Once the skill has been used, you will have to wait to use it again.
 
-<Back/@warrskill>                     <Go to Main/@main>
+<返回/@warrskill>                     <Go to Main/@main>
 
 [@fireball]
 #SAY
@@ -385,7 +385,7 @@ Fireball (Level 7)
 Long distance flaming attack which is basic skill of Wizard as a beginner.
 Flame attack can damage the target distance away.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@repulse]
 #SAY
@@ -395,7 +395,7 @@ Allows you to push away mobs and people at 8 o'clock direction.
 Skill will be ineffective at higher level enemy.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@eshock]
 #SAY
@@ -406,7 +406,7 @@ in a flash. It's also useful for taming monsters.
 Skill will be ineffective at higher level enemy.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@gfball]
 #SAY
@@ -415,7 +415,7 @@ MP will be consumed.
 More powerful skill of the basic fireball.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@hellfire]
 #SAY
@@ -424,7 +424,7 @@ Hellfire (Level 16)
 Throws a column of flame straight ahead of the caster. (5 square range)
 MP will be consumed.
                                 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@tbolt]
 #SAY
@@ -434,7 +434,7 @@ Attacks enemies by calling a thunderbolt that will hit the target from the sky.
 Specialized on undead type monsters.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@tele]
 #SAY
@@ -444,7 +444,7 @@ Allows a wizard to move instantly to a random place in a Marian Province.
 Skill training will increase the chance of landing near towns.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@fbang]
 #SAY
@@ -454,7 +454,7 @@ Create a 3x3 square high temperature fire flash,
 instantly damaging every enemy in range.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@fwall]
 #SAY
@@ -463,7 +463,7 @@ MP will be consumed.
 A strong flame around targeted area with 3x3 square range.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@lightning]
 #SAY
@@ -472,7 +472,7 @@ Throws a boly of lightning forwards from the casters hands.
 It damages all objects(9-10 enemies) in its path.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@fcrunch]
 #SAY
@@ -483,7 +483,7 @@ When it is cast, it randomly freezes enemies and after they are frozen, their
 speed drops significantly.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@tstorm]
 #SAY
@@ -493,7 +493,7 @@ Specialized skill on Undead type monsters.
 5x5 square range attack around player(max.24 enemies).
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@mshield]
 #SAY
@@ -503,7 +503,7 @@ Creates a shield which protects damage from monsters.
 Duration time depends on the skill level.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@turnundead]
 #SAY
@@ -513,7 +513,7 @@ Specialized in undead type monsters.
 As the skill level reaches max, one shot one kill will be possible.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@vamp]
 #SAY
@@ -521,7 +521,7 @@ MP will be consumed.
 Absorbs strength of enemy to recover players strength.
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@冰风暴]
 #SAY
@@ -530,7 +530,7 @@ MP will be consumed.
 Brings snow storm in a targetted area (5x5 square).
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@fdisrupt]
 #SAY
@@ -540,7 +540,7 @@ Create a powerful column on enemy no matter of any obstacles.
 (Physical objects).
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@mirror]
 #SAY
@@ -550,7 +550,7 @@ Create an image and fight enemy together. Image appears when skill is
 clicked, click once more will remove image.
 MP will continously be consumed while the image is in use.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@ffield]
 #SAY
@@ -559,7 +559,7 @@ MP will continously be consumed while the image is in use.
 5x5 square range attack with a dreadful flame. (Max. 24 enemies at once)
 MP will be consumed.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@blizzard]
 #SAY
@@ -571,7 +571,7 @@ It has a very long casting time but gives a higher damage than the 暴风雪 ski
 If the caster is attacked while using the skill, it will be cancelled.
 The damage inflicted raises with the skill level.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@meteor]
 #SAY
@@ -583,7 +583,7 @@ It has a very long casting time but gives a higher damage than the 暴风雪 ski
 If the caster is attacked while using the skill, it will be cancelled. 
 The damage inflicted raises with the skill level.
 
-<Back/@wizskill>                     <Go to Main/@main>
+<返回/@wizskill>                     <Go to Main/@main>
 
 [@healing]
 #SAY
@@ -591,7 +591,7 @@ The damage inflicted raises with the skill level.
 Heal himself or other players.
 MP will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@ssword]
 #SAY
@@ -599,7 +599,7 @@ MP will be consumed.
 
 Increase attack accuracy.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@poison]
 #SAY
@@ -608,7 +608,7 @@ Increase attack accuracy.
 Poison that keeps giving damage over certain time to enemies.
 MP and Poison will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@sfb]
 #SAY
@@ -618,7 +618,7 @@ Executes long-distance attacks like a wizards fireball skill,
 by hurling an amulet.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@summonskel]
 #SAY
@@ -628,7 +628,7 @@ Create a familiar by making his shape through strong magic and resurrecting
 a spirit of strong power into this shape.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@hiding]
 #SAY
@@ -639,7 +639,7 @@ seen if unless do not move or attack after exercising this skill.
 It's a useful skill to make any situation 1 on 1, as you can hide and use a
 distance attack and only attacked mobs will approach you.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@masshide]
 #SAY
@@ -649,7 +649,7 @@ Upgrade version of hiding skill which also affect other players to be invisible.
 Max. 9 people can be invisible if all are in 3x3 square area.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@soulshield]
 #SAY
@@ -659,7 +659,7 @@ Increases magic defensive power.
 Its duration will be extended according to practice levels and SC power.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@rev]
 #SAY
@@ -668,7 +668,7 @@ Reveals other HP (players or mobs).
 Its duration will be extended according to practice levels and SC power.
 MP will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@blessarm]
 #SAY
@@ -678,7 +678,7 @@ Increases physical defensive power which also affects people around
 the player. Duration time increases are practices level.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@energyrep]
 #SAY
@@ -689,7 +689,7 @@ at 8o'clock direction reeling backwards.
 This skill is ineffective at higher level enemy.
 MP will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@陷阱hex]
 #SAY
@@ -702,7 +702,7 @@ The 陷阱 Hexagon emits light to indicate its boundary.
 His skill is ineffective at higher level enemy.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@puri]
 #SAY
@@ -711,7 +711,7 @@ MP and amulet will be consumed.
 Purifies poisoned or corrupted body by dark foce.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@massheal]
 #SAY
@@ -720,7 +720,7 @@ MP and amulet will be consumed.
 Heal several players at once 3X3 square max. 9 people.
 MP will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@halluc]
 #SAY
@@ -729,7 +729,7 @@ MP will be consumed.
 Distracts enemy in chaos to fight each other.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@ultimateenhance]
 #SAY
@@ -738,7 +738,7 @@ MP and amulet will be consumed.
 Increases physical attack.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@summonshin]
 #SAY
@@ -748,7 +748,7 @@ Summons a powerful fire breathing beast called Shinsu that will act as
 his or her own familiar.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@summondeva]
 #SAY
@@ -757,7 +757,7 @@ MP and amulet will be consumed.
 Summons a HolyDeva.
 MP and amulet will be consumed.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@curse]
 #SAY
@@ -765,7 +765,7 @@ MP and amulet will be consumed.
 
 Reduces mob attacks (Attack Speed, DC, MC, SC)
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@rein]
 #SAY
@@ -776,7 +776,7 @@ This skill requires long casting time and cast can be cancelled if attacked.
 So it is suggested to clean up the area and cast the skill with alliance protection.
 Success rate depends on the skill level. It requires an 护身符 of Revival.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@poisoncloud]
 #SAY
@@ -787,7 +787,7 @@ This requires high concentration of Taoism and mentality.
 Once the skill has been used, you will have to wait to use it again.
 It requires Grey Poison.
 
-<Back/@taoskill>                     <Go to Main/@main>
+<返回/@taoskill>                     <Go to Main/@main>
 
 [@basic]
 #SAY
@@ -812,7 +812,7 @@ If other has priority, it will take some time to root the item.
 *Item dispose: Open the inventory and left click the item
 that will be disposed and click ground.
 
-<Back/@basic>                               <Go to Main/@main>
+<返回/@basic>                               <Go to Main/@main>
 
 [@shop]
 #SAY
@@ -825,7 +825,7 @@ that will be disposed and click ground.
 <Special NPC/@37682>
 *CraftLady  *SignPost  *Coordinate  *Guard
 
-<Back/@basic>                               <Go to Main/@main>
+<返回/@basic>                               <Go to Main/@main>
 
 [@craft]
 #SAY
@@ -833,14 +833,14 @@ Production (Craft & Upgrade)
 
 This will be provided later.
 
-<Back/@basic>                               <Go to Main/@main>
+<返回/@basic>                               <Go to Main/@main>
 
 [@checkother]
 #SAY
 Check other user info. <Ctrl+right click> to check the equipped item,
 guild information and etc.
 
-<Back/@basic>                               <Go to Main/@main>
+<返回/@basic>                               <Go to Main/@main>
 
 [@command]
 #SAY
@@ -851,7 +851,7 @@ guild information and etc.
 *Ban private chat                            *Withdraw guild
 *Ban shout
 
-<Back/@basic>                               <Go to Main/@main>
+<返回/@basic>                               <Go to Main/@main>
 
 [Quests]
 110

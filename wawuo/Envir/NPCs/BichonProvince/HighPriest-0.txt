@@ -3,7 +3,7 @@
 Don't get to close.. I've lost everything..
 Who sent you?
 
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [Quests]
 -13

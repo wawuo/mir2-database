@@ -9,7 +9,7 @@ What function would you like me to perform today <$DATE>
 <Kill my Pets/@KillPets> , <Open my Storage/@STORAGE> , <Reset Quest Flags/@ResetQuestFlags>
 <Rebirth Panel/@RebirthPanel> , <Event Management Page/@EventManagement>
  
-<Exit/@Exit>
+<退出/@Exit>
 #ELSEACT
 MOVE 0 300 300
 
@@ -50,13 +50,13 @@ LINEMESSAGE "Your pets are now dead as you requested." Hint
 
 [@STORAGE]
 #SAY
-Trust me, I'm looking after your stuff.
+Trust me, I'm looking after your 材料.
  
  
  
  
  
-Menu: <Main Menu/@Main> - <Exit/@Exit>
+Menu: <Main Menu/@Main> - <退出/@Exit>
 
 
 [@ResetQuestFlags]
@@ -76,7 +76,7 @@ LINEMESSAGE "All quest flags have been reset." Hint
 
 [@EventManagement]
 #SAY
-This could be used for starting global events and other stuff as the
+This could be used for starting global events and other 材料 as the
 server develops and adds in more functionality over time.
 
 <<SabukWall/@Sabuk>>
@@ -85,7 +85,7 @@ server develops and adds in more functionality over time.
  
  
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sabuk]
 #SAY
@@ -99,7 +99,7 @@ Sabuk Wall Management Panel
 
 Current Owner of SabukWall is: <$CONQUESTOWNER(1)>
 
-<Back/@EventManagement>     <Exit/@Exit>
+<返回/@EventManagement>     <退出/@Exit>
 
 [@StartWar]
 #ACT
@@ -127,7 +127,7 @@ MOVE 0150 12 15
 <$CONQUESTGUARD(1,11)>   <Repair/@Guard11>
 <$CONQUESTGUARD(1,12)>   <Repair/@Guard12>
 
-<Back/@Sabuk>     <Exit/@Exit>
+<返回/@Sabuk>     <退出/@Exit>
 
 [@Gates]
 #SAY
@@ -142,7 +142,7 @@ Walls and Gates
 
 <Open Gate/@OpenGate> <Close Gate/@CloseGate>
 
-<Back/@Sabuk>     <Exit/@Exit>
+<返回/@Sabuk>     <退出/@Exit>
 
 [@OpenGate]
 #ACT
@@ -271,13 +271,13 @@ Conquest Gold Stored: <$CONQUESTGOLD(1)>
 Conquest Intrest Rate: <$CONQUESTRATE(1)>
 Next Conquest Date: <$CONQUESTSCHEDULE(1)>
  
-<Back/@Sabuk>     <Exit/@Exit>
+<返回/@Sabuk>     <退出/@Exit>
 
 [@Hero]
 #SAY
 Hero Management page 
 
-<Back/@Main>
+<返回/@Main>
 
 <<Create Hero/@CreateHero/Green>>
 <<ReviveHero/@ReviveHero/Red>>
@@ -319,34 +319,34 @@ Apply Rebirth          Delete Rebirth             Check Rebirth
  
 <Check Main Rebirth Flag/@RBMAIN>      <Delete Main Rebirth Flag/@RBMAINDEL>      <Apply Main Rebirth Flag/@RBMAINADD>
 
-<Back/@Main>
+<返回/@Main>
 [@RB1]
 #ACT
 SET [993] 1
 #SAY
 Rebirth 1 granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB2]
 #ACT
 SET [994] 1
 #SAY
 Rebirth 2 granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB3]
 #ACT
 SET [995] 1
 #SAY
 Rebirth 3 granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RBMAINADD]
 #ACT
 SET [1000] 1
 #SAY
 Main Rebirth Flag granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB123]
 #ACT
@@ -356,28 +356,28 @@ SET [995] 1
 SET [1000] 1
 #SAY
 All rebirth flags applied.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB1DEL]
 #ACT
 SET [993] 0
 #SAY
 Rebirth 1 cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB2DEL]
 #ACT
 SET [994] 0
 #SAY
 Rebirth 2 cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB3DEL]
 #ACT
 SET [995] 0
 #SAY
 Rebirth 3 cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@DEL123]
 #ACT
@@ -387,51 +387,51 @@ SET [995] 0
 SET [1000] 0
 #SAY
 All rebirth flags cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RBMAINDEL]
 #ACT
 SET [1000] 0
 #SAY
 Main Rebirth cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RBMAIN]
 #IF
 CHECK [1000] 1
 #SAY
 You currently have Main Rebirth Effect.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
 You do not have Main Rebirth Effect.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB1CHK]
 #IF
 CHECK [993] 1
 #SAY
 You currently have Rebirth 1.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
 You do not have Rebirth 1.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB2CHK]
 #IF
 CHECK [994] 1
 #SAY
 You currently have Rebirth 2.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
 You do not have Rebirth 2.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB3CHK]
 #IF
 CHECK [995] 1
 #SAY
 You currently have Rebirth 3.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
 You do not have Rebirth 3.
-<Back/@RebirthPanel>    <Exit/@Exit>
+<返回/@RebirthPanel>    <退出/@Exit>

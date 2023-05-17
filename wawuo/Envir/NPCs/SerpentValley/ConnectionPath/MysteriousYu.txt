@@ -32,7 +32,7 @@ I never been there, but you need a certificate to go there
 If you got a certificate, you can try.
 
 <Try/@talkwith_3>
-<Cancel/@Exit>
+<取消/@Exit>
 
 [@talkwith_3]
 #SAY
@@ -46,7 +46,7 @@ You will be right here after 3 hours.. Take care of yourself
 I want to show you the way, but I'm exhausted
 I can't help you... Just wait a little while..
 
-<Close/@Exit>
+<关闭/@Exit>
 
 #ELSEACT
 MOVE M001
@@ -60,11 +60,11 @@ If you came to me again at this time
 I can take you there
 see you then...
 
-<Back/@Main>
+<返回/@Main>
 
 #ELSESAY
 I have nothing to tell you...
 Get out of here please
 
-<Back/@Main>
+<返回/@Main>
 

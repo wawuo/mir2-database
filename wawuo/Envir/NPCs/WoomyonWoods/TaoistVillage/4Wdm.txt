@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -15,13 +15,13 @@ What kind of Poison would you like to purchase?
  
 <Purchase/@Buy> Poison.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@Buy]
 #SAY
 What Posion's do you wish to buy?
  
-<Close/@exit>
+<关闭/@exit>
  
 [Types]
 13

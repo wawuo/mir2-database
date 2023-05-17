@@ -10,7 +10,7 @@ I can make your ordinary weapon much more special.
 What do you say? 
 <Ask to refine weapon/@upgrade>
 <Take the refined weapon/@getbackupgnow>
-<Close/@exit>
+<关闭/@exit>
 
 [@upgrade]
 #SAY
@@ -21,7 +21,7 @@ need <黑铁矿/@Biron>, <accessories/@Etc>, <money/@Gold> and
 be procured from the things in your bag.
 You want to go for it? 
 <Accept refining/@upgradenow>
-<Back/@main>
+<返回/@main>
 
 [@Biron]
 #SAY
@@ -30,7 +30,7 @@ You want to go for it?
 the purity, the better chance of a good upgrade.
 My eyesight is poor, so i will take all 黑铁矿
 that is in your Bag 
-<Back/@upgrade>
+<返回/@upgrade>
 
 [@Etc]
 #SAY
@@ -38,20 +38,20 @@ Accessories are items such as Necklaces, Bracelets and
 Rings. The higher level needed to wear, the better
 the chance of the refine working. My eyesight is not
 very good, so i will take all accessories from your bag 
-<Back/@upgrade>
+<返回/@upgrade>
 
 [@Weapon]
 #SAY
 The weapon I will use is the weapon that is in your hand at 
 the time of the request. 
-<Back/@upgrade>
+<返回/@upgrade>
 
 [@Gold]
 #SAY
 I can't upgrade your weapon for free. As my work is of
 such a high standard i charge <$UPGRADEWEAPONFEE> per
 upgrade.
-<Back/@upgrade>
+<返回/@upgrade>
 
 [@upgradenow]
 #SAY
@@ -72,7 +72,7 @@ It was hard but I think I have done a good job.
 #SAY
 I am already working on an item for you
 Come back later... 
-<Back/@main>
+<返回/@main>
 
 [~@upgradenow_fail]
 #SAY
@@ -81,7 +81,7 @@ You are missing one or more of the vital ingredients
 Check you are wearing a weapon, have the 黑铁矿, accessories
 and most importantly the money.
 Then try again 
-<Back/@main>
+<返回/@main>
 
 [~@getbackupgnow_ok]
 #SAY

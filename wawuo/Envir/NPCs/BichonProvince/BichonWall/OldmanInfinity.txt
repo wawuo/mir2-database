@@ -14,7 +14,7 @@ selling 10 Brown Chestnuts!
 
 <What is the/@info1> Infinite Bout?
 <I Will Challenge/@challenge1>
-<Maybe next time/@Exit>
+<下次吧 time/@Exit>
 
 [@info1]
 #SAY
@@ -44,7 +44,7 @@ Or give it a go?
 
 I want to <hear it again./@info1>
 <Challenge!/@challenge2>
-<Maybe next time/@Exit>
+<下次吧 time/@Exit>
 
 [@challenge1]
 #SAY

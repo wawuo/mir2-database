@@ -12,14 +12,14 @@
  Which frontier do you want to talk about?
 
  <般若岛/@talkPI> 
- <Back/@main>
+ <返回/@main>
 
 [@talkPI]
  般若岛 is full of rampaging monsters.
  Some braves may take this opportunity to boost and raise
  their reputation and fame but for the locals,it ain't nothing but just hell.
 
- <Back/@talk>
+ <返回/@talk>
 
 
 [@wvmove]
@@ -33,7 +33,7 @@ BREAK
 You Dont Have enough {Gold/Gold} to use my Service!
 Be gone, don't waste my time again!
  
-<Exit/@exit>
+<退出/@exit>
 
 [@wvmove1]
 #IF
@@ -46,4 +46,4 @@ break
 You Dont Have enough {Gold/Gold} to use my Service!
 Be gone, don't waste my time again!
  
-<Exit/@exit>
+<退出/@exit>

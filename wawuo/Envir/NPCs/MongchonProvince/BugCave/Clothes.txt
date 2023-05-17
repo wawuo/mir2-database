@@ -4,13 +4,13 @@ Welcome, how may I help you?
  
 <Repair/@Repair> Clothes
  
-<Close/@Exit>
+<¹Ø±Õ/@Exit>
 
 
 [@Repair]
 You can repair Clothes here.
 
-<Back/@Main>
+<·µ»Ø/@Main>
 
 [Types]
 2

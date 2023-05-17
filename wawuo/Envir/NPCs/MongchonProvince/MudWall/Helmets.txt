@@ -2,38 +2,38 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
 Welcome, how may I help you?
-I see you're wearing: {<$HELMET>/CORAL}
+我看到你正穿着: {<$HELMET>/CORAL}
 
 <Purchase/@BuySell> Helmets.
 <Repair/@Repair> Helmet.
  
-<Close/@Exit>
+<关闭/@Exit>
 
 [@BuySell]
-What Helmet do you want to buy or sell?
-<Buy Back/@BuyBack>
+What Helmet do you want to出售或购买?
+<返回 购买/@BuyBack>
  
-<Back/@Main>
+<返回/@Main>
 
 [@BuyBack]
 Please Choose which item you wish to repurchase.
  
-<Back/@Main>
+<返回/@Main>
 
 [@Repair]
 You can repair Helmets here.
 
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]

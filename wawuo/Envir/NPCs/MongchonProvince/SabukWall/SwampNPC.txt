@@ -1,17 +1,17 @@
 [@Main]
 #SAY
-Hello Mirian, I'm currently protecting the Entrance to the Swamp.
+你好 Mirian, I'm currently protecting the Entrance to the Swamp.
  
 <Bribe/@next1> to enter the swamp.
 <Show Relic/@next2> - (Quest Reward Item).
-<Close/@exit>
+<关闭/@exit>
 
 [@next1]
 #SAY
 Are you crazy? The swamp is very dangerous.
  
 <Bribe/@next1_1> 150,000 Gold
-<Close/@exit>
+<关闭/@exit>
 
 [@next1_1]
 #IF
@@ -24,7 +24,7 @@ CLOSE
 #ELSESAY
 You don't have enough funds..
  
-<Close/@exit>
+<关闭/@exit>
 
 [@next2]
 #IF
@@ -34,11 +34,11 @@ Ah that Relic, such a beautiful piece of work.
 Be safe traveler.
 
 <Enter/@next2_1> the swamp.
-<Close/@exit>
+<关闭/@exit>
 #ELSESAY
 Please don't try trick me.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@next2_1]
 #IF

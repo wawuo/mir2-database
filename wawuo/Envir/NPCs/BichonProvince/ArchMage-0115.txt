@@ -3,7 +3,7 @@
 I am the MasterMage Don, What's your name?
 Welcome to my house..
 
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [Quests]
 -10

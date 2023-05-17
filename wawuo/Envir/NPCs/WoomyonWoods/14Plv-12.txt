@@ -6,7 +6,7 @@ cursed land?
  
 <Yes, I want to enter./@next>
 <Place Ancient Post Piece on the pillar/@next2>
-<Exit/@exit>
+<ÍË³ö/@exit>
 
 
 [@next]
@@ -15,7 +15,7 @@ Your about to enter a world of death and frustration. My duty is to
 open the closed door. I can let you in, but you will not be able to
 return.
 
-<Move/@move1>
+<ÒÆ¶¯/@move1>
 #ACT
 MOVE hell301s 272 275
 BREAK

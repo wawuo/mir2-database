@@ -15,16 +15,16 @@ Learn about <Rebirth/@RebirthMain>
 <Accessory shop/@go-access>   <Reagent Store/@go-pot>   <Bichon Inner Wall/@go-palace>
 <Book store/@go-book>  <Butcher's shop/@go-meat>   <Hairdresser/@go-hairdresser>
 
-<Close/@Exit>
+<关闭/@Exit>
 
 [@ask]
 #SAY
 News: 
 Travelling Merchant Damian visists everyday between 9:30 to 10:30
 You can sell all your loot to him.
-He always hangs out near the book store.
+He always hangs out near the book 商店
 
-<Back/@Main>
+<返回/@Main>
 
 [@go-weap]
 #ACT
@@ -99,7 +99,7 @@ LEVEL < 60
 #SAY
 You need to be above Level 60 to rebirth.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 #ELSEACT
 GOTO @RB1CHECK
 
@@ -113,7 +113,7 @@ Would you like to rebirth?
 #ELSESAY
 You are already Rebirth 1.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB1APPLY]
 #ACT
@@ -123,7 +123,7 @@ ADDNAMELIST ../NameLists/Rebirth1.txt
 #SAY
 You are now Reborn.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB2]
 #IF
@@ -131,7 +131,7 @@ LEVEL < 70
 #SAY
 You need to be above Level 70 to rebirth.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 #ELSEACT
 GOTO @RB2CHECK
 
@@ -145,7 +145,7 @@ Would you like to rebirth?
 #ELSESAY
 You are already Rebirth 2.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB2APPLY]
 #ACT
@@ -156,7 +156,7 @@ ADDNAMELIST ../NameLists/Rebirth2.txt
 #SAY
 You are now Reborn.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB3]
 #IF
@@ -164,7 +164,7 @@ LEVEL < 80
 #SAY
 You need to be above Level 80 to rebirth.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 #ELSEACT
 GOTO @RB3CHECK
 
@@ -178,7 +178,7 @@ Would you like to rebirth?
 #ELSESAY
 You are already Rebirth 3.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB3APPLY]
 #ACT
@@ -189,7 +189,7 @@ ADDNAMELIST ../NameLists/Rebirth3.txt
 #SAY
 You are now Reborn.
 
-<Back/@RebirthMain>     <Exit/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [Quests]
 140

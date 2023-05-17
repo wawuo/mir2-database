@@ -2,7 +2,7 @@
 #SAY
 A pile of skull and bones.
  
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 
 [Quests]

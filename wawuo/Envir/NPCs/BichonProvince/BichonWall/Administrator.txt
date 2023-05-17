@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮助像你这样的恶人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -31,7 +31,7 @@ Please keep in mind that no special characters
 are allowed in guild names.
 Guilds made by using alt codes or spaces in the name
 will be deleted and no refund made.
-<Back/@main>
+<返回/@main>
 
 [@guildwarexp]]
 #SAY
@@ -41,7 +41,7 @@ them, the government approve <legal/@warrule> guild war.
 When <requested/@propose>, war will be allowed for 3 hours. 
 You'll have to pay <$GUILDWARFEE> {Gold/Gold} as request fee. 
  
-<Back/@main>
+<返回/@main>
 
 [@guildwar2]
 #SAY
@@ -51,7 +51,7 @@ If you are connected during a Guild War, the message:
 'War with {nnn} guild' will appear in chatting window and
 if you kill a member of the enemy guild you will not
 be regarded as PK.
-<Back/@guildwarexp>
+<返回/@guildwarexp>
 
 [@warrule]
 #SAY
@@ -61,19 +61,19 @@ village or inside contest area (like inside some buildings).
 However, if you are PK your ID will be red in colour,
 even during war.
  
-<Back/@guildwarexp>
+<返回/@guildwarexp>
 
 [@propose]
 #SAY
 Proposal of guild war only can be requested
 by Guildchief.
-<Back/@guildwarexp>
+<返回/@guildwarexp>
 
 [@donate]
 #SAY
 We are not collecting donation money yet.
  
- <Back/@main>
+ <返回/@main>
 
 [@requestcastlewar]
 #SAY
@@ -84,7 +84,7 @@ start 2 days later.
  
  <Apply for Sabuk conquest/@requestcastlewarnow>
  
- <Back/@main>
+ <返回/@main>
 
 [~@request_ok]
 #SAY
@@ -92,7 +92,7 @@ Wall conquest war accepted.
 Run to Sabuk wall as fast as you can 
 to ask the oldman for the date and time of the war.
  
-<Exit/@exit>
+<退出/@exit>
 ; time of wall conquest war is
 ; <$CASTLEWARDATE> PM 8.
 

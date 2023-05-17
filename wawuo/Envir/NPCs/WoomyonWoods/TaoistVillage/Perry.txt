@@ -6,7 +6,7 @@ GOTO @CHECK1
 #ELSESAY
 You seem to be interested in an old tale.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@CHECK1]
 #IF
@@ -70,7 +70,7 @@ Now I am goign to tell you what you want.
 Please kill a RootSpider located in TreePath, Once you have completed 
 my task. I shall tell you everything. 
  
-<Close/@exit>
+<关闭/@exit>
 
 [@next_quest]
 #IF
@@ -113,7 +113,7 @@ the JadeStick then taoistic defenses will come out of it,  It requires a
 taoist of the highest order is able to make a key 翡翠水晶. It is 
 Possible that the heroes who went into the Redmoon Valley left a sign 
 with a 翡翠水晶 there. Keep this in mind.
-<Close/@exit>
+<关闭/@exit>
 #ACT
 SET [529] 1
 

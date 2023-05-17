@@ -1,7 +1,7 @@
 [@MAIN]
 #SAY
 <Search/@next1> the bones.
-<Close/@exit>
+<¹Ø±Õ/@exit>
 
 [@next1]
 #ACT
