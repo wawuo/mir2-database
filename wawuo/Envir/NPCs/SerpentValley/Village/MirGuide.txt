@@ -341,7 +341,7 @@ MP will be consumed.
 
 [@chm]
 #SAY
-十字半月 (Level 38)
+双闸刀 (Level 38)
 
 All the enemies nearby 8 o'clock direction at once.
 Skill key must be clicked. MP will be consumed.

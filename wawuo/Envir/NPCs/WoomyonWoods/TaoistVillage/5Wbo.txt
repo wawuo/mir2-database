@@ -43,8 +43,8 @@ Level 15: 杀人
 Level 22: 刺杀
 Level 26: 半月形
 Level 30: 肩部冲刺
-Level 32: TwinDragonBlade
-Level 32: En陷阱ment
+Level 32: 双闸刀
+Level 32: 禁锢
 <More/@War2> <返回/@helpbooks>
 
 [@War2]
@@ -63,9 +63,9 @@ Level 50: 斩击爆裂
 Level  7: 火球
 Level 12: 斥力
 Level 13: 电击
-Level 15: GreatFireball
-Level 16: Hellfire
-Level 17: Thunderbolt
+Level 15: 大火球
+Level 16: 地狱之火
+Level 17: 霹雳火
 <More/@Wiz2> <返回/@helpbooks>
 
 [@Wiz2]
@@ -75,7 +75,7 @@ Level 22: 火焰弹
 Level 24: 火墙
 Level 26: 闪电
 Level 28: 寒霜紧缩
-Level 30: Thunderstorm
+Level 30: 雷霆风暴
 Level 31: 魔法盾
 Level 32: 亡灵转化
 <More/@Wiz3> <返回/@helpBooks>
@@ -83,7 +83,7 @@ Level 32: 亡灵转化
 [@Wiz3]
 #SAY
 Level 33: 吸血术
-Level 35: IceStrom
+Level 35: 冰风暴
 Level 38: 火焰破坏者
 Level 41: 镜像
 Level 42: 火焰场
@@ -98,7 +98,7 @@ Level  7: 疗伤
 Level  9: 精神之剑
 Level 14: 中毒
 Level 18: 灵魂火球
-Level 19: 召唤骷髅ton
+Level 19: 召唤骷髅
 Level 20: 躲藏
 <More/@Tao2> <返回/@helpbooks>
 
@@ -109,7 +109,7 @@ Level 22: 灵魂盾牌
 Level 23: 启示
 Level 25: 受祝福的盔甲
 Level 27: 能量反击器
-Level 28: 陷阱六边形
+Level 28: 六边形陷阱
 Level 30: 净化
 <More/@Tao3> <返回/@helpBooks>
 
@@ -156,7 +156,7 @@ Level 50: MoonBlade
 #SAY
 Level  7: 焦点
 Level  9: 直击
-Level 11: MentalState
+Level 11: 精神状态
 Level 14: 双响炮
 Level 19: 冥想
 Level 20: 元素射击
@@ -171,7 +171,7 @@ Level 28: 召唤吸血鬼
 Level 30: 后撤步
 Level 31: 延迟爆炸
 Level 33: 元素屏障
-Level 35: BindingShot
+Level 35: 捆绑射击
 <More/@Arc3> <返回/@helpBooks>
 
 [@Arc3]
