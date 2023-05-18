@@ -10,12 +10,12 @@ that lurks in the 4th floor?
 I'm afraid if you haven't heard of the beast
 then it's best I don't help you get to his lair.
 
-<I have heard the tails/@yes> <�˳�/@exit>
+<I have heard the tails/@yes> <退出/@exit>
 
 [@yes]
 #SAY
 You must prepare yourself for he is unforgiving
-Please let me know when you're ready and i'll take you.
+Please let me know when you're ready 与 i'll take you.
 
 <I'm ready/@transport> <I'm still not ready/@exit>
 

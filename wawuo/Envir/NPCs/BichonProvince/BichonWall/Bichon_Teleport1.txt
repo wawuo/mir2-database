@@ -17,7 +17,7 @@ GOTO @Main-1
 那么你怎么说？
  
 我将使用这个 <服务/@tele>
-下次吧 <Time/@exit> 
+下次吧 <时间/@exit> 
 
 [@tele]
 #SAY

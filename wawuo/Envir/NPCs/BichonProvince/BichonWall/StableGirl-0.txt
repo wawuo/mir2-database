@@ -21,7 +21,7 @@ I sell Items for your Tiger! Please take alook!
 
 [@BuySell]
 #SAY
-What would you like to purchase?
+What 想要 purchase?
  
 <返回/@main>
 

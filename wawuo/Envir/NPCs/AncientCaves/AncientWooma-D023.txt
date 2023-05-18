@@ -14,20 +14,20 @@ LEVEL < 48
 #SAY
 A Mysterious Stone. With Ancient symbols.
 "Banished Creatures <within./@Woomaa>"
-{WoomaHeart/LightSteelBlue} Required {Level 43~48./KHAI}
+{巫马之心/LightSteelBlue} Required {Level 43~48./KHAI}
  
-<�ر�/@exit>
+<关闭/@exit>
 #ELSESAY
 Nothing happens.
  
  
-<�ر�/@Exit>
+<关闭/@Exit>
 
 [@Woomaa]
 #IF
-CHECKITEM WoomaHeart 1
+CHECKITEM 巫马之心 1
 #ACT
-TAKEITEM WoomaHeart 1
+TAKEITEM 巫马之心 1
 MOVE D022A 340 358
 #ELSESAY
 Nothing happens.

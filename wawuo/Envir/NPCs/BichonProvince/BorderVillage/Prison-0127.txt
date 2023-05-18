@@ -7,4 +7,4 @@ LOCALMESSAGE "[Prison Guard] <$USERNAME> you are now free togo." Hint
 #ELSESAY
 <$USERNAME> You cannot leave just yet. 
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>

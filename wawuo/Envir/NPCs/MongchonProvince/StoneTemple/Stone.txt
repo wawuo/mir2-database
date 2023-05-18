@@ -25,22 +25,22 @@ LEVEL < 43
 #SAY
 A Mysterious Stone. With Ancient symbols.
 "The noise rumbles the faint whispers are <creepy/@stonetomba>"
-{StoneHeart/LightSteelBlue} Required {Level22~43./KHAKI}
+{石头之心/LightSteelBlue} Required {Level22~43./KHAKI}
  
-<�ر�/@exit>
+<关闭/@exit>
 #ELSESAY
 Nothing happens.
  
  
-<�ر�/@exit>
+<关闭/@exit>
 
 [@stonetomba]
 #IF
-CHECKITEM StoneHeart 1
+CHECKITEM 石头之心 1
 #ACT
-TAKEITEM StoneHeart 1
+TAKEITEM 石头之心 1
 MOVE D710A 29 17
 #ELSESAY
 Nothing happens.
  
-<�ر�/@exit>
+<关闭/@exit>

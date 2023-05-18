@@ -5,8 +5,8 @@
 
 [@main-1]
 #SAY
-<Weapon shop/@weap>   <Armour shop/@cloth>
-<Reagent store/@pot>   <Accessory shop/@jewel>
+<ÎäÆ÷µê/@weap>   <¿ø¼×µê/@cloth>
+<Reagent store/@pot>   <Ê×ÊÎµê/@jewel>
 <Village Chief House/@chief>  
 
 [@jewel]

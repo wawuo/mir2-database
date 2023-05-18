@@ -17,13 +17,13 @@ How can I be of assistance.
 我看到你正穿着: {<$WEAPON>/CORAL}
 
 <查看/@BuySell> 商店
-<Repair/@Repair> Weapon.
+<修理/@Repair> Weapon.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to出售或购买?
+Which item 想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>

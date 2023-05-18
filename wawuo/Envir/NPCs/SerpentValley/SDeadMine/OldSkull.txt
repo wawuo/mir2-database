@@ -1,8 +1,8 @@
 [@Main]
 #SAY
-A pile of skull and bones.
+A pile of skull 与 bones.
  
-<�ر�/@exit>
+<关闭/@exit>
 
 
 [Quests]

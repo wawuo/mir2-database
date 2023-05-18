@@ -2,26 +2,26 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you have {<$HP> | <$MAXHP> HP/RED} and {<$MP> | <$MAXMP> MP/ROYALBLUE}
-<Buy/@Buy> Potion
-<Sell/@Sell> Potion
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
+I see you have {<$HP> | <$MAXHP> HP/RED} 与 {<$MP> | <$MAXMP> MP/ROYALBLUE}
+<购买/@Buy> Potion
+<出售/@Sell> Potion
  
-Tip: Use {@superman/LIMEGREEN} for an infinite amount of HP and MP.
+Tip: Use {@superman/LIMEGREEN} for an infinite amount of HP 与 MP.
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 
 
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 

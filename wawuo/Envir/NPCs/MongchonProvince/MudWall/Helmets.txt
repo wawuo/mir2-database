@@ -14,8 +14,8 @@ GOTO @Main-1
 Welcome, how may I help you?
 我看到你正穿着: {<$HELMET>/CORAL}
 
-<Purchase/@BuySell> Helmets.
-<Repair/@Repair> Helmet.
+<交易/@BuySell> Helmets.
+<修理/@Repair> Helmet.
  
 <关闭/@Exit>
 
@@ -42,8 +42,8 @@ You can repair Helmets here.
 [Trade]
 青铜头盔
 双闸刀
-BrassHelmet
-GoldenTiara
-SkeletonHelmet
-ShamanHelmet
+黄铜头盔
+金色蒂亚拉
+骷髅头盔
+萨满头盔
 

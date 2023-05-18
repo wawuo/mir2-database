@@ -16,7 +16,7 @@ In order to go to restricted ares, you are required to have a
 Bichon Token.
 If you would like a Bichon Token you can purchase one from me.
 <Buy Bichon Token/@Buy>
-<Ask about Bichon Token/@Ask>
+<想问 about Bichon Token/@Ask>
 <关闭/@Exit>
 
 [@Ask]

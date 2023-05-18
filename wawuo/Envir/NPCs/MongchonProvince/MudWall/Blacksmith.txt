@@ -17,13 +17,13 @@ How can I be of assistance.
 我看到你正穿着: {<$WEAPON>/CORAL}
 
 <查看/@BuySell> 商店
-<Repair/@Repair> Weapon.
+<修理/@Repair> Weapon.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to出售或购买?
+Which item 想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -62,15 +62,15 @@ Show me the weapon that needs it.
 三叉戟
 钩状剑
 弯刀
-BladesOfVelocity
+速度的刀刃
 复合弓
-SteelSword
-Prince匕首
-MartialSword
-KrissSword
-HookedSpear
-IronBlades
-LongBow
+钢剑
+王子匕首
+武术剑
+克利斯之剑
+钩镰枪
+铁刀
+长弓
 
 [Quests]
 -42

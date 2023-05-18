@@ -2,23 +2,23 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
 我看到你正穿着: {<$STONE>/CORAL}
-<Buy/@Buy> Stone
-<Sell/@Sell> Stone
+<购买/@Buy> Stone
+<出售/@Sell> Stone
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 
@@ -27,34 +27,34 @@ Buy.
 11
 
 [Trade]
-HealthStone(S)
-HealthStone(男)
-HealthStone(L)
-HealthStone(XL)
-HealthStone
-MagicStone(S)
-MagicStone(男)
-MagicStone(L)
-MagicStone(XL)
-MagicStone
-PowerStone(S)
-PowerStone(男)
-PowerStone(L)
-PowerStone(XL)
-PowerStone
-DCStone(S)
-DCStone(男)
-DCStone(L)
-DCStone(XL)
-DCStone
-MCStone(S)
-MCStone(男)
-MCStone(L)
-MCStone(XL)
-MCStone
-SCStone(S)
-SCStone(男)
-SCStone(L)
-SCStone(XL)
-SCStone
-FrozenStone
+健康石(S)
+健康石(M)
+健康石(L)
+健康石(XL)
+健康石
+魔法石(S)
+魔法石(M)
+魔法石(L)
+魔法石(XL)
+魔法石
+动力石(S)
+动力石(M)
+动力石(L)
+动力石(XL)
+动力石
+DC攻击石(S)
+DC攻击石(M)
+DC攻击石(L)
+DC攻击石(XL)
+DC攻击石
+MC石(S)
+MC石(M)
+MC石(L)
+MC石(XL)
+MC石
+SC石(S)
+SC石(M)
+SC石(L)
+SC石(XL)
+SC石
+冰冻石

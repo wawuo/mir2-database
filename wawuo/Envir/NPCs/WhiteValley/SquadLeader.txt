@@ -1,5 +1,5 @@
 [@MAIN]
 #SAY
-Me and my Squad was ambushed! becareful Traveler.
+Me 与 my Squad was ambushed! becareful Traveler.
  
-<�ر�/@exit>
+<关闭/@exit>

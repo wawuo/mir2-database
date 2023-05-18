@@ -10,5 +10,5 @@
 -Stone 陷阱 AI now correct. (130 > 255)
 -Rebirth Panel added to GM_Manager in r001.
 -GM_传送er has had a huge rework.
--GM Stable now displays currently equipped Mount and Mount Loyalalty.
+-GM Stable now displays currently equipped Mount 与 Mount Loyalalty.
 -@GM command added to teleport admin accounts to r001 @ 100:100.

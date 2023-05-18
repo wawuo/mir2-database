@@ -5,10 +5,10 @@
 
 [@main-1]
 #SAY
-<Weapon shop/@go-weap>   <Armour shop/@go-cloth>   <Accessory shop/@go-access>   
-<General Store/@go-pot>   <Book store/@go-book>
+<武器店/@go-weap>   <盔甲店/@go-cloth>   <首饰店/@go-access>   
+<General Store/@go-pot>   <书店/@go-book>
 
-<�ر�/@Exit>
+<关闭/@Exit>
  
 [@go-weap]
 #ACT

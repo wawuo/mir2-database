@@ -14,14 +14,14 @@ GOTO @Main-1
 你好旅行者。我能为你做什么? 
  
 <查看/@BuySell> 商店
-<Repair/@Repair> 布帘.
+<修理/@Repair> 布帘.
 <Talk/@talk> about CastleBichon
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to出售或购买?
+Which item 想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>

@@ -2,37 +2,37 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-我看到你正穿着: {L: <$BRACELET_L> R: <$BRACELET_R>/CORAL}
-<Buy/@Buy> Bracelet
-<Sell/@Sell> Bracelet
-<Repair/@Repair> Bracelet
-<Special Repair/@SRepair> Bracelet
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
+我看到你正穿着: {左: <$BRACELET_L> 右: <$BRACELET_R>/CORAL}
+<购买/@Buy> Bracelet
+<出售/@Sell> Bracelet
+<修理/@Repair> Bracelet
+<特别修理/@SRepair> Bracelet
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 
 [@Repair]
 #SAY
-Repair.
+修理
  
 <返回/@Main>
 
 [@SRepair]
 #SAY
-Special repair.
+特别修理
  
 <返回/@Main>
 

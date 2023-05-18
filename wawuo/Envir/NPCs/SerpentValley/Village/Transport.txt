@@ -16,8 +16,8 @@ GOTO @Main-1
 Just pay the fee then I'll escort you to anywhere.
 那么你怎么说?
  
-我要使用这个 <Service/@tele>
-下次吧 <Time/@exit> 
+我要使用这个 <服务/@tele>
+下次吧 <时间/@exit> 
 
 [@tele]
 #SAY

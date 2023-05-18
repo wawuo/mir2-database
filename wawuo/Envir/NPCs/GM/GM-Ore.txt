@@ -2,9 +2,9 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-<Buy/@Buy> Ore
-<Sell/@Sell> Ore
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
+<购买/@Buy> Ore
+<出售/@Sell> Ore
 
 #ELSEACT
 MOVE 0 300 300
@@ -17,7 +17,7 @@ Sell
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 

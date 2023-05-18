@@ -76,8 +76,8 @@ LINEMESSAGE "All quest flags have been reset." Hint
 
 [@EventManagement]
 #SAY
-This could be used for starting global events and other 材料 as the
-server develops and adds in more functionality over time.
+This could be used for starting global events 与 other 材料 as the
+server develops 与 adds in more functionality over time.
 
 <<SabukWall/@Sabuk>>
  
@@ -114,18 +114,18 @@ MOVE 0150 12 15
 
 <Revive All/@RepairAll>
 
-<$CONQUESTGUARD(1,1)>   <Repair/@Guard1>
-<$CONQUESTGUARD(1,2)>   <Repair/@Guard2>
-<$CONQUESTGUARD(1,3)>   <Repair/@Guard3>
-<$CONQUESTGUARD(1,4)>   <Repair/@Guard4>
-<$CONQUESTGUARD(1,5)>   <Repair/@Guard5>
-<$CONQUESTGUARD(1,6)>   <Repair/@Guard6>
-<$CONQUESTGUARD(1,7)>   <Repair/@Guard7>
-<$CONQUESTGUARD(1,8)>   <Repair/@Guard8>
-<$CONQUESTGUARD(1,9)>   <Repair/@Guard9>
-<$CONQUESTGUARD(1,10)>   <Repair/@Guard10>
-<$CONQUESTGUARD(1,11)>   <Repair/@Guard11>
-<$CONQUESTGUARD(1,12)>   <Repair/@Guard12>
+<$CONQUESTGUARD(1,1)>   <修理/@Guard1>
+<$CONQUESTGUARD(1,2)>   <修理/@Guard2>
+<$CONQUESTGUARD(1,3)>   <修理/@Guard3>
+<$CONQUESTGUARD(1,4)>   <修理/@Guard4>
+<$CONQUESTGUARD(1,5)>   <修理/@Guard5>
+<$CONQUESTGUARD(1,6)>   <修理/@Guard6>
+<$CONQUESTGUARD(1,7)>   <修理/@Guard7>
+<$CONQUESTGUARD(1,8)>   <修理/@Guard8>
+<$CONQUESTGUARD(1,9)>   <修理/@Guard9>
+<$CONQUESTGUARD(1,10)>   <修理/@Guard10>
+<$CONQUESTGUARD(1,11)>   <修理/@Guard11>
+<$CONQUESTGUARD(1,12)>   <修理/@Guard12>
 
 <返回/@Sabuk>     <退出/@Exit>
 
@@ -134,11 +134,11 @@ MOVE 0150 12 15
 
 <Repair All Walls/@RepairAllWalls>
 
-Walls and Gates
-<$CONQUESTWALL(1,1)>   <Repair/@Wall1>
-<$CONQUESTWALL(1,2)>   <Repair/@Wall2>
-<$CONQUESTWALL(1,3)>   <Repair/@Wall3>
-<$CONQUESTGATE(1,1)>   <Repair/@Gate1>
+Walls 与 Gates
+<$CONQUESTWALL(1,1)>   <修理/@Wall1>
+<$CONQUESTWALL(1,2)>   <修理/@Wall2>
+<$CONQUESTWALL(1,3)>   <修理/@Wall3>
+<$CONQUESTGATE(1,1)>   <修理/@Gate1>
 
 <Open Gate/@OpenGate> <Close Gate/@CloseGate>
 

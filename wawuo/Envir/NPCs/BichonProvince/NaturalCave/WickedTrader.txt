@@ -2,7 +2,7 @@
 Welcome, how may I help you?
  
 <查看/@BuySell> 商店
-<Repair/@repair> Item.
+<修理/@repair> Item.
 <关闭/@exit>
 
 [@BuySell]
@@ -58,7 +58,7 @@ Show me the items you wish to repair.
 三叉戟
 钩状剑
 弯刀
-BladesOfVelocity
+速度的刀刃
 复合弓
 蜡烛
 地牢逃脱

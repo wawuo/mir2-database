@@ -26,11 +26,11 @@ GOTO @Main-2
 #SAY
 Greeting's Traveler. How are you doing on this fine day?
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [@MAIN-2]
 #SAY
 Greeting's Traveler. I wish times could be better..
 The Emperor needs to visit his people.. 
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>

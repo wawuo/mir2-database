@@ -3,7 +3,7 @@
 #SAY
 I had to seek refuge in this town.. My Cabin is gone.
 
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [Quests]
 -39

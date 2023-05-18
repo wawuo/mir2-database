@@ -10,7 +10,7 @@ What can I help you with?
 #SAY
 The following are the items i can forge.
 
-- AncientHeavyArmour  <Forge/@arm1>
+- Ancient重装甲  <Forge/@arm1>
 - AncientRobe         <Forge/@arm2>
 - AncientPlate        <Forge/@arm3>
 - AncientSuit         <Forge/@arm4>
@@ -22,7 +22,7 @@ The following are the items i can forge.
 
 [@arm1]
 #SAY
-* AncientHeavyArmour
+* Ancient重装甲
 * Defense stats : Ac 6-20 - Amc 3-7 - Dc 0-1 - Hp +10.
 * Items required for forging,
 - 40 锈迹斑斑的盔甲
@@ -55,8 +55,8 @@ TAKEITEM 大骨 30
 TAKEITEM 铠甲书(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientHeavyArmour(男) 1
-LINEMESSAGE "You have forged AncientHeavyArmour." Hint
+GIVEITEM Ancient重装甲(男) 1
+LINEMESSAGE "You have forged Ancient重装甲." Hint
 BREAK
 CLOSE
 
@@ -82,14 +82,14 @@ TAKEITEM 大骨 30
 TAKEITEM 铠甲书(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientHeavyArmour(女) 1
-LINEMESSAGE "You have forged AncientHeavyArmour." Hint
+GIVEITEM Ancient重装甲(女) 1
+LINEMESSAGE "You have forged Ancient重装甲." Hint
 BREAK
 CLOSE
 
 #ELSESAY
 You don't have enough ingredients.
-Please check again.In order to make the AncientHeavyArmour,
+Please check again.In order to make the Ancient重装甲,
 * Items required for forging,
 - 40 锈迹斑斑的盔甲
 - 34 RhinoLeather

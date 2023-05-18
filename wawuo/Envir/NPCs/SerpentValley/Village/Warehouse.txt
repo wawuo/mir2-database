@@ -2,29 +2,29 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-ÎÒ²»»á°ïÖúÏñÄãÕâÑùµÄ¶ñÈË...
+æˆ‘ä¸ä¼šå¸®åŠ©åƒä½ è¿™æ ·çš„æ¶äºº...
  
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-ÄãºÃ traveller. How can i help you?
+ä½ å¥½ æ—…è¡Œè€… æœ‰ä»€ä¹ˆäº‹?
  
-<Access/@Storage> Storage
-You have <$PARCELAMOUNT> parcels awaiting collection.
-<Send/@SendParcel> Parcel
-<Collect/@CollectParcel> Parcels
+<å­˜å–/@Storage> Storage
+ä½ æœ‰  <$PARCELAMOUNT>  åŒ…è£¹ç­‰å¾…é¢†å–.
+<å‘é€/@SendParcel> åŒ…è£¹
+<æ”¶å–t/@CollectParcel> åŒ…è£¹s
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 
 
 [@Storage]
 #SAY
-What item do you want to store or withdraw?
+ä½ æƒ³å‚¨å­˜æˆ–æå–ä»€ä¹ˆç‰©å“?
  
-<·µ»Ø/@Main> - <¹Ø±Õ/@exit>
+<è¿”å›/@Main> - <å…³é—­/@exit>
 

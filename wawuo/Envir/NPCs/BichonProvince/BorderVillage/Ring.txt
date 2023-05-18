@@ -12,16 +12,16 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 欢迎。我能为你做什么?
-我看到你正穿着: {L: <$RING_L> R: <$RING_R>/CORAL}
+我看到你正穿着: {左: <$RING_L> 右: <$RING_R>/CORAL}
 
 <查看/@BuySell> 商店
-<Repair/@Repair> Ring.
+<修理/@Repair> Ring.
  
 <关闭/@Exit>
 
 [@BuySell]
 #SAY
-Which ring would you like to出售或购买?
+有什么 想要出售或购买?
 <返回 购买/@BuyBack>. 
  
 <返回/@Main>

@@ -12,16 +12,16 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 Welcome, 欢迎。我能为你做什么?
-我看到你正穿着: {L: <$BRACELET_L> R: <$BRACELET_R>/CORAL}
+我看到你正穿着: {左: <$BRACELET_L> 右: <$BRACELET_R>/CORAL}
 
 <查看/@BuySell> 商店
-<Repair/@Repair> Bracelets or Gloves.
+<修理/@Repair> 手镯或手套
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to出售或购买?
+Which item 想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -34,7 +34,7 @@ Which item would you like to出售或购买?
 
 [@Repair]
 #SAY
-You can repair various kinds of Bracelets and Gloves.
+你可以修理各种手镯与手套.
   
 <返回/@main>
 

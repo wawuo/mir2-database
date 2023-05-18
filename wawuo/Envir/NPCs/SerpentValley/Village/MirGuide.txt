@@ -33,7 +33,7 @@ Ask me anytime, I will be glad to guide you.
 
 [@level1-11]
 #SAY
-Start hunting around the town and move further.
+Start hunting around the town 与 move further.
 Bichon-Province, WoomyonWoods, Mongchon-Province, TaoVillage,
 and 吉良城堡 are the main hunting fields.
 Please refer to the whole map by pressing B.
@@ -44,9 +44,9 @@ Please refer to the whole map by pressing B.
 
 [@lvl1-3]
 #SAY
-If you wish for a safe hunt, try Hen, Deer, and Sheep near town.
+If you wish for a safe hunt, try Hen, Deer, 与 Sheep near town.
 They do not attack until you hit them.
-In fact, you can get some fresh <meat/@slicemeat> and by trading it with butcher in town,
+In fact, you can get some fresh <meat/@slicemeat> 与 by trading it with butcher in town,
 you can money in return.
 
 <返回/@level1-11>                              <Go to Main/@main>
@@ -54,7 +54,7 @@ you can money in return.
 [@slicemeat]
 #SAY
 Slice meat: Getting 肉类 from domestic animal such as chicken, Deer Click
-at dead body of those (Alt+left click) and acquire meat after slicing action.
+at dead body of those (Alt+left click) 与 acquire meat after slicing action.
 
 Mining: Equip 镐头 to mine. Left click will automatically of mining.
 Those acquired minerals will be used as raw material for
@@ -77,7 +77,7 @@ monsters when taken such slicing meat action.
 [@lvl3-7]
 #SAY
 Once you go far away from town, hunt HookingCat, RakingCat, Yob, Wolf,
-ShellNipper, Keratoid and etc.
+ShellNipper, Keratoid 与 etc.
 
 <返回/@level1-11>            <Go to Main/@main>
 
@@ -85,7 +85,7 @@ ShellNipper, Keratoid and etc.
 #SAY
 You can learn a special skill from Level 7.
 The combat abillity will be increased, so try Oma, ForestYeti, CannibalPlant,
-VisceralWorm, SpittingSpider and etc at this time.
+VisceralWorm, SpittingSpider 与 etc at this time.
 But be specially aware of poison from Spitting Spider.
 
 <返回/@level1-11>              <Go to Main/@main>
@@ -104,7 +104,7 @@ far away from town.
 [@lvl11-14]
 #SAY
 If you wish for a safe hunt, try RedSnake,
-TigerSnake, and in 蛇谷 and OmaFighter.
+TigerSnake, 与 in 蛇谷 与 OmaFighter.
 If you are a Wizard who learned Hellfire skill,
 raft driving is most recommended.
 
@@ -114,8 +114,8 @@ raft driving is most recommended.
 #SAY
 If you wish for higher exp. Go OmaCave northwest
 of Bichon-province. This is the first dungeon in Mir world where CaveBat,
-CaveMaggot, and Skeleton appear.
-Bring 蜡烛, 传送门 Scroll and enough potions.
+CaveMaggot, 与 Skeleton appear.
+Bring 蜡烛, 传送门 Scroll 与 enough potions.
 It is located far away from town.
 But be specially aware of poison from CaveMaggot. You mat be paralyzed.
 
@@ -156,7 +156,7 @@ Once you achieved this level, go to ZumaTemple at the East of Mongchon
 Province. Party is recommended since soloing here is very difficult.
 By the time you get used to this place, go to PastBichon by the TimeStone
 in Prajna field.
-You will meet scary monsters and fire dragon.
+You will meet scary monsters 与 fire dragon.
 
 <返回/@hunting>                   <Go to Main/@main>
 
@@ -180,8 +180,8 @@ skills. Ask me anytime, I will be glad to guide you.
 bookstore in town. High level skill book will be acquired during monster hunt.)
 The skill book will be dissappeared showing the message.
 2) Double click at skill book in your inventory.
-If it matches with your job and level,
-it will be disappeared and success message will appear.
+If it matches with your job 与 level,
+it will be disappeared 与 success message will appear.
 3) Open skill screen(F11), activate learned skill.
 (Decide which key will be used for quick slot.)
 
@@ -210,7 +210,7 @@ Remember, Warrior skills are all melee type.
 [@wizskill]
 #SAY
 Wizard skill page 1:
-Characteristic of Wizard skills are all long range attack and some does
+Characteristic of Wizard skills are all long range attack 与 some does
 multiple attack. But it consumes much MP.
 
 <Fireball 7/@fireball>     <Hellfire 16/@hellfire>     <火墙 24/@fwall>
@@ -266,7 +266,7 @@ HItting accuracy will be increased in accordance with practice level.
 #SAY
 杀人 (Level 15)
 
-HItting accuracy and destructive power will be increased
+HItting accuracy 与 destructive power will be increased
 in accordance with practice level.
 
 <返回/@warrskill>                     <Go to Main/@main>
@@ -324,7 +324,7 @@ MP will be consumed.
 火焰之剑 (Level 35)
 
 Powerful hit on enemy.
-Keep clicking skill key and left click the target in 15 seconds.
+Keep clicking skill key 与 left click the target in 15 seconds.
 MP will be consumed.
 
 <返回/@warrskill>                     <Go to Main/@main>
@@ -362,7 +362,7 @@ MP will be consumed.
 愤怒 (Level 44)
 
 Enhances your inner force to increase its power for a certain time.
-Defense power and duration time will depend on the skill level.
+Defense power 与 duration time will depend on the skill level.
 Once the skill has been used, you will have to wait to use it again.
 
 <返回/@warrskill>                     <Go to Main/@main>
@@ -371,9 +371,9 @@ Once the skill has been used, you will have to wait to use it again.
 #SAY
 保护场 (Level 39)
 
-Concentrate inner force and spreads it to all the parts of your body. 
+Concentrate inner force 与 spreads it to all the parts of your body. 
 This will enhance the protection from enemies.
-Defense power and duration time will depend on the skill level.
+Defense power 与 duration time will depend on the skill level.
 Once the skill has been used, you will have to wait to use it again.
 
 <返回/@warrskill>                     <Go to Main/@main>
@@ -391,7 +391,7 @@ Flame attack can damage the target distance away.
 #SAY
 斥力 (Level 12)
 
-Allows you to push away mobs and people at 8 o'clock direction.
+Allows you to push away mobs 与 people at 8 o'clock direction.
 Skill will be ineffective at higher level enemy.
 MP will be consumed.
 
@@ -479,7 +479,7 @@ MP will be consumed.
 寒霜紧缩 (Level 28)
 
 The art of freezing that uses the force of ice.
-When it is cast, it randomly freezes enemies and after they are frozen, their
+When it is cast, it randomly freezes enemies 与 after they are frozen, their
 speed drops significantly.
 MP will be consumed.
 
@@ -546,7 +546,7 @@ MP will be consumed.
 #SAY
 镜像 (Level 41)
 
-Create an image and fight enemy together. Image appears when skill is
+Create an image 与 fight enemy together. Image appears when skill is
 clicked, click once more will remove image.
 MP will continously be consumed while the image is in use.
 
@@ -606,7 +606,7 @@ Increase attack accuracy.
 中毒 (Level 14)
 
 Poison that keeps giving damage over certain time to enemies.
-MP and Poison will be consumed.
+MP 与 Poison will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -616,7 +616,7 @@ MP and Poison will be consumed.
 
 Executes long-distance attacks like a wizards fireball skill,
 by hurling an amulet.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -624,9 +624,9 @@ MP and amulet will be consumed.
 #SAY
 召唤骷髅 (Level 19)
 
-Create a familiar by making his shape through strong magic and resurrecting
+Create a familiar by making his shape through strong magic 与 resurrecting
 a spirit of strong power into this shape.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -636,8 +636,8 @@ MP and amulet will be consumed.
 
 Makes invisible to mobs by hiding traces. 躲藏 will allow player not to be
 seen if unless do not move or attack after exercising this skill.
-It's a useful skill to make any situation 1 on 1, as you can hide and use a
-distance attack and only attacked mobs will approach you.
+It's a useful skill to make any situation 1 on 1, as you can hide 与 use a
+distance attack 与 only attacked mobs will approach you.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -647,7 +647,7 @@ distance attack and only attacked mobs will approach you.
 
 Upgrade version of hiding skill which also affect other players to be invisible.
 Max. 9 people can be invisible if all are in 3x3 square area.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -656,8 +656,8 @@ MP and amulet will be consumed.
 灵魂盾牌 (Level 22)
 
 Increases magic defensive power.
-Its duration will be extended according to practice levels and SC power.
-MP and amulet will be consumed.
+Its duration will be extended according to practice levels 与 SC power.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -665,7 +665,7 @@ MP and amulet will be consumed.
 #SAY
 启示 (Level 23)
 Reveals other HP (players or mobs).
-Its duration will be extended according to practice levels and SC power.
+Its duration will be extended according to practice levels 与 SC power.
 MP will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
@@ -676,7 +676,7 @@ MP will be consumed.
 
 Increases physical defensive power which also affects people around
 the player. Duration time increases are practices level.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -700,7 +700,7 @@ This 陷阱 will disappear if approach nearby hexagon.
 陷阱ped mob can evade it when they are attacked from distance.
 The 陷阱 Hexagon emits light to indicate its boundary.
 His skill is ineffective at higher level enemy.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -709,7 +709,7 @@ MP and amulet will be consumed.
 净化 (Level 30)
 
 Purifies poisoned or corrupted body by dark foce.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -727,7 +727,7 @@ MP will be consumed.
 幻觉 (Level 31)
 
 Distracts enemy in chaos to fight each other.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -736,7 +736,7 @@ MP and amulet will be consumed.
 终极强化器 (Level 33)
 
 Increases physical attack.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -746,7 +746,7 @@ MP and amulet will be consumed.
 
 Summons a powerful fire breathing beast called Shinsu that will act as
 his or her own familiar.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -755,7 +755,7 @@ MP and amulet will be consumed.
 召唤圣德瓦 (Level 38)
 
 Summons a HolyDeva.
-MP and amulet will be consumed.
+MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -772,8 +772,8 @@ Reduces mob attacks (Attack Speed, DC, MC, SC)
 转世 (Level 37)
 
 A supreme skill of Taoists which can revive a dead player.
-This skill requires long casting time and cast can be cancelled if attacked.
-So it is suggested to clean up the area and cast the skill with alliance protection.
+This skill requires long casting time 与 cast can be cancelled if attacked.
+So it is suggested to clean up the area 与 cast the skill with alliance protection.
 Success rate depends on the skill level. It requires an 护身符 of Revival.
 
 <返回/@taoskill>                     <Go to Main/@main>
@@ -782,8 +782,8 @@ Success rate depends on the skill level. It requires an 护身符 of Revival.
 #SAY
 毒云 (Level 43)
 
-Throw the amulet and a very strong poison cloud will appear in the area.
-This requires high concentration of Taoism and mentality.
+Throw the amulet 与 a very strong poison cloud will appear in the area.
+This requires high concentration of Taoism 与 mentality.
 Once the skill has been used, you will have to wait to use it again.
 It requires Grey Poison.
 
@@ -798,7 +798,7 @@ These are the basic info. You must know as beginner.
 <Collection (slice meat, mining etc)/@slicemeat>
 <Production(Craft&upgrade)/@craft>
 <Check other user info./@checkother>
-<Command(part, guild, chat and etc)/@command>
+<Command(part, guild, chat 与 etc)/@command>
 
 <Go to Main/@main>
 
@@ -809,8 +809,8 @@ Basic control:
 *Item root: Left click to root the item in ground. If inventory is full or heavy
 enough, you can't root anymore.
 If other has priority, it will take some time to root the item.
-*Item dispose: Open the inventory and left click the item
-that will be disposed and click ground.
+*Item dispose: Open the inventory 与 left click the item
+that will be disposed 与 click ground.
 
 <返回/@basic>                               <Go to Main/@main>
 
@@ -838,7 +838,7 @@ This will be provided later.
 [@checkother]
 #SAY
 Check other user info. <Ctrl+right click> to check the equipped item,
-guild information and etc.
+guild information 与 etc.
 
 <返回/@basic>                               <Go to Main/@main>
 

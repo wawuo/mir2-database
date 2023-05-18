@@ -4,13 +4,13 @@
  
 <Read/@Read>
  
-<�ر�/@exit>
+<关闭/@exit>
 
 
 [@Read]
 #SAY
 "From another being who endlessly wanders this place,"
-"Obtain the book and bring it to me."
+"Obtain the book 与 bring it to me."
  
 (Is this the book?)
 (<I should try it out./@Enter>)
@@ -18,13 +18,13 @@
 
 [@Enter]
 #IF
-CHECKITEM ScrollOfSeal 1
+CHECKITEM 封印卷轴 1
 #ACT
-TAKEITEM ScrollOfSeal 1
+TAKEITEM 封印卷轴 1
 MOVE LABY01
 
 #ELSESAY
-You need to have the {ScrollOfSeal/LightSteelBlue} to enter!
+You need to have the {封印卷轴/LightSteelBlue} to enter!
  
-<�ر�/@Exit>
+<关闭/@Exit>
 

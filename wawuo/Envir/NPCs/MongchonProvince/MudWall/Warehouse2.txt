@@ -13,7 +13,7 @@ GOTO @Main-1
 #SAY
 你好 旅行者、 欢迎。我能为你做什么? 
  
-<Exchange/@mbind> 材料
+<交换/@mbind> 材料
  
 <关闭/@exit>
 

@@ -15,7 +15,7 @@ GOTO @Main-1
 你好 旅行者。我能帮你做什么?
  
 <查看/@BuySell> 商店 
-<Ask/@Ask> about Item.
+<想问/@Ask> about Item.
  
 <关闭/@exit>
 
@@ -35,7 +35,7 @@ GOTO @Main-1
 [@Ask]
 #SAY
 I deal with <蜡烛/candle>,<Dungeonescape/dungeonescape>,
-<随机传送卷/randomteleport>,<修复油/repairoil> and so on forth.
+<随机传送卷/randomteleport>,<修复油/repairoil> 与 so on forth.
 I have heard that there are <Townteleport/townteleport> which come
 from monsters only
  

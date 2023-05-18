@@ -27,11 +27,11 @@ GOTO @Main-2
 <$USERNAME>, Those rumors was correct. The Emperor has helped me.
 I am so Thankful to him.
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [@MAIN-2]
 #SAY
 <$USERNAME>, Have you heard the rumors? 
 The Emperor has been doing a lot for the people of the City.
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>

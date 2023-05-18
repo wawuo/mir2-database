@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-ÎÒ²»»á°ïÖúÏñÄãÕâÑùµÄ¶ñÈË...
+æˆ‘ä¸ä¼šå¸®åŠ©åƒä½ è¿™æ ·çš„æ¶äºº...
  
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -14,13 +14,13 @@ GOTO @Main-1
 This alcohol tastes great...
 The drinks taster even better after the job is done.
 You know what the best wine is? The best wine is the {snakeWine/LightSteelBlue}.
-The wine that was made with a {Red Snake/Crimson} and {Tiger Snake/Crimson}
+The wine that was made with a {Red Snake/Crimson} ä¸ {Tiger Snake/Crimson}
 tastes the best.
 That was about ... 20... 48... years ago....
  
 (He's a drunk... lets ignore hine.)
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [Quests]
 -27

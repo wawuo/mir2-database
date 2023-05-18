@@ -2,21 +2,21 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-ÎÒ²»»á°ïÖúÏñÄãÕâÑùµÄ¶ñÈË...
+æˆ‘ä¸ä¼šå¸®åŠ©åƒä½ è¿™æ ·çš„æ¶äºº...
  
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Your the ÂÃĞĞÕß¡¢ I keep hearing about.
+Your the æ—…è¡Œè€…ã€ I keep hearing about.
 Welcome to MudWall. Your good deed's around the these Land's.
 are greatly admired.
 Please speak with the Local Vendor's im sure they would welcome any
 help.
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [Quests]
 114

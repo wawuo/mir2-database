@@ -2,16 +2,16 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-ÎÒ²»»á°ïÖúÏñÄãÕâÑùµÄ¶ñÈË...
+æˆ‘ä¸ä¼šå¸®åŠ©åƒä½ è¿™æ ·çš„æ¶äºº...
  
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
- You know. I'm already 90 years old and have lived here
+ You know. I'm already 90 years old ä¸ have lived here
  all my life. If you want to know anything about the 
  island, feel free to ask me at any time. 
  
@@ -19,7 +19,7 @@ GOTO @Main-1
  <ask/@ask2> about the monsters
  <ask/@ask3> about the Bottomless Pit
  <move outside/@Tmove>
- <¹Ø±Õ/@exit>
+ <å…³é—­/@exit>
 
 [@ask1]
  According to the legend, 1000 years ago there was an
@@ -46,14 +46,14 @@ GOTO @Main-1
 [@next3]
  What? Unbelievable you say? Ha ha ha...
  of course, that's why I told you it is a legend! 
- <¹Ø±Õ/@exit>
+ <å…³é—­/@exit>
 
 [@ask2]
  I believe that the monsters spotted recently must be
  the ones mentioned in the legend. Otherwise, how can we
  explain that such things exist in the world?
  I am sure, positive, that they are the ones once defeated
- by the legendary heroes, and are returning once more. 
+ by the legendary heroes, ä¸ are returning once more. 
  <Next/@next4>
 
 [@next4]
@@ -61,7 +61,7 @@ GOTO @Main-1
  Why must something like this happen in the very twilight
  of my life?
  What misfortune... what sadness... bah! 
- <¹Ø±Õ/@exit>
+ <å…³é—­/@exit>
 
 [@ask3]
  The "Bottomless Pit"? Now there's something I haven't
@@ -74,34 +74,34 @@ GOTO @Main-1
  Long ago. there was a pit somewhere in this island.
  whenever strange sound echoed through the pit,
  people passing there nearby
- disappeared all and never returned.
+ disappeared all ä¸ never returned.
  So it was called "Bottomless Pit. 
  <Next/@next6>
 
 [@next6]
  Ah one man.. there was one man
  who came back alive. He came back covered
- all over with wounds and told us there is
+ all over with wounds ä¸ told us there is
  another world down there full of cruel monsters.
  He spoke some more gibberish
- we couldn't understand him and he died few days later. 
+ we couldn't understand him ä¸ he died few days later. 
  <Next/@next7>
 
 [@next7]
  The frightened willagers could not bear any more
- and called a famous shaman for an exorcism.
+ ä¸ called a famous shaman for an exorcism.
  Maybe because of the exorcism or something
  else, never again we have experienced
  such indidenets of people disappearing. 
  <Next/@next8>
 
 [@next8]
- That's the story and already 70 years have
+ That's the story ä¸ already 70 years have
  passed since then. Now no one remembers
  where was the pit but it might appear again.
  Village elders, who are aware of the incidents,
  aew anxious about that. 
- <¹Ø±Õ/@exit>
+ <å…³é—­/@exit>
 
 [@Tmove]
 #IF

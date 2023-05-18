@@ -8,14 +8,14 @@ Are you ready?
 
 [@no]
 #SAY
-Please turn back and never come back.
+Please turn back 与 never come back.
 
-<�˳�/@exit>
+<退出/@exit>
 
 [@yes]
 #SAY
 You must prepare yourself
-Please let me know when you're ready and i'll take you.
+Please let me know when you're ready 与 i'll take you.
 
 <I'm ready/@transport> <I'm still not ready/@exit>
 

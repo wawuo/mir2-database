@@ -9,11 +9,11 @@
 
 [@main-1]
 #SAY
-<Weapon shop/@go-weap>   <Armour shop/@go-cloth>   <Inn/@go-inn>
-<Accessory shop/@go-access>   <Reagent Store/@go-pot>   <Bichon Inner Wall/@go-palace>
-<Book store/@go-book>  <Butcher's shop/@go-meat>
+<武器店/@go-weap>   <盔甲店/@go-cloth>   <客栈//@go-inn>
+<首饰店/@go-access>   <试剂商店/@go-pot>  <比奇内墙客栈/@go-palace>
+<书店/@go-book>  <肉店/@go-meat>
 
-<�ر�/@Exit>
+<关闭/@Exit>
  
 
 [@ask]
@@ -22,7 +22,7 @@ News:
 
 
 
-<����/@Main>
+<返回/@Main>
 
 [@go-weap]
 #ACT

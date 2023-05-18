@@ -13,19 +13,19 @@ GOTO @Main-1
 #SAY
 Welcome, 欢迎。我能为你做什么?
 我看到你正穿着: 
-{L: <$RING_L> R: <$RING_R>/CORAL}
-{L: <$BRACELET_L> R: <$BRACELET_R>/CORAL}
+{左: <$RING_L> 右: <$RING_R>/CORAL}
+{左: <$BRACELET_L> 右: <$BRACELET_R>/CORAL}
 {<$NECKLACE>/CORAL}
 
 
 <查看/@BuySell> 商店
-<Repair/@Repair> Jewellery.
+<修理/@Repair> Jewellery.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to出售或购买?
+Which item 想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -48,18 +48,18 @@ You can repair various kinds of Jewellery.
 7
 
 [Trade]
-NagaNecklace
-PheonixBead
-AmberNecklace
-LanternNecklace
+娜迦项链
+凤凰珠
+琥珀项链
+灯笼项链
 喇叭戒指
 铁戒指
 白玉戒指
 蓝戒指
-BlackRing
-SerpentEyeRing
-PearlRing
-GoldRing
+黑戒指
+蛇眼戒指
+珍珠戒指
+金戒指
 钢制手镯
 大手镯
 应变手镯

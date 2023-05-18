@@ -14,13 +14,13 @@ GOTO @Main-1
 你好旅行者。我能为你做什么? 
  
 <查看/@BuySell> 商店
-<Repair/@Repair> 布帘.
+<修理/@Repair> 布帘.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to出售或购买?
+Which item 想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -45,19 +45,19 @@ Which item would you like to出售或购买?
 10
 
 [Trade]
-HeavyArmour(男)
-HeavyArmour(女)
-SoulArmour(男)
-SoulArmour(女)
-MagicRobe(男)
-MagicRobe(女)
-RelicArmour(男)
-RelicArmour(女)
-LightLeatherArmour(男)
-LightLeatherArmour(女)
+重装甲(男)
+重装甲(女)
+灵魂护甲(男)
+灵魂护甲(女)
+魔法之袍(男)
+魔法之袍(女)
+遗迹盔甲(男)
+遗迹盔甲(女)
+轻质皮甲(男)
+轻质皮甲(女)
 青铜头盔
 双闸刀
-BrassHelmet
+黄铜头盔
 皮腰带
 链带
 低帮鞋

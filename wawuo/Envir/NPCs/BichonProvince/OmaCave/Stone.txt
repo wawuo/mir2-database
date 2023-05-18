@@ -7,7 +7,7 @@ CHECK [536] 1
 A Mysterious Stone with Ancient symbols.
 "<Dungeon of the Ancient Ones/@omacavea>" {Level10~60./KHAKI}
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 #ELSEACT
 GOTO @MAIN-1
 
@@ -19,7 +19,7 @@ SET [536] 1
 #ELSESAY
 A Mysterious Stone with Unknown symbols.
   
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [@omacavea]
 #IF

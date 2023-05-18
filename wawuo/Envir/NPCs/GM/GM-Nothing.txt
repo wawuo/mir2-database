@@ -2,23 +2,23 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-<Buy/@Buy> Nothing!
-<Sell/@Sell> Nothing!
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
+<购买/@Buy> Nothing!
+<出售/@Sell> Nothing!
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 
 
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 
@@ -30,11 +30,11 @@ Sell.
 金条
 金条包
 金柜
-GambleChip
-Dice
-UnknownOrb
-AdmissionOrb
-ScrollOfSeal
-GuardianOrb
+赌博筹码
+骰子
+未知球体
+入场券
+封印卷轴
+守护神
 比熊令牌
-TimeStonePiece
+时间石块

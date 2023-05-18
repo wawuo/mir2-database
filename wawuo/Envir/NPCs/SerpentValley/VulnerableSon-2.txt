@@ -3,7 +3,7 @@
 Stranger.. Stranger.. Help. I'm scared. 
 My Father entered the Mines looking for possible Loot!
 
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [Quests]
 74

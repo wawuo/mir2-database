@@ -26,7 +26,7 @@ GOTO @Main-2
 #SAY
 Traveler. You heard the latest?
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [@MAIN-2]
 #SAY
@@ -34,4 +34,4 @@ Traveler. There's rumors floating about trying to remove
 the Emperor from the Throne. I shall keep digging for the 
 Information come back to me soon.
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>

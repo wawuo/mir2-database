@@ -14,20 +14,20 @@ LEVEL < 70
 #SAY
 A Mysterious Stone with Ancient symbols.
 "The still dont remain still for <long./@zumatemplea>"
-{ZumaHeart/LightSteelBlue} Required {Level55~70./KHAKI}
+{祖玛之心/LightSteelBlue} Required {Level55~70./KHAKI}
  
-<�ر�/@exit>
+<关闭/@exit>
 #ELSESAY
 Nothing happens.
  
  
-<�ر�/@exit>
+<关闭/@exit>
 
 [@zumatemplea]
 #IF
-CHECKITEM ZumaHeart 1
+CHECKITEM 祖玛之心 1
 #ACT
-TAKEITEM ZumaHeart 1
+TAKEITEM 祖玛之心 1
 MOVE 0157A 18 17
 #ELSESAY
 Nothing happens.

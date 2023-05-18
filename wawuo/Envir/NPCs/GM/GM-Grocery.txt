@@ -2,23 +2,23 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you're holding: {<$TORCH>/CORAL}
-<Buy/@Buy> Grocery
-<Sell/@Sell> Grocery
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
+我看到你在拿着: {<$TORCH>/CORAL}
+<购买/@Buy> Grocery
+<出售/@Sell> Grocery
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 

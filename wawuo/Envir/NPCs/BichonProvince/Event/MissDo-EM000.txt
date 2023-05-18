@@ -1,8 +1,8 @@
 [@Main]
 #SAY
-你好, I am Miss Do. I will be guiding the people of Level 1~30.
+浣犲ソ, I am Miss Do. I will be guiding the people of Level 1~30.
 The arena is a place to test your own power only
-so summoned mobs are prohibitied to be used. The fee is 3000         金币
+so summoned mobs are prohibitied to be used. The fee is 3000         閲戝竵
 Time Limit is 2 hours. I hope you will pass all stages and
 go home safely.
 Pay 3000 Gold <and challenge./@checklevel> start>
@@ -52,7 +52,7 @@ GOTO @start2
 #ELSESAY
 Your level is to high to fight here.
 Try one of my sisters, MissRe or MissMi
-<关闭/@exit>
+<鍏抽棴/@exit>
 
 [@start2]
 #IF
@@ -64,4 +64,4 @@ TIMERECALL 3600
 MOVE EM001 13 16
 #ELSESAY
 You dont have the 3000 Gold entrance fee.
-<关闭/@exit>
+<鍏抽棴/@exit>

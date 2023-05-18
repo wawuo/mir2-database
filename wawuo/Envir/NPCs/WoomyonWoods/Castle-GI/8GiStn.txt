@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-我不会帮助像你这样的恶人...
+鎴戜笉浼氬府鍔╁儚浣犺繖鏍风殑鎭朵汉...
  
  
-<关闭/@exit>
+<鍏抽棴/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -13,15 +13,15 @@ GOTO @Main-1
 #SAY
 Traveller, I will purchase any Stones you have.
  
-<Sell/@sell> Stones.
+<鍑哄敭/@sell> Stones.
  
-<关闭/@exit>
+<鍏抽棴/@exit>
 
 [@Sell]
 #SAY
 Show me which Stones you wish to sell.
  
-<返回/@main>
+<杩斿洖/@main>
 
 [Types]
 11

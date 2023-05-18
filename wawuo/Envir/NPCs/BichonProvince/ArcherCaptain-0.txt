@@ -1,11 +1,11 @@
 [@Main]
 #SAY
-ÄãºÃ <$USERNAME>, My name is Jerald.
+ä½ å¥½ <$USERNAME>, My name is Jerald.
 I am the Captain of a Archer Regerment 
 We were brought here for the War.
 I'm just hoping we can return home soon
 
-<¹Ø±Õ/@Exit>
+<å…³é—­/@Exit>
 
 [Quests]
 -19

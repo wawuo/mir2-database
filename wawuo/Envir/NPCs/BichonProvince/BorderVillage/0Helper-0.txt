@@ -2,19 +2,19 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-我不会帮助像你这样的恶人...
+鎴戜笉浼氬府鍔╁儚浣犺繖鏍风殑鎭朵汉...
  
  
-<关闭/@exit>
+<鍏抽棴/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 <$USERNAME>, Are you a beginner in this game?
+浣犲ソ <$USERNAME>, Are you a beginner in this game?
 Please press ('H') to bring up the help menu.
  
-<关闭/@exit>
+<鍏抽棴/@exit>
 
 [Quests]
 1

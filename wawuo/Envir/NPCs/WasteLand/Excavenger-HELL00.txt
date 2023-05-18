@@ -1,8 +1,8 @@
 [@Main]
 #SAY
-ÄãºÃ Traveler. Have you ventured into the caves?
+ä½ å¥½ Traveler. Have you ventured into the caves?
 The Evil within are great. But the rewards can be greater.
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [Quests]
 138

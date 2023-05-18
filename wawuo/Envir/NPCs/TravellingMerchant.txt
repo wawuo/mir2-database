@@ -27,7 +27,7 @@ GOTO @Main-1
 Greetings {<$USERNAME>/GREENYELLOW}, I am {<$NPCNAME>/SEAGREEN} i travel all across 
 these lands. Do you have anything for sale?
  
-<Sell/@Sell> Items.
+<出售/@Sell> Items.
 <关闭/@exit>
 
 [@Sell]

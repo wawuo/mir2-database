@@ -40,7 +40,7 @@ SET [535] 1
 #SAY
 Hmm... Think ive seen those symbols before...
 Sir Mogu was asking about that language many years ago.
-Travel to the Tavern and talk to him about it.
+Travel to the Tavern 与 talk to him about it.
 <Thank You/@exit>
 
 [@THX2]

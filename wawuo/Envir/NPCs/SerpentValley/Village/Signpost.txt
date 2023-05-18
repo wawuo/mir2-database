@@ -3,10 +3,10 @@
 
 [@main-1]
 #SAY
-I will guide you to the desired �̵�
+I will guide you to the desired 商店
 Where shall I teleport you?
 
-<Weapon shop/@Weapon>   <Reagent store/@reagent>
+<武器店/@Weapon>   <Reagent store/@reagent>
 
 I will be back <later/@Exit>
 

@@ -14,7 +14,7 @@ LEVEL < 56
 #SAY
 A Mysterious Stone with Ancient symbols.
 "The 骨头s are crunching the Fear is <within/@prajnacavea>"
-{PrajnaHeart/LightSteelBlue} Required {Level48~55./KHAKI}
+{普拉纳之心/LightSteelBlue} Required {Level48~55./KHAKI}
  
 <关闭/@exit>
 #ELSESAY
@@ -25,9 +25,9 @@ Nothing happens.
 
 [@prajnacavea]
 #IF
-CHECKITEM PrajnaHeart 1
+CHECKITEM 普拉纳之心 1
 #ACT
-TAKEITEM PrajnaHeart 1
+TAKEITEM 普拉纳之心 1
 MOVE D2051A 113 174
 #ELSESAY
 Nothing happens.

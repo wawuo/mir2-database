@@ -17,7 +17,7 @@ I am the Administrator. How may I help you ?
 <Request Guild war/@REQUESTWAR>
 Required {Gold/Gold}: <$GUILDWARFEE> Last's for <$GUILDWARTIME> Minutes.
 <Request Sabuk conquest war/@requestcastlewar>
-<Ask how to create a Guild/@buildguildexp> || <Ask about Guild war/@guildwarexp>
+<想问 how to create a Guild/@buildguildexp> || <想问 about Guild war/@guildwarexp>
 
  
 
@@ -30,13 +30,13 @@ in deep in the Wooma Temple in Woomyon Woods.
 Please keep in mind that no special characters
 are allowed in guild names.
 Guilds made by using alt codes or spaces in the name
-will be deleted and no refund made.
+will be deleted 与 no refund made.
 <返回/@main>
 
 [@guildwarexp]]
 #SAY
 <Guild war/@guildwar2> means war done by legal request.  
-Actually, due to the number of guilds and struggles between 
+Actually, due to the number of guilds 与 struggles between 
 them, the government approve <legal/@warrule> guild war. 
 When <requested/@propose>, war will be allowed for 3 hours. 
 You'll have to pay <$GUILDWARFEE> {Gold/Gold} as request fee. 
@@ -90,7 +90,7 @@ start 2 days later.
 #SAY
 Wall conquest war accepted. 
 Run to Sabuk wall as fast as you can 
-to ask the oldman for the date and time of the war.
+to ask the oldman for the date 与 time of the war.
  
 <退出/@exit>
 ; time of wall conquest war is

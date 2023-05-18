@@ -15,7 +15,7 @@ GOTO @Main-1
 我看到你正穿着: {<$NECKLACE>/CORAL}
 
 <查看/@BuySell> 商店
-<Repair/@Repair> 项链.
+<修理/@Repair> 项链.
  
 <关闭/@Exit>
 

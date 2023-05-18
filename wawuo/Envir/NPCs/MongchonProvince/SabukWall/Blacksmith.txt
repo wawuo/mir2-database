@@ -2,30 +2,30 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-�Ҳ���������������Ķ���...
+我不会帮助像你这样的恶人...
  
  
-<�ر�/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome Traveller, my name is Dean, I'm a Master Artisan.. 
-I have specialized in Weaponry for many year's now.
+欢迎客人, 我名叫 Dean, 我是一个大师级工匠.. 
+我专门研究武器装备已经很多年了
 
-�ҿ�����������: {<$WEAPON>/CORAL}
+我看到你正穿着: {<$WEAPON>/CORAL}
 
-<Special/@SRepair> Repair Weapon.
+<特修/@SRepair> 修复武器.
  
-<�ر�/@exit>
+<关闭/@exit>
 
 [@SRepair]
 #SAY
-Traveller, You are lucky... We have the materials to do Special repairs.
+旅行者，你很幸运...。我们有材料可以做特别维修
  
  
-<�ر�/@exit>
+<关闭/@exit>
 
 [Types]
 1

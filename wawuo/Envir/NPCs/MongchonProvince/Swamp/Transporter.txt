@@ -1,6 +1,6 @@
 [@main]
 #SAY
-Have you had enough and want to go back?
+Have you had enough 与 want to go back?
 
 <Yes/@yes>  <No/@exit>
 

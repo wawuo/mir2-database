@@ -2,23 +2,23 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
 You appear to have {<$GAMEGOLD>/ORANGE} gold coins to spend.
-<Buy/@Buy> Script
-<Sell/@Sell> Script
+<购买/@Buy> Script
+<出售/@Sell> Script
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 

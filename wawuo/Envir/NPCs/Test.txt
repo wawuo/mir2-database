@@ -27,16 +27,16 @@ GOTO @Assassin
 
 [@Warrior]
 #ACT
-GIVEITEM BlackTigerArmour(男) 1
-GIVEITEM BlackTigerArmour(女) 1
-GIVEITEM HelmetOfKings 1
-GIVEITEM BlackTigerHammer 1
-GIVEITEM TarragonNecklace 1	
+GIVEITEM 黑虎盔甲(男) 1
+GIVEITEM 黑虎盔甲(女) 1
+GIVEITEM 国王头盔 1
+GIVEITEM 黑虎之锤 1
+GIVEITEM 塔拉贡项链 1	
 GIVEITEM 双天王护身符 2
-GIVEITEM PledgeRing	2
+GIVEITEM 誓约环	2
 GIVEITEM 黑暗腰带	1
 GIVEITEM 黑暗之靴 1
-GIVEITEM HolyDCStone 1
+GIVEITEM HolyDC攻击石 1
 #SAY
 <Spells/@SpellsWarrior>
 
@@ -64,16 +64,16 @@ GIVESKILL 不朽的皮肤 3
 
 [@Wizard]
 #ACT
-GIVEITEM LotusArmour(男) 1
-GIVEITEM LotusArmour(女) 1
-GIVEITEM HelmetOfSorcery 1
-GIVEITEM TarragonNecklace 1
+GIVEITEM 莲花盔甲(男) 1
+GIVEITEM 莲花盔甲(女) 1
+GIVEITEM 巫术头盔 1
+GIVEITEM 塔拉贡项链 1
 GIVEITEM 诅咒护身符 2
-GIVEITEM CrimsonRubyRing 2
+GIVEITEM 红宝戒指 2
 GIVEITEM 黑暗腰带	1
 GIVEITEM 黑暗之靴 1
-GIVEITEM HolyMCStone 1
-GIVEITEM StaffOfLotus 1
+GIVEITEM HolyMC石 1
+GIVEITEM 洛托斯之杖 1
 #SAY
 <Spells/@SpellsWizard>
 
@@ -108,15 +108,15 @@ GIVESKILL FireBounce 3
 
 [@Taoist]
 #ACT
-GIVEITEM CraneArmour(男) 1
-GIVEITEM CraneArmour(女) 1
-GIVEITEM PurifiedMask 1
-GIVEITEM TarragonNecklace 1
+GIVEITEM 仙鹤盔甲(男) 1
+GIVEITEM 仙鹤盔甲(女) 1
+GIVEITEM 净化面具 1
+GIVEITEM 塔拉贡项链 1
 GIVEITEM 神圣护身符 2
-GIVEITEM FiveElementRing 2
+GIVEITEM 五元素戒指 2
 GIVEITEM 黑暗腰带	1
 GIVEITEM 黑暗之靴 1 
-GIVEITEM HolySCStone 1
+GIVEITEM HolySC石 1
 #SAY
 <Spells/@SpellsTaoist>
 
@@ -152,15 +152,15 @@ GIVESKILL 治愈圈 3
 
 [@Assassin]
 #ACT
-GIVEITEM StealthArmour(男) 1
-GIVEITEM StealthArmour(女) 1
-GIVEITEM DemonShadow 1
-GIVEITEM TarragonNecklace 1
+GIVEITEM 隐形盔甲(男) 1
+GIVEITEM 隐形盔甲(女) 1
+GIVEITEM 恶魔之影 1
+GIVEITEM 塔拉贡项链 1
 GIVEITEM 双天王护身符 2
-GIVEITEM PledgeRing	2
+GIVEITEM 誓约环	2
 GIVEITEM 黑暗腰带	1
 GIVEITEM 黑暗之靴 1
-GIVEITEM HolyDCStone 1
+GIVEITEM HolyDC攻击石 1
 #SAY
 <Spells/@SpellsAssassin>
 

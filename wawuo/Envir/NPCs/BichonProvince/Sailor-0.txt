@@ -3,8 +3,8 @@
  The boat goes many places. The boat will depart soon
  Passengers, Please board the ship.
  
- <To 般若岛/@brdmove> Pay 2,000 Gold and Board.
- <To White Valley/@brdmove1> Pay 10,000 Gold and Board.
+ <To 般若岛/@brdmove> Pay 2,000 Gold 与 Board.
+ <To White Valley/@brdmove1> Pay 10,000 Gold 与 Board.
  <Talk/@talk> about each frontiers.
 
 [@talk]
@@ -16,8 +16,8 @@
 
 [@talkPI]
  般若岛 is full of rampaging monsters.
- Some braves may take this opportunity to boost and raise
- their reputation and fame but for the locals,it ain't nothing but just hell.
+ Some braves may take this opportunity to boost 与 raise
+ their reputation 与 fame but for the locals,it ain't nothing but just hell.
 
  <返回/@talk>
 

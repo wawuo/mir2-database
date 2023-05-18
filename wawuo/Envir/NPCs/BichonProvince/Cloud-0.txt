@@ -3,7 +3,7 @@
 I am the Assassin-Level Warrior, it's good to see you.
 The first thing you need to learn is sword technique,
 you can start to practise this properly at level 7.
-First level up and then come and see me.
+First level up 与 then come 与 see me.
 <Ok/@exit>
 
 [Quests]

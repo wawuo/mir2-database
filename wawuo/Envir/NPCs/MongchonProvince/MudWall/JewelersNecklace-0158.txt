@@ -14,7 +14,7 @@ GOTO @Main-1
 欢迎。我能为你做什么?
  
 <查看/@BuySell> 商店
-<Repair/@Repair> 项链.
+<修理/@Repair> 项链.
  
 <关闭/@Exit>
 

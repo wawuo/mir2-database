@@ -10,15 +10,15 @@ GOTO @MAIN-2
 #SAY
 Traveler Traveler.. There's people going around ruining everything.
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [@MAIN-2]
 #SAY
-Oh.. ±§Ç¸.. You startled me. Well ÄãºÃ there..
+Oh.. æŠ±æ­‰.. You startled me. Well ä½ å¥½ there..
 "Can you be of any assistance?"
 "I'm trying to spread a good word around about the <Emperor/@emperor>."
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [@emperor]
 #ACT

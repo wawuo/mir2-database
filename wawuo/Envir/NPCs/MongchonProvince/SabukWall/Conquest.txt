@@ -13,7 +13,7 @@ Next Conquest Date:
 
 * <$CONQUESTSCHEDULE(1)> {Attacking Guild/Orange}
 
- <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>      <�˳�/@exit>
+ <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>      <退出/@exit>
 
 #ELSEACT
 LocalMessage "Come back when you own Sabuk Wall!" Hint
@@ -79,7 +79,7 @@ GLOBALMESSAGE "By the order of <$CONQUESTOWNER(1)> Sabuk Taxes are <$CONQUESTRAT
 ;gate regulation
 
 [@treatdoor]
-Here you can open and close your Main Gate!
+Here you can open 与 close your Main Gate!
 <Main/@main>
 
 [@openmaindoor]
@@ -106,19 +106,19 @@ LocalMessage "You have Closed the Main Gate!" Hint
 [@repaircastle]
 #SAY
 The Wall Funds must be transfered to your Guild Bank,
-for Repairs and Archers.
+for Repairs 与 Archers.
 
 Where do you want to make repairs?
 
 <Main/@main>
 
-{Left Wall/lightgreen}         <Repair/@wl>
+{Left Wall/lightgreen}         <修理/@wl>
 <$CONQUESTWALL(1,1)>
 
-{Right Wall/lightgreen}        <Repair/@wr>
+{Right Wall/lightgreen}        <修理/@wr>
 <$CONQUESTWALL(1,3)>
 
-{Center Wall/lightgreen}      <Repair/@wc>
+{Center Wall/lightgreen}      <修理/@wc>
 <$CONQUESTWALL(1,2)>
 
 
@@ -163,7 +163,7 @@ LocalMessage "You Dont have the funds to Repair Center Wall!" Hint
 [@reliveachers]
 #SAY
 The Wall Funds must be transfered to your Guild Bank,
-for Repairs and Archers.
+for Repairs 与 Archers.
 <Page Two/@p2> <Main/@main>
 
 {Archer One/lightgreen}                         {Archer Four/lightgreen}

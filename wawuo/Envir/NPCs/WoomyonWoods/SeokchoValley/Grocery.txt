@@ -13,8 +13,8 @@ GOTO @Main-1
 #SAY
 你好 旅行者。我能帮你做什么?
 
-I see you're holding: {<$TORCH>/CORAL}
-I see you're holding: {<$AMULET>/CORAL}
+我看到你在拿着: {<$TORCH>/CORAL}
+我看到你在拿着: {<$AMULET>/CORAL}
 
 <查看/@BuySell> 商店 
  

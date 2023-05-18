@@ -17,13 +17,13 @@ GOTO @Main-3
 [@Main-1]
 #SAY
 If you want to know it quickly.
-Go and see the owner of this school.
+Go 与 see the owner of this school.
 <Okay/@exit>
 
 [@Main-2]
 #SAY
 The HolyWeapon... I would never believe it.
-<�ر�/@Exit>
+<关闭/@Exit>
 
 [@Main-3]
 #SAY
@@ -47,7 +47,7 @@ Leave us alone, please!
 #SAY
 Defenitly there is such a legend from the past but...
 the owner of this school knows more details about it
-go and ask him about it.
+go 与 ask him about it.
 <Ok/@exit>
 #ACT
 SET [527] 1

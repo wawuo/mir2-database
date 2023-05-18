@@ -2,9 +2,9 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-<Buy/@Buy> Book
-<Sell/@Sell> Book
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
+<购买/@Buy> Book
+<出售/@Sell> Book
  
 Learn all <Warrior/@Warrior> , <Wizard/@Wizard> , <Taoist/@Taoist> , <Archer/@Archer> , <Assassin/@Assassin> spells.
 
@@ -13,13 +13,13 @@ MOVE 0 300 300
  
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 

@@ -5,9 +5,9 @@
 #SAY
 I can send you several places nearby.
 
-<Weapon shop/@weapon>   <Armour shop/@Armour>
-<Book store/@book>   <Accessory shop/@access>
-<Inn/@store>
+<ÎäÆ÷µê/@weapon>   <¿ø¼×µê/@Armour>
+<Êéµê/@book>   <Ê×ÊÎµê/@access>
+<¿ÍÕ»//@store>
 
 I will be back <later/@Exit>
 

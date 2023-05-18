@@ -5,5 +5,5 @@ It's very dangerous around here,
 so there aren't many merchants out in the valley.
 You should get yourself prepared here
 if you are going to the valley.
-<ÍË³ö/@exit>
+<é€€å‡º/@exit>
 

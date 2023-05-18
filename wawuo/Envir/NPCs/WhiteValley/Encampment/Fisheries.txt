@@ -13,8 +13,8 @@ GOTO @Main-1
 #SAY
 Glad to see you, how can I help you?
  
-<Purchase/@Buy> Fishing 材料.
-<Sell/@sell> Fish.
+<交易/@Buy> Fishing 材料.
+<出售/@sell> Fish.
  
 <关闭/@exit>
 

@@ -2,25 +2,25 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
 I see you have: {<$MOUNT>/CORAL}
 Mount Loyalty: {<$MOUNTLOYALTY>/CORAL}
 You need to be Lebel 22 for mounts, Your Level: {<$LEVEL>/ORANGE}
-<Buy/@Buy> Mount Equipment
-<Sell/@Sell> Mount Equipment
+<购买/@Buy> Mount Equipment
+<出售/@Sell> Mount Equipment
 
 #ELSEACT
 MOVE 0 300 300
  
 [@Sell]
 #SAY
-Sell.
+出售
  
 <返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+购买
  
 <返回/@Main>
 

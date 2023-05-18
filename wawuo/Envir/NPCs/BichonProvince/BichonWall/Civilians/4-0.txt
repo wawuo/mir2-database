@@ -27,11 +27,11 @@ GOTO @Main-2
 <$USERNAME>, Forgive me I shouldn't of judged him based on my anger.
 I am thankful to him.. He keeps us Safe.
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [@MAIN-2]
 #SAY
 <$USERNAME>, I'm starving... What does that Emperor do? Nothing!
 In his palace probably waiting for his FEAST!
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>

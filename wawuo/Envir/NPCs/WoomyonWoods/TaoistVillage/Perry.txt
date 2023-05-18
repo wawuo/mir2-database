@@ -37,8 +37,8 @@ What do you want to know?
 Holy Sword...
 It was our very best sword a long time ago. But we don't
 have it anymore. People say that the sword is able to
-know every kinds of demon and evil for it is holy and reverend.
-But a certain villain stole it and ran away with it a long time ago,
+know every kinds of demon 与 evil for it is holy 与 reverend.
+But a certain villain stole it 与 ran away with it a long time ago,
 so there is nothing left but its legend...
 If the HolySword still exists just one place occurs to me...
 <Where is it?/@quest1>
@@ -76,10 +76,10 @@ my task. I shall tell you everything.
 #IF
 #SAY
 No information about him remains. I just heard that the former
-Rev.taoist of this school thought he was pitiful and permitted
+Rev.taoist of this school thought he was pitiful 与 permitted
 him to stay here. Because he was running away as he had committed
-a serious crime before. But he betrayed that trust and stole the
-sword, the best sword of this school, and dissapeared.
+a serious crime before. But he betrayed that trust 与 stole the
+sword, the best sword of this school, 与 dissapeared.
 <Can you tell me What HolySword is?/@next_quest1>
 
 [@next_quest1]
@@ -99,9 +99,9 @@ According to the former Rev.taoist of this school, the person who
 stole the HolySword went forward in to the Redmoon Valley across a
 Tree path. Then a big group of heroes went there to pursue him but
 no one came back. By perfroming magical astrology I found out there
-was a very strong demon in Redmoon valley and that it seemed to be
+was a very strong demon in Redmoon valley 与 that it seemed to be
 related to the tragedy.
-<I see and appreciate your answer/@next_quest3>
+<I see 与 appreciate your answer/@next_quest3>
 
 [@next_quest3]
 #IF
@@ -128,9 +128,9 @@ young. Do you want to hear about Abel?
 <Hear/@hear> the story
 <Skip/@nohear> the story
 [@nohear]
-Well, everything is gone and useless now.
+Well, everything is gone 与 useless now.
 Get out of here please! 
-<Ask/@pre_hear> for the tale again
+<想问/@pre_hear> for the tale again
 Just <Get out/@exit>
 
 
@@ -156,14 +156,14 @@ It is true.
 
 [@next1]
 It was rumored around Bichon Province that a villain stole
-the secret know-how and treasures of each prominent Taoist
+the secret know-how 与 treasures of each prominent Taoist
 School, his name was Abel 
 <Next/@next2>
 
 [@next2]
 As the damage grew, many heroes struggled to arrest
-Abel and together decided to catch him in a 陷阱. But
-we all made a mistake and underestimated him
+Abel 与 together decided to catch him in a 陷阱. But
+we all made a mistake 与 underestimated him
 we never dreamed that he would have
 mastered the best martial art skill of all. 
 <Next/@next3>
@@ -187,7 +187,7 @@ was his martial art skill really the best
 but also the heroes were not in harmony to attack him.
 So, I made a decision to fight man to man.
 The heroes stepped back.
-A one on one fight between me and him began.
+A one on one fight between me 与 him began.
 <Next/@next6>
 
 [@next6]
@@ -195,12 +195,12 @@ At the end of a fierce fight I was heavily wounded.
 but I had injured his leg.
 I saw he could not even stand so I relaxed my attention
 Then Abel floated in the air as with a kind of
-high level martial art and dissapeared
+high level martial art 与 dissapeared
 We traced his blood but we failed to find him again
 <Next/@next7>
 
 [@next7]
-Abel disappeared and the secret know-how was gone with him.
+Abel disappeared 与 the secret know-how was gone with him.
 It was rumored that a certain party who wanted the secret
 know-how exclusively for themselves hid Abel away.
 It caused lot of groups to fight against each other.
@@ -219,10 +219,10 @@ Abel stole long time ago is hidden there.
 
 [@next9]
 But there are many strong monsters there,
-and they will try and kill you if you enter.
+and they will try 与 kill you if you enter.
 Now I am too old. For am I not a Rev.Taoist
 who is responsible for this Taoist School.
-I'll go there and check it out..
+I'll go there 与 check it out..
 <Next/@next10>
 
 [@next10]

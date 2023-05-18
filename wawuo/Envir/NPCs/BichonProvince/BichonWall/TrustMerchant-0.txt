@@ -2,24 +2,24 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-ÎÒ²»»á°ïÖúÏñÄãÕâÑùµÄ¶ñÈË...
+æˆ‘ä¸ä¼šå¸®åŠ©åƒä½ è¿™æ ·çš„æ¶äºº...
  
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-ÄãºÃ. I am the 'Commission Merchant'. I am in charge
+ä½ å¥½. I am the 'Commission Merchant'. I am in charge
 of commission sales. We are located at five places of
 Bichon Province, Mongchon Province, Tao Village, Prajna
-Island and Past Bichon, the item sales information are
+Island ä¸ Past Bichon, the item sales information are
 all shared by the five merchants.
  
 <Consign/@Consign> Item  <View Market/@Market>.
 <View Consignments/@Consignment>
-<¹Ø±Õ/@exit> <Help/@help>
+<å…³é—­/@exit> <Help/@help>
 
 
 [@Consign]
@@ -36,7 +36,7 @@ The following are 'cautions' in the commission sale.
    1,000 - 50,000,000 {Gold/Gold}.
  
 Do you agree?
-<Leave/@exit> <·µ»Ø/@main>
+<Leave/@exit> <è¿”å›/@main>
 
 [@help]
 #SAY
@@ -50,7 +50,7 @@ The following are 'cautions' in the commission sale.
    for sale
 5. Trust money amount: can be set in the range of
    1,000 - 50,000,000 {Gold/Gold}. 
-<·µ»Ø/@main>
+<è¿”å›/@main>
 
 [@Market]
 #SAY
@@ -58,4 +58,4 @@ The following are 'cautions' in the commission sale.
 
 [@Consignment]
 #SAY
-What would you like to sell?
+What æƒ³è¦ sell?

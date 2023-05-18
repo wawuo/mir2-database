@@ -11,15 +11,15 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-What kind of Poison would you like to purchase?
+想购买什么样的药品?
  
-<Purchase/@Buy> Poison.
+<交易/@Buy> Poison.
  
 <关闭/@exit>
 
 [@Buy]
 #SAY
-What Posion's do you wish to buy?
+你想买什么药品?
  
 <关闭/@exit>
  

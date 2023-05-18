@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Greetings! How can i help you?
+Greetings! 有什么事?
 <交易/@PEARLBUY> Creature Pearls.
  
 <关闭/@exit>

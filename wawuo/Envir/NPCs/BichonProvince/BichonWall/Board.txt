@@ -11,20 +11,20 @@ Learn about <Rebirth/@RebirthMain>
 
 [@main-1]
 #SAY
-<Weapon shop/@go-weap>   <Armour shop/@go-cloth>   <Inn/@go-inn>
-<Accessory shop/@go-access>   <Reagent Store/@go-pot>   <Bichon Inner Wall/@go-palace>
-<Book store/@go-book>  <Butcher's shop/@go-meat>   <Hairdresser/@go-hairdresser>
+<武器店/@go-weap>   <盔甲店/@go-cloth>   <客栈//@go-inn>
+<首饰店/@go-access>   <试剂商店/@go-pot>  <比奇内墙客栈/@go-palace>
+<书店/@go-book>  <肉店/@go-meat>   <理发师/@go-hairdresser>
 
-<�ر�/@Exit>
+<关闭/@Exit>
 
 [@ask]
 #SAY
-News: 
-Travelling Merchant Damian visists everyday between 9:30 to 10:30
-You can sell all your loot to him.
-He always hangs out near the book �̵�
+新闻: 
+旅行商人达米安每天在9:30至10:30之间来访。
+你可以把你所有的战利品卖给他。
+他总是在书商店的附近徘徊 
 
-<����/@Main>
+<返回/@Main>
 
 [@go-weap]
 #ACT
@@ -84,22 +84,22 @@ SealHero
 
 [@RebirthMain]
 #SAY
-Rebirth starts at Level 60 and grants you a Rebirth Effect
-depending on your level after rebirth.
+重生从60级开始，根据重生后的
+等级授予你重生效果。.
 
 Rebirth 1 - <Level 60-69/@RB1>
 Rebirth 2 - <Level 70-79/@RB2>
 Rebirth 3 - <Level 80+/@RB3>
 
-Check your rebirth eligibility above.
+请重新检查你的转生资格.
 
 [@RB1]
 #IF
 LEVEL < 60
 #SAY
-You need to be above Level 60 to rebirth.
+60级才能转生.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 #ELSEACT
 GOTO @RB1CHECK
 
@@ -113,7 +113,7 @@ Would you like to rebirth?
 #ELSESAY
 You are already Rebirth 1.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB1APPLY]
 #ACT
@@ -123,7 +123,7 @@ ADDNAMELIST ../NameLists/Rebirth1.txt
 #SAY
 You are now Reborn.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB2]
 #IF
@@ -131,7 +131,7 @@ LEVEL < 70
 #SAY
 You need to be above Level 70 to rebirth.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 #ELSEACT
 GOTO @RB2CHECK
 
@@ -145,7 +145,7 @@ Would you like to rebirth?
 #ELSESAY
 You are already Rebirth 2.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB2APPLY]
 #ACT
@@ -156,7 +156,7 @@ ADDNAMELIST ../NameLists/Rebirth2.txt
 #SAY
 You are now Reborn.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB3]
 #IF
@@ -164,7 +164,7 @@ LEVEL < 80
 #SAY
 You need to be above Level 80 to rebirth.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 #ELSEACT
 GOTO @RB3CHECK
 
@@ -178,7 +178,7 @@ Would you like to rebirth?
 #ELSESAY
 You are already Rebirth 3.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [@RB3APPLY]
 #ACT
@@ -189,7 +189,7 @@ ADDNAMELIST ../NameLists/Rebirth3.txt
 #SAY
 You are now Reborn.
 
-<����/@RebirthMain>     <�˳�/@EXIT>
+<返回/@RebirthMain>     <退出/@EXIT>
 
 [Quests]
 140

@@ -23,7 +23,7 @@ Mount Loyalty: {<$MOUNTLOYALTY>/CORAL}
 
 [@BuySell]
 #SAY
-What would you like to purchase?
+What 想要 purchase?
  
 <返回/@main>
 

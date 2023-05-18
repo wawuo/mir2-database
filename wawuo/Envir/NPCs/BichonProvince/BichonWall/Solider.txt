@@ -2,10 +2,10 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-ÎÒ²»»á°ïÖúÏñÄãÕâÑùµÄ¶ñÈË...
+æˆ‘ä¸ä¼šå¸®åŠ©åƒä½ è¿™æ ·çš„æ¶äºº...
  
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 #ELSEACT
 GOTO @Main-1
 
@@ -16,6 +16,6 @@ where stone statues of the top 10 World Heroes
 and 10 Continental Heroes, who brought the glory to
 Mir continent, will be erected.
 If you wish to know the names of the heroes,
-go over there and look at the statues.
+go over there ä¸ look at the statues.
  
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>

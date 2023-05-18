@@ -14,21 +14,21 @@ GOTO @Main-1
 Welcome, How many i help you?
  
 <查看/@BuySell> 商店
-Listen to the <explanation/@helpbooks> about skills.
+打听 <explanation/@helpbooks> 技能相关.
 Seeking <Information/@information>
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Please select the Book you either want to出售或购买.
+请选择您想要的书出售或购买.
 <返回 购买/@BuyBack>
  
 <返回/@Main>
 
 [@helpbooks]
 #SAY
-What kind of Books are you interested in?
+你对什么类型的书感兴趣?
  
 Warrior:  <Skill List/@War1>
 Wizard:   <Skill List/@Wiz1>
@@ -193,7 +193,7 @@ SET [533] 1
 #SAY
 Hmm... Think ive seen those symbols before...
 Sir Mogu was asking about that language many years ago.
-Travel to the Tavern and talk to him about it.
+Travel to the Tavern 与 talk to him about it.
 <Thank You/@exit>
 
 

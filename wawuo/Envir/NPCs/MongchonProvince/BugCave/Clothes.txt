@@ -2,15 +2,15 @@
 #SAY
 Welcome, how may I help you?
  
-<Repair/@Repair> Clothes
+<ä¿®ç†/@Repair> Clothes
  
-<¹Ø±Õ/@Exit>
+<å…³é—­/@Exit>
 
 
 [@Repair]
 You can repair Clothes here.
 
-<·µ»Ø/@Main>
+<è¿”å›ž/@Main>
 
 [Types]
 2

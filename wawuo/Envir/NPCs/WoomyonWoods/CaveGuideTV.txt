@@ -2,7 +2,7 @@
 #SAY
 I'm the Cave researcher in this area.
 
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [Quests]
 -117

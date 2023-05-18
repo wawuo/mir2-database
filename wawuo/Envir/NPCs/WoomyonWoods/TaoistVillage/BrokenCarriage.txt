@@ -1,7 +1,7 @@
 [@Main]
 #SAY
 A missing Carriage. Content's seems to be missing.
-<¹Ø±Õ/@exit>
+<å…³é—­/@exit>
 
 [Quests]
 -87

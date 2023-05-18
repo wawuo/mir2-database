@@ -23,7 +23,7 @@ You may not pass.All Must be within 5 spots of npc."
 
 [@checkorb]
 #IF
-CHECKITEM AdmissionOrb 1
+CHECKITEM 入场券 1
 #SAY
 (*You hear a slight whisper in the wind:*)
 "You are a party leader, Youre party is present,
@@ -36,9 +36,9 @@ You may pass hunter!
 
 [@pass]
 #IF
-CHECKITEM AdmissionOrb 1
+CHECKITEM 入场券 1
 #ACT
-TAKEITEM AdmissionOrb 1
+TAKEITEM 入场券 1
 GROUPTELEPORT FOX03 47 21
 break
 #ELSESAY
