@@ -1,0 +1,25 @@
+[@Description]
+Traveler. Please Warn the {SubjugationLead/LimeGreen} in 
+{沃玛森林/Yellow} about the pending threat.
+
+[@TaskDescription]
+Travel to {沃玛森林/Yellow} and warm them 
+about the pending Threat.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1380
+
+[@GoldReward]
+2563

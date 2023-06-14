@@ -1,0 +1,29 @@
+[@Description]
+你好，旅行者.你是否听说过
+弓箭手队长目前在保护
+地区？有传言说他们正在寻找
+弟子来协助战争
+
+[@TaskDescription]
+在坐标320:476处与{Jerald/LimeGreen}交谈.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+48
+
+[@GoldReward]
+60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - Captain_Jerald 0 320 476

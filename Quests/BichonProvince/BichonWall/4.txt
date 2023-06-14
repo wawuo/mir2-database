@@ -1,0 +1,29 @@
+[@Description]
+城镇周围的{喷吐蜘蛛/Crimson}数量正在增加.
+这种怪物有毒，解毒剂只能从{毒药袋/LightSteelBlue}中制作而成.
+
+[@TaskDescription]
+请狩猎{喷吐蜘蛛/Crimson}并找到{毒药袋/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+毒药袋 10
+
+[@CarryItems]
+
+[@FixedRewards]
+坚固的皮革腰带
+
+[@SelectRewards]
+
+[@ExpReward]
+500
+
+[@GoldReward]
+125
+
+// Pickup - 
+// Hand In - MirGuide_Peter 0 328 258

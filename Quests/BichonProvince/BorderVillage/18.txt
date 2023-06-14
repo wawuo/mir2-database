@@ -1,0 +1,28 @@
+[@Description]
+你现在看起来更像一个训练有素的刺客.
+我已经让彼得给你一些工作
+来做.奖励应该在很多方面对你有帮助、
+
+[@TaskDescription]
+与{传奇新手导师 Peter/LimeGreen}交谈.坐标 328:258
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+48
+
+[@GoldReward]
+60
+
+// Pickup - HighAssassin_Cloud 0 101 411
+// Hand In - MirGuide_Peter 0 328 258

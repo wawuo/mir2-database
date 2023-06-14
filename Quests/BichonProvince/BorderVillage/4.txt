@@ -1,0 +1,29 @@
+[@Description]
+你是{Jane/LimeGreen}推荐的旅行者吧？
+请你猎取{鹿/Crimson}并带给我一些 {鹿肉/LightSteelBlue}。如果你想了解更多关于 请按 "H "键。
+
+[@TaskDescription]
+通过猎杀{鹿/LightSteelBlue}收集{鹿肉/Crimson}。
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+鹿茸 5
+
+[@CarryItems]
+
+[@FixedRewards]
+老铜环
+
+[@SelectRewards]
+
+[@ExpReward]
+80
+
+[@GoldReward]
+20
+
+// Pickup - Merchant_John 0 292 604
+// Hand In - Merchant_John 0 292 604

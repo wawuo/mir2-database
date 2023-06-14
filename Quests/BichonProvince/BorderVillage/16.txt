@@ -1,0 +1,30 @@
+[@Description]
+你好，旅行者.你是否听说过
+这个地区的刺客教官？
+他是所有刺客的主人.我听说
+他最近在找一个新弟子.
+这可能是个传言
+
+[@TaskDescription]
+在坐标101:411处与{Cloud/LimeGreen}交谈.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+48
+
+[@GoldReward]
+60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - HighAssassin_Cloud 0 101 411

@@ -1,0 +1,32 @@
+[@Description]
+你好，年轻的Mirian，我正打算经常去
+我打算经常去{盟重省/Yellow}，但我还没有离开
+但我还没有离开这个小镇，因为路上有蛇。
+你认为你能消除一些 蛇吗？
+
+[@TaskDescription]
+消灭15条{红毒蛇/Crimson}和{虎毒蛇/Crimson}。
+
+[@Completion]
+
+[@KillTasks]
+RedViper 15
+TigerViper 15
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+实心铜斧
+
+[@SelectRewards]
+
+[@ExpReward]
+1200
+
+[@GoldReward]
+300
+
+// Pickup - Merchant_Bradley 0120 7 8
+// Hand In - Merchant_Bradley 0120 7 8

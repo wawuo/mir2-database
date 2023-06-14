@@ -1,0 +1,28 @@
+[@Description]
+这是之前承诺要送给{盟重童子军/LimeGreen}的{蛇酒/LightSteelBlue}，拿去吧.
+
+[@TaskDescription]
+将{蛇酒/LightSteelBlue}送到{盟重童子军/LimeGreen}手中.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+蛇酒 2
+
+[@FixedRewards]
+破碎的剑 
+
+[@SelectRewards]
+
+[@ExpReward]
+822
+
+[@GoldReward]
+300
+
+// Pickup - 
+// Hand In - MongchonScout_Brian 0100 4 10

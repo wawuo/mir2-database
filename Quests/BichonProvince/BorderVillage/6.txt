@@ -1,0 +1,31 @@
+[@Description]
+旅行者... 我还是觉得外面太危险了.
+你能再帮我一个忙吗？
+
+[@TaskDescription]
+消灭10个{勾魂猫/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+HookingCat 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+青铜战士之剑
+坚强的可可之剑
+强力木弓
+
+[@ExpReward]
+150
+
+[@GoldReward]
+38
+
+// Pickup - Blacksmith_Smith 0 296 613
+// Hand In - Blacksmith_Smith 0 296 613

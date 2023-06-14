@@ -1,0 +1,27 @@
+[@Description]
+我在40年前搬到了{沃玛森林/Yellow}，
+但因为身体状况的缘故，现在害怕离开家门去狩猎怪物了
+[@TaskDescription]
+消灭10只{半兽人战士/Crimson}并为{MasterShok/LimeGreen}完成该任务.祝您好运！
+
+[@Completion]
+
+[@KillTasks]
+OmaFighter 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1100
+
+[@GoldReward]
+1100
+
+// Pickup - Master_Shok 1 312 73
+// Hand In - Master_Shok 1 312 73

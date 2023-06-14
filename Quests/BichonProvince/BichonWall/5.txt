@@ -1,0 +1,27 @@
+[@Description]
+你来得正是时候.{盟重童子军/LimeGreen}早些时候来过，给你留了言.
+早些时候来过，给你留了言.请到{酒馆/Yellow}去.
+
+[@TaskDescription]
+去{酒馆/Yellow}的{盟重童子军/LimeGreen}对话.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1104
+
+[@GoldReward]
+1200
+
+// Pickup - 
+// Hand In - MongchonScout_Brian 0100 4 10

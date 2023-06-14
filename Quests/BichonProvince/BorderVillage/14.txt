@@ -1,0 +1,33 @@
+[@Description]
+{助理员-Jane/LimeGreen} 送给你的？
+我不能拒绝她推荐的任何人，
+但我也不能随便接受任何人做我的弟子.
+你必须要通过我的测试.
+
+[@TaskDescription]
+消灭10个{半兽人/Crimson}和{钉钯猫/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+Oma 10
+RakingCat 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+旧鞋垫
+疗伤
+
+[@SelectRewards]
+
+[@ExpReward]
+180
+
+[@GoldReward]
+45
+
+// Pickup - HighPriest_Jude 0 429 475
+// Hand In - HighPriest_Jude 0 429 475

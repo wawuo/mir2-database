@@ -1,0 +1,29 @@
+[@Description]
+你知道{毒蛇山谷/Yellow} 在哪里吗？那是一个
+小镇的西北部。那个镇上的{Robert/LimeGreen}
+正在寻找一些帮助。
+你有兴趣吗？
+
+[@TaskDescription]
+与{毒蛇山谷/Yellow}的{Robert/LimeGreen}对话。
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+672
+
+[@GoldReward]
+925
+
+// Pickup - 
+// Hand In - Merchant_Robert 2 505 479

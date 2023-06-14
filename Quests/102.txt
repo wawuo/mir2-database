@@ -1,0 +1,25 @@
+[@Description]
+Oh Hello Traveler. 
+Have you ever heard of {盟重省/Yellow}? 
+They are in need of help.
+
+[@TaskDescription]
+Talk to {Edwin/LimeGreen} in {盟重省/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+2534
+
+[@GoldReward]
+4750

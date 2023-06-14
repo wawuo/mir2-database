@@ -1,0 +1,27 @@
+[@Description]
+[@Description]
+欢迎来到{边境村/Yellow}年轻的旅行者。
+在开始旅程之前，你能帮我一个忙吗？
+
+[@TaskDescription]
+运输 {大食人的叶子/LightSteelBlue} 给{手工艺女士/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+鹿茸 5
+
+[@CarryItems]
+
+[@FixedRewards]
+老铜环
+
+[@SelectRewards]
+
+[@ExpReward]
+80
+
+[@GoldReward]
+20

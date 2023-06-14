@@ -1,0 +1,33 @@
+[@Description]
+你好，旅行者.谢谢你的光临.我之所以找你，
+是想请你帮忙保护{沃玛森林/Yellow}的安全.
+你可能在从{BichonWall/Yellow}来到这里的路
+上见过一些{食人花/Crimson}.我们需要打
+倒它们，以确保商人免受危险的攻击.
+
+[@TaskDescription]
+请收集10个{食人叶/LightSteelBlue}
+和{吃人的茎/LightSteelBlue}，
+从{食人花/Crimson}那里采集，并交付给
+在{比奇城/Yellow}的{传奇新手导师/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+吃人的茎 10
+食人叶 10
+
+[@CarryItems]
+
+[@FixedRewards]
+钢手镯
+
+[@SelectRewards]
+
+[@ExpReward]
+450
+
+[@GoldReward]
+113

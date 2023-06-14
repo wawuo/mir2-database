@@ -1,0 +1,31 @@
+[@Description]
+你最近会去{比奇/Yellow}吗？如果你去那里，
+能否将这个{秘密配方/LightSteelBlue}交给{CraftsLady/LimeGreen}？ 
+我听说{比奇/Yellow}的{CraftsLady/LimeGreen}想要我的{秘方 /LightSteelBlue}.
+我自己太忙没法过去. 
+
+[@TaskDescription] 
+请将这份秘密配方送给{CraftsLady/LimeGreen}.
+{比奇城/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+秘方 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+538
+
+[@GoldReward]
+800
+
+// Pickup - 
+// Hand In - CraftsLady_Alice 0 321 265

@@ -1,0 +1,27 @@
+[@Description]
+My grandpa lives in {沃玛森林/Yellow}. I used 
+to visit him offen, but I've just been too busy. 
+Could you visit {MasterShok/LimeGreen} in {沃玛森林/Yellow}
+and see how he's doing?
+
+[@TaskDescription]
+Visit {MasterShok/LimeGreen} Coordinates 312:73 
+{WoomyonWood's/Yellow}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+657
+
+[@GoldReward]
+900

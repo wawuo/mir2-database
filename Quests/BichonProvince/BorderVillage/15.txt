@@ -1,0 +1,28 @@
+[@Description]
+你现在看起来更像一个训练有素的道士.
+我已经让Peter给你一些工作
+做.这个奖励应该对你有很多帮助.
+
+[@TaskDescription]
+与{传奇新手导师 Peter/LimeGreen}对话 坐标 328:258
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+48
+
+[@GoldReward]
+60
+
+// Pickup - HighPriest_Jude 0 429 475
+// Hand In - MirGuide_Peter 0 328 258

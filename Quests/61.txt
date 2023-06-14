@@ -1,0 +1,26 @@
+[@Description]
+I got a message from {沃玛森林/Yellow} asking for 
+some help. Can you go to {沃玛森林/Yellow} and 
+help then with the trouble in {InsectCave/Yellow}? 
+
+[@TaskDescription]
+Please go speak to {MasterShok/LimeGreen} in
+{沃玛森林/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1232
+
+[@GoldReward]
+1480

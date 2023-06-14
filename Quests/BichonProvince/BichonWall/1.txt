@@ -1,0 +1,27 @@
+[@Description]
+我一直收到报告说，{森林雪人/Crimson}
+最近只攻击新手。
+你认为你能帮忙吗？
+
+[@TaskDescription]
+消灭5个 {森林雪人/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+ForestYeti 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+精密吊坠
+
+[@SelectRewards]
+
+[@ExpReward]
+200
+
+[@GoldReward]
+50

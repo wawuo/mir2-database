@@ -1,0 +1,29 @@
+[@Description]
+请您帮我个忙。您能否将这些{修复油/LightSteelBlue}
+送到{毒蛇山谷/Yellow}的{Bradly/LimeGreen}手中呢？
+他已经用完了，但是需要它们来修理武器。请尽快将它们送到。
+
+[@TaskDescription]
+将{修复油/LightSteelBlue}交付给{Bradly/LimeGreen}。
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+修复油 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+411
+
+[@GoldReward]
+600
+
+// Pickup - Blacksmith_Bill 0 302 221
+// Hand In - Merchant_Bradley 0120 7 8

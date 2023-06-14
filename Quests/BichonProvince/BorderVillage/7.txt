@@ -1,0 +1,30 @@
+[@Description]
+你好，年轻的旅行者.你是否听说过
+这个地区的战士教官？
+他是所有战士的主人.我听说
+他最近在寻找一个新弟子.
+这可能是一个谣言.
+
+[@TaskDescription]
+在坐标110:317处与{华师傅/LimeGreen}交谈.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+48
+
+[@GoldReward]
+60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - Master_Wa 0 110 317

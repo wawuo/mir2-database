@@ -1,0 +1,25 @@
+[@Description]
+很抱歉，我们的{蛇酒/LightSteelBlue}卖完了.
+我可以给你做一些，但你必须给我带来原料.
+
+[@TaskDescription]
+请从蛇身上收集10个{蛇身/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+蛇身 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+800
+
+[@GoldReward]
+800

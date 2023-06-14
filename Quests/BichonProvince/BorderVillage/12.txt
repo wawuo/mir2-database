@@ -1,0 +1,28 @@
+[@Description]
+你现在看起来更像是一名受过良好训练的魔法师.
+我已经让Peter给你分配一些工作了.
+奖励应该能在很多方面帮助你.
+
+[@TaskDescription]
+去和{传奇新手导师 Peter/LimeGreen} 对话，坐标为328:258.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+48
+
+[@GoldReward]
+60
+
+// Pickup - ArchMage_Robert 0 8 11
+// Hand In - MirGuide_Peter 0 328 258

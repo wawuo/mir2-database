@@ -1,0 +1,30 @@
+[@Description]
+你好游客，您似乎在这里很有名.您能否也帮助我一下呢？
+药品需求量不断增加，我们缺少了一些药材原料.
+特别是我们缺少了可以从{喷吐蜘蛛/Crimson}
+中获取的{网/LightSteelBlue}，您能否为我采集10个呢？
+
+[@TaskDescription]
+请从{喷吐蜘蛛/Crimson}中采集10个{网/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+网 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+500
+
+[@GoldReward]
+500
+
+// Pickup - Alchemist_Samuel 0 324 291
+// Hand In - Alchemist_Samuel 0 324 291

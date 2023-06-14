@@ -1,0 +1,27 @@
+[@Description]
+Hello traveller. I was returning to {毒蛇山谷/Yellow}
+from {盟重省/Yellow}. But I was attacked by 
+{Currish/Crimson} and dropped my bag. My priceless 
+{玉环/LightSteelBlue} was in the bag.
+
+[@TaskDescription]
+Find the {玉环/LightSteelBlue} from {Currish/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+玉环 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+800
+
+[@GoldReward]
+800

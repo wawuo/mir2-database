@@ -1,0 +1,28 @@
+[@Description]
+听说过{蛇酒/LightSteelBlue}吗？这种葡萄酒是用
+{红蛇/Crimson}和{条纹蛇/Crimson}制成的.我曾经在{毒蛇山谷/Yellow}
+附近喝过一次，至今仍然难以忘怀那个味道.
+
+[@TaskDescription]
+请前往购买一些{蛇酒/LightSteelBlue}，{Mary/LimeGreen}有卖.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+411
+
+[@GoldReward]
+600
+
+// Pickup - MongchonScout_Brian 0100 4 10
+// Hand In - 
