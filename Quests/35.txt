@@ -1,11 +1,9 @@
-[@Description]
-Have you heard of {蛇酒/LightSteelBlue}? This 葡萄酒 is made 
-with {Red Snake/Crimson} and {Striped Snakes/Crimson}. I had this 
-once near the {毒蛇山谷/Yellow} and i still can't 
-forget the taste of it.
+﻿[@Description]
+你听说过{蛇酒/LightSteelBlue}吗？这是由葡萄酒与{红蛇/Crimson}及{条纹蛇/Crimson}制成，
+我在{毒蛇山谷/Yellow}附近尝过，我到现在仍然无法忘记它的美味.
 
 [@TaskDescription]
-Please go purchase some {蛇酒/LightSteelBlue} from {Mary/LimeGreen}
+快去 购买一些{蛇酒/LightSteelBlue}来自{Mary/LimeGreen}
 
 [@Completion]
 

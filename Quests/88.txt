@@ -1,8 +1,8 @@
-[@Description]
+﻿[@Description]
 Report that the Carriage was attacked.
 
 [@TaskDescription]
-Return to the {LeadTrainer/LimeGreen}.
+返回 to the{Lead教练/LimeGreen}.
 
 [@Completion]
 

@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 城镇周围的{喷吐蜘蛛/Crimson}数量正在增加.
 这种怪物有毒，解毒剂只能从{毒药袋/LightSteelBlue}中制作而成.
 

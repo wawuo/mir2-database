@@ -1,9 +1,9 @@
-[@Description]
-旅行者你好，我想请你帮个忙。我在{半兽人洞穴/Yellow}打猎时丢失了 
-我妹妹的戒指。
+﻿[@Description]
+旅行者你好，我想请你帮个忙.我在{半兽人洞穴/Yellow}打猎时丢失了 
+我妹妹的戒指.
 
 [@TaskDescription]
-在{半兽人洞/Yellow}找到{奥利维亚斯戒指/LightSteelBlue}。
+在{半兽人洞/Yellow}找到{奥利维亚斯戒指/LightSteelBlue}.
 
 [@Completion]
 

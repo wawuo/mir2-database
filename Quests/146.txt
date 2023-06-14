@@ -1,8 +1,8 @@
-[@Description]
-Travel through {森林小径/Yellow} and enter the {红色峡谷/Yellow}
+﻿[@Description]
+Travel through{森林小径/Yellow}和 enter the{红色峡谷/Yellow}
 
 [@TaskDescription]
-Retrieve the {翡翠水晶/LightSteelBlue} by killing {BigApes/Crimson}.
+Retrieve the{翡翠水晶/LightSteelBlue}by killing{大猿s/Crimson}.
 
 [@Completion]
 
@@ -12,7 +12,7 @@ Retrieve the {翡翠水晶/LightSteelBlue} by killing {BigApes/Crimson}.
 翡翠水晶 1
 
 [@FlagTasks]
-530 "Travel to RedValley_5F and Take the 翡翠水晶 to BigTaoist"
+530 "前往 RedValley_5F和Take the 翡翠水晶 to BigTaoist"
 
 [@CarryItems]
 

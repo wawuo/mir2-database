@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 年轻的旅行者，我的名字是{Smith/LimeGreen}.
 村子外面有很多怪物，我不知道该如何
 到达{比奇城/Yellow}，你能帮帮我吗？
@@ -9,8 +9,8 @@
 [@Completion]
 
 [@KillTasks]
-Deer 10
-Scarecrow 10
+鹿 10
+稻草人 10
 
 [@ItemTasks]
 

@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 你好，旅行者.我还需要一些水果来酿造这种酒.
 你能帮我采集 10个{乌木果实/LightSteelBlue}吗？
 

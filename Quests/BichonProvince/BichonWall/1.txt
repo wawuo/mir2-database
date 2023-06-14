@@ -1,15 +1,15 @@
-[@Description]
+﻿[@Description]
 我一直收到报告说，{森林雪人/Crimson}
-最近只攻击新手。
+最近只攻击新手.
 你认为你能帮忙吗？
 
 [@TaskDescription]
-消灭5个 {森林雪人/Crimson}.
+消灭5个{森林雪人/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ForestYeti 5
+森林雪人 5
 
 [@ItemTasks]
 

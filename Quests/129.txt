@@ -1,9 +1,9 @@
-[@Description]
-Please travel to the {红色峡谷/Yellow} and collect the
+﻿[@Description]
+Please 前往 the{红色峡谷/Yellow}和收集the
 Ingredient's. 
 
 [@TaskDescription]
-Kill {SpiderBat/Crimson} and collect 20 {蝙蝠之毒/LightSteelBlue}.
+杀死{蜘蛛蝙蝠/Crimson}和收集20{蝙蝠之毒/LightSteelBlue}.
 
 [@Completion]
 

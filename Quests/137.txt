@@ -1,7 +1,7 @@
-[@Description]
-Is it true? Youve been to the {Ancient Layer/Yellow}? Can
-you return and Collect 17 {血丸/LightSteelBlue} by killing 
-{AncientSnakeScorpion's/Crimson}
+﻿[@Description]
+Is it true? Youve been to the{远古层/Yellow}? Can
+you 返回 和收集17{血丸/LightSteelBlue}by killing 
+{Ancient蛇蝎's/Crimson}
 
 [@TaskDescription]
 

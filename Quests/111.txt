@@ -1,11 +1,11 @@
-[@Description]
-There are {Hidden Entrances/Yellow} around here. 
-They lead to some kind of Dungeon. Rumours 
+﻿[@Description]
+There are{Hidden Entrances/Yellow}around here. 
+They lead to some kind of地穴. Rumours 
 say they at Each Entrance. There are some kind 
 of Pillar's.
 
 [@TaskDescription]
-Find the {Hidden Entrances/Yellow} and Search for the 
+Find the{Hidden Entrances/Yellow}和 Search for the 
 Pillar's
 
 [@Completion]

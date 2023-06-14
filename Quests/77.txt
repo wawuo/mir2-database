@@ -1,6 +1,5 @@
-[@Description]
-Please return to {Robin/LimeGreen} Warehouse Keeper in 
-{盟重省/Yellow} 
+﻿[@Description]
+请回复{盟重省/Yellow}的{Robin/LimeGreen}仓库管理员。
 
 [@TaskDescription]
 

@@ -1,10 +1,10 @@
-[@Description]
+﻿[@Description]
 There are stonger monsters inside the tomb.
-{骨头Blademan/Crimson} are faster then the other
-monsters. Please eliminate these monsters.
+{骨头Blademan/Crimson}are faster then the other
+monsters. 请消灭 these monsters.
 
 [@TaskDescription]
-Please return to the cave. And Eliminate 15 
+Please 返回 to the cave.和消灭 15 
 {骨头Blademan/Crimson}.
 
 [@Completion]

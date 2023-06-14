@@ -1,12 +1,11 @@
-[@Description]
-From the rumours going around you have found
-the {Ancient Layer/Yellow} in {古墓阵/Yellow} Return and 
-Collect {遗迹岩石's/LightSteelBlue} from the Ancient Layer of 
+﻿[@Description]
+从四处流传的谣言来看，你已经找到了那个{远古层/Yellow}处于{古墓阵/Yellow}返回和
+收集{遗迹岩石's/LightSteelBlue}来自 远古层的
 {古墓阵/Yellow}
 
 [@TaskDescription]
-Kill {AncientRedBoars/Crimson}, {AncientBlackBoars/Crimson} and 
-{AncientWhiteBoar's/Crimson} for {遗迹岩石's/LightSteelBlue}.
+杀死{古代红野猪/Crimson},{古代黑野猪/Crimson}和 
+{古代白野猪's/Crimson}for{遗迹岩石's/LightSteelBlue}.
 
 [@Completion]
 

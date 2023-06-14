@@ -1,10 +1,10 @@
-[@Description]
+﻿[@Description]
 You found the Book.. That's fantastic news. 
 It dosent look like it's been damaged. 
 
 [@TaskDescription]
-Return the {普拉纳历史/LightSteelBlue} Book to {VillageChief/LimeGreen}
-in {般若岛/Yellow}.
+返回 the{普拉纳历史/LightSteelBlue}Book to{VillageChief/LimeGreen}
+in{般若岛/Yellow}.
 
 [@Completion]
 
@@ -30,5 +30,5 @@ HardTemperedArmour
 [@GoldReward]
 1500
 
-// Pickup - LeadTrainer 1002 11 8
+// Pickup - Lead教练 1002 11 8
 // Hand In - 

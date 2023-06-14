@@ -1,10 +1,9 @@
-[@Description]
-Thankyou Traveller the assistance you have 
-provided. I am so happy that my Friend {Soho/LimeGreen} 
-is alive and well. I have another task for you.
+﻿[@Description]
+感谢您的帮助，旅行者。我很高兴我的朋友{Soho/LimeGreen}还活着且健康。
+我有另一个任务要交给你。
 
 [@TaskDescription]
-Deliver {/LightSteelBlue} to {Dr.Kim/LimeGreen} in {毒蛇山谷/Yellow}
+将{/LightSteelBlue}交付给位于{毒蛇山谷/Yellow}的{Dr.Kim/LimeGreen}
 
 [@Completion]
 

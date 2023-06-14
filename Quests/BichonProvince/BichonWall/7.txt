@@ -1,10 +1,10 @@
-[@Description]
-请您帮我个忙。您能否将这些{修复油/LightSteelBlue}
+﻿[@Description]
+请您帮我个忙.您能否将这些{修复油/LightSteelBlue}
 送到{毒蛇山谷/Yellow}的{Bradly/LimeGreen}手中呢？
-他已经用完了，但是需要它们来修理武器。请尽快将它们送到。
+他已经用完了，但是需要它们来修理武器.请尽快将它们送到.
 
 [@TaskDescription]
-将{修复油/LightSteelBlue}交付给{Bradly/LimeGreen}。
+将{修复油/LightSteelBlue}交付给{Bradly/LimeGreen}.
 
 [@Completion]
 

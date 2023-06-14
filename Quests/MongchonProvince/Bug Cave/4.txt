@@ -1,9 +1,9 @@
-[@Description]
-The Necklace is my {LifeStone/LightSteelBlue}.. This is why I have 
-returned. Please find my {LifeStone/LightSteelBlue}.
+﻿[@Description]
+The Necklace is my{LifeStone/LightSteelBlue}.. This is why I have 
+返回ed. Please find my{LifeStone/LightSteelBlue}.
 
 [@TaskDescription]
-Hunt {GiantWorm's/Crimson} and return the {古老的颈链/LightSteelBlue}.
+Hunt{巨型蠕虫's/Crimson}和 返回 the{古老的颈链/LightSteelBlue}.
 [@Completion]
 
 [@KillTasks]

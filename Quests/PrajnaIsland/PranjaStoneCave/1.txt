@@ -1,14 +1,14 @@
-[@Description]
-{Prajna Cave/Yellow} is where lots of Warriors died
+﻿[@Description]
+{Prajna Cave/Yellow}is where lots of Warriors died
 fighting the monsters. A couple years ago, 
 we have seen these dead Warriors brought back to 
-life, but they do not remember a thing and 
+life, but they do not remember a thing和
 attack everyone that enters the cave. 
-Please help Eliminate them.
+Please help 消灭 them.
 
 [@TaskDescription]
-Head East to the {般若岛地洞/Yellow} and Eliminate 
-15 {骨头Archer's/Crimson} and 15 {骨头Spearman/Crimson}
+Head East to the{般若岛地洞/Yellow}和 消灭 
+15{骨头Archer's/Crimson}和 15{骨头Spearman/Crimson}
 
 [@Completion]
 

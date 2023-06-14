@@ -1,13 +1,9 @@
-[@Description]
-We are getting attacked by stonger monsters 
-latley. We need to get some help from {Bichon/Yellow}.
-Do you think you can be the messenger to 
-deliver the information of these monsters to 
-{Bichon/Yellow}?
+﻿[@Description]
+最近我们遭受了更强大的怪物的攻击。我们需要从{比奇/Yellow}那里得到帮助。
+你能成为信使，把这些怪物的信息传递给{比奇/Yellow}吗？
 
 [@TaskDescription]
-Take {洞穴报告/LightSteelBlue} to {Kyle/LimeGreen}.
-
+把{洞穴报告/LightSteelBlue}带到{Kyle/LimeGreen}那里。
 [@Completion]
 
 [@KillTasks]

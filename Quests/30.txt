@@ -1,11 +1,9 @@
-[@Description]
-Hello traveller. I was returning to {毒蛇山谷/Yellow}
-from {盟重省/Yellow}. But I was attacked by 
-{Currish/Crimson} and dropped my bag. My priceless 
-{玉环/LightSteelBlue} was in the bag.
+﻿[@Description]
+你好，旅行者。我从{盟重省/Yellow}返回{毒蛇山谷/Yellow}的途中
+被{恶狗/Crimson}袭击，我的行囊掉了。我的珍贵{玉环/LightSteelBlue}也在里面。
 
 [@TaskDescription]
-Find the {玉环/LightSteelBlue} from {Currish/Crimson}.
+请找回被{恶狗/Crimson}袭击而掉了的{玉环/LightSteelBlue}。
 
 [@Completion]
 

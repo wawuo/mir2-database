@@ -1,15 +1,13 @@
-[@Description]
-You remind me of my granschild. She went to
-{Bichon/Yellow} to make money. I heard she was working
-at a butcher's store. Could you let her know that
-I'm doing well?
+﻿[@Description]
+你让我想起了我的孙子.她去了 比奇/Yellow}(200,288)}賺钱了.
+我听说她在一家屠夫的商店工作.你能帮我跟
+她说我现在过得很好吗？
 
 [@TaskDescription]
-Talk to {Sarah/LimeGreen} in {BichonWall/Yellow}.
+在{比奇墙处l/Yellow}与{Sarah/LimeGreen}交谈.
 
 [@Completion]
-Thankyou traveller. I was getting worried about
-my grandad.
+谢谢你，旅行者.我想我的祖父了.
 
 [@KillTasks]
 

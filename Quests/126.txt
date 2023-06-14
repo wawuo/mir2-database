@@ -1,6 +1,6 @@
-[@Description]
-Please travel back to {TaoVillage/Yellow} and speak with 
-the {LeadTrainer/LimeGreen}.
+﻿[@Description]
+Please travel back to{白日门/Yellow}和 speak with 
+the{Lead教练/LimeGreen}.
 
 [@TaskDescription]
 

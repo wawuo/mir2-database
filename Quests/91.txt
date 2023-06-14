@@ -1,11 +1,11 @@
-[@Description]
-Traveler.. Alittle help please. I was in {森林小径/Yellow}.
-Chopping {Wood/LightSteelBlue} when i was starteld and dropped 
-my {Axe/LightSteelBlue}
+﻿[@Description]
+Traveler.. Alittle help please. I was in{森林小径/Yellow}.
+Chopping{Wood/LightSteelBlue}when i was starteld和dropped 
+my{Axe/LightSteelBlue}
 
 [@TaskDescription]
-Locate and Kill {BloodyLureSpider/Crimson} and retrieve 
-the {磨损的斧头/LightSteelBlue}
+Locate和杀死{血腥诱惑蜘蛛/Crimson}和 retrieve 
+the{磨损的斧头/LightSteelBlue}
 
 [@Completion]
 

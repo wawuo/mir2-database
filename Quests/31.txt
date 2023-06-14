@@ -1,10 +1,9 @@
-[@Description]
-The Ring still look's perfect.
-Please can you deliver the ring to my Daughter 
-{Melissa/LimeGreen}. She also requires some help.
+﻿[@Description]
+戒指看起来仍然完美无瑕。
+请你把戒指送给我的女儿{Melissa/LimeGreen}。她也需要一些帮助。
 
 [@TaskDescription]
-Please take the {玉环/LightSteelBlue} to {Melissa/LimeGreen}.
+请把{玉环/LightSteelBlue}送到{Melissa/LimeGreen}那里。
 
 [@Completion]
 

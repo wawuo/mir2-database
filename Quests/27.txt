@@ -1,10 +1,9 @@
-[@Description]
-You came right on time. {盟重童子军/LimeGreen} came 
-by earlier and left a message for you. Please go 
-to the {Tavern/Yellow}
+﻿[@Description]
+你来得正是时候.{盟重童子军/LimeGreen}早些时候来过，
+给你留了话.叫你快到{酒馆/Yellow}去
 
 [@TaskDescription]
-Go speak to {盟重童子军/LimeGreen} in the {Tavern/Yellow}
+去{酒馆/Yellow}找{盟重童子军/LimeGreen}说话
 
 [@Completion]
 

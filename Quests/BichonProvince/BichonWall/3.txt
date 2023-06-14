@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 {铁匠Jang/LimeGreen}，要求提供一些帮助.
 请你去和他谈谈，他位于
 在{沃玛森林/Yellow}.如果你沿着北边的路走

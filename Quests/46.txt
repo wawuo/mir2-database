@@ -1,14 +1,9 @@
-[@Description]
-{半兽人Cave/Yellow} are located in the west part of 
-{比奇省/Yellow}. This cave is filled with strong 
-monsters. It's very dark and almost like a maze 
-inside. Do you think you are ready to show your 
-courage?
+﻿[@Description]
+{半兽人洞穴/Yellow}位于{比奇省/Yellow}的西部。这个洞穴里满是强大的怪物。
+里面非常黑暗，几乎像一个迷宫。你觉得你准备好展现你的勇气了吗？
 
 [@TaskDescription]
-Kill {Skeleton's/Crimson} in {半兽人Cave/Yellow} and Collect 
-{骷髅骨's/LightSteelBlue}
-
+在半兽人洞穴中杀死{骷髅兵/Crimson}并收集他们的{骷髅骨/LightSteelBlue}
 [@Completion]
 
 [@KillTasks]

@@ -1,10 +1,10 @@
-[@Description]
+﻿[@Description]
 There seem's to be a pattern to the Scyther..
-Maybe someone in {CastleBichon/Yellow} can scyther the
+Maybe someone in{CastleBichon/Yellow}can scyther the
 ancient symbols.
 
 [@TaskDescription]
-Return to {CastleBichon/Yellow} 
+返回 to{CastleBichon/Yellow}
 Enquire about the symbols.
 
 [@Completion]

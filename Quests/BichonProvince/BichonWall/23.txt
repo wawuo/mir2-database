@@ -1,10 +1,10 @@
-[@Description]
+﻿[@Description]
 Oh Hello Traveler. 
-Have you ever heard of {盟重省/Yellow}? 
+Have you ever heard of{盟重省/Yellow}? 
 They are in need of help.
 
 [@TaskDescription]
-Talk to {Edwin/LimeGreen} in {盟重省/Yellow}.
+Talk to{Edwin/LimeGreen}处于{盟重省/Yellow}.
 
 [@Completion]
 

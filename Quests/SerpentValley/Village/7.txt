@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 很抱歉，我们的{蛇酒/LightSteelBlue}卖完了.
 我可以给你做一些，但你必须给我带来原料.
 

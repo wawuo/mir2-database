@@ -1,9 +1,9 @@
-[@Description]
-Here's the {蛇酒/LightSteelBlue} for {盟重童子军/LimeGreen} as 
-promised. Please enjoy.
+﻿[@Description]
+这是我答应给{盟重童子军/LimeGreen}的{蛇酒/LightSteelBlue}。
+请享用。
 
 [@TaskDescription]
-Deliver the {蛇酒/LightSteelBlue} to {盟重童子军/LimeGreen}.
+将{蛇酒/LightSteelBlue}送至{盟重童子军/LimeGreen}。
 
 [@Completion]
 

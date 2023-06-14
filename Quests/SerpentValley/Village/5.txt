@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 你最近会去{比奇/Yellow}吗？如果你去那里，
 能否将这个{秘密配方/LightSteelBlue}交给{CraftsLady/LimeGreen}？ 
 我听说{比奇/Yellow}的{CraftsLady/LimeGreen}想要我的{秘方 /LightSteelBlue}.

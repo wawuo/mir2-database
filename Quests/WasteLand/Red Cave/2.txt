@@ -1,21 +1,21 @@
-[@Description]
+﻿[@Description]
 Thanks for the hard work!
 However there are still many dangerous monsters 
-in {红洞/Yellow} The monsters {DreamDevourer/Crimson} 
-and {DarkSoulDevouer/Crimson} still roam the area. 
+in{红洞/Yellow}The monsters{梦之旅者/Crimson}
+和{暗之SoulDevouer/Crimson}still roam the area. 
 These monsters have been troubing by 
 useing its abillties to stop the movement of our 
 people. Can you go rid these monsters for us?
 
 [@TaskDescription]
-Travel to {红洞/Yellow} and Eliminate 3 {DreamDevourer/Crimson} 
-and {DarkSoulDevourer/Crimson}.
+前往{红洞/Yellow}和 消灭 3{梦之旅者/Crimson}
+和{暗之SoulDevourer/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-DreamDevourer 3
-DarkDevouer 3
+梦之旅者 3
+暗之Devouer 3
 
 [@ItemTasks]
 

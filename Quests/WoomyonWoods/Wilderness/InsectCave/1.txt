@@ -1,13 +1,12 @@
-[@Description]
-I cant really see that well. My sight is getting
-worse as I age. I heard my sight will get better if
-I eat bug eyes. Could you get {虫眼s/LightSteelBlue} for me?
-I hear that {HoroBlaster/Crimson} and {BlueHoroBlaster/Crimson} ones
-are the best.
+﻿[@Description]
+我看不太清楚。随着年龄的增长，我的视力越来越差。
+我听说如果我吃虫眼，我的视力会变好。你能为我拿
+到{虫眼/LightSteelBlue}吗？
+我听说{霍罗爆破者/Crimson}和{蓝霍罗爆破者/Crimson}是最好的。
 
 [@TaskDescription]
-Kill {HoroBlaster/Crimson} and {BluHoroBlaster/Crimson} and Collect 
-12 {虫眼/LightSteelBlue}
+杀死{霍罗爆破者/Crimson}和{Blu霍罗爆破者/Crimson}和收集
+12{虫眼/LightSteelBlue}
 
 [@Completion]
 

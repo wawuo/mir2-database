@@ -1,10 +1,10 @@
-[@Description]
+﻿[@Description]
 A Mysterious Stone... with unknown ancient 
 symbols. There must be a way to scyther 
 these symbols.
 
 [@TaskDescription]
-Search {半兽洞穴/Yellow} for the {古老的镰刀/LightSteelBlue}.
+Search{半兽洞穴/Yellow}for the{古老的镰刀/LightSteelBlue}.
 
 [@Completion]
 

@@ -1,8 +1,8 @@
-[@Description]
-A Scroll with a description. It must be important.
+﻿[@Description]
+一张带有描述的卷轴。它一定很重要。
 
 [@TaskDescription]
-Deliver the {隐藏的卷轴/LightSteelBlue} to {Dr.Kim/LimeGreen}.
+将{隐藏的卷轴/LightSteelBlue}交给{Dr.Kim/LimeGreen}。
 
 [@Completion]
 

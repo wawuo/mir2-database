@@ -1,11 +1,11 @@
-[@Description]
-Have you ever heard of {森林小径/Yellow}? It's such a 
+﻿[@Description]
+Have you ever heard of{森林小径/Yellow}? It's such a 
 great place to gather resources. Please travel 
-there and collect the materials I require.
+there 和收集the materials I require.
 
 [@TaskDescription]
-Please collect 10 {红线's/LightSteelBlue} and {黑线's/LightSteelBlue}
-by killing {VenomSpider's/Crimson} and {GreatSpider's/Crimson}
+Please 收集 10{红线's/LightSteelBlue}和{黑线's/LightSteelBlue}
+by killing{毒蜘蛛's/Crimson}和{大蜘蛛's/Crimson}
 
 [@Completion]
 

@@ -1,16 +1,16 @@
-[@Description]
+﻿[@Description]
 MudWall Bounty, Has been submitted.
 
 [@TaskDescription]
-Travel to {古墓阵/Yellow} Eliminate {Boar's/Crimson} and 
-collect {Boar Tooth's/LightSteelBlue}.
+前往{古墓阵/Yellow}消灭{Boar's/Crimson}和 
+收集{Boar Tooth's/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-野猪牙 75 "Collect the Boar's Tooth"
+野猪牙 75 "收集 the Boar's Tooth"
 
 [@FlagTasks]
 

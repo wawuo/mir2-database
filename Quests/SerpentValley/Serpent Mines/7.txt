@@ -1,16 +1,14 @@
-[@Description]
-Traveler Please return to the {毒蛇山谷死亡矿区/Yellow} 
-and complete the task which was on the 
-{隐藏的卷轴/LightSteelBlue}. 
+﻿[@Description] 
+
+旅行者，请返回{毒蛇山谷死亡矿区/Yellow}，完成{隐藏的卷轴/LightSteelBlue}上的任务。
 
 [@TaskDescription]
-Eliminate {RotShamanZombie's/Crimson} and retrieve 
-{亡灵之心/LightSteelBlue} from the {HiGreatGhoul/Crimson}
 
+消灭{腐烂萨满僵尸/Crimson}，并找{高大食尸鬼/Crimson}取回{亡灵之心/LightSteelBlue}。
 [@Completion]
 
 [@KillTasks]
-RotShamanZombie 20
+腐烂萨满僵尸 20
 
 [@ItemTasks]
 亡灵之心 1

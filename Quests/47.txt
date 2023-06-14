@@ -1,9 +1,8 @@
-[@Description]
-Hello traveller, I have a favor tou ask you. I lost 
-my sister's ring while hunting in {半兽人Cave/Yellow}. 
+﻿[@Description]
+旅行者你好，我想请你帮个忙。我将我姐姐的戒指丢在了{半兽人洞穴/Yellow}. 帮我找回来好不好？
 
 [@TaskDescription]
-Find {奥利维亚斯戒指/LightSteelBlue} in {半兽人Cave/Yellow}
+找到{奥利维亚斯戒指/LightSteelBlue}处于{半兽人洞穴/Yellow}
 
 [@Completion]
 

@@ -1,19 +1,19 @@
-[@Description]
-Welcome to {盟重省/Yellow}. 
+﻿[@Description]
+Welcome to{盟重省/Yellow}. 
 We have been getting attacked by Boar looking 
 monsters. We got reports that these mobs are 
-coming from the {Underground Tomb/Yellow}. Can you 
-go there and eliminate the monsters?
+coming from the{Underground Tomb/Yellow}. Can you 
+go there和消灭 the monsters?
 
 [@TaskDescription]
-Eliminate 15 {BlackBoar/Crimson} and {RedBoar's/Crimson} in 
+消灭 15{黑野猪/Crimson}和{红野猪's/Crimson}处于 
 {StoneTomb/Yellow}
 
 [@Completion]
 
 [@KillTasks]
-BlackBoar 15
-RedBoar 15
+黑野猪 15
+红野猪 15
 
 [@ItemTasks]
 

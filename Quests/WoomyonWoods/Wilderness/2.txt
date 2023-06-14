@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 我在40年前搬到了{沃玛森林/Yellow}，
 但因为身体状况的缘故，现在害怕离开家门去狩猎怪物了
 [@TaskDescription]
@@ -7,7 +7,7 @@
 [@Completion]
 
 [@KillTasks]
-OmaFighter 10
+半兽人战士 10
 
 [@ItemTasks]
 

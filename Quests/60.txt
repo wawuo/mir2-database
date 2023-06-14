@@ -1,17 +1,14 @@
-[@Description]
-There is a small farm near {Bichon/Yellow}. This farm is
-being attacked by insects. The reports are
-saying that these insects live in {InsectCave/Yellow}.
-Could you hunt them in {InsectCave/Yellow} for me?
+﻿[@Description]
+在{比奇/Yellow}附近有一个小农场。这个农场正在遭受昆虫的攻击。
+报告称，这些昆虫生活在{蜈蚣洞/Yellow}。你能帮我在{蜈蚣洞/Yellow}狩猎它们吗？
 
 [@TaskDescription]
-Follow the Path North to {沃玛森林/Yellow} and
-Eliminate 25 {SpiderFrog's/Crimson} in {InsectCave/Yellow}
+沿着北边的小路前往{沃玛森林/Yellow}，并在{蜈蚣洞/Yellow}消灭25只{蜘蛛蛙/Crimson}。
 
 [@Completion]
 
 [@KillTasks]
-SpiderFrog 25
+蜘蛛蛙 25
 
 [@ItemTasks]
 

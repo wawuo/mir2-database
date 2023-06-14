@@ -1,10 +1,10 @@
-[@Description]
-Myths and Rumours say that Collecting 
-{Zombie Heart's/LightSteelBlue} for a special Ridual.
-repells them from the Area.
+﻿[@Description]
+神话和传言说，收集{僵尸之心/LightSteelBlue}。
+可以驱赶他们离开这个地区。
 
 [@TaskDescription]
-Collect 10 {僵尸之心/LightSteelBlue} from {诅咒dPriest's/Crimson}.
+收集10{僵尸之心/LightSteelBlue}来自{被诅咒的牧师/Crimson}。
+
 
 [@Completion]
 

@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 外面有名为{半兽人/Crimson}的生物.
 {比奇城/Yellow}和其他城镇.
 他们非常强大和暴力.他们一直 

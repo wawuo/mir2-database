@@ -1,10 +1,10 @@
-[@Description]
+﻿[@Description]
 你现在看起来更像是一名受过良好训练的魔法师.
 我已经让Peter给你分配一些工作了.
 奖励应该能在很多方面帮助你.
 
 [@TaskDescription]
-去和{传奇新手导师 Peter/LimeGreen} 对话，坐标为328:258.
+去和{传奇新手导师 Peter/LimeGreen}对话，坐标为328:258.
 
 [@Completion]
 

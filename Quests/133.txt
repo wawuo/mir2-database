@@ -1,13 +1,13 @@
-[@Description]
+﻿[@Description]
 
 [@TaskDescription]
-Eliminate 30 {LeftGuard/Crimson} and {RightGuard's/Crimson}.
+消灭 30{牛魔战士/Crimson}和{牛魔斗士's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-LeftGuard 30
-RightGuard 30
+牛魔战士 30
+牛魔斗士 30
 
 [@ItemTasks]
 

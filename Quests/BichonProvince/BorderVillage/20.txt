@@ -1,17 +1,17 @@
-[@Description]
+﻿[@Description]
 一个建议... 这还是第一次.
 我们需要所有能够帮助这场战争的人.
 无论他们是否加入警卫队.
 请你协助我做一件事.
 
 [@TaskDescription]
-消灭10个{半兽人/Crimson} and {钉钯猫/Crimson}
+消灭10个{半兽人/Crimson}和{钉钯猫/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-Oma 10
-RakingCat 10
+半兽人 10
+抓爪猫咪 10
 
 [@ItemTasks]
 

@@ -1,12 +1,9 @@
-[@Description]
-There have been icreasing numbers of 
-{SpittlingSpider's/Crimson} around the town. This monster 
-is poisonous and the antidote can only be made 
-from the {毒药袋/LightSteelBlue}.
+﻿[@Description]
+镇上出现了越来越多的{吐丝蜘蛛/Crimson}。这种怪物是有毒的，
+解药只能由{毒药袋/LightSteelBlue}制成
 
 [@TaskDescription]
-Please find {毒药袋's/LightSteelBlue} by hunting 
-{SpittingSpider's/Crimson}.
+请通过猎杀 {喷射蜘蛛/Crimson}找到{毒药袋的/LightSteelBlue}
 
 [@Completion]
 

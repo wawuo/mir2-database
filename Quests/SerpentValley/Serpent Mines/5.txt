@@ -1,10 +1,9 @@
-[@Description]
-There seem's to be a Dark and Evil Aura coming 
-from the {Mine/Yellow}
+﻿[@Description]
+似乎有一个黑暗邪恶的光环从{矿区/Yellow}传来。
+
 
 [@TaskDescription]
-Investigate the source of Evil in 
-{SerpentDeadMine/Yellow}
+在{毒蛇山谷死亡矿区/Yellow}中调查邪恶的来源。
 
 [@Completion]
 
@@ -25,4 +24,4 @@ Investigate the source of Evil in
 6000
 
 // Pickup - Merchant_Dr.Kim 0017 5 9
-// Hand In - SkeletonPile D422 220 89
+// Hand In - 骷髅兵Pile D422 220 89

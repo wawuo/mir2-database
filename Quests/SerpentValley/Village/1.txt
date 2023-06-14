@@ -1,11 +1,11 @@
-[@Description]
+﻿[@Description]
 你好旅行者.我从盟重省回到毒蛇山谷，
-但是被{Currish/Crimson}攻击并掉落了我的背包.
+但是被{恶狗/Crimson}攻击并掉落了我的背包.
 我的无价的{玉环/LightSteelBlue}就在背包里.
-能否请您从{Currish/Crimson}那里找回我的{玉环/LightSteelBlue}呢？
+能否请您从{恶狗/Crimson}那里找回我的{玉环/LightSteelBlue}呢？
 
 [@TaskDescription]
-从{Currish/Crimson}处找回{玉环/LightSteelBlue}.
+从{恶狗/Crimson}处找回{玉环/LightSteelBlue}.
 
 [@Completion]
 

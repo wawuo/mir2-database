@@ -1,9 +1,9 @@
-[@Description]
+﻿[@Description]
 我的爷爷住在{沃玛森林/Yellow}.我过去常去探望他，
 但最近一直很忙.能否请你去拜访{MasterShok/LimeGreen}并看看他过得怎么样吗？
 
 [@TaskDescription]
-前往 {WoomyonWood's/Yellow} 坐标 312:73 探访 {MasterShok/LimeGreen}.
+前往{WoomyonWood's/Yellow}坐标 312:73 探访{MasterShok/LimeGreen}.
 [@Completion]
 
 [@KillTasks]

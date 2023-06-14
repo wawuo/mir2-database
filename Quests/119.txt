@@ -1,8 +1,8 @@
-[@Description]
-Please report back to the {BichonExaminer/LimeGreen} 
+﻿[@Description]
+Please report back to the{比奇Examiner/LimeGreen}
 
 [@TaskDescription]
-Talk to {BichonExaminer/LimeGreen} in {比奇省/Yellow}
+Talk to{比奇Examiner/LimeGreen}处于{比奇省/Yellow}
 
 [@Completion]
 

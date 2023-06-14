@@ -1,5 +1,5 @@
-[@Description]
-{助理员-Jane/LimeGreen} 送给你的？
+﻿[@Description]
+{助理员-Jane/LimeGreen}送给你的？
 我不能拒绝她推荐的任何人，
 但我也不能随便接受任何人做我的弟子.
 你必须要通过我的测试.
@@ -10,8 +10,8 @@
 [@Completion]
 
 [@KillTasks]
-Oma 10
-RakingCat 10
+半兽人 10
+抓爪猫咪 10
 
 [@ItemTasks]
 

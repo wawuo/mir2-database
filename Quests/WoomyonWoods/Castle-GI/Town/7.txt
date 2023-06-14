@@ -1,16 +1,16 @@
-[@Description]
+﻿[@Description]
 We have been receiving new report's.
-There is a New type of creature in the {Temple/Yellow}.
+There is a New type of creature in the{Temple/Yellow}.
 
 [@TaskDescription]
-Eliminate 30 {WoomaWarrior's/Crimson} and a 
-{WoomaGaurdian/Crimson} and return his {Horn/LightSteelBlue}.
+消灭 30{沃玛勇士's/Crimson}和 a 
+{Wo半兽人Gaurdian/Crimson}和 返回 his{Horn/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
-WoomaWarrior 30
-WoomaGuardian 1
+沃玛勇士 30
+沃玛守卫 1
 
 [@ItemTasks]
 巫马之角 1

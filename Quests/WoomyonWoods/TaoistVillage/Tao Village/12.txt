@@ -1,9 +1,9 @@
-[@Description]
-After searching the {Crushed骨头's/LimeGreen} it's missing 
-the {受训者戒指/LightSteelBlue}.
+﻿[@Description]
+After searching the{Crushed骨头's/LimeGreen}it's missing 
+the{受训者戒指/LightSteelBlue}.
 
 [@TaskDescription]
-Retrieve the {受训者戒指/LightSteelBlue} by killing {VenomSpider/Crimson}.
+Retrieve the{受训者戒指/LightSteelBlue}by killing{毒蜘蛛/Crimson}.
 
 [@Completion]
 

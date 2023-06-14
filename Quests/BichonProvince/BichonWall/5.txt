@@ -1,4 +1,4 @@
-[@Description]
+﻿[@Description]
 你来得正是时候.{盟重童子军/LimeGreen}早些时候来过，给你留了言.
 早些时候来过，给你留了言.请到{酒馆/Yellow}去.
 

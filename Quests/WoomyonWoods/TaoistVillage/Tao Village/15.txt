@@ -1,13 +1,13 @@
-[@Description]
-The {Prajna Island/Yellow} {VillageChief/LimeGreen} has asked 
-for the {普拉纳历史/LightSteelBlue} Book back..
+﻿[@Description]
+The{Prajna Island/Yellow}{VillageChief/LimeGreen}has asked 
+for the{普拉纳历史/LightSteelBlue}Book back..
 I'm sorry to inform you We have been ransacked 
 and many precious items have been stolen. 
-The Monster what attacked was a {Blue BigApe/Crimson}
+The Monster what attacked was a{Blue 大猿/Crimson}
 
 [@TaskDescription]
-Kill {EvilApeSobo/Crimson} and retrieve {普拉纳历史/LightSteelBlue}.
-Travel to {红色峡谷/Yellow} and Search for the Attacker.
+杀死{邪猿索博/Crimson}和 retrieve{普拉纳历史/LightSteelBlue}.
+前往{红色峡谷/Yellow}和 Search for the Attacker.
 [@Completion]
 
 [@KillTasks]
@@ -27,5 +27,5 @@ Travel to {红色峡谷/Yellow} and Search for the Attacker.
 [@GoldReward]
 20000
 
-// Pickup - LeadTrainer_Harry 1002 11 8
-// Hand In - LeadTrainer_Harry 1002 11 8
+// Pickup - Lead教练_Harry 1002 11 8
+// Hand In - Lead教练_Harry 1002 11 8

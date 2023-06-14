@@ -1,13 +1,13 @@
-[@Description]
-Travel to {森林小径/Yellow} and Eliminate {RootSpider/Crimson} 
-then return to {Perry/LimeGreen} in {TaoVillage/Yellow}
+﻿[@Description]
+前往{森林小径/Yellow}和 消灭{根蜘蛛/Crimson}
+然后返回{Perry/LimeGreen}处于{白日门/Yellow}
 
 [@TaskDescription]
 
 [@Completion]
 
 [@KillTasks]
-RootSpider 1 "Kill a RootSpider in TreePath"
+根蜘蛛 1 "杀死一 根蜘蛛 在 森林小径"
 
 [@ItemTasks]
 

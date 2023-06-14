@@ -1,18 +1,18 @@
-[@Description]
+﻿[@Description]
 Hello. There are to many Insects in 
-{盟重省/Yellow} these days. I can't sleep 
+{盟重省/Yellow}these days. I can't sleep 
 because of the noises at night. Could you 
 hunt these insects?
 
 [@TaskDescription]
-Travel to {Stone Tomb/Yellow} and Eliminate 10 
-{BlackMaggot/Crimson} and {WedgeMoth/Crimson}.
+前往{Stone Tomb/Yellow}和 消灭 10 
+{黑色蛆虫/Crimson}和{楔形飞蛾/Crimson}.
  
 [@Completion]
 
 [@KillTasks]
-BlackMaggot 10
-WedgeMoth 10
+黑色蛆虫 10
+楔形飞蛾 10
 
 [@ItemTasks]
 

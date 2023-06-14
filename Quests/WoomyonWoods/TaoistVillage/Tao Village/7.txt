@@ -1,17 +1,17 @@
-[@Description]
-There seem's to be a lot of Zombie's presence 
-lately. Head West to the {矿洞/Yellow}.
+﻿[@Description]
+There seem's to be a lot of 僵尸's presence 
+lately. Head West to the{矿洞/Yellow}.
  
 [@TaskDescription]
-Eliminate 10 {诅咒dPriest/Crimson}, {ShiZombie/Crimson}, 
-{诅咒dZombie's/Crimson}.
+消灭 10{诅咒dPriest/Crimson},{尸僵尸/Crimson}, 
+{诅咒d僵尸's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
 诅咒dPriest 10
-ShiZombie 10
-诅咒dZombie 10
+尸僵尸 10
+诅咒d僵尸 10
 
 [@ItemTasks]
 
@@ -27,5 +27,5 @@ ShiZombie 10
 [@GoldReward]
 6600
 
-// Pickup - LeadTrainer_Harry 1002 11 8
-// Hand In - LeadTrainer_Harry 1002 11 8
+// Pickup - Lead教练_Harry 1002 11 8
+// Hand In - Lead教练_Harry 1002 11 8

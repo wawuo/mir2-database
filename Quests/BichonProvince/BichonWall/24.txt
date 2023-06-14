@@ -1,9 +1,9 @@
-[@Description]
-Speak to {CaveGuide/LimeGreen} in {TaoVillage/Yellow}
+﻿[@Description]
+找他说话：{CaveGuide/LimeGreen}处于{白日门/Yellow}
 
 [@TaskDescription]
-Head West of {TaoVillage/Yellow} and Speak 
-with {CaveGuide/LimeGreen}.
+Head West of{白日门/Yellow}和 Speak 
+with{CaveGuide/LimeGreen}.
 
 [@Completion]
 

@@ -1,12 +1,12 @@
-[@Description]
-Please return my {LifeStone/LightSteelBlue} to my Daughter
+﻿[@Description]
+Please 返回 my{LifeStone/LightSteelBlue}至my Daughter
 {Rachel/LimeGreen}. She will know what it will mean.
 
 Thankyou for your assistance I'm now at peace.
 
 [@TaskDescription]
-Please take {古老的颈链/LightSteelBlue} to {Rachel/LimeGreen}.
-in {盟重省/Yellow}
+Please take{古老的颈链/LightSteelBlue}至{Rachel/LimeGreen}.
+in{盟重省/Yellow}
 [@Completion]
 
 [@KillTasks]

@@ -1,12 +1,10 @@
-[@Description]
-{RedSnake/Crimson} bite? Please tell {Robert/LimeGreen} that the Teeth
-of the {RedSnake/Crimson} is the main ingredient for the 
-cure. You don't have much time. Go and kill some 
-{RedSnake's/Crimson} for the Teeth.
+﻿[@Description]
+{红蛇/Crimson}咬伤了？请告诉{Robert/LimeGreen}，{红蛇/Crimson}的牙齿
+是治愈药物的主要成分。你没有多少时间了。去杀死一些
+{红蛇/Crimson}来获取牙齿吧。
 
 [@TaskDescription]
-Collect {红蛇牙/LightSteelBlue} for the Cure
-
+收集{红蛇牙/LightSteelBlue}来制作治愈药物。
 [@Completion]
 
 [@KillTasks]

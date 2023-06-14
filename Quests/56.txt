@@ -1,10 +1,9 @@
-[@Description]
-Have you ever tasted {Bat Wings/LightSteelBlue} before? It's a 
-delicacy. I've been selling this a lot latley. Do You
-think you can help me get some more wings?
+﻿[@Description]
+你以前尝过{蝙蝠之翼/LightSteelBlue}吗？这是一道美味佳肴。
+我最近一直在卖这个。你能帮我弄到更多的翅膀吗？
 
 [@TaskDescription]
-Collect 10 {BatWing's/LightSteelBlue} and return to {Sarah/LimeGreen}
+收集10个{蝙蝠之翼/LightSteelBlue}并返回给{Sarah/LimeGreen}
 
 [@Completion]
 

@@ -1,15 +1,15 @@
-[@Description]
-Have you heard of the {SerpentDeadMine/Yellow}? I keep 
-hearing chain's. coming from the Mine its 
-driving me mad.
+﻿[@Description]
+你听说过{毒蛇山谷死亡矿区/Yellow}吗？我一直听到矿井里传来的链子声。
+
+我快疯了。
 
 [@TaskDescription]
-Eliminate 15 {ChainGhoul's/Crimson}.
+消灭 15{链食尸鬼's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ChainGhoul 15
+链食尸鬼 15
 
 [@ItemTasks]
 
