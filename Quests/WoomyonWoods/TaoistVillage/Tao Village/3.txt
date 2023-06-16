@@ -1,9 +1,9 @@
 ﻿[@Description]
-神话和传言说，收集{僵尸之心/LightSteelBlue}。
-可以驱赶他们离开这个地区。
+神话和传言说，收集{僵尸之心/LightSteelBlue}.
+可以驱赶他们离开这个地区.
 
 [@TaskDescription]
-收集10{僵尸之心/LightSteelBlue}来自{被诅咒的牧师/Crimson}。
+收集10{僵尸之心/LightSteelBlue}来自{被诅咒的牧师/Crimson}.
 
 
 [@Completion]

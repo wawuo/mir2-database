@@ -1,10 +1,11 @@
 ﻿[@Description]
-A Mysterious Stone... with unknown ancient 
-symbols. There must be a way to scyther 
-these symbols.
+一块神秘的石头......有未知的古代符号.
+符号.一定有一种方法可以将这些符号切割掉 
+这些符号.
 
 [@TaskDescription]
-Search{半兽洞穴/Yellow}for the{古老的镰刀/LightSteelBlue}.
+
+搜索{半兽洞穴/Yellow}，寻找{古老的镰刀/LightSteelBlue}.
 
 [@Completion]
 

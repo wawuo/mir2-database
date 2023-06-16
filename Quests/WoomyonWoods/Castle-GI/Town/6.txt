@@ -1,11 +1,11 @@
 ﻿[@Description]
-Travel, I have another task. 
-I'm still worried by this threat. I have decided we 
-should send these creatures a message.
+旅行，我有另一项任务.
+我仍然为这个威胁感到担心.
+我决定我们带给这些生物一个信息.
 
 [@TaskDescription]
-消灭 20{火焰沃玛's/Crimson}和 
-{沃玛战士's/Crimson}处于{Wo半兽人Temple/Yellow}.
+消灭 20 处于{沃玛寺库/Yellow}的{火焰沃玛's/Crimson}和 
+{沃玛战士's/Crimson}.
 
 [@Completion]
 

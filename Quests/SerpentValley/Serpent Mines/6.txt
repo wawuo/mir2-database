@@ -1,8 +1,8 @@
 ﻿[@Description]
-一张带有描述的卷轴。它一定很重要。
+一张带有描述的卷轴.它一定很重要.
 
 [@TaskDescription]
-将{隐藏的卷轴/LightSteelBlue}交给{Dr.Kim/LimeGreen}。
+将{隐藏的卷轴/LightSteelBlue}交给{Dr.Kim/LimeGreen}.
 
 [@Completion]
 

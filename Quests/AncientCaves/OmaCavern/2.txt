@@ -1,10 +1,10 @@
 ﻿[@Description]
-There seem's tobe a pattern to the Scyther..
-Maybe someone in{CastleBichon/Yellow}can scyther the
-ancient symbols.
+镰刀似乎有一个模型.
+也许比丘堡/黄堡的某个人可以用镰刀砍掉这些古老的符号.
+古老的符号.
 
 [@TaskDescription]
-返回 to{CastleBichon/Yellow}Enquire about the symbols.
+回去(回复)到{CastleBichon/Yellow}询问这些符号.
 
 [@Completion]
 
@@ -13,10 +13,10 @@ ancient symbols.
 [@ItemTasks]
 
 [@FlagTasks]
-533 "Enquire at the Library."
-534 "Enquire at the Inn."
-535 "Finally Understand how the Scyther Works."
-536 "返回 to the MysteriousStone in 半兽人Cavern."
+533 "在图书馆询问."
+534 "在旅馆询问."
+535 "终于明白镰刀是如何工作的了."
+536 "回去（回复）到半兽人洞穴的神秘石块."
 
 [@CarryItems]
 

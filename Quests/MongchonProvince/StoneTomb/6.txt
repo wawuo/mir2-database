@@ -1,7 +1,6 @@
 ﻿[@Description]
-Is it true? Youve been to the{远古层/Yellow}? Can
-you 返回 和收集17{血丸/LightSteelBlue}by killing 
-{Ancient蛇蝎's/Crimson}
+这是真的吗？你去过{远古层/Yellow}？
+你可以回去通过杀死 {远古蛇蝎的/Crimson}收集17{血丸/LightSteelBlue}.
 
 [@TaskDescription]
 

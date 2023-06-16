@@ -1,11 +1,14 @@
 ﻿[@Description]
-Have you ever heard of{森林小径/Yellow}? It's such a 
-great place to gather resources. Please travel 
-there 和收集the materials I require.
+
+你听说过{森林小径/Yellow}吗？它是这样一个 
+是收集资源的好地方.请到 
+和收集我需要的材料.
+
 
 [@TaskDescription]
-Please 收集 10{红线's/LightSteelBlue}和{黑线's/LightSteelBlue}
-by killing{毒蜘蛛's/Crimson}和{大蜘蛛's/Crimson}
+
+请
+通过杀死{毒蜘蛛的/Crimson}和{大蜘蛛的/Crimson},收集10个{红线的/LightSteelBlue}和{黑线的/LightSteelBlue}.
 
 [@Completion]
 

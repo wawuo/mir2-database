@@ -1,9 +1,9 @@
 ﻿[@Description]
-这具尸体似乎是{文森特/LimeGreen}正在寻找的人。
-的人。这条项链符合 {Vincent/LimeGreen}给的描述。
+这具尸体似乎是{文森特/LimeGreen}正在寻找的人.
+这条项链符合 {Vincent/LimeGreen}给的描述.
 
 [@TaskDescription]
-返回{古老的颈链/LightSteelBlue}至{Vincent/LimeGreen}。
+回去(回复){古老的颈链/LightSteelBlue}至{Vincent/LimeGreen}.
 
 [@Completion]
 

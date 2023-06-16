@@ -1,13 +1,14 @@
 ﻿[@Description]
-We need to damage this threat quickly. Head to 
-South-West to the{Temple/Yellow}和 try weaken 
-it's resolve.
+我们需要迅速破坏这个威胁.向 
+西南方向的{寺庙/Yellow}和尝试减弱 
+它的决心.
 
 [@TaskDescription]
-消灭 20{粪便/Crimson}和{沃玛士兵s/Crimson}.
+
+消灭20{粪便/Crimson}和{沃玛士兵s/Crimson}.
 
 [@Completion]
-Your back, Let's hope your actions has weaken the threat.
+你的背影，让我们希望你的行动已经削弱了威胁.
 
 [@KillTasks]
 粪便 20

@@ -1,9 +1,9 @@
 ﻿[@Description]
-Hello Mirian, I'm still missing{Volume 1/LightSteelBlue}和{2/LightSteelBlue}, 
+你好，Mirian，我还缺少{卷1/LightSteelBlue}和{卷2/LightSteelBlue}、 
 
 [@TaskDescription]
-Please 返回 to the{Hidden Entrance/Yellow}
-And retrieve{Volume 1/LightSteelBlue}和{2/LightSteelBlue}.
+请回到{隐藏的入口/Yellow}.
+并取回{卷1/LightSteelBlue}和{卷2/LightSteelBlue}.
 
 [@Completion]
 

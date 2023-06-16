@@ -1,6 +1,6 @@
 ﻿[@Description]
-Please travel back to{白日门/Yellow}和 speak with 
-the{Lead教练/LimeGreen}.
+
+请回到{白日门/Yellow}与{领导教练/LimeGreen}交谈.
 
 [@TaskDescription]
 

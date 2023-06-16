@@ -1,8 +1,8 @@
 ﻿[@Description]
-
+那些牛头魔太碍眼了.
 [@TaskDescription]
-Travel South-East to{般若岛神庙/Yellow}和 Kill 30 
-{牛头魔's/Crimson}.
+向东南方向行驶至{般若岛神庙/Yellow}和杀30个 
+{牛头魔的/Crimson}.
 
 [@Completion]
 

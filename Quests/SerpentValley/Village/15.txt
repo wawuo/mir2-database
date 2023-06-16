@@ -1,8 +1,8 @@
 ﻿[@Description]
-很高兴再次见到你。请你把这份订单送到{白日门/Yellow}的布匹商人{Sam/LimeGreen}那里。
+很高兴再次见到你.请你把这份订单送到{白日门/Yellow}的布匹商人{Sam/LimeGreen}那里.
 
 [@TaskDescription]
-穿过{沃玛森林/Yellow}向北走，将{实习生服装/LightSteelBlue}送到{Drapery Sam/LimeGreen}那里。
+穿过{沃玛森林/Yellow}向北走，将{实习生服装/LightSteelBlue}送到{Drapery Sam/LimeGreen}那里.
 
 [@Completion]
 

@@ -1,9 +1,9 @@
 ﻿[@Description]
-The Necklace is my{LifeStone/LightSteelBlue}.. This is why I have 
-返回ed. Please find my{LifeStone/LightSteelBlue}.
+这条项链是我的{生命之石/LightSteelBlue}.这就是为什么我 
+回去.我找到了我的[生命之石/LightSteelBlue].
 
 [@TaskDescription]
-Hunt{巨型蠕虫's/Crimson}和 返回 the{古老的颈链/LightSteelBlue}.
+猎杀{巨型蠕虫的/Crimson}和回去（回复）{古老的颈链/LightSteelBlue}.
 [@Completion]
 
 [@KillTasks]

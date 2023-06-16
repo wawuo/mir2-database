@@ -1,10 +1,10 @@
 ﻿[@Description]
-Oh Hello Traveler. 
-Have you ever heard of{盟重省/Yellow}? 
-They are in need of help.
+哦，你好，旅行者.
+你有没有听说过{盟重省/Yellow}？
+他们需要帮助.
 
 [@TaskDescription]
-Talk to{Edwin/LimeGreen}处于{盟重省/Yellow}.
+与{Edwin/LimeGreen}处于{盟重省/Yellow}交谈.
 
 [@Completion]
 

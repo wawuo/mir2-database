@@ -1,10 +1,10 @@
 ﻿[@Description]
-We have been receiving new report's.
-There is a New type of creature in the{Temple/Yellow}.
+我们已经收到了新的报告.
+有一种新型的生物在{寺庙/Yellow}.
 
 [@TaskDescription]
-消灭 30{沃玛勇士's/Crimson}和 a 
-{Wo半兽人Gaurdian/Crimson}和 返回 his{Horn/LightSteelBlue}.
+消灭30{沃玛勇士的/Crimson}和1
+{沃玛守卫/Crimson}和 拿到它们的{角/LightSteelBlue}.
 
 [@Completion]
 

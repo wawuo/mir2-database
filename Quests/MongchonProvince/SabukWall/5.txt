@@ -1,14 +1,14 @@
 ﻿[@Description]
-So for once the rumours are true.
-Please 返回 to the{Hidden Entrance/Yellow}. 
+所以这一次的传言是真的.
+请回到{隐藏的入口/Yellow}.
  
 [@TaskDescription]
-消灭 some{爬行僵尸s/Crimson}.
+消灭 一些{爬行僵尸/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-爬行僵尸 50 "消灭 some 爬行僵尸s"
+爬行僵尸 50 "消灭一些爬行僵尸s"
 
 [@ItemTasks]
 

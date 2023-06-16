@@ -1,14 +1,12 @@
 ﻿[@Description]
-Recently we have discovered a new area called 
-{AncientRuins/Yellow}.  However,the olny way 
-to go there is by going through EvilHeart. 
-As you can see, I cant't go throught EvilHeart 
-due to all the monsters in there. Therefore, 
-I'm here trying to create a force that will 
-defeat the monsters. So.. will you be able to help me 
-out by killing the monsters inside of{红洞/Yellow}? 
-If are less monsters then the force will be able to 
-complete their task more easily.
+最近我们发现了一个新的区域，叫做{古代遗址/Yellow}. 
+然而，去那里的唯一方法是通过{邪恶之心/Yellow}.
+正如你所看到的，我没办法通过{邪恶之心/Yellow}，
+因为那里有很多怪物.因此，我在这里试图创建
+一个能打败怪物的力量.那么......你能不能帮
+助我，杀死{红洞/Yellow}里面的怪物？ 如果怪物少
+了，那么这支部队就能就能更容易地完成他们的
+任务.
 
 [@TaskDescription]
 消灭 12{恐怖水蛭/Crimson},{蓝色幽灵/Crimson}, 

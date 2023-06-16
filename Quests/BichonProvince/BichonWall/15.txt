@@ -1,10 +1,11 @@
 ﻿[@Description]
-The materials I need for making weapons
-can be found in{DeadMineEntrance/Yellow}, but the area 
-is infested with{僵尸s/Crimson}. 
+我需要的制造武器的材料
+可以在(死亡矿区入口/Yellow}找到，但是这个地区 
+但该地区有{僵尸/Crimson}. 的侵扰.
 
 [@TaskDescription]
-消灭 5 of each{僵尸/Crimson}处于 the{Mines/Yellow}.
+
+消灭{僵尸/Crimson}在{矿区/Yellow}的各5个.
 
 [@Completion]
 

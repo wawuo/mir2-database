@@ -1,11 +1,11 @@
 ﻿[@Description]
-A long time ago, a certain villain stole our
-HolySword, the best sword of our school, This 
-sword was so Holy that there is a legend, that 
-when it smashes once storm blows和dragons 
-appear well... who knows it is true or not? But 
-if the sword exist Its power will be so huge that 
-we can not estimate its range.
+很久以前，有一个恶棍偷了我们的
+圣剑，这是我们学校最好的剑.
+剑是如此的神圣，以至于有一个传说 
+这把剑是如此的神圣，以至于有一个传说，当它被砸碎时，一旦有风暴吹来，就会出现龙.
+出现......谁知道这是不是真的呢？但是 
+如果这把剑存在的话，它的力量将是如此巨大，以至于我们无法估计它的范围.
+我们无法估计它的范围.
 
 [@TaskDescription]
 
@@ -16,8 +16,8 @@ we can not estimate its range.
 [@ItemTasks]
 
 [@FlagTasks]
-527 "Speak with the 教练Taoist"
-528 "Speak with the School's Owner"
+527 "与教练道长交谈"
+528 "与学校的主人交谈"
 
 [@CarryItems]
 

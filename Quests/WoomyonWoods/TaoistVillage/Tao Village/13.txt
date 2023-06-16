@@ -1,8 +1,8 @@
 ﻿[@Description]
-I miss my Parent's so much. Please can you help?
+我非常想念我的父母.请你帮忙.
 
 [@TaskDescription]
-Delivery{天文字母/LightSteelBlue}至{Sir.Mogu/LimeGreen}处于{比奇Wall/Yellow}.
+交付{天文字母/LightSteelBlue}至{Sir.Mogu/LimeGreen}处于{比奇墙/Yellow}.
 
 [@Completion]
 

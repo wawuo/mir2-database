@@ -1,16 +1,16 @@
 ﻿[@Description]
-There are stonger monsters inside the tomb.
-{骨头Blademan/Crimson}are faster then the other
-monsters. 请消灭 these monsters.
+坟墓里有更强壮的怪物.
+{骨魔刀客/Crimson}的速度比其他怪物快.
+怪物.请消灭这些怪兽.
 
 [@TaskDescription]
-Please 返回 to the cave.和消灭 15 
-{骨头Blademan/Crimson}.
+请回去到山洞里消灭 15 
+{骨魔刀客/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-骨头Blademan 15
+骨魔刀客 15
 
 [@ItemTasks]
 

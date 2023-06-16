@@ -1,7 +1,7 @@
 ﻿[@Description]
-从四处流传的谣言来看，你已经找到了那个{远古层/Yellow}处于{古墓阵/Yellow}返回和
-收集一些{遗迹岩石/LightSteelBlue}来自 远古层的
-{古墓阵/Yellow}
+从四处流传的谣言来看，你已经找到了那个{远古层/Yellow}处于{古墓阵/Yellow}
+从那里返回时请收集一些来自{古墓阵远古层的/Yellow}{遗迹岩石/LightSteelBlue}
+
 
 [@TaskDescription]
 杀死{古代红野猪/Crimson},{古代黑野猪/Crimson}和 

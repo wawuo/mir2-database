@@ -1,9 +1,12 @@
 ﻿[@Description]
-After searching the{Crushed骨头's/LimeGreen}it's missing 
-the{受训者戒指/LightSteelBlue}.
+
+在搜索了{碎骨头的/LimeGreen}之后，它不见了.
+受训者戒指/LightSteelBlue}.
+
 
 [@TaskDescription]
-Retrieve the{受训者戒指/LightSteelBlue}by killing{毒蜘蛛/Crimson}.
+
+通过杀死{毒蜘蛛/克里姆森}取回{受训者戒指/LightSteelBlue}.
 
 [@Completion]
 

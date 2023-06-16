@@ -3,13 +3,14 @@ Hello Mirian, We push these{僵尸's/Crimson}back quite
 frequently. Could you render your assistance?
  
 [@TaskDescription]
-消灭{诅咒d僵尸/Crimson},{尸僵尸/Crimson}和 
+消灭{被诅咒的僵尸
+/Crimson},{尸僵尸/Crimson}和 
 {饥饿僵尸's/Crimson}处于{矿洞/Yellow}.
 
 [@Completion]
 
 [@KillTasks]
-诅咒d僵尸 50 "消灭 the 诅咒d僵尸 Threat"
+被诅咒的僵尸 50 "消灭 the 被诅咒的僵尸 Threat"
 尸僵尸 30 "Reduce the 尸僵尸's"
 饥饿僵尸 25 "消灭 the 饥饿僵尸 Threat"
 

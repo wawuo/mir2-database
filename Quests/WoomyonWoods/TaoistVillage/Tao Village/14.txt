@@ -1,8 +1,8 @@
 ﻿[@Description]
-Please report back to the{比奇Examiner/LimeGreen}
+请向{比奇考官/LimeGreen}汇报.
 
 [@TaskDescription]
-Talk to{比奇Examiner/LimeGreen}处于{比奇省/Yellow}
+与{比奇检查员/LimeGreen}对话，处于{比奇省/Yellow}.
 
 [@Completion]
 

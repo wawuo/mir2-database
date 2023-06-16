@@ -1,13 +1,13 @@
 ﻿[@Description]
-Now to get an{EvilHeart/LightSteelBlue}, You need to kill 
-{灰猿s/Crimson}.You can find them when you 
-through a hidden door. You can find this door on 
-the 5th floor towards{KingsRoom(赤月恶魔)/Yellow}
-at 182:179 Walk in the corner和you will get through 
-the hidden door.
+现在要想得到{邪恶之心/LightSteelBlue}，你需要杀死 
+{灰猿/Crimson}.你可以通过一个隐藏的门找到他们.
+你可以通过一个隐藏的门找到他们.你可以在五楼找到这扇门.
+你可以在5楼找到这扇门，朝向{KingsRoom(赤月恶魔)/Yellow}.
+在182:179处走到角落里，你就可以通过这扇门.
+隐蔽的门.
 
 [@TaskDescription]
-杀死{灰猿s/Crimson}for the{EvilHeart/LightSteelBlue}.
+杀死{灰猿/Crimson}得到{邪恶之心/LightSteelBlue}.
 
 [@Completion]
 

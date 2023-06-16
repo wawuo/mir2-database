@@ -1,9 +1,9 @@
 ﻿[@Description]
-Travel deep within{红色峡谷/Yellow}和 Slay the
-{赤月恶魔/Crimson}.
+在{红色峡谷/Yellow}最深处杀掉{赤月恶魔/Crimson}.
 
 [@TaskDescription]
-消灭 the{赤月恶魔/Crimson}.
+
+消灭{赤月恶魔/Crimson}.
 
 [@Completion]
 

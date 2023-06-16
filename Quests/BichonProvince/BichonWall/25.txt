@@ -1,12 +1,12 @@
 ﻿[@Description]
-My Teacher asked me to find ingredients for 
-medicine. You can only get them from 
-{浪人食尸鬼/Crimson}, but I cannot get close to them. 
-Could you get some{兵团之花/LightSteelBlue}for me?
+我的老师让我去找药的原料 
+药品.你只能从 
+{浪人食尸鬼/Crimson}，但我无法接近他们.
+你能为我找一些{兵团之花/LightSteelBlue}吗？
 
 [@TaskDescription]
-前往 PrajnaIsland 和收集10{兵团之花/LightSteelBlue}by 
-hunting{浪人食尸鬼's/Crimson}
+前往PrajnaIsland和收集10{兵团之花/LightSteelBlue}by 
+狩猎{浪人食尸鬼的/Crimson}.
 
 [@Completion]
 

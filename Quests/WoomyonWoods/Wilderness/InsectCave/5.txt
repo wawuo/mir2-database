@@ -1,6 +1,6 @@
 ﻿[@Description]
-几天前我被攻击了，我中了毒。我买了{解毒剂/LightSteelBlue}，
-但暴徒们抢走了我的包。 
+几天前我被攻击了，我中了毒.我买了{解毒剂/LightSteelBlue}，
+但暴徒们抢走了我的包. 
 
 [@TaskDescription]
 杀死{凯克塔尔/Crimson} 找到{Soho's/LimeGreen}{解毒剂/LightSteelBlue}

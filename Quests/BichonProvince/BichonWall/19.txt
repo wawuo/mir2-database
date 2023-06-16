@@ -1,9 +1,9 @@
 ﻿[@Description]
-我正在用{罕见的铜矿石/LightSteelBlue}制作特殊的盔甲。你可以在{Dead mine/Yellow}的
-{僵尸/Crimson}那里找到这些。
+我正在用{罕见的铜矿石/LightSteelBlue}制作特殊的盔甲.你可以在{Dead mine/Yellow}的
+{僵尸/Crimson}那里找到这些.
 
 [@TaskDescription]
-通过狩猎{僵尸/Crimson}找到10个{罕见的铜矿石/LightSteelBlue}。
+通过狩猎{僵尸/Crimson}找到10个{罕见的铜矿石/LightSteelBlue}.
 [@Completion]
 
 [@KillTasks]

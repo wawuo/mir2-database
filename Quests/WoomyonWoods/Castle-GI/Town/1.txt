@@ -1,8 +1,10 @@
 ﻿[@Description]
-你知道怎么去{CastleGi-Ryoong/Yellow}吗？我需要把一本秘方送到{CastleGi-Ryoong/Yellow}的{Butcher Jim/LimeGreen}那里。
+你知道怎么去{幽冥帝都/Yellow}吗？我需要把一本秘方送到
+{幽冥帝都/Yellow}的{Butcher Jim/LimeGreen}那里.
 
 [@TaskDescription]
-穿过{沃玛森林/Yellow}向北走，把{秘方/LightSteelBlue}送到{CastleGi-Ryoong/Yellow}的{Jim/LimeGreen}那里。
+穿过{沃玛森林/Yellow}向北走，把{秘方/LightSteelBlue}
+送到{幽冥帝都/Yellow}的{Jim/LimeGreen}那里.
 
 [@Completion]
 
