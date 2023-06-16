@@ -1,13 +1,13 @@
 ﻿[@Description]
-Welcome to{盟重省/Yellow}. 
-We have been getting attacked by Boar looking 
-monsters. We got reports that these mobs are 
-coming from the{Underground Tomb/Yellow}. Can you 
-go there和消灭 the monsters?
+欢迎来到{盟重省/Yellow}.
+我们一直被野猪模样的 
+怪物的攻击.我们得到报告说，这些怪兽是 
+来自{地下墓穴/Yellow}.你能 
+去那里和消灭这些怪物？
 
 [@TaskDescription]
-消灭 15{黑野猪/Crimson}和{红野猪's/Crimson}处于 
-{StoneTomb/Yellow}
+消灭15个{黑野猪/Crimson}和{红野猪's/Crimson}处于 
+{石墓阵/Yellow}.
 
 [@Completion]
 

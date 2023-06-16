@@ -1,9 +1,9 @@
 ﻿[@Description]
-Please report to my Commanding Officer in 
+请向我的指挥官报告，在 
 {比奇省/Yellow}.
 
 [@TaskDescription]
-Report to{SubjugationManager/LimeGreen}
+向{征服经理/LimeGreen}报告.
 
 [@Completion]
 

@@ -1,12 +1,12 @@
 ﻿[@Description]
-I went to hunt in{DeathValley/Yellow}. I ran into some 
-{钳子/Crimson}I thought it was a Boss Monster. 
-While retreating I dropped my beloved Sword.
-
+|------------------------------------------------|
+|我去{DeathValley/Yellow}打猎.我碰到了一些      |
+|{钳子/Crimson}我以为它是一个Boss怪物.          |
+|在撤退的时候，我掉了我心爱的剑.                |
+|------------------------------------------------|
 
 [@TaskDescription]
-前往{Death Valley/Yellow}和 retrieve{夏利剑/LightSteelBlue}
-by killing{钳子/Crimson}.
+前往{Death Valley/Yellow}和通过杀死{钳子/Crimson}取回{夏利剑/LightSteelBlue}..
 
 [@Completion]
 

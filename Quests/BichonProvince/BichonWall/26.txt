@@ -1,11 +1,11 @@
 ﻿[@Description]
-{皇帝/LIMEGREEN}是在我的保护下。
-城市的士气是欲望。
+{皇帝/LIMEGREEN}是在我的保护下.
+城市的士气是欲望.
 证明你是他们的人
  
 [@TaskDescription]
-传播关于{皇帝/LIMEGREEN}所在城市的良好士气。我将陪同你向他汇报目前的士气状况。
-目前士气的状况。
+传播关于{皇帝/LIMEGREEN}所在城市的良好士气.我将陪同你向他汇报目前的士气状况.
+目前士气的状况.
 
 [@Completion]
 
@@ -14,9 +14,9 @@
 [@ItemTasks]
 
 [@FlagTasks]
-539 "Spread morale of the Emperor"
-540 "Spread morale of the Emperor"
-541 "Spread morale of the Emperor"
+539 "传播皇帝的士气"
+540 "为皇帝传播士气"
+541 "鼓舞皇帝的士气"
 
 [@CarryItems]
 

@@ -1,10 +1,8 @@
 ﻿[@Description]
-Please can you take this{Algea/LightSteelBlue}至
-{盟重省/Yellow}.
+请你把这个{藻类/LightSteelBlue}带到{盟重省/Yellow}.
 
 [@TaskDescription]
-Deliver the{Algea/LightSteelBlue}至{CraftsLady/LimeGreen}处于 
-{盟重省/Yellow}.
+为{盟重省/Yellow}的{工匠女士/LimeGreen}送去{藻类/LightSteelBlue}.
 
 [@Completion]
 

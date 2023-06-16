@@ -1,9 +1,10 @@
 ﻿[@Description]
-How Deep have you been in{古墓阵/Yellow}?
-The{白野猪/Crimson}is located on Deep Within.
+你在{古墓阵/Yellow}有多深？
+白野猪/Crimson}位于内部深处.
 
 [@TaskDescription]
-消灭 the{白野猪/Crimson}.
+
+消灭{白野猪/Crimson}.
 
 [@Completion]
 

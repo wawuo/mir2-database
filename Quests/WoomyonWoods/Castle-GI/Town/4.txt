@@ -1,10 +1,9 @@
 ﻿[@Description]
-Traveler. Please Warn the{SubjugationLead/LimeGreen}处于 
-{沃玛森林/Yellow}about the pending threat.
+旅行者.请向处于{沃玛森林/Yellow}的{征服统领/LimeGreen}
+警告即将发生的威胁.
 
-[@TaskDescription]
-前往{沃玛森林/Yellow}和 warm them 
-about the pending Threat.
+[@TaskDescription].
+前往{沃玛森林/Yellow}和警告他们即将到来的威胁.
 
 [@Completion]
 

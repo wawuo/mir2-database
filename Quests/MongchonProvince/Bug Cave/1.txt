@@ -1,14 +1,15 @@
 ﻿[@Description]
-Did anyone tell you about{Death Valley/Yellow}? It's a
-place with lots of cliffs和rocks. The insects in
-this area are growing abnormally big. I've been
-researching them for years. I was trying to get a
-{Specimen/LightSteelBlue}of{呜咽的蜜蜂/Crimson}a few days ago, but 
-I was attacked by them. 
+有人告诉你{死亡谷/Yellow}吗？那是一个
+有很多悬崖和岩石的地方.这里的昆虫
+这个地区的昆虫长得异常大.我已经
+几年来一直在研究它们.我正试图得到一个
+几天前，我想得到一个{呜咽的蜜蜂/Crimson}的{标本/浅铁蓝}，但 
+我被它们攻击了.
 
 [@TaskDescription]
-消灭{呜咽的蜜蜂's/Crimson}至收集 
-{虫类标本/LightSteelBlue}which be found in{Death Valley/Yellow}
+可在{死亡谷/Yellow}找到{呜咽的蜜蜂's/Crimson}消灭他
+并收集{虫类标本/LightSteelBlue}.
+
 [@Completion]
 
 [@KillTasks]

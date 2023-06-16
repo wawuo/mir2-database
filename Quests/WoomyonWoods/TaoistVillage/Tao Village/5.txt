@@ -1,9 +1,10 @@
 ﻿[@Description]
-The Order left day's ago.. 
-He should have recieved her order by now.. 
+骑士团几天前就离开了... 
+他现在应该已经收到了她的命令.
 
 [@TaskDescription]
-Locate the missing Carriage.
+
+找到失踪的马车.
 
 [@Completion]
 

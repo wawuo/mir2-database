@@ -1,5 +1,5 @@
 ﻿[@Description]
-Please Visit{SabukWall/Yellow}和 speak with{Mr.Wang/LimeGreen}.
+请访问{SabukWall/Yellow}和与{王先生/LimeGreen}交谈.
 
 [@TaskDescription]
 

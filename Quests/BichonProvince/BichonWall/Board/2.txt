@@ -1,5 +1,5 @@
 ﻿[@Description]
-BichonWall Bounty, Has been submitted.
+比奇墙 赏金 ，已提交.
 
 [@TaskDescription]
 前往{半兽人洞穴/Yellow}和收集{骷髅兵 骨头's/LightSteelBlue}.

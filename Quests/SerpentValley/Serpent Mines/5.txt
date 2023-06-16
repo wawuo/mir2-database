@@ -1,9 +1,9 @@
 ﻿[@Description]
-似乎有一个黑暗邪恶的光环从{矿区/Yellow}传来。
+似乎有一个黑暗邪恶的光环从{矿区/Yellow}传来.
 
 
 [@TaskDescription]
-在{毒蛇山谷死亡矿区/Yellow}中调查邪恶的来源。
+在{毒蛇山谷死亡矿区/Yellow}中调查邪恶的来源.
 
 [@Completion]
 

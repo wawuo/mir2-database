@@ -1,12 +1,11 @@
 ﻿[@Description]
-Hello young Mirian, I'm planning going to
-{盟重省/Yellow}frequently, but i haven't left
-this town because of the snake on the way. 
-Do you think you can 消灭 some of those 
-snakes?
+你好，年轻的Mirian，我正打算经常去
+频繁地去{盟重省/Yellow}，但我还没有离开
+但我还没有离开这个小镇，因为路上有蛇.
+你认为你能消灭一些那些 蛇？
 
 [@TaskDescription]
-消灭 15{红毒蛇/Crimson}和{虎毒蛇's/Crimson}
+消灭15{红毒蛇/Crimson}和{虎毒蛇的/Crimson}.
 
 [@Completion]
 

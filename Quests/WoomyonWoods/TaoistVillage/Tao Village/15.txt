@@ -1,13 +1,13 @@
 ﻿[@Description]
-The{Prajna Island/Yellow}{VillageChief/LimeGreen}has asked 
-for the{普拉纳历史/LightSteelBlue}Book back..
-I'm sorry to inform you We have been ransacked 
-and many precious items have been stolen. 
-The Monster what attacked was a{Blue 大猿/Crimson}
+普拉纳岛/Yellow}{村长/LimeGreen}要求归还{普拉纳历史/LightSteelBlue}书.
+我很遗憾地告诉你，我们已经被洗劫一空，
+许多珍贵的物品被盗.
+袭击的怪物是一只{蓝色大猿/Crimson}.
 
 [@TaskDescription]
-杀死{邪猿索博/Crimson}和 retrieve{普拉纳历史/LightSteelBlue}.
-前往{红色峡谷/Yellow}和 Search for the Attacker.
+前往{红色峡谷/Yellow}和搜索攻击者，
+杀死{邪猿索博/Crimson}和取回{普拉纳历史/LightSteelBlue}.
+
 [@Completion]
 
 [@KillTasks]

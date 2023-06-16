@@ -1,5 +1,5 @@
 ﻿[@Description]
-Listen to Abel's Story.
+听听亚伯的故事.
 
 [@TaskDescription]
 
@@ -10,7 +10,7 @@ Listen to Abel's Story.
 [@ItemTasks]
 
 [@FlagTasks]
-531 "Listen to Abel's Story"
+531 "听听亚伯的故事"
 
 [@CarryItems]
 

@@ -1,8 +1,8 @@
 ﻿[@Description]
-旅行者……旅行者。我急需你的帮助……我刚刚收到了关于{毒蛇山谷死亡矿区/Yellow}的一种非常罕见的生物{白蛇/Crimson}的消息，听起来很有趣，不是吗？
+旅行者……旅行者.我急需你的帮助……我刚刚收到了关于{毒蛇山谷死亡矿区/Yellow}的一种非常罕见的生物{白蛇/Crimson}的消息，听起来很有趣，不是吗？
 
 [@TaskDescription]
-消灭位于{毒蛇山谷死亡矿区/Yellow}的{白蛇/Crimson}。
+消灭位于{毒蛇山谷死亡矿区/Yellow}的{白蛇/Crimson}.
 
 [@Completion]
 

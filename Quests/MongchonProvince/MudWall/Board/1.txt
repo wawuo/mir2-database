@@ -1,16 +1,17 @@
 ﻿[@Description]
-MudWall Bounty, Has been submitted.
+泥墙赏金，已提交.
 
 [@TaskDescription]
-前往{古墓阵/Yellow}消灭{Boar's/Crimson}和 
-收集{Boar Tooth's/LightSteelBlue}.
+
+前往{古墓阵/Yellow}消灭{野猪/Crimson}和 
+收集[野猪牙/LightSteelBlue].
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-野猪牙 75 "收集 the Boar's Tooth"
+野猪牙 75 "收集 野猪的牙齿"
 
 [@FlagTasks]
 

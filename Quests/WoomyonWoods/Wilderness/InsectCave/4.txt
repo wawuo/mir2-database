@@ -1,5 +1,5 @@
 ﻿[@Description]
-我的朋友去{蜈蚣洞//Yellow}至找草药，但是还没有回来。
+我的朋友去{蜈蚣洞//Yellow}至找草药，但是还没有回来.
 
 你去{蜈蚣洞/Yellow}找回{Soho/LimeGreen}吧
 

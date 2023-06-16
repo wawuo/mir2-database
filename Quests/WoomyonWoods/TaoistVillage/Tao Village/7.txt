@@ -1,17 +1,15 @@
 ﻿[@Description]
-There seem's to be a lot of 僵尸's presence 
-lately. Head West to the{矿洞/Yellow}.
- 
+矿洞里最近似乎出现了很多僵尸.向西走就能到{矿洞/Yellow}.
 [@TaskDescription]
-消灭 10{诅咒dPriest/Crimson},{尸僵尸/Crimson}, 
-{诅咒d僵尸's/Crimson}.
+消灭 10{被诅咒的祭司/Crimson},{尸僵尸/Crimson}, 
+{被诅咒的僵尸/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-诅咒dPriest 10
+被诅咒的祭司 10
 尸僵尸 10
-诅咒d僵尸 10
+被诅咒的僵尸 10
 
 [@ItemTasks]
 

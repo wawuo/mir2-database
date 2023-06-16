@@ -1,6 +1,6 @@
 ﻿[@Description]
-There's been a Monster Kill Order issued. 
-Please carry out this Order.
+已经发布了一个怪物杀戮令.
+请执行这个命令.
 
 [@TaskDescription]
 消灭 4{结派蜘蛛/Crimson},{根蜘蛛/Crimson}5 

@@ -1,11 +1,10 @@
 ﻿[@Description]
-Traveler, Can you please assist me? I placed an 
-order with{Ann/LimeGreen}处于{比奇Wall/Yellow}but this 
-was ages ago.. Can you enquire about my order.
+旅行者，你能帮助我吗？我下了一个 
+在{比奇墙/Yellow}中向{Ann/LimeGreen}下了订单，但这是很久以前的事了.
+是很久以前的事了.你能不能查询一下我的订单.
 
 [@TaskDescription]
-Please 前往{比奇Wall/Yellow}和 找他说话：{Ann/LimeGreen}
-the Drapery Merchant.
+请前往{比奇墙/Yellow}并与{Ann/LimeGreen}的服装店商人交谈.
 
 [@Completion]
 

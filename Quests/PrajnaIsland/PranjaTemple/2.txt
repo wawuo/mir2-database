@@ -1,5 +1,5 @@
 ﻿[@Description]
-
+那些牛头魔太碍眼了.
 [@TaskDescription]
 消灭 20{牛魔祭祀/Crimson},{Elec牛头魔/Crimson}, 
 {牛魔将军/Crimson}和{牛魔侍卫/Crimson}.

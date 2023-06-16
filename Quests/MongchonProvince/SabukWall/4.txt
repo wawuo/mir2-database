@@ -1,21 +1,21 @@
 ﻿[@Description]
-There are{Hidden Entrances/Yellow}around here. 
-They lead to some kind of地穴. Rumours 
-say they at Each Entrance. There are some kind 
-of Pillar's.
+这附近有{隐藏的入口/Yellow}.
+它们通向某种地穴.谣传 
+说他们在每个入口处.有一些 
+的柱子.
 
 [@TaskDescription]
-Find the{Hidden Entrances/Yellow}和 Search for the 
-Pillar's
+
+找到{隐藏的入口/Yellow}并寻找 柱子
 
 [@Completion]
 
 [@KillTasks]
 
 [@FlagTasks]
-521 "Find the WierdPillar"
-522 "Find the StrangePillar"
-523 "Find the MysteriousPillar"
+521 "寻找古怪的柱子"
+522 "找到奇怪的柱子"
+523 "寻找神秘的柱子"
 
 [@ItemTasks]
 

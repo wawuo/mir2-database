@@ -1,33 +1,3 @@
 ﻿[@Description]
-You.. Sir.. You.. Help I'm 陷阱ped.
-
-Last thing I remember is dying further in the valley.
-Then i was back here.
-
-[@TaskDescription]
-Investigate why the{Soul/LimeGreen}, has 返回ed.
-
-[@Completion]
-
-[@KillTasks]
-
-
-[@FlagTasks]
-524 "Find the LostSouls Body"
-
-[@ItemTasks]
-
-[@CarryItems]
-
-[@FixedRewards]
-
-[@SelectRewards]
-
-[@ExpReward]
-3801
-
-[@GoldReward]
-7125
-
-// Pickup - LostSoul D601 202 204
-// Hand In - LostSoul D601 202 204
+|------------------------------------------|
+|你... 先生... 你... 救命

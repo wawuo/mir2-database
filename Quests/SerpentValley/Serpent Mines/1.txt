@@ -1,5 +1,5 @@
 ﻿[@Description]
-旅行者。请进入{毒蛇山谷死亡矿区/Yellow} 且消灭里面的威胁。
+旅行者.请进入{毒蛇山谷死亡矿区/Yellow} 且消灭里面的威胁.
 
 [@TaskDescription]
 消灭 10{幽灵僵尸/Crimson}和{暗之祭司僵尸/Crimson}.

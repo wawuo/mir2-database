@@ -1,9 +1,10 @@
 ﻿[@Description]
-Please head back to{森林小径/Yellow}和 gather more 
-{Materials/LightSteelBlue}.
+请回去(回复){森林小径/Yellow}和收集更多信息 
+{材料/LightSteelBlue}.
 
 [@TaskDescription]
-Find 5{古老的树/LightSteelBlue}by killing{根蜘蛛's/Crimson}.
+
+找到5个{古老的树/LightSteelBlue}，杀死{根蜘蛛的/Crimson}.
 
 [@Completion]
 

@@ -1,6 +1,6 @@
 ﻿[@Description]
 前往{森林小径/Yellow}和 消灭{根蜘蛛/Crimson}
-然后返回{Perry/LimeGreen}处于{白日门/Yellow}
+然后回去(回复){Perry/LimeGreen}处于{白日门/Yellow}
 
 [@TaskDescription]
 

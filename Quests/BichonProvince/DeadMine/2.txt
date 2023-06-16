@@ -1,5 +1,5 @@
 ﻿[@Description]
-你好，旅行者，几天前，一个{僵尸/Crimson}杀死了我的宠物。
+你好，旅行者，几天前，一个{僵尸/Crimson}杀死了我的宠物.
 请帮我对{僵尸/Crimson}报仇!
 
 [@TaskDescription]

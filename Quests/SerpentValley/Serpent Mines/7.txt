@@ -1,10 +1,10 @@
 ﻿[@Description] 
 
-旅行者，请返回{毒蛇山谷死亡矿区/Yellow}，完成{隐藏的卷轴/LightSteelBlue}上的任务。
+旅行者，请回去(回复){毒蛇山谷死亡矿区/Yellow}，完成{隐藏的卷轴/LightSteelBlue}上的任务.
 
 [@TaskDescription]
 
-消灭{腐烂萨满僵尸/Crimson}，并找{高大食尸鬼/Crimson}取回{亡灵之心/LightSteelBlue}。
+消灭{腐烂萨满僵尸/Crimson}，并找{高大食尸鬼/Crimson}取回{亡灵之心/LightSteelBlue}.
 [@Completion]
 
 [@KillTasks]

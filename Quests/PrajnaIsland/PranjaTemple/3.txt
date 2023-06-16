@@ -1,5 +1,5 @@
 ﻿[@Description]
-
+那些牛头魔太碍眼了.
 [@TaskDescription]
 消灭 30{牛魔战士/Crimson}和{牛魔斗士's/Crimson}.
 

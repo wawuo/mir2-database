@@ -1,9 +1,9 @@
 ﻿[@Description]
-The Howling oh the Howling.. Search for the 
-Source和Kill the creature.
+嚎啕大哭哦，嚎啕大哭.
+寻找源头，杀死生物.
 
 [@TaskDescription]
-消灭 the{半兽人Warrior/Crimson}.
+消灭{半兽人勇士/Crimson}.
 
 [@Completion]
 

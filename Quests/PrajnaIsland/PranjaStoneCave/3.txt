@@ -1,11 +1,11 @@
 ﻿[@Description]
-I need your help. I have a Order.. A strange One. 
-Can you 前往 the local Cave? 和收集some 
-{清洁的骷髅头's/LightSteelBlue}.
+我需要你的帮助.我有一个命令... 一个奇怪的东西.
+你能前往当地的山洞吗？和收集一些 
+{清洁的骷髅头的/LightSteelBlue}.
 
 [@TaskDescription]
-收集 20{清洁的骷髅头's/LightSteelBlue}by hunting{骨头Archer's/Crimson}, 
-{骨头Blademan/Crimson}和{骨头Spearman/Crimson}.
+收集{清洁的骷髅头's/LightSteelBlue}通过猎杀{骨魔弓箭手/Crimson}、 
+狩猎{骨魔刀客/Crimson}和{骨魔枪兵/Crimson}.
 
 [@Completion]
 

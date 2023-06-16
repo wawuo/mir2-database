@@ -1,10 +1,10 @@
 ﻿[@Description]
-谢谢你，旅行者。为了归还我儿子的{Robe/LightSteelBlue}，如果你愿意接受挑
-战，我有一个任务。我的儿子在{毒蛇山谷死亡矿区/Yellow}寻找宝藏。他的长
-袍里有一封信，说他找到了黄金。请返回并取回{被盗的黄金/LightSteelBlue}。
+谢谢你，旅行者.为了归还我儿子的{Robe/LightSteelBlue}，如果你愿意接受挑
+战，我有一个任务.我的儿子在{毒蛇山谷死亡矿区/Yellow}寻找宝藏.他的长
+袍里有一封信，说他找到了黄金.请回去(回复)并取回{被盗的黄金/LightSteelBlue}.
 
 [@TaskDescription]
-杀死位于{毒蛇山谷死亡矿区 2F/Yellow}的{腐烂肉僵尸/Crimson}。
+杀死位于{毒蛇山谷死亡矿区 2F/Yellow}的{腐烂肉僵尸/Crimson}.
 [@Completion]
 
 [@KillTasks]

@@ -1,10 +1,10 @@
 ﻿[@Description]
-We have been getting more attacks from the monsters lately. 
-Do you think you can 消灭 the threat? 
+最近，我们收到了更多来自怪物的攻击.
+你认为你能消除威胁吗？
 
 [@TaskDescription]
-Travel the Island和消灭 15{毒食尸鬼's/Crimson}
-and 10{浪人食尸鬼's/Crimson}.
+去岛上走一走和消灭15{毒食尸鬼的/Crimson}.
+和10{浪人食尸鬼/Crimson}.
 
 [@Completion]
 

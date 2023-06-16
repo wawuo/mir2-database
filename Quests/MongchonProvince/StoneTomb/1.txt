@@ -1,11 +1,11 @@
 ﻿[@Description]
-Hello. There are to many Insects in 
-{盟重省/Yellow}these days. I can't sleep 
-because of the noises at night. Could you 
-hunt these insects?
+你好.最近有很多昆虫在 
+{盟重省/Yellow}这些天.我睡不着 
+因为晚上有很多噪音.你能不能 
+猎杀这些昆虫？
 
 [@TaskDescription]
-前往{Stone Tomb/Yellow}和 消灭 10 
+前往{石墓/Yellow}和消灭10 
 {黑色蛆虫/Crimson}和{楔形飞蛾/Crimson}.
  
 [@Completion]

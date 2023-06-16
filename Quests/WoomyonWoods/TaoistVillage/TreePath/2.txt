@@ -1,8 +1,8 @@
 ﻿[@Description]
-Are you interested in a Bounty?
+您对 "赏金 "感兴趣吗？
 
 [@TaskDescription]
-Find和消灭{邪恶大猿/LightSteelBlue}处于{红色峡谷/Yellow}.
+找到并消灭处于{红色峡谷/Yellow}的{邪恶大猿/LightSteelBlue}.
 
 [@Completion]
 

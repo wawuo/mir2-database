@@ -1,5 +1,5 @@
 ﻿[@Description]
-你知道{坎尼茶?/LightSteelBlue}是最好的茶吗？我想喝一点，但它不容易 得到。
+你知道{坎尼茶?/LightSteelBlue}是最好的茶吗？我想喝一点，但它不容易 得到.
 你能不能请{CraftLady/LimeGreen}为我做一些{坎尼茶/LightSteelBlue}?
  
 [@TaskDescription]

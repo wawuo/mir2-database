@@ -1,10 +1,10 @@
 ﻿[@Description]
-You found the Book.. That's fantastic news. 
-It dosent look like it's been damaged. 
+你找到了那本书.这真是个好消息.
+它看起来不像是被损坏的.
 
 [@TaskDescription]
-返回 the{普拉纳历史/LightSteelBlue}Book to{VillageChief/LimeGreen}
-in{般若岛/Yellow}.
+回去{般若岛/Yellow} 把{普拉纳历史/浅铁蓝}书交给{村长/LimeGreen}.
+
 
 [@Completion]
 

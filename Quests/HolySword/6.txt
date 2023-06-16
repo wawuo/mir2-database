@@ -1,13 +1,12 @@
 ﻿[@Description]
-Bring me{红月亮芯片/LightSteelBlue}.
-It's a ominous 恶魔ic sword.
-You should seek out the sword before someone 
-else gets it.
+给我带来{红月亮芯片/LightSteelBlue}.
+这是一把不祥的恶魔剑.
+你应该在别人得到它之前找到这把剑 
+你应该在别人得到它之前找到这把剑.
 
 [@TaskDescription]
-杀死{红猿's/Crimson}至find the{红月亮芯片/LightSteelBlue}.
-at 11:27 Walk in the corner和you will get through 
-the hidden door.
+杀死{红猿's/Crimson}至找到{红月亮芯片/LightSteelBlue}.
+在11:27走到角落里，你就可以通过隐蔽的门.
 [@Completion]
 
 [@KillTasks]

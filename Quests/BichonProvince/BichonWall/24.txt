@@ -1,9 +1,10 @@
 ﻿[@Description]
-找他说话：{CaveGuide/LimeGreen}处于{白日门/Yellow}
+找他说话：{地穴指导员/LimeGreen}处于{白日门/Yellow}.
 
 [@TaskDescription]
-Head West of{白日门/Yellow}和 Speak 
-with{CaveGuide/LimeGreen}.
+
+向{白日门/Yellow}的西边走去.
+与[地穴指导员/LimeGreen]交谈.
 
 [@Completion]
 
