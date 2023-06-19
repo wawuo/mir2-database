@@ -1,0 +1,15 @@
+[@MAIN]
+#IF
+CHECKQUEST 110 0
+#SAY
+
+真是个奇怪的支柱. 
+
+#ELSESAY
+
+触摸柱子时，你会有一种阴森的感觉. 
+#ELSEACT
+SET [521] 1
+LOCALMESSAGE "凶猛的柱子已经被找到了!" Hint
+BREAK
+CLOSE

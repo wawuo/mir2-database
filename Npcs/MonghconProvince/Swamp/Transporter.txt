@@ -1,0 +1,9 @@
+[@main]
+#SAY
+你是否已经受不了啦？想回去？
+
+<对极了/@yes>  <不要/@exit>
+
+[@yes]
+#ACT
+MOVE EBEE03 204 255

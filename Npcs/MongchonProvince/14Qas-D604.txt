@@ -1,0 +1,12 @@
+[@MAIN]
+#IF
+CHECKQUEST 105 0
+#SAY
+一些人的遗体.
+#ELSESAY
+失去灵魂的遗体.
+#ELSEACT
+SET [524] 1
+LOCALMESSAGE "回归失落的灵魂 "提示
+BREAK
+CLOSE

@@ -1,0 +1,35 @@
+[@MAIN]
+#IF
+CHECK [539] 1
+#ACT
+GOTO @Main-1
+#ELSEACT
+GOTO @CHECK2
+
+[@CHECK2]
+#IF
+CHECK [540] 1
+#ACT
+GOTO @Main-1
+#ELSEACT
+GOTO @CHECK3
+
+[@CHECK3]
+#IF
+CHECK [541] 1
+#ACT
+GOTO @Main-1
+#ELSEACT
+GOTO @Main-2
+
+[@Main-1]
+#SAY
+问候的旅行者. 城市的士气已经提高. 
+ 
+<关闭/@exit>
+
+[@MAIN-2]
+#SAY
+问候的旅行者. 在这个美好的日子里，你还好吗？
+ 
+<关闭/@exit>

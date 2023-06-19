@@ -1,0 +1,30 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 199
+#SAY
+我不会帮助像你这样的恶人...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+这里是比奇的宫殿.
+我是管理员.有什么可以帮助你的吗？
+<要求创建公会/@CREATEGUILD>.
+<要求行会战争/@REQUESTWAR>.
+需要{黄金/黄金}： <$GUILDWARFEE> 最后的<$GUILDWARTIME>分钟.
+<请求沙巴克征服战争/@requestcastlewar>.
+<想问如何创建一个公会/@buildguildexp>|<想问关于公会战争/@guildwarexp>.
+
+ 
+
+[@buildguildexp]
+#SAY
+为了获得创建公会的资格
+你需要给我带来几样东西：-
+一百万{Gold/Gold}和WoomaTaurus的号角，他住在Woomyon森林的Wooma寺庙深处.
+住在Woomyon森林的Wooma Temple深处.
+请记

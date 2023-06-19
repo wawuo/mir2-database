@@ -1,0 +1,31 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 199
+#SAY
+我不会帮助像你这样的恶人...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好<$USERNAME>、
+我目前正在寻找多种类型的材料
+ 
+你知道吗，材料可以制成许多奇妙的物品
+可以帮助你的旅行？
+我的佣金很高.如果你想卖掉任何东西，请回来.
+我会看看的.
+ 
+<出售/@Sell> Materials.
+ 
+<关闭/@exit>
+
+[@Sell]
+#SAY
+给我看材料的.
+
+[Types]
+16

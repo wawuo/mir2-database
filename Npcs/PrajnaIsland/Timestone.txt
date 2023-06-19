@@ -1,0 +1,31 @@
+[@main]
+崇拜我你这个小东西，然后你就可以
+打break时间的边界 与空间回到过去.
+<回到过去！/@tele>
+<我会留在这里/@exit>
+
+[@tele]
+#IF
+LEVEL > 39
+#ACT
+goto @level40
+#ELSEACT
+goto @lowlevel
+
+[@lowlevel]
+#IF
+LEVEL > 32
+LEVEL < 40
+CHECKITEM 时间石块 1
+#ACT
+TAKEITEM 时间石块 1
+MOVE 6 63 247
+#ELSESAY
+对不超你并没有 {时间石块/LightSteelBlue}.
+<关闭/@exit>          
+
+[@level40]
+#ACT
+MOVE 6 63 247
+break
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,12 @@
+[@MAIN]
+#IF
+CHECKQUEST 110 0
+#SAY
+What a strange pillar.
+#ELSESAY
+摸柱子时，你会有一种阴森的感觉. 
+#ELSEACT
+SET [522] 1
+LOCALMESSAGE "陌生的柱子已被发现!" Hint
+BREAK
+CLOSE

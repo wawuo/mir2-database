@@ -4,7 +4,7 @@
 古老的符号.
 
 [@TaskDescription]
-回去(回复)到{CastleBichon/Yellow}询问这些符号.
+回到{CastleBichon/Yellow}询问这些符号.
 
 [@Completion]
 
@@ -16,7 +16,7 @@
 533 "在图书馆询问."
 534 "在旅馆询问."
 535 "终于明白镰刀是如何工作的了."
-536 "回去（回复）到半兽人洞穴的神秘石块."
+536 "得到半兽人洞穴的神秘石块."
 
 [@CarryItems]
 

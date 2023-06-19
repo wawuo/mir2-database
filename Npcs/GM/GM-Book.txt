@@ -1,0 +1,67 @@
+[@Main]
+#IF
+ISADMIN
+#SAY
+你好 {<USERNAME>/KHAKI}, 我名叫 {<NPCNAME>/KHAKI}.
+<购买/@Buy> 书籍
+<出售/@Sell> 书籍
+
+学习所有 <战士/@Warrior>、<巫师/@Wizard>、<道士/@Taoist>、<弓箭手/@Archer>、<刺客/@Assassin> 技能.
+
+#ELSEACT
+MOVE 0 300 300
+
+[@Sell]
+#SAY
+出售
+ 
+<返回/@Main>
+
+[@Buy]
+#SAY
+购买
+ 
+<返回/@Main>
+
+[@Warrior]
+#Act
+GIVESKILL 击剑 3
+GIVESKILL 杀人 3
+GIVESKILL 刺杀 3
+GIVESKILL 半月形 3
+GIVESKILL 肩部冲刺 3
+GIVESKILL 双闸刀 3
+GIVESKILL 禁锢 3
+GIVESKILL 火焰之剑 3
+GIVESKILL 狮子吼 3
+GIVESKILL 双闸刀 3
+GIVESKILL 刀锋雪崩 3
+GIVESKILL 保护场 3
+GIVESKILL 愤怒 3
+GIVESKILL 反击 3
+GIVESKILL 斩击爆裂 3
+GIVESKILL 怒击 3
+GIVESKILL 不朽的皮肤 3
+[@Wizard]
+#ACT
+GIVESKILL 火球 3
+GIVESKILL 斥力 3
+GIVESKILL 电击 3
+GIVESKILL 大火球 3
+GIVESKILL 地狱之火 3
+GIVESKILL 霹雳火 3
+GIVESKILL 传送 3
+GIVESKILL 火焰弹 3
+GIVESKILL 火墙 3
+GIVESKILL 闪电 3
+GIVESKILL 寒霜紧缩 3
+GIVESKILL 雷霆风暴 3
+GIVESKILL 魔法盾 3
+GIVESKILL 亡灵转化 3
+GIVESKILL 吸血术 3
+GIVESKILL 冰风暴 3
+GIVESKILL 火焰break坏者 3
+GIVESKILL 镜像 3
+GIVESKILL 火焰场 3
+GIVESKILL 暴风雪 3
+GIVESKILL 魔力助蚥reak

@@ -1,0 +1,29 @@
+[@MAIN]
+#IF
+GROUPLEADER
+#ACT
+GROUPGOTO @grouphere
+break
+#ELSESAY
+（*你听到风中轻微的耳语：*）
+“只有组队的领导人和他们的组队的才能通过这里. 
+
+[@grouphere]
+#IF
+GROUPCOUNT > 4
+CHECKMAP FOX02
+CHECKRANGE 223 304 5
+#ACT
+转到@checkorb
+break
+#ELSESAY
+（*你听到风中轻微的耳语：*）
+“你是组队的领导人，但你的小队不在场. 
+你可能不会通过. 所有人必须在NPC的5个位置以内. 
+
+[@checkorb]
+#IF
+CHECKITEM 入场券 1
+#SAY
+（*你听到风中轻微的耳语：*）
+“你是组队的领袖，你的队友都在

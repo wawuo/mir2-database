@@ -1,0 +1,11 @@
+[@MAIN]
+#SAY
+<Search/@next1> the bones.
+<关闭/@exit>
+
+[@next1]
+#ACT
+MOVE EBEEBOSS
+LocalMessage "你从一个隐蔽的洞里掉下来!" Hint
+BREAK
+CLOSE

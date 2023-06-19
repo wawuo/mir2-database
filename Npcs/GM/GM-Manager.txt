@@ -1,0 +1,435 @@
+[@Main]
+#IF
+ISADMIN
+#SAY
+管理像您这样的游戏管理员的事务是一种乐趣.
+您今天想让我执行什么功能 <$DATE>
+
+<Guild Application/@CreateGuildCheck> , <查看市场/@MARKET> , <英雄管理/@Hero>
+<杀死我的宠物/@KillPets> , <打开我的仓库/@STORAGE> , <重置任务标志/@ResetQuestFlags>
+<转生面板/@RebirthPanel> , <活动管理页面/@EventManagement>
+ 
+<退出/@Exit>
+#ELSEACT
+MOVE 0 300 300
+
+[@CreateGuildCheck]
+#IF
+CHECKGOLD < 1000000
+#ACT
+GIVEGOLD 1000000
+GOTO @CheckLevel
+#ELSEACT
+GOTO @CheckLevel
+
+[@CheckLevel]
+#IF
+LEVEL < 22
+#ACT
+CHANGELEVEL 22
+GOTO @GiveHorn
+#ELSEACT
+GOTO @GiveHorn
+
+[@GiveHorn]
+#ACT
+CHECKITEM 禾马角 1
+GIVEITEM 禾马角 1
+GOTO @CREATEGUILD
+#ELSEACT
+GOTO @CREATEGUILD
+
+
+[@KillPets]
+#ACT
+CLEARPETS
+LINEMESSAGE "您要求的宠物现在已经死了." Hint
+
+
+[@CREATEGUILD]
+
+[@STORAGE]
+#SAY
+相信我，我正在照顾您的材料.
+ 
+ 
+ 
+ 
+ 
+菜单： <主菜单/@Main> - <退出/@Exit>
+
+
+[@ResetQuestFlags]
+#ACT
+SET [500] 0
+SET [501] 0
+SET [502] 0
+SET [503] 0
+SET [504] 0
+SET [505] 0
+SET [506] 0
+SET [507] 0
+SET [508] 0
+SET [509] 0
+SET [510] 0
+LINEMESSAGE "所有任务标志已重置." Hint
+
+[@EventManagement]
+#SAY
+这可以用于启动全球活动和其他材料，随着服务器的发展和增加更多的功能.
+<<沙巴克/@Sabuk>>
+ 
+ 
+ 
+ 
+ 
+<返回/@Main>
+
+[@Sabuk]
+#SAY
+Sabuk Wall 管理面板
+
+<开始战争/结束战争/@StartWar>             <统计/@SWStatistics>
+<传送到 InnerWall/@InnerWall>
+<检查守卫/@Guards>
+<检查门/墙/@Gates>
+<修理全部/@SWReset>
+
+SabukWall 的当前所有者是：<$CONQUESTOWNER(1)>
+
+<返回/@EventManagement>     <退出/@Exit>
+
+[@StartWar]
+#ACT
+STARTCONQUEST 1
+
+[@InnerWall]
+#ACT
+MOVE 0150 12 15
+
+[@Guards]
+#SAY
+
+<复活全部/@RepairAll>
+
+<$CONQUESTGUARD(1,1)>   <修理/@Guard1>
+<$CONQUESTGUARD(1,2)>   <修理/@Guard2>
+<$CONQUESTGUARD(1,3)>   <修理/@Guard3>
+<$CONQUESTGUARD(1,4)>   <修理/@Guard4>
+<$CONQUESTGUARD(1,5)>   <修理/@Guard5>
+<$CONQUESTGUARD(1,6)>   <修理/@Guard6>
+<$CONQUESTGUARD(1,7)>   <修理/@Guard7>
+<$CONQUESTGUARD(1,8)>   <修理/@Guard8>
+<$CONQUESTGUARD(1,9)>   <修理/@Guard9>
+<$CONQUESTGUARD(1,10)>   <修理/@Guard10>
+<$CONQUESTGUARD(1,11)>   <修理/@Guard11>
+<$CONQUESTGUARD(1,12)>   <修理/@Guard12>
+
+<返回/@Sabuk>     <退出/@Exit>
+
+[@Gates]
+#SAY
+
+<修理所有墙壁/@RepairAllWalls>
+
+墙壁和门
+<$CONQUESTWALL(1,1)>   <修理/@Wall1>
+<$CONQUESTWALL(1,2)>   <修理/@Wall2>
+<$CONQUESTWALL(1,3)>   <修理/@Wall3>
+<$CONQUESTGATE(1,1)>   <修理/@Gate1>
+
+<打开门/@OpenGate> <关闭门/@CloseGate>
+
+<返回/@Sabuk>     <退出/@Exit>
+
+[@OpenGate]
+#ACT
+OPENGATE 1 1
+LocalMessage "门已打开." Hint
+
+[@CloseGate]
+#ACT
+CLOSEGATE 1 1
+LocalMessage "门已关闭." Hint
+
+[@RepairAllWalls]
+#ACT
+CONQUESTWALL 1 1
+CONQUESTWALL 1 2
+CONQUESTWALL 1 3
+LocalMessage "所有墙壁已修复." Hint
+
+[@Wall1]
+#ACT
+CONQUESTWALL 1 1
+LocalMessage "您已修复左墙！" Hint
+
+[@Wall2]
+#ACT
+CONQUESTWALL 1 2
+LocalMessage "中心墙已修复." Hint
+
+[@Wall3]
+#ACT
+CONQUESTWALL 1 3
+LocalMessage "右墙已修复." Hint
+
+[@Gate1]
+#ACT
+CONQUESTGATE 1 1
+LocalMessage "门已修复." Hint
+
+[@RepairAll]
+#ACT
+CONQUESTGUARD 1 1
+CONQUESTGUARD 1 2
+CONQUESTGUARD 1 3
+CONQUESTGUARD 1 4
+CONQUESTGUARD 1 5
+CONQUESTGUARD 1 6
+CONQUESTGUARD 1 7
+CONQUESTGUARD 1 8
+CONQUESTGUARD 1 9
+CONQUESTGUARD 1 10
+CONQUESTGUARD 1 11
+CONQUESTGUARD 1 12
+LocalMessage "所有守卫都复活了." Hint
+
+[@Guard1]
+#ACT
+CONQUESTGUARD 1 1
+LocalMessage "守卫一复活了." Hint
+
+[@Guard2]
+#ACT
+CONQUESTGUARD 1 2
+LocalMessage "守卫二复活了." Hint
+
+[@Guard3]
+#ACT
+CONQUESTGUARD 1 3
+LocalMessage "守卫三复活了." Hint
+
+[@Guard4]
+#ACT
+CONQUESTGUARD 1 4
+LocalMessage "守卫四复活了." Hint
+
+[@Guard5]
+#ACT
+CONQUESTGUARD 1 5
+LocalMessage "守卫五复活了." Hint
+
+[@Guard6]
+#ACT
+CONQUESTGUARD 1 6
+LocalMessage "守卫六复活了." Hint
+
+[@Guard7]
+#ACT
+CONQUESTGUARD 1 7
+LocalMessage "守卫七复活了." Hint
+
+[@Guard8]
+#ACT
+CONQUESTGUARD 1 8
+LocalMessage "守卫八复活了." Hint
+
+[@Guard9]
+#ACT
+CONQUESTGUARD 1 9
+LocalMessage "守卫九复活了." Hint
+
+[@Guard10]
+#ACT
+CONQUESTGUARD 1 10
+LocalMessage "守卫十复活了." Hint
+
+[@Guard11]
+#ACT
+CONQUESTGUARD 1 11
+LocalMessage "守卫十一复活了." Hint
+
+[@Guard12]
+#ACT
+CONQUESTGUARD 1 12
+LocalMessage "守卫十二复活了." Hint
+
+[@SWReset]
+#ACT
+CONQUESTREPAIRALL 1
+LocalMessage "SabukWall 墙壁/门/守卫已修复/复活" Hint
+
+[@SWStatistics]
+#SAY
+以下是一些 Sabuk 统计数据.
+ 
+
+征服金币存储：<$CONQUESTGOLD(1)>
+征服利率：<$CONQUESTRATE(1)>
+下一个征服日期：<$CONQUESTSCHEDULE(1)>
+ 
+<返回/@Sabuk>     <退出/@Exit>
+
+[@Hero]
+#SAY
+英雄管理页面 
+
+<返回/@Main>
+
+<<创建英雄/@CreateHero/Green>>
+<<复活英雄/@ReviveHero/Red>>
+<<封印英雄/@SealHero/Yellow>>
+<<删除英雄/@DeleteHero/Blue>>
+
+[@ReviveHero]
+#ACT
+ReviveHero
+
+[@SealHero]
+#ACT
+SealHero
+
+[@DeleteHero]
+#IF
+CHECKITEM SealedHero
+#ACT
+GOTO @Found
+#ELSESAY
+您目前没有封印的英雄.
+
+[@Found]
+#ACT
+TAKEITEM SealedHero
+#SAY
+英雄现在已经过世.
+
+[@RebirthPanel]
+#SAY
+在这里您可以设置您的转生.
+
+应用转生          删除转生             检查转生
+
+<转生 1/@RB1>                 <转生 1/@RB1DEL>                       <转生 1/@RB1CHK>
+<转生 2/@RB2>                 <转生 2/@RB2DEL>                       <转生 2/@RB2CHK>
+<转生 3/@RB3>                 <转生 3/@RB3DEL>                       <转生 3/@RB3CHK>
+<全部/@RB123>                             <全部/@DEL123>
+ 
+<检查主要转生标志/@RBMAIN>      <删除主要转生标志/@RBMAINDEL>      <应用主要转生标志/@RBMAINADD>
+
+<返回/@Main>
+[@RB1]
+#ACT
+SET [993] 1
+#SAY
+授予转生一.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB2]
+#ACT
+SET [994] 1
+#SAY
+授予转生二.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB3]
+#ACT
+SET [995] 1
+#SAY
+授予转生三.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RBMAINADD]
+#ACT
+SET [1000] 1
+#SAY
+授予主要转生标志.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB123]
+#ACT
+SET [993] 1
+SET [994] 1
+SET [995] 1
+SET [1000] 1
+#SAY
+应用所有转生标志.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB1DEL]
+#ACT
+SET [993] 0
+#SAY
+清除转生一.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB2DEL]
+#ACT
+SET [994] 0
+#SAY
+清除转生二.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB3DEL]
+#ACT
+SET [995] 0
+#SAY
+清除转生三.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@DEL123]
+#ACT
+SET [993] 0
+SET [994] 0
+SET [995] 0
+SET [1000] 0
+#SAY
+清除所有转生标志.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RBMAINDEL]
+#ACT
+SET [1000] 0
+#SAY
+清除主要转生.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RBMAIN]
+#IF
+CHECK [1000] 1
+#SAY
+您目前拥有主要转生效果.
+<返回/@RebirthPanel>    <退出/@Exit>
+#ELSESAY
+您没有主要转生效果.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB1CHK]
+#IF
+CHECK [993] 1
+#SAY
+您目前拥有转生一.
+<返回/@RebirthPanel>    <退出/@Exit>
+#ELSESAY
+您没有转生一.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB2CHK]
+#IF
+CHECK [994] 1
+#SAY
+您目前拥有转生二.
+<返回/@RebirthPanel>    <退出/@Exit>
+#ELSESAY
+您没有转生二.
+<返回/@RebirthPanel>    <退出/@Exit>
+
+[@RB3CHK]
+#IF
+CHECK [995] 1
+#SAY
+您目前拥有转生三.
+<返回/@RebirthPanel>    <退出/@Exit>
+#ELSESAY
+您没有转生三.
+<返回/@RebirthPanel>    <退出/@Exit>

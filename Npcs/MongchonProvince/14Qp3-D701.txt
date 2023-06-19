@@ -1,0 +1,12 @@
+[@MAIN]
+#IF
+CHECKQUEST 110 0
+#SAY
+多么神秘的柱子. 
+#ELSESAY
+摸柱子时，你会有一种阴森的感觉. 
+#ELSEACT
+SET [523] 1
+LOCALMESSAGE "神秘的柱子已被发现!" Hint
+BREAK
+CLOSE

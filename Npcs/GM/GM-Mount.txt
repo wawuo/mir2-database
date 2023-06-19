@@ -1,0 +1,67 @@
+[@Main]
+#IF
+ISADMIN
+#SAY
+你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
+我看到你有：{<$MOUNT>/CORAL}
+坐骑忠诚度：{<$MOUNTLOYALTY>/CORAL}
+你需要达到 22 级才能使用坐骑，你的等级：{<$LEVEL>/ORANGE}
+<购买/@Buy> 坐骑装备
+<出售/@Sell> 坐骑装备
+
+#ELSEACT
+MOVE 0 300 300
+ 
+[@Sell]
+#SAY
+出售
+ 
+<返回/@Main>
+
+[@Buy]
+#SAY
+购买
+ 
+<返回/@Main>
+
+
+[Types]
+19
+22
+23
+24
+25
+26
+27
+
+[Trade]
+孟加拉虎
+BlueTiger
+BlackLeopard
+IceLeopard
+PantheraTiger
+RedTiger
+WhiteTiger
+Wolf
+BrownWolf
+BlueWolf
+BlackWolf
+WhiteWolf
+LeatherBridle
+GoldBridle
+BronzeBell
+SilverBell
+GoldBell
+GreenBell
+鞍座
+RedRibbon
+BlueRibbon
+BlackRibbon
+LeatherMask
+WhiteMask
+BlackMask
+SilverMask
+TitaniumMask
+生肉
+瘦肉精
+

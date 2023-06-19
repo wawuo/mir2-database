@@ -1,0 +1,37 @@
+[@MAIN]
+#IF
+CHECK [539] 1
+#ACT
+GOTO @Main-1
+#ELSEACT
+GOTO @CHECK2
+
+[@CHECK2]
+#IF
+CHECK [540] 1
+#ACT
+GOTO @Main-1
+#ELSEACT
+GOTO @CHECK3
+
+[@CHECK3]
+#IF
+CHECK [541] 1
+#ACT
+GOTO @Main-1
+#ELSEACT
+GOTO @Main-2
+
+[@Main-1]
+#SAY
+旅行者. 你听到最新的消息了吗？
+ 
+<关闭/@exit>
+
+[@MAIN-2]
+#SAY
+旅行者. 有流言说要把教主赶下来 
+皇帝下台. 我将继续挖掘 
+信息很快就会反馈给我. 
+ 
+<关闭/@exit>

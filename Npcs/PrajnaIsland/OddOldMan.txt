@@ -1,0 +1,35 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 199
+#SAY
+我不会帮助像你这样的恶人...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+如果你真的想回到过去，拥有一块时间石.
+这块石头将帮助你穿越时空回到过去.
+但如果我们的等级低于33级、
+即使有这块石头，你也不能进行时间旅行.现在它很贵.
+如果你不想买它，可以试试从怪物身上掉落的东西.
+这可能需要一些时间，但你可以省钱.......
+<购买/@buystone> 时间石块
+<出售/@sell> 时间石块
+<关闭/@exit>
+
+[@buystone]
+#say
+20000金币一件...你想要吗？
+<是/@buystonenow>
+<不，太贵了/@exit>
+
+[@buystonenow]
+#IF
+CHECKGOLD > 20000
+#ACT
+TAKEGOLD 20000
+GIVEITEM 时间石块 1

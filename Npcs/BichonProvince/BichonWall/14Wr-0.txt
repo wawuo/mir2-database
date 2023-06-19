@@ -1,0 +1,80 @@
+;;查看你是否有高级通行证.
+[@MAIN]
+#IF
+CHECKPKPOINT > 199
+#SAY
+我不会帮助像你这样的恶人...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#IF
+CHECKITEM PremiumPass[1d]
+#ACT
+GOTO @PremCaveMenu
+#ELSEACT
+GOTO @CHECKPASS2
+
+[@CHECKPASS2]
+#IF
+CHECKITEM PremiumPass[3d]
+#ACT
+GOTO @PremCaveMenu
+#ELSEACT
+GOTO @CHECKPASS3
+
+[@CHECKPASS3]
+#IF
+CHECKITEM PremiumPass[7d]
+#ACT
+GOTO @PremCaveMenu
+#ELSEACT
+GOTO @CHECKPASS4
+
+[@CHECKPASS4]
+#IF
+CHECKITEM PremiumPass[15d]
+#ACT
+GOTO @PremCaveMenu
+#ELSESAY
+你没有{高级通行证/LightSteelBlue}.
+
+;;Premium Cave Menu.
+[@PremCaveMenu]
+#SAY
+恭喜<$USERNAME>、 
+谢谢您的贡献.作为奖励，你现在可以进入
+进入以下没有任何限制的高级地牢.
+ 
+<地牢1/@PremDungeon1> | <地牢2/@PremDungeon2> | <地牢3/@PremDungeon3> - 地牢即将到来.
+快速进入到：
+<古奥玛洞穴/@AOC> | <古沃玛神庙/@AWT> | <古石庙/@AST>.
+<古祖玛寺/@AZT> | <古般若洞/@APC>
+
+[@AOC]
+#ACT
+MOVE D001A
+GIVEITEM 城镇传送阵 1
+
+[@AWT]
+#ACT
+MOVE D021A
+GIVEITEM 城镇传送阵 1
+
+[@AST]
+#ACT
+MOVE D710A
+GIVEITEM 城镇传送阵 1
+
+[@AZT]
+#ACT
+MOVE 0157A
+GIVEITEM 城镇传送阵 1
+
+[@APC]
+#ACT
+MOVE D2051A
+GIVEITEM 城镇传送阵 1

@@ -1,0 +1,37 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 199
+#SAY
+我不会帮助像你这样的恶人...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+欢迎旅行者、
+我为你的老虎出售物品! 请看一下吧!
+我看到你有： {<$mount>/coral}
+坐骑忠诚度: {<$MOUNTLOYALTY>/CORAL}
+
+<查看/@BuySell> 商店
+ 
+<关闭/@exit>
+
+
+[@BuySell]
+#SAY
+想要购买什么？
+ 
+<返回/@main>
+
+[Type]
+19
+
+[Trade]
+孟加拉虎
+鞍座
+生肉
+瘦肉精

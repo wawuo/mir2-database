@@ -1,0 +1,61 @@
+[@Main]
+#IF
+CHECKPKPOINT > 199
+#SAY
+我不会帮助像你这样的恶人...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好. 你好. 我是 "寄销商人". 我负责
+寄销. 我们位于以下五个地方
+比奇省、盟重省、白日门、般若岛
+岛与过去的比丘，物品销售信息
+都是由这五个商人共通的. 
+<Consign/@Consign> Item  <View Market/@Market>.
+<View Consignments/@Consignment>
+<关闭/@exit> <Help/@help>
+
+
+[@Consign]
+#SAY
+The following are 'cautions' in the commission sale.
+1. Consignment fee: After confirming the sale,
+   1% of the selling price is paid.
+2. Trust money: when it is consigned, '1,000 {Gold/Gold}' is paid.
+3. Commission period: After 100 days of item sale registration,
+   the item will be automatically deleted from the list.
+4. Number of commission items: Maximum 30 items are allowed
+   for sale
+5. Trust money amount: can be set in the range of
+   1,000 - 50,000,000 {Gold/Gold}.
+ 
+Do you agree?
+<Leave/@exit> <返回/@main>
+
+[@help]
+#SAY
+以下是寄销中的“注意事项”. 
+1.寄售费：确认销售后，
+   支付售价的1%. 
+2.手续费：寄售时支付“1000 {Gold/Gold}”. 
+3.寄售期限：商品销售注册100天后，
+   该物品将自动从列表中删除. 
+4.寄售物品数量：最多允许30个物品待售
+5.售价：价格设置范围
+   1000 - 50 000 000  {Gold/Gold}. 
+<返回/@main>
+
+
+
+[@Market]
+#SAY
+
+
+[@Consignment]
+#SAY
+想卖什么?
