@@ -17,13 +17,13 @@ GOTO @Main-1
 我看到你正穿着: {<$WEAPON>/CORAL}
 
 <查看/@BuySell> 商店
-<修理/@Repair> Weapon.
+<修理/@Repair> 武器.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item 想要出售或购买?
+哪个物品想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -36,8 +36,8 @@ Which item 想要出售或购买?
 
 [@Repair]
 #SAY
-你是不是想修理 weapon?
-Show me the weapon that needs it.
+你是不是想修理 武器？
+给我看看需要的武器.
  
 <返回/@main>
 
@@ -81,7 +81,7 @@ GOTO @MAIN1-2
 
 [@MAIN1-1]
 #SAY
-你好 again traveler.. How are you on this fine day? 
+你好 again 游侠.. How are you on this fine day? 
  
 <关闭/@exit>
 
@@ -102,7 +102,7 @@ Maybe you could do something for me?
 #ACT
 SET [539] 1
 #SAY
-Farewell traveler.
+Farewell 游侠.
  
 <关闭/@exit>
 

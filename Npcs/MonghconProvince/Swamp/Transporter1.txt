@@ -10,14 +10,14 @@
 #SAY
 请回头，永远不要再来了. 
 
-<退出/@exit>
+<关闭/@exit>
 
 [@yes]
 #SAY
 你必须做好准备
 当你准备好时，请告诉我，我会带你去的. 
 
-<我准备好了/@transport> <我还没准备好/@exit>
+<我准备好了/@transport> <我还没准备好/@next>
 
 [@transport]
 #ACT

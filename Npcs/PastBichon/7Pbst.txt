@@ -11,10 +11,10 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 旅行者.我能帮你做什么?
+你好 游侠.我能帮你做什么?
  
 <查看/@BuySell> 商店 
-<想问/@Ask> about Item
+<想问/@Ask> 关于物品
  
 <关闭/@exit>
 
@@ -33,7 +33,7 @@ GOTO @Main-1
 
 [@Ask]
 #SAY
-我处理<蜡烛/candle>，<Dungeonescape/dungeonescape>、
+我处理<蜡烛/candle>，<Dungeonescape/Dungeonescape>、
 <随机传送卷/randomteleport>,<修复油/repairoil>与等等.
 我听说，有一些<Townteleport/townteleport>只来自于怪物.
 妖怪的.
@@ -47,7 +47,7 @@ GOTO @Main-1
  
 <返回/@Ask>
 
-[@dungeonescape]
+[@Dungeonescape]
 #SAY
 地牢传送卷轴是一张魔法纸，它能及时将你移动到
 到你最后访问的村庄附近的某些地方.

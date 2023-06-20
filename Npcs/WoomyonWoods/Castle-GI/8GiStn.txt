@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Traveller, I will purchase any Stones you have.
+大侠，我将购买你的任何对圣石
  
 <出售/@sell> Stones.
  
@@ -19,7 +19,7 @@ Traveller, I will purchase any Stones you have.
 
 [@Sell]
 #SAY
-Show me which Stones you wish to sell.
+让我看看你想卖的是哪块石头。
  
 <返回/@main>
 

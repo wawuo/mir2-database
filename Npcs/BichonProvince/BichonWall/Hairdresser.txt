@@ -22,7 +22,7 @@ What haircut would you like?
 <Blue Afro/@BlAfro>
 
 
-<退出/@exit>         <返回/@Main>
+<关闭/@exit>         <返回/@Main>
 
 [@Brown]
 #IF

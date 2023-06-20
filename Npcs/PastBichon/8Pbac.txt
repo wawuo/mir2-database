@@ -11,16 +11,16 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, 欢迎.我能为你做什么?
+欢迎, 欢迎.我能为你做什么?
  
 <查看/@BuySell> 商店
-<修理/@Repair> Jewellery.
+<修理/@Repair> 珠宝首饰.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item 想要出售或购买?
+哪个物品想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -33,7 +33,7 @@ Which item 想要出售或购买?
 
 [@Repair]
 #SAY
-You can repair various kinds of Jewellery.
+你可以修理各种珠宝。
   
 <返回/@main>
 

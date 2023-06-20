@@ -15,7 +15,7 @@ GOTO @next1
 [@done2]
 #SAY
 你已经完成了这个任务!
-<退出/@exit>
+<关闭/@exit>
 [@next1]
 #IF
 CHECK [501] 1
@@ -317,9 +317,9 @@ SET [501] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen SpittingSpider 1
-MonGen Oma 2
-MonGen RakingCat 2
+MonGen 喷射蜘蛛 1
+MonGen 半兽人 2
+MonGen 抓爪猫咪 2
 [@check1]
 #IF
 CHECKMON >= 1 em001
@@ -332,14 +332,14 @@ GOTO @say2
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say2]
 #SAY
 你已经把它们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start2>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start2]
 #ACT
 SET [501] 0
@@ -347,8 +347,8 @@ SET [502] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen CaveMaggot 1
-MonGen AxeSkeleton 1
+MonGen 洞穴蛆虫 1
+MonGen 斧头骷髅兵 1
 MonGen 骨头Warrior 1
 MonGen 骨头Fighter 3
 [@check2]
@@ -363,14 +363,14 @@ GOTO @say4
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say4]
 #SAY
 你已经把它们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start3>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start3]
 #ACT
 SET [502] 0
@@ -378,10 +378,10 @@ SET [503] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen 诅咒dShaman 1
+MonGen 被诅咒的萨满祭司 1
 MonGen 被诅咒的祭司 1
-MonGen ShamanZombie 1
-MonGen CrawlerZombie 2
+MonGen 萨满僵尸 1
+MonGen 爬行僵尸 2
 [@check3]
 #IF
 CHECKMON >= 1 em001
@@ -394,14 +394,14 @@ GOTO @say6
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say6]
 #SAY
 你已经把它们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start4>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start4]
 #ACT
 SET [503] 0
@@ -409,9 +409,9 @@ SET [504] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen SandWorm 3
-MonGen OmaFighter 2
-MonGen OmaWarrior 1
+MonGen 沙虫 3
+MonGen 半兽人战士 2
+MonGen 半兽人勇士 1
 [@check4]
 #IF
 CHECKMON >= 1 em001
@@ -424,14 +424,14 @@ GOTO @say8
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say8]
 #SAY
 你已经把他们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start5>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start5]
 #ACT
 SET [504] 0
@@ -439,10 +439,10 @@ SET [505] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen Dung 1
-MonGen Dark 1
-MonGen FlamingWooma 2
-MonGen WoomaFighter 2
+MonGen 粪便 1
+MonGen 暗之 1
+MonGen 火焰沃玛 2
+MonGen 沃玛战士 2
 [@check5]
 #IF
 CHECKMON >= 1 em001
@@ -455,14 +455,14 @@ GOTO @say10
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say10]
 #SAY
 你已经把他们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start6>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start6]
 #ACT
 SET [505] 0
@@ -470,9 +470,9 @@ SET [506] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen GiantWorm 2
-MonGen Centipede 2
-MonGen Tongs 2
+MonGen 巨型蠕虫 2
+MonGen 蜈蚣 2
+MonGen 钳子 2
 [@check6]
 #IF
 CHECKMON >= 1 em001
@@ -485,14 +485,14 @@ GOTO @say12
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say12]
 #SAY
 你已经把他们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start7>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start7]
 #ACT
 SET [506] 0
@@ -500,9 +500,9 @@ SET [507] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen WedgeMoth 2
-MonGen RedBoar 1
-MonGen BlackBoar 2
+MonGen 楔形飞蛾 2
+MonGen 红野猪 1
+MonGen 黑野猪 2
 [@check7]
 #IF
 CHECKMON >= 1 em001
@@ -515,14 +515,14 @@ GOTO @say14
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say14]
 #SAY
 你已经把他们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start8>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start8]
 #ACT
 SET [507] 0
@@ -530,10 +530,10 @@ SET [508] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen SpiderBat 1
-MonGen GreatSpider 1
-MonGen LureSpider 1
-MonGen VenomSpider 2
+MonGen 蜘蛛蝙蝠 1
+MonGen 大蜘蛛 1
+MonGen 诱惑蜘蛛 1
+MonGen 毒蜘蛛 2
 [@check8]
 #IF
 CHECKMON >= 1 em001
@@ -546,14 +546,14 @@ GOTO @say16
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say16]
 #SAY
 你已经把他们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start9>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start9]
 #ACT
 SET [508] 0
@@ -561,9 +561,9 @@ SET [509] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen BigApe 1
-MonGen EvilApe 1
-MonGen RedEvilApe 1
+MonGen 大猿 1
+MonGen 邪猿 1
+MonGen 红猿 1
 [@check9]
 #IF
 CHECKMON >= 1 em001
@@ -576,14 +576,14 @@ GOTO @say18
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say18]
 #SAY
 你已经把他们都打败了.
 但还有更多的人要走.
 你会继续挑战吗？
 <继续./@start10>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start10]
 #ACT
 SET [509] 0
@@ -591,9 +591,9 @@ SET [510] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen BoneArcher 1
-MonGen BoneBlademan 1
-MonGen BoneCaptain 1
+MonGen 骨魔弓箭手 1
+MonGen 骨魔刀客 1
+MonGen 骨魔队长 1
 [@check10]
 #IF
 CHECKMON >= 1 em001
@@ -606,14 +606,14 @@ GOTO @say20
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say20]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start11>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start11]
 #ACT
 SET [510] 0
@@ -621,9 +621,9 @@ SET [511] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen LeftGuard 1
-MonGen WindMinotaur 1
-MonGen FireMinotaur 2
+MonGen 牛魔战士 1
+MonGen 牛魔祭祀 1
+MonGen 牛魔将军 2
 [@check11]
 #IF
 CHECKMON >= 1 em001
@@ -636,14 +636,14 @@ GOTO @say22
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say22]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start12>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start12]
 #ACT
 SET [511] 0
@@ -651,9 +651,9 @@ SET [512] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen RightGuard 1
-MonGen FireMinotaur 1
-MonGen EvilApe 1
+MonGen 牛魔斗士 1
+MonGen 牛魔将军 1
+MonGen 邪猿 1
 [@check12]
 #IF
 CHECKMON >= 1 em001
@@ -666,14 +666,14 @@ GOTO @say24
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say24]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start13>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start13]
 #ACT
 SET [512] 0
@@ -681,7 +681,7 @@ SET [513] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen ZumaStatue 1
+MonGen 祖玛雕像 1
 [@check13]
 #IF
 CHECKMON >= 1 em001
@@ -694,14 +694,14 @@ GOTO @say26
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say26]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start14>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start14]
 #ACT
 SET [513] 0
@@ -709,9 +709,9 @@ SET [514] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen WedgeMoth 1
-MonGen RightGuard 1
-MonGen ZumaGuardian 1
+MonGen 楔形飞蛾 1
+MonGen 牛魔斗士 1
+MonGen 祖玛守卫 1
 [@check14]
 #IF
 CHECKMON >= 1 em001
@@ -724,14 +724,14 @@ GOTO @say28
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say28]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start15>
-<我已经受够了.让我来o./@oldman>
+<我搞烦了.让我来o./@oldman>
 [@start15]
 #ACT
 SET [514] 0
@@ -739,7 +739,7 @@ SET [515] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen AxeOma 1
+MonGen 斧头半兽人 1
 [@check15]
 #IF
 CHECKMON >= 1 em001
@@ -752,14 +752,14 @@ GOTO @say30
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好吧./@exit>
+<好吧./@next>
 [@say30]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start16>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start16]
 #ACT
 SET [515] 0
@@ -767,7 +767,7 @@ SET [516] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen OmaGuard 1
+MonGen 半兽守卫 1
 [@check16]
 #IF
 CHECKMON >= 1 em001
@@ -780,14 +780,14 @@ GOTO @say32
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say32]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start17>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start17]
 #ACT
 SET [516] 0
@@ -795,7 +795,7 @@ SET [517] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen FlailOma 1
+MonGen 链半兽人 1
 [@check17]
 #IF
 CHECKMON >= 1 em001
@@ -808,14 +808,14 @@ GOTO @say34
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say34]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start18>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start18]
 #ACT
 SET [517] 0
@@ -823,7 +823,7 @@ SET [518] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen WoomaGuardian 1
+MonGen 沃玛守卫 1
 [@check18]
 #IF
 CHECKMON >= 1 em001
@@ -836,14 +836,14 @@ GOTO @say36
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say36]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start19>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start19]
 #ACT
 SET [518] 0
@@ -851,7 +851,7 @@ SET [519] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen Woomataurus 1
+MonGen 沃玛教主 1
 [@check19]
 #IF
 CHECKMON >= 1 em001
@@ -864,14 +864,14 @@ GOTO @say38
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say38]
 #SAY
 你已经把他们都打败了.
 但仍有更多的人要去.
 你会继续挑战吗？
 <继续./@start20>
-<我已经受够了.让我走吧./@oldman>
+<我搞烦了.让我走吧./@oldman>
 [@start20]
 #ACT
 SET [519] 0
@@ -879,7 +879,7 @@ SET [520] 1
 Param1 EM001
 Param2 13
 Param3 16
-MonGen EvilSnake 1
+MonGen 邪恶蛇 1
 [@check20]
 #IF
 CHECKMON >= 1 em001
@@ -892,7 +892,7 @@ GOTO @say40
 你还没有打败他们.
 在干掉这些怪物之前、
 你不能进入下一个阶段.
-<好的./@exit>
+<好的./@next>
 [@say40]
 #SAY
 哇，你把他们都打败了！!

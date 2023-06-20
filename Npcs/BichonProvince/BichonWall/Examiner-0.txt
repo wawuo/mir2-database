@@ -17,7 +17,7 @@ Bichon Token.
 If you would like a Bichon Token you can purchase one from me.
 <Buy Bichon Token/@Buy>
 <想问 about Bichon Token/@Ask>
-<关闭/@Exit>
+<关闭/@exit>
 
 [@Ask]
 #SAY
@@ -28,7 +28,7 @@ many investigators. If you'd like to see this place too, you should go
 ask their leader.
 Also you will need the Bichon Token to go thought the cave.
 <Buy Bichon Token/@Buy>
-<Will get next time/@Exit>
+<Will get next time/@next>
 
 
 [@Buy]

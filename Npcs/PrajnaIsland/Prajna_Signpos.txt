@@ -1,12 +1,12 @@
 [@main]
 #SAY
 
-<Use./@main-1> teleport to the village stores
+<传送./@main-1>到村庄的商店
 
 [@main-1]
 #SAY
 <武器店/@weap>   <盔甲店/@cloth>
-<Reagent store/@pot>   <首饰店/@jewel>
+<试剂商店/@pot>   <首饰店/@jewel>
 <Village Chief House/@chief>  
 
 [@jewel]

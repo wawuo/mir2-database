@@ -36,7 +36,7 @@ GOTO @Main-1
    1,000 - 50,000,000 {Gold/Gold}.
  
 Do you agree?
-<Leave/@exit> <返回/@main>
+<Leave/@next> <返回/@main>
 
 [@help]
 #SAY

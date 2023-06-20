@@ -12,20 +12,18 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 你好 there <$USERNAME>,
-I'm currently on the look out for many types of materials
+我目前正在寻找许多类型的材料，
+你知道材料可以制作许多奇妙的物品吗？
+我的出价很高的。如果你想东西，
+请来给我看看。
  
-Did you know material's can make many wonderful items
-which can help on your travels?
-I pay well.. if ever wish to sell anything come back
-and ill take alook.
- 
-<出售/@Sell> Materials.
+<出售/@Sell> 材料。
  
 <关闭/@exit>
 
 [@Sell]
 #SAY
-Show me the Material's..
+给我看材料的。
 
 [Types]
 16

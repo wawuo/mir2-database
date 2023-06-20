@@ -4,7 +4,7 @@
  
 <修理/@Repair> 衣服
  
-<关闭/@Exit>
+<关闭/@exit>
 
 
 [@Repair]

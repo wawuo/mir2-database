@@ -13,7 +13,7 @@ GOTO @Main-1
 #SAY
 想购买什么样的药品?
  
-<交易/@Buy> Poison.
+<交易/@Buy> 毒剂
  
 <关闭/@exit>
 

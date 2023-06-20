@@ -5,7 +5,7 @@
 CHECK [536] 1
 #SAY
 一块带有古代符号的神秘石头.
- "<古代人的地宫/@omacavea>" {Level10~60./KHAKI}
+ "<古代人的地宫/@半兽人cavea>" {Level10~60./KHAKI}
  
 <关闭/@exit>
 #ELSEACT
@@ -21,7 +21,7 @@ SET [536] 1
   
 <关闭/@exit>
 
-[@omacavea]
+[@半兽人cavea]
 #IF
 LEVEL > 9 
 LEVEL < 60

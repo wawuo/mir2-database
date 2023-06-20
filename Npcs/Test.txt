@@ -2,7 +2,7 @@
 #SAY
 你好 {<$USERNAME>/KHAKI}, Want a boost?
 
-<对极了/@Yes> <不要/@Exit>
+<对极了/@Yes> <不要/@next>
 
 [@YES]
 #IF
@@ -81,7 +81,7 @@ GIVEITEM 洛托斯之杖 1
 #ACT
 GIVESKILL Fireball 3
 GIVESKILL Repulse 3
-GIVESKILL 电击 3
+GIVESKILL诱惑之光 3
 GIVESKILL GreatFireball 3
 GIVESKILL 地狱之火 3
 GIVESKILL Thunderbolt 3

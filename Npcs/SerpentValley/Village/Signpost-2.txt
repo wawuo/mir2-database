@@ -6,9 +6,9 @@
 I will guide you to the desired 商店
 Where shall I teleport you?
 
-<武器店/@Weapon>   <Reagent store/@reagent>
+<武器店/@Weapon>   <试剂商店/@reagent>
 
-I will be back <later/@Exit>
+<我下次再来吧 /@exit>
 
 [@reagent]
 #ACT

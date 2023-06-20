@@ -3,7 +3,7 @@ What brought you in this dangerous place?
 I wonder if you can get out of here easily...
 
 <Talk with/@talkwith_1>
-<Leave/@Exit>
+<Leave/@next>
 
 
 [@talkwith_1]
@@ -32,11 +32,11 @@ I never been there, but you need a certificate to go there
 If you got a certificate, you can try.
 
 <Try/@talkwith_3>
-<取消/@Exit>
+<取消/@next>
 
 [@talkwith_3]
 #SAY
-Hey you... I'll let you get into the dungeon
+Hey you... I'll let you get into the Dungeon
 You will be right here after 3 hours.. Take care of yourself
 
 <Get in/@talkwith_4>
@@ -46,16 +46,16 @@ You will be right here after 3 hours.. Take care of yourself
 I want to show you the way, but I'm exhausted
 I can't help you... Just wait a little while..
 
-<关闭/@Exit>
+<关闭/@exit>
 
 #ELSEACT
 MOVE M001
 
 [@untalkwith]
 #SAY
-Have you ever heard about the unknown dungeon?
+Have you ever heard about the unknown Dungeon?
 I can't explain more..
-but the time to get into dungeon is at weekend evening
+but the time to get into Dungeon is at weekend evening
 If you came to me again at this time
 I can take you there
 see you then...

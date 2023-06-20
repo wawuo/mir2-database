@@ -38,7 +38,7 @@ Move 5 124 353
 你没有足够的 {Gold/Gold} 来使用我的服务!
 消失吧，不要再浪费我的时间了!!
 
-<退出/@exit>
+<关闭/@exit>
 
 [@brdmove1]
 #IF
@@ -50,4 +50,4 @@ MOVE WHITEVILLAGE 67 93
 你没有足够的 {Gold/Gold} 来使用我的服务!
 消失吧，不要再浪费我的时间了!!!
 
-<退出/@exit>
+<关闭/@exit>

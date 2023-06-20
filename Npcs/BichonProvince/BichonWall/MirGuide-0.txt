@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome to the Mir world.
+欢迎 to the Mir world.
 It's my job to guide newbies.
 Anything I can help with?
 
@@ -45,7 +45,7 @@ Please refer to the whole map by pressing B.
 
 [@lvl1-3]
 #SAY
-If you wish for a safe hunt, try Hen, Deer, 与 Sheep near town.
+If you wish for a safe hunt, try Hen, 鹿, 与 绵羊 near town.
 They do not attack until you hit them.
 In fact, you can get some fresh <meat/@slicemeat> 与 by trading it with a 
 butcher in any town, you can earn money in return.
@@ -54,10 +54,10 @@ butcher in any town, you can earn money in return.
 
 [@slicemeat]
 #SAY
-Slice meat: Getting 肉类 from domestic animal such as chicken, Deer.
+Slice meat: Getting 肉类 from domestic animal such as 小鸡en, 鹿.
 Click at dead a body of those (Alt+left click) 与 acquire meat after slicing action.
 
-Mining: Equip 镐头 to mine. Left click will automatically of mining.
+Mining: Equip 镐头 to mine. Left click will aut半兽人tically of mining.
 Those acquired minerals will be used as raw material for
 crafting items or for selling.
 
@@ -67,33 +67,33 @@ crafting items or for selling.
 #SAY
 Medicinal 材料: You can acquire some medicinal 材料 from dead body of
 some monsters when taken such slicing meat action.
-( SpittingSpider, CannibalPlant, CaveMaggot )
+( 喷射蜘蛛, 食人植物, 洞穴蛆虫 )
 
 Item: You can acquire some item from dead body of some
 monsters when taken such slicing meat action.
-( SpiderBat, ToxicGhoul, Dung, etc )
+( 蜘蛛蝙蝠, 毒食尸鬼, 粪便, etc )
 
 <返回/@basic>                <Go to Main/@main>
 
 [@lvl3-7]
 #SAY
-Once you go far away from town, hunt HookingCat, RakingCat, Yob, Wolf,
-ShellNipper, Keratoid 与 etc.
+Once you go far away from town, hunt 钩爪猫咪, 抓爪猫咪, 流氓青年, 狼,
+壳夹子, 角质虫 与 etc.
 
 <返回/@level1-11>            <Go to Main/@main>
 
 [@lvl7-11]
 #SAY
 You can learn a special skill from Level 7.
-The combat abillity will be increased, so try Oma, ForestYeti, CannibalPlant,
-VisceralWorm, SpittingSpider 与 etc at this time.
+The combat abillity will be increased, so try 半兽人, 森林雪人, 食人植物,
+内脏虫, 喷射蜘蛛 与 etc at this time.
 But be specially aware of poison from Spitting Spider.
 
 <返回/@level1-11>              <Go to Main/@main>
 
 [@level11-21]
 #SAY
-Go to dungeon from Level 11. It is a dark place where 蜡烛
+Go to Dungeon from Level 11. It is a 暗之 place where 蜡烛
 and 传送门 Scroll are considered as essential items.
 Moreover, be ready with enough potions since it is located
 far away from town.
@@ -104,8 +104,8 @@ far away from town.
 
 [@lvl11-14]
 #SAY
-If you wish for a safe hunt, try RedSnake,
-TigerSnake, 与 in 蛇谷 与 OmaFighter.
+If you wish for a safe hunt, try 红蛇,
+虎蛇, 与 in 蛇谷 与 半兽人战士.
 If you are a Wizard who learned Hellfire skill,
 raft driving is most recommended.
 
@@ -113,12 +113,12 @@ raft driving is most recommended.
 
 [@lvl14-17]
 #SAY
-If you wish for higher exp cave. Go OmaCave northwest
-of Bichon-province. This is the first dungeon in Mir world where CaveBat,
-CaveMaggot, 与 Skeletons appear.
+If you wish for higher exp cave. Go 半兽人Cave northwest
+of Bichon-province. This is the first Dungeon in Mir world where 洞穴蝙蝠,
+洞穴蛆虫, 与 骷髅兵s appear.
 Bring 蜡烛s, Town 传送s 与 enough potions.
 It is located far away from town.
-But be specially aware of the poison from CaveMaggots. You may be paralyzed.
+But be specially aware of the poison from 洞穴蛆虫s. You may be paralyzed.
 
 <返回/@level11-21>                 <Go to Main/@main>
 
@@ -126,7 +126,7 @@ But be specially aware of the poison from CaveMaggots. You may be paralyzed.
 #SAY
 Go to Dead Mine at the west of Bichon-Province or InsectCave at the
 southwest of WoomyonWoods.
-This place may give you a difficult time because dead Zombies will keep
+This place may give you a difficult time because dead 僵尸s will keep
 reviving for a few times.
 A Wizard's Thunderbolt is very effective in this place.
 
@@ -134,7 +134,7 @@ A Wizard's Thunderbolt is very effective in this place.
 
 [@level21-30]
 #SAY
-It is recommended to go DeathValley, WoomaTemple,
+It is recommended to go DeathValley, Wo半兽人Temple,
 MineralMine at the first half of Level 20.
 And go AngledStoneTomb or Treepath at Level 30 to 35.
 Unstoppable tense atmosphere during the battle will be given.
@@ -242,9 +242,9 @@ Taoist skill page 1:
 Only Taoists can use tallisman or poison as one of the skills.
 
 <疗伤 7/@healing>     <召唤骷髅 19/@summonskel>     <启示 23/@rev>
-<精神之剑 9/@ssword>     <躲藏 20/@hiding>     <受祝福的盔甲 25/@blessarm>
-<中毒 14/@poison>     <大规模躲藏 21/@masshide>     <能量反击器 27/@energyrep>
-<灵魂火球 18/@sfb>   <灵魂盾牌 22/@soulshield>   <陷阱六边形 28/@陷阱hex>
+<精神之剑 9/@ssword>     <隐身术 20/@hiding>     <受祝福的盔甲 25/@blessarm>
+<中毒 14/@poison>     <大规模隐身术 21/@masshide>     <能量反击器 27/@energyrep>
+<灵魂火符 18/@sfb>   <灵魂盾牌 22/@soulshield>   <陷阱六边形 28/@陷阱hex>
 
 <返回/@combat>                         <Go to Next/@taoskill2>
 
@@ -668,7 +668,7 @@ MP 与 Poison will be consumed.
 
 [@sfb]
 #SAY
-灵魂火球 (Level 18)
+灵魂火符 (Level 18)
 
 Executes long-distance attacks like a wizards fireball skill,
 by hurling an amulet.
@@ -688,9 +688,9 @@ MP 与 amulet will be consumed.
 
 [@hiding]
 #SAY
-躲藏 (Level 20)
+隐身术 (Level 20)
 
-Makes invisible to mobs by hiding traces. 躲藏 will allow player not to be
+Makes invisible to mobs by hiding traces. 隐身术 will allow player not to be
 seen if unless do not move or attack after exercising this skill.
 It's a useful skill to make any situation 1 on 1, as you can hide 与 use a
 distance attack 与 only attacked mobs will approach you.
@@ -699,7 +699,7 @@ distance attack 与 only attacked mobs will approach you.
 
 [@masshide]
 #SAY
-大规模躲藏 (Level 21)
+大规模隐身术 (Level 21)
 
 Upgrade version of hiding skill which also affect other players to be invisible.
 Max. 9 people can be invisible if all are in 3x3 square area.
@@ -764,7 +764,7 @@ MP 与 amulet will be consumed.
 #SAY
 净化 (Level 30)
 
-Purifies poisoned or corrupted body by dark foce.
+Purifies poisoned or corrupted body by 暗之 foce.
 MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
@@ -810,7 +810,7 @@ MP 与 amulet will be consumed.
 #SAY
 召唤圣德瓦 (Level 38)
 
-Summons a HolyDeva.
+Summons a 圣天使.
 MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <Go to Main/@main>
@@ -841,7 +841,7 @@ Success rate depends on the skill level. It requires an 护身符 of Revival.
 Throw the amulet 与 a very strong poison cloud will appear in the area.
 This requires high concentration of Taoism 与 mentality.
 Once the skill has been used, you will have to wait to use it again.
-It requires Grey Poison.
+It requires Grey 毒剂
 
 <返回/@taoskill>                     <Go to Main/@main>
 
@@ -1061,7 +1061,7 @@ that will be disposed 与 click ground.
 <Special structure/@37894>
 *Palace  *Competing room
 <Special NPC/@37682>
-*CraftLady  *SignPost  *Coordinate  *Guard
+*CraftLady  *SignPost  *Coordinate  *守卫
 
 <返回/@basic>                               <Go to Main/@main>
 

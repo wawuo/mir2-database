@@ -1,5 +1,5 @@
 [@MAIN]
 #SAY
-<$USERNAME>, I'm The Watcher of this aweful place.
-The howling coming from within this Cave sends shivers 
-down my spine.
+<$USERNAME>, 我是这个可怕地方的守望者。
+从这个山洞里传出的嚎叫声让我不寒而栗 
+我的脊梁骨。

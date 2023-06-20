@@ -29,7 +29,7 @@ CHECKQUEST 155 1
 #ACT
 SET [539] 1
 #SAY
-Farewell traveler.
+Farewell 游侠.
  
 <关闭/@exit>
 

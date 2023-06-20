@@ -1,10 +1,10 @@
 [@main]
 #SAY
- Have you heard of the legends of Ice Hell?
-I can allow you through the gate but only if
-you're brave enough.
+你听说过冰狱的传说吗？
+我可以让你通过这道门，但前提是
+你有足够的勇气。
 
-<Take me in/@Go>  <No thankyou/@Exit>
+<让我进去/@Go>  <我不/@next>
 
 [@Go]
 #ACT

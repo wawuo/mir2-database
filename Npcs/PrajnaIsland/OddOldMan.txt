@@ -25,7 +25,7 @@ GOTO @Main-1
 #say
 20000金币一件...你想要吗？
 <是/@buystonenow>
-<不，太贵了/@exit>
+<不，太贵了/@next>
 
 [@buystonenow]
 #IF

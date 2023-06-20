@@ -1,23 +1,23 @@
 [@main]
 #SAY
- The boat goes many places. The boat will depart soon
- Passengers, Please board the ship.
+ 这艘船会去很多地方。船即将启程
+ 乘客们，请登船。
  
- <To Bichon Province/@wvmove> Pay 10,000 {Gold/Gold} 与 Board.
- <To 般若岛/@wvmove1> Pay 12,000 {Gold/Gold} 与 Board.
- <Talk/@talk> about each frontiers.
+ <去 过去的比奇/@wvmove> 费用 10,000 {Gold/Gold} 可以上来.
+ <去 般若岛/@wvmove1> 费用 12,000 {Gold/Gold} 可以上来.
+ <各地问题/@talk> 
  
 [@talk]
 #SAY
- Which frontier do you want to talk about?
+你想谈哪一个地方？
 
  <般若岛/@talkPI> 
  <返回/@main>
 
 [@talkPI]
- 般若岛 is full of rampaging monsters.
- Some braves may take this opportunity to boost 与 raise
- their reputation 与 fame but for the locals,it ain't nothing but just hell.
+ 般若岛到处都是横行霸道的怪物。
+ 一些勇敢的人可能会借此机会提高与提高他们的声誉与名声。
+ 他们的声誉与名声，但对当地人来说，这不是什么，只是地狱而已。
 
  <返回/@talk>
 
@@ -30,10 +30,10 @@ TAKEGOLD 10000
 MOVE 0 253 673
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{Gold/Gold}来使用我的服务!
+消失吧，不要再浪费我的时间了!
  
-<退出/@exit>
+<关闭/@exit>
 
 [@wvmove1]
 #IF
@@ -43,7 +43,7 @@ TAKEGOLD 12000
 Move 5 124 353
 break
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{Gold/Gold}来使用我的服务!
+消失吧，不要再浪费我的时间了!
  
-<退出/@exit>
+<关闭/@exit>

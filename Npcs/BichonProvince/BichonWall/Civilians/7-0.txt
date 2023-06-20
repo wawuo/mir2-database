@@ -18,7 +18,7 @@ GOTO @MAIN-3
 #ACT
 SET [539] 0
 #SAY
-Ah your the traveler.. Ive been hearing about.
+Ah your the 游侠.. Ive been hearing about.
 Well I refuse to tell anyone about the Emperor!
  
 <Close/exit>
@@ -27,7 +27,7 @@ Well I refuse to tell anyone about the Emperor!
 #ACT
 SET [541] 0
 #SAY
-Ah your the traveler.. Ive been hearing about.
+Ah your the 游侠.. Ive been hearing about.
 Well I refuse to tell anyone about the Emperor!
  
 <Close/exit>

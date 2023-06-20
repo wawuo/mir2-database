@@ -9,7 +9,7 @@ What function would you like me to perform today <$DATE>
 <Kill my Pets/@KillPets> , <Open my Storage/@STORAGE> , <Reset Quest Flags/@ResetQuestFlags>
 <Rebirth 监牢/@RebirthPanel> , <Event Management Page/@EventManagement>
  
-<退出/@Exit>
+<关闭/@exit>
 #ELSEACT
 MOVE 0 300 300
 
@@ -56,7 +56,7 @@ Trust me, I'm looking after your 材料.
  
  
  
-Menu: <Main Menu/@Main> - <退出/@Exit>
+Menu: <主菜单/@Main> - <关闭/@exit>
 
 
 [@ResetQuestFlags]
@@ -93,13 +93,13 @@ Sabuk Wall Management Panel
 
 <Start War/End War/@StartWar>             <Statistics/@SWStatistics>
 <传送 to InnerWall/@InnerWall>
-<Guard Check/@Guards>
+<守卫 Check/@守卫s>
 <Gate/Wall Check/@Gates>
 <Repair All/@SWReset>
 
 Current Owner of SabukWall is: <$CONQUESTOWNER(1)>
 
-<返回/@EventManagement>     <退出/@Exit>
+<返回/@EventManagement>     <关闭/@exit>
 
 [@StartWar]
 #ACT
@@ -109,25 +109,25 @@ STARTCONQUEST 1
 #ACT
 MOVE 0150 12 15
 
-[@Guards]
+[@守卫s]
 #SAY
 
 <Revive All/@RepairAll>
 
-<$CONQUESTGUARD(1,1)>   <修理/@Guard1>
-<$CONQUESTGUARD(1,2)>   <修理/@Guard2>
-<$CONQUESTGUARD(1,3)>   <修理/@Guard3>
-<$CONQUESTGUARD(1,4)>   <修理/@Guard4>
-<$CONQUESTGUARD(1,5)>   <修理/@Guard5>
-<$CONQUESTGUARD(1,6)>   <修理/@Guard6>
-<$CONQUESTGUARD(1,7)>   <修理/@Guard7>
-<$CONQUESTGUARD(1,8)>   <修理/@Guard8>
-<$CONQUESTGUARD(1,9)>   <修理/@Guard9>
-<$CONQUESTGUARD(1,10)>   <修理/@Guard10>
-<$CONQUESTGUARD(1,11)>   <修理/@Guard11>
-<$CONQUESTGUARD(1,12)>   <修理/@Guard12>
+<$CONQUEST守卫(1,1)>   <修理/@守卫1>
+<$CONQUEST守卫(1,2)>   <修理/@守卫2>
+<$CONQUEST守卫(1,3)>   <修理/@守卫3>
+<$CONQUEST守卫(1,4)>   <修理/@守卫4>
+<$CONQUEST守卫(1,5)>   <修理/@守卫5>
+<$CONQUEST守卫(1,6)>   <修理/@守卫6>
+<$CONQUEST守卫(1,7)>   <修理/@守卫7>
+<$CONQUEST守卫(1,8)>   <修理/@守卫8>
+<$CONQUEST守卫(1,9)>   <修理/@守卫9>
+<$CONQUEST守卫(1,10)>   <修理/@守卫10>
+<$CONQUEST守卫(1,11)>   <修理/@守卫11>
+<$CONQUEST守卫(1,12)>   <修理/@守卫12>
 
-<返回/@Sabuk>     <退出/@Exit>
+<返回/@Sabuk>     <关闭/@exit>
 
 [@Gates]
 #SAY
@@ -142,7 +142,7 @@ Walls 与 Gates
 
 <Open Gate/@OpenGate> <Close Gate/@CloseGate>
 
-<返回/@Sabuk>     <退出/@Exit>
+<返回/@Sabuk>     <关闭/@exit>
 
 [@OpenGate]
 #ACT
@@ -183,84 +183,84 @@ LocalMessage "Gate Repaired." Hint
 
 [@RepairAll]
 #ACT
-CONQUESTGUARD 1 1
-CONQUESTGUARD 1 2
-CONQUESTGUARD 1 3
-CONQUESTGUARD 1 4
-CONQUESTGUARD 1 5
-CONQUESTGUARD 1 6
-CONQUESTGUARD 1 7
-CONQUESTGUARD 1 8
-CONQUESTGUARD 1 9
-CONQUESTGUARD 1 10
-CONQUESTGUARD 1 11
-CONQUESTGUARD 1 12
-LocalMessage "All Guards Revived." Hint
+CONQUEST守卫 1 1
+CONQUEST守卫 1 2
+CONQUEST守卫 1 3
+CONQUEST守卫 1 4
+CONQUEST守卫 1 5
+CONQUEST守卫 1 6
+CONQUEST守卫 1 7
+CONQUEST守卫 1 8
+CONQUEST守卫 1 9
+CONQUEST守卫 1 10
+CONQUEST守卫 1 11
+CONQUEST守卫 1 12
+LocalMessage "All 守卫s Revived." Hint
 
-[@Guard1]
+[@守卫1]
 #ACT
-CONQUESTGUARD 1 1
-LocalMessage "Guard 1 Revived." Hint
+CONQUEST守卫 1 1
+LocalMessage "守卫 1 Revived." Hint
 
-[@Guard2]
+[@守卫2]
 #ACT
-CONQUESTGUARD 1 2
-LocalMessage "Guard 2 Revived." Hint
+CONQUEST守卫 1 2
+LocalMessage "守卫 2 Revived." Hint
 
-[@Guard3]
+[@守卫3]
 #ACT
-CONQUESTGUARD 1 3
-LocalMessage "Guard 3 Revived." Hint
+CONQUEST守卫 1 3
+LocalMessage "守卫 3 Revived." Hint
 
-[@Guard4]
+[@守卫4]
 #ACT
-CONQUESTGUARD 1 4
-LocalMessage "Guard 4 Revived." Hint
+CONQUEST守卫 1 4
+LocalMessage "守卫 4 Revived." Hint
 
-[@Guard5]
+[@守卫5]
 #ACT
-CONQUESTGUARD 1 5
-LocalMessage "Guard 5 Revived." Hint
+CONQUEST守卫 1 5
+LocalMessage "守卫 5 Revived." Hint
 
-[@Guard6]
+[@守卫6]
 #ACT
-CONQUESTGUARD 1 6
-LocalMessage "Guard 6 Revived." Hint
+CONQUEST守卫 1 6
+LocalMessage "守卫 6 Revived." Hint
 
-[@Guard7]
+[@守卫7]
 #ACT
-CONQUESTGUARD 1 7
-LocalMessage "Guard 7 Revived." Hint
+CONQUEST守卫 1 7
+LocalMessage "守卫 7 Revived." Hint
 
-[@Guard8]
+[@守卫8]
 #ACT
-CONQUESTGUARD 1 8
-LocalMessage "Guard 8 Revived." Hint
+CONQUEST守卫 1 8
+LocalMessage "守卫 8 Revived." Hint
 
-[@Guard9]
+[@守卫9]
 #ACT
-CONQUESTGUARD 1 9
-LocalMessage "Guard 9 Revived." Hint
+CONQUEST守卫 1 9
+LocalMessage "守卫 9 Revived." Hint
 
-[@Guard10]
+[@守卫10]
 #ACT
-CONQUESTGUARD 1 10
-LocalMessage "Guard 10 Revived." Hint
+CONQUEST守卫 1 10
+LocalMessage "守卫 10 Revived." Hint
 
-[@Guard11]
+[@守卫11]
 #ACT
-CONQUESTGUARD 1 11
-LocalMessage "Guard 11 Revived." Hint
+CONQUEST守卫 1 11
+LocalMessage "守卫 11 Revived." Hint
 
-[@Guard12]
+[@守卫12]
 #ACT
-CONQUESTGUARD 1 12
-LocalMessage "Guard 12 Revived." Hint
+CONQUEST守卫 1 12
+LocalMessage "守卫 12 Revived." Hint
 
 [@SWReset]
 #ACT
 CONQUESTREPAIRALL 1
-LocalMessage "SabukWall Walls/Gate/Guards Repaired/Revived" Hint
+LocalMessage "SabukWall Walls/Gate/守卫s Repaired/Revived" Hint
 
 [@SWStatistics]
 #SAY
@@ -271,7 +271,7 @@ Conquest Gold Stored: <$CONQUESTGOLD(1)>
 Conquest Intrest Rate: <$CONQUESTRATE(1)>
 Next Conquest Date: <$CONQUESTSCHEDULE(1)>
  
-<返回/@Sabuk>     <退出/@Exit>
+<返回/@Sabuk>     <关闭/@exit>
 
 [@Hero]
 #SAY
@@ -325,28 +325,28 @@ Apply Rebirth          Delete Rebirth             Check Rebirth
 SET [993] 1
 #SAY
 Rebirth 1 granted.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB2]
 #ACT
 SET [994] 1
 #SAY
 Rebirth 2 granted.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB3]
 #ACT
 SET [995] 1
 #SAY
 Rebirth 3 granted.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RBMAINADD]
 #ACT
 SET [1000] 1
 #SAY
 Main Rebirth Flag granted.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB123]
 #ACT
@@ -356,28 +356,28 @@ SET [995] 1
 SET [1000] 1
 #SAY
 All rebirth flags applied.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB1DEL]
 #ACT
 SET [993] 0
 #SAY
 Rebirth 1 cleared.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB2DEL]
 #ACT
 SET [994] 0
 #SAY
 Rebirth 2 cleared.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB3DEL]
 #ACT
 SET [995] 0
 #SAY
 Rebirth 3 cleared.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@DEL123]
 #ACT
@@ -387,51 +387,51 @@ SET [995] 0
 SET [1000] 0
 #SAY
 All rebirth flags cleared.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RBMAINDEL]
 #ACT
 SET [1000] 0
 #SAY
 Main Rebirth cleared.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RBMAIN]
 #IF
 CHECK [1000] 1
 #SAY
 You currently have Main Rebirth Effect.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 #ELSESAY
 You do not have Main Rebirth Effect.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB1CHK]
 #IF
 CHECK [993] 1
 #SAY
 You currently have Rebirth 1.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 #ELSESAY
 You do not have Rebirth 1.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB2CHK]
 #IF
 CHECK [994] 1
 #SAY
 You currently have Rebirth 2.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 #ELSESAY
 You do not have Rebirth 2.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 
 [@RB3CHK]
 #IF
 CHECK [995] 1
 #SAY
 You currently have Rebirth 3.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>
 #ELSESAY
 You do not have Rebirth 3.
-<返回/@RebirthPanel>    <退出/@Exit>
+<返回/@RebirthPanel>    <关闭/@exit>

@@ -33,7 +33,7 @@ GoldOre
 黑铁矿
 Amethyst
 Ruby
-Platinum
+铂金
 Nephrite
 AdamintineOre
 EmeraldOre

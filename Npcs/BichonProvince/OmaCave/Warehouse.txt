@@ -1,8 +1,8 @@
 [@MAIN]
 #SAY
-你好 旅行者 有什么事?
+你好 游侠 有什么事?
  
-<存取/@Storage> Storage
+<存取/@Storage> 仓库
 
 <关闭/@exit>
 

@@ -12,7 +12,7 @@ GOTO @NPCNUMBER
  
 你的 PK 点: <$PKPOINT>
  
-<退出/@Exit>
+<关闭/@exit>
 
 [@NPCNUMBER]
 #IF
@@ -100,7 +100,7 @@ However if you guess wrongly you will lose 10,000 {Gold/GOLD}
 Would you like to <Play/@PLAY>?
  
  
-<关闭/@EXIT>
+<关闭/@exit>
 
 [@Play]
 The rules are simple. All you have to do is guess the number
@@ -136,7 +136,7 @@ Congratulations, you Won! Enjoy your 100,000 {Gold/GOLD} Coins.
  
  
  
-<Play again/@NPCNUMBER> - <关闭/@EXIT>
+<Play again/@NPCNUMBER> - <关闭/@exit>
 #ELSEACT
 GIVEGOLD 100000
 
@@ -153,7 +153,7 @@ Unfortunately you lost, better luck next time.
  
  
  
-<Play again/@NPCNUMBER> - <关闭/@EXIT>
+<Play again/@NPCNUMBER> - <关闭/@exit>
 #ELSEACT
 TAKEGOLD 10000
 
@@ -163,7 +163,7 @@ Please come back when you have the funds to gamble.
  
  
  
-<关闭/@EXIT>
+<关闭/@exit>
 
 [Types]
 

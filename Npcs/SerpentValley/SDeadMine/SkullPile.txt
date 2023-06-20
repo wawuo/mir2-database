@@ -1,6 +1,6 @@
 [@Main]
 #SAY
-(Hmm?! There is a note left in the skeleton pile?)
+(Hmm?! There is a note left in the 骷髅兵 pile?)
  
 <Read/@Read>
  
@@ -26,5 +26,5 @@ MOVE LABY01
 #ELSESAY
 You need to have the {封印卷轴/LightSteelBlue} to enter!
  
-<关闭/@Exit>
+<关闭/@exit>
 

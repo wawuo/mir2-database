@@ -42,8 +42,8 @@ Mackeral
 (MP)药物中量
 (MP)药物大量
 (MP)药物XL
-SunPotion
-SunPotion(男)
+阳光普照
+阳光普照(男)
 Ginseng
 OldGinseng
 HealthBooster

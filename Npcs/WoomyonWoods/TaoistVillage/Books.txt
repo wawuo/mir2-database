@@ -11,10 +11,10 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, How many i help you?
+欢迎，有什么需要我帮忙的吗？
  
 <查看/@BuySell> 商店
-打听 <explanation/@helpbooks> 技能相关.
+打听 <解释/@helpbooks> 技能相关.
  
 <关闭/@exit>
 
@@ -29,27 +29,27 @@ Welcome, How many i help you?
 #SAY
 你对什么类型的书感兴趣?
  
-Warrior:  <Skill List/@War1>
-Wizard:   <Skill List/@Wiz1>
-Taoist:   <Skill List/@Tao1>
-Assassin: <Skill List/@Assa1>
-Archer:   <Skill List/@Arc1>
+战士：  <技能列表/@War1>
+法师：   <技能列表/@Wiz1>
+道士：   <技能列表/@Tao1>
+刺客： <技能列表/@Assa1>
+弓箭手：   <技能列表/@Arc1>
 
 
 [@War1]
 #SAY
-Level  7: 击剑
-Level 15: 杀人
+Level  7: 基础剑术
+Level 15: 攻杀剑术
 Level 22: 刺杀
-Level 26: 半月形
-Level 30: 肩部冲刺
-Level 32: 双闸刀
+Level 26: 半月剑法
+Level 30: 野蛮冲撞
+Level 32: 双击
 Level 32: 禁锢
-<More/@War2> <返回/@helpbooks>
+<更多/@War2> <返回/@helpbooks>
 
 [@War2]
 #SAY
-Level 35: 火焰之剑
+Level 35: 烈火剑法
 Level 36: 狮子吼
 Level 38: 十字半月
 Level 38: 刀锋雪崩
@@ -60,36 +60,36 @@ Level 50: 斩击爆裂
 
 [@Wiz1]
 #SAY
-Level  7: 火球
-Level 12: 斥力
-Level 13: 电击
+Level  7: 火球术
+Level 12: 抗拒火环
+Level 13: 诱惑之光
 Level 15: 大火球
 Level 16: 地狱之火
-Level 17: 霹雳火
-<More/@Wiz2> <返回/@helpbooks>
+Level 17: 雷电术
+<更多/@Wiz2> <返回/@helpbooks>
 
 [@Wiz2]
 #SAY
-Level 19: 传送
-Level 22: 火焰弹
+Level 19: 瞬间移动.
+Level 22:  爆裂火焰
 Level 24: 火墙
-Level 26: 闪电
+LLevel 26: 疾光电影
 Level 28: 寒霜紧缩
-Level 30: 雷霆风暴
+Level 30：地狱雷光
 Level 31: 魔法盾
-Level 32: 亡灵转化
-<More/@Wiz3> <返回/@helpBooks>
+Level 32: 圣言术
+<更多/@Wiz3> <返回/@helpBooks>
 
 [@Wiz3]
 #SAY
 Level 33: 吸血术
-Level 35: 冰风暴
-Level 38: 火焰break坏者
+Level 35: 冰咆哮
+Level 38: 灭天火
 Level 41: 镜像
 Level 42: 火焰场
 Level 44: 暴风雪
 Level 49: 流星打击
-Level 53: IceFreeze
+Level 53: 冰冻术
 <返回/@helpBooks>
 
 [@Tao1]
@@ -97,33 +97,33 @@ Level 53: IceFreeze
 Level  7: 疗伤
 Level  9: 精神之剑
 Level 14: 中毒
-Level 18: 灵魂火球
+Level 18: 灵魂火符
 Level 19: 召唤骷髅
-Level 20: 躲藏
-<More/@Tao2> <返回/@helpbooks>
+Level 20: 隐身术
+<更多/@Tao2> <返回/@helpbooks>
 
 [@Tao2]
 #SAY
-Level 21: 大规模躲藏
+Level 21: 大规模隐身术
 Level 22: 灵魂盾牌
 Level 23: 启示
 Level 25: 受祝福的盔甲
 Level 27: 能量反击器
-Level 28: 六边形陷阱
+Level 28: 困魔咒
 Level 30: 净化
-<More/@Tao3> <返回/@helpBooks>
+<更多/@Tao3> <返回/@helpBooks>
 
 [@Tao3]
 #SAY
-Level 31: 大规模治疗
+Level 31: 群体治疗
 Level 31: 幻觉
 Level 33: 终极强化器
-Level 35: 召唤神术
+Level 35: 召唤神兽
 Level 37: 转世
 Level 38: 召唤圣德瓦
 Level 40: 诅咒
-Level 43: 毒云
-Level 48: CelestalShield
+Level 43: 群体施毒术
+Level 48:苍穹之盾
 <返回/@helpBooks>
 
 
@@ -137,7 +137,7 @@ Level 27: 轻功
 Level 30: 天堂之剑
 Level 33: 火焰喷射
 
-<More/@Assa2> <返回/@helpBooks>
+<更多/@Assa2> <返回/@helpBooks>
 
 [@Assa2]
 #SAY
@@ -161,7 +161,7 @@ Level 14: 双响炮
 Level 19: 冥想
 Level 20: 元素射击
 Level 22: 爆炸性陷阱
-<More/@Arc2> <返回/@helpBooks>
+<更多/@Arc2> <返回/@helpBooks>
 
 [@Arc2]
 #SAY
@@ -172,7 +172,7 @@ Level 30: 后撤步
 Level 31: 延迟爆炸
 Level 33: 元素屏障
 Level 35: 捆绑射击
-<More/@Arc3> <返回/@helpBooks>
+<更多/@Arc3> <返回/@helpBooks>
 
 [@Arc3]
 #SAY

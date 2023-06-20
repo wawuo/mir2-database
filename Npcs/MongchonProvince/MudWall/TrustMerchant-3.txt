@@ -16,7 +16,7 @@ GOTO @Main-1
 比奇省、盟重省、白日门、般若岛
 岛与过去的比丘，物品销售信息
 都是由这五个商人共通的. 
-<Consign/@Consign> Item  <View Market/@Market>.
+<Consign/@Consign> 物品  <View Market/@Market>.
 <View Consignments/@Consignment>
 <关闭/@exit> <Help/@help>
 
@@ -28,14 +28,14 @@ The following are 'cautions' in the commission sale.
    1% of the selling price is paid.
 2. Trust money: when it is consigned, '1,000 {Gold/Gold}' is paid.
 3. Commission period: After 100 days of item sale registration,
-   the item will be automatically deleted from the list.
+   the item will be aut半兽人tically deleted from the list.
 4. Number of commission items: Maximum 30 items are allowed
    for sale
 5. Trust money amount: can be set in the range of
    1,000 - 50,000,000 {Gold/Gold}.
  
 Do you agree?
-<Leave/@exit> <返回/@main>
+<Leave/@next> <返回/@main>
 
 [@help]
 #SAY

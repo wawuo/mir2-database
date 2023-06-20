@@ -50,7 +50,7 @@ Thank You for your contribution. As a reward you now have access
 to the following Premium Dungeons which don't have any Restrictions.
  
 Quick Entry to:
-<Ancient Oma Cave/@AOC> | <Ancient Wooma Temple/@AWT> | <Ancient 古墓阵/@AST>
+<Ancient 半兽人 Cave/@AOC> | <Ancient Wo半兽人 Temple/@AWT> | <Ancient 古墓阵/@AST>
 <Ancient Zuma Temple/@AZT> | <Ancient Prajna Cave/@APC>
 
 [@AOC]

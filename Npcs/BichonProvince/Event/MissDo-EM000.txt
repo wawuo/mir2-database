@@ -7,7 +7,7 @@
 安全回家.
 支付3000金币并<开始挑战/@checklevel>.
 <回到/@oldman>无限老人.
-<让我再想一想/@exit>.
+<让我再想一想/@next>.
 
 [@oldman]
 #ACT

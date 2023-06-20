@@ -9,7 +9,7 @@ I can send you several places nearby.
 <书店/@book>   <首饰店/@access>
 <客栈//@store>
 
-I will be back <later/@Exit>
+<我下次再来吧 /@exit>
 
 [@weapon]
 #ACT

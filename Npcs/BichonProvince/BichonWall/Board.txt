@@ -15,7 +15,7 @@
 <首饰店/@go-access>   <试剂商店/@go-pot>  <比奇内墙客栈/@go-palace>
 <书店/@go-book>  <肉店/@go-meat>   <理发师/@go-hairdresser>
 
-<关闭/@Exit>
+<关闭/@exit>
 
 [@ask]
 #SAY
@@ -100,7 +100,7 @@ LEVEL < 60
 #SAY
 60级才能转生.
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 #ELSEACT
 GOTO @RB1CHECK
 
@@ -114,7 +114,7 @@ CHECK [993] 0
 #ELSESAY
 你已转生，层级为： 1.
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 
 [@RB1APPLY]
 #ACT
@@ -124,7 +124,7 @@ ADDNAMELIST ../NameLists/Rebirth1.txt
 #SAY
 你现在是转生者. 
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 
 [@RB2]
 #IF
@@ -132,7 +132,7 @@ LEVEL < 70
 #SAY
 You need to be above Level 70 to rebirth.
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 #ELSEACT
 GOTO @RB2CHECK
 
@@ -146,7 +146,7 @@ CHECK [994] 0
 #ELSESAY
 你已转生，层级为： 2.
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 
 [@RB2APPLY]
 #ACT
@@ -157,7 +157,7 @@ ADDNAMELIST ../NameLists/Rebirth2.txt
 #SAY
 转生成功
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 
 [@RB3]
 #IF
@@ -165,7 +165,7 @@ LEVEL < 80
 #SAY
 需要达到80级以上才能转生. 
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 #ELSEACT
 GOTO @RB3CHECK
 
@@ -179,7 +179,7 @@ CHECK [995] 0
 #ELSESAY
 你已转生，层级为： 3.
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 
 [@RB3APPLY]
 #ACT
@@ -190,7 +190,7 @@ ADDNAMELIST ../NameLists/Rebirth3.txt
 #SAY
 转生成功
 
-<返回/@RebirthMain>     <退出/@EXIT>
+<返回/@RebirthMain>     <关闭/@exit>
 
 [Quests]
 140

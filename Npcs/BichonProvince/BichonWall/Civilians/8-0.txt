@@ -8,7 +8,7 @@ GOTO @MAIN-2
 
 [@MAIN-1]
 #SAY
-Traveler Traveler.. There's people going around ruining everything.
+游侠 游侠.. There's people going around ruining everything.
  
 <关闭/@exit>
 

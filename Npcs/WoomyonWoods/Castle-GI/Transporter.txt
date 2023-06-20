@@ -13,11 +13,11 @@ GOTO @Main-1
 #SAY
 你好，我是 Denzel, 流浪的战士.
 我把人和货物快速、安全地运送到其他地方. 
-Just pay the fee then I'll escort you to anywhere.
+只要支付费用，然后我就会护送你到任何地方
 那么你怎么说?
  
 我要使用这个 <服务/@tele>
-下次吧 <时间/@exit> 
+下次吧 <时间/@next> 
 
 [@tele]
 #SAY
@@ -88,8 +88,8 @@ GOTO @gold
 
 [@gold]
 #SAY
-对不起，你没有足够的         金币
+对不起，你没有足够的 Gold
 
-<退出/@Exit>
+<关闭/@exit>
 
 [Quests]

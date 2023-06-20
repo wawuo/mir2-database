@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 旅行者 有什么事?
+你好 游侠 有什么事?
  
 <存取/@Storage> 储存
 <交换/@mbind> 材料

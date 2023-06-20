@@ -1,6 +1,6 @@
 [@main]
-The person who stole the best sword of
-this Taoist School in the past
-was a notorious villain at that time,
-his criminal record would fill a book
-<Thanks/@exit>
+盗取本门最好的剑的人
+盗取本门绝学的人
+在当时是个臭名昭著的恶棍、
+他的犯罪记录可以写满一本书
+<多谢/@exit>

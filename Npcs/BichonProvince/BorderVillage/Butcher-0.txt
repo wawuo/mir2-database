@@ -11,12 +11,12 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, 欢迎.我能为你做什么?
+欢迎, 欢迎.我能为你做什么?
  
 <出售/@Sell> 肉类.
 <想问/@meathelp> 我想卖肉，怎么得搞到？.
  
-<关闭/@Exit>
+<关闭/@exit>
 
 [@Sell]
 #SAY

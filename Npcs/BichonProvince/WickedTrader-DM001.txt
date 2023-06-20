@@ -2,7 +2,7 @@
 欢迎，有什么可以帮助你？
  
 <查看/@BuySell> 商店
-<修理/@repair> Item.
+<修理/@repair> 物品.
 <关闭/@exit>
 
 [@BuySell]

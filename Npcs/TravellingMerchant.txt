@@ -1,15 +1,15 @@
 ;;Location			  X:Y		Start - Finish
 ;;边境村 		287:606 	07:30 - 08:30
-;;BichonWall 			325:250 	09:00 - 10:01
-;;WoomyonWoods(S) Fortress 	316:82 		10:30 - 11:30
-;;CastleGI-Ryoong 		234:197 	12:00 - 13:01
-;;WoomyonWoods(N) TaoVillage 	192:300 	13:30 - 14:30
-;;SeokchoValley 		136:170 	15:00 - 16:01
+;;比奇墙 			325:250 	09:00 - 10:01
+;;沃玛森林(南) 要塞 	316:82 		10:30 - 11:30
+;;幽冥帝都 		234:197 	12:00 - 13:01
+;;沃玛森林(北) 白日门 	192:300 	13:30 - 14:30
+;;雪草谷 		136:170 	15:00 - 16:01
 ;;蛇谷 		500:477 	17:00 - 18:01
-;;MudWall 			337:320 	18:30 - 19:30
-;;SabukWall 			656:303 	20:00 - 21:01
-;;PrajnaIsland 			147:328 	22:30 - 23:30
-;;WhiteValley 			296:251 	01:00 - 02:30
+;;盟重墙 			337:320 	18:30 - 19:30
+;;S沙巴克城 			656:303 	20:00 - 21:01
+;;般若岛 			147:328 	22:30 - 23:30
+;;白谷 			296:251 	01:00 - 02:30
 
 [@MAIN]
 #IF
@@ -24,15 +24,17 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Greetings {<$USERNAME>/GREENYELLOW}, I am {<$NPCNAME>/SEAGREEN} i travel all across 
-these lands. Do you have anything for sale?
+您好！{<$USERNAME>/GREENYELLOW}，我是{<$NPCNAME>/SEAGREEN}，
+我走遍了这些土地.
+
+你有什么东西要卖吗？
  
-<出售/@Sell> Items.
+<出售/@Sell> 物品s.
 <关闭/@exit>
 
 [@Sell]
 #SAY
-What do you have for trade?
+你有什么可以交易的？
 
 [TYPES]
 5

@@ -18,7 +18,7 @@ Greetings! You have come to purchase Creature Eggs, have you?
  
 <List/@Buy> available Eggs to purchase.
  
-<关闭/@Exit>
+<关闭/@exit>
 
 [@Buy]
 #SAY
@@ -56,7 +56,7 @@ GOTO @MAIN1-3
 #ACT
 SET [539] 0
 #SAY
-Ah your the traveler.. Ive been hearing about.
+Ah your the 游侠.. Ive been hearing about.
 Well I refuse to tell anyone about the Emperor!
  
 <Close/exit>
@@ -65,7 +65,7 @@ Well I refuse to tell anyone about the Emperor!
 #ACT
 SET [541] 0
 #SAY
-Ah your the traveler.. Ive been hearing about.
+Ah your the 游侠.. Ive been hearing about.
 Well I refuse to tell anyone about the Emperor!
  
 <Close/exit>

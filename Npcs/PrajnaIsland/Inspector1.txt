@@ -16,7 +16,7 @@ preventing the crossed force from Bottomless Pit breaking out..
 It may sound simple,but as a matter of fact,very difficult.
 The monsters attempt to break the seal endlessly.
 <We intend to protect the seal as well../@next>
-<I understand/@exit>
+<I understand/@next>
 
 
 

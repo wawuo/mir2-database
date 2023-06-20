@@ -25,6 +25,6 @@ GOTO @Main-1
 #SAY
 为了获得创建公会的资格
 你需要带给我几样东西：-
-一百万{黄金/金币}和WoomaTaurus的号角，他住在Wooma神庙的深处.
-住在Woomyon森林的Wooma Temple深处.
+一百万{黄金/金币}和沃玛教主的号角，他住在Wo半兽人神庙的深处.
+住在Woomyon森林的Wo半兽人 Temple深处.
 请记

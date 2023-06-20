@@ -2,7 +2,7 @@
 #IF
 CONQUESTOWNER 1
 #SAY
-Welcome <$CONQUESTOWNER(1)>,
+欢迎 <$CONQUESTOWNER(1)>,
 
 SabukWall Tax Income:                   SabukWall NPC Tax Rate:
 $ <$CONQUESTGOLD(1)> {Gold/Yellow}                                              % <$CONQUESTRATE(1)> {Gold/Yellow}
@@ -13,7 +13,7 @@ Next Conquest Date:
 
 * <$CONQUESTSCHEDULE(1)> {Attacking Guild/Orange}
 
- <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>      <退出/@exit>
+ <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>      <关闭/@exit>
 
 #ELSEACT
 LocalMessage "Come back when you own Sabuk Wall!" Hint
@@ -167,13 +167,13 @@ for Repairs 与 Archers.
 <Page Two/@p2> <Main/@main>
 
 {Archer One/lightgreen}                         {Archer Four/lightgreen}
-<$CONQUESTGUARD(1,1)>    -    <$CONQUESTGUARD(1,4)>
+<$CONQUEST守卫(1,1)>    -    <$CONQUEST守卫(1,4)>
 <Rehire/@ach1>		                                <Rehire/@ach4>
 {Archer Two/lightgreen}                         {Archer Five/lightgreen}
-<$CONQUESTGUARD(1,2)>    -    <$CONQUESTGUARD(1,5)>
+<$CONQUEST守卫(1,2)>    -    <$CONQUEST守卫(1,5)>
 <Rehire/@ach2>		                                <Rehire/@ach5>
 {Archer Three/lightgreen}                       {Archer Six/lightgreen}
-<$CONQUESTGUARD(1,3)>    -    <$CONQUESTGUARD(1,6)>
+<$CONQUEST守卫(1,3)>    -    <$CONQUEST守卫(1,6)>
 <Rehire/@ach3>		                                <Rehire/@ach6>
 
 
@@ -183,120 +183,120 @@ Here you can Bring your achers back to life!
 <Page One/@reliveachers> <Main/@main>
 
 {Archer Seven/lightgreen}                          {Archer Ten/lightgreen}
-<$CONQUESTGUARD(1,7)>    -    <$CONQUESTGUARD(1,10)>
+<$CONQUEST守卫(1,7)>    -    <$CONQUEST守卫(1,10)>
 <Rehire/@ach7>		                                   <Rehire/@ach10>
 {Archer Eight/lightgreen}                           {Archer Eleven/lightgreen}
-<$CONQUESTGUARD(1,8)>    -    <$CONQUESTGUARD(1,11)>
+<$CONQUEST守卫(1,8)>    -    <$CONQUEST守卫(1,11)>
 <Rehire/@ach8>		                                   <Rehire/@ach11>
 {Archer Nine/lightgreen}                            {Archer Twelve/lightgreen}
-<$CONQUESTGUARD(1,9)>    -    <$CONQUESTGUARD(1,12)>
+<$CONQUEST守卫(1,9)>    -    <$CONQUEST守卫(1,12)>
 <Rehire/@ach9>		                                   <Rehire/@ach12>
 
 
 [@ach1]
 #IF
-AFFORDGUARD 1 1
+AFFORD守卫 1 1
 #ACT
-CONQUESTGUARD 1 1
+CONQUEST守卫 1 1
 LocalMessage "You have rehired Archer One!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer One!" Hint
 
 [@ach2]
 #IF
-AFFORDGUARD 1 2
+AFFORD守卫 1 2
 #ACT
-CONQUESTGUARD 1 2
+CONQUEST守卫 1 2
 LocalMessage "You have rehired Archer Two!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Two!" Hint
 
 [@ach3]
 #IF
-AFFORDGUARD 1 3
+AFFORD守卫 1 3
 #ACT
-CONQUESTGUARD 1 3
+CONQUEST守卫 1 3
 LocalMessage "You have Rehired Archer Three!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Three!" Hint
 
 [@ach4]
 #IF
-AFFORDGUARD 1 4
+AFFORD守卫 1 4
 #ACT
-CONQUESTGUARD 1 4
+CONQUEST守卫 1 4
 LocalMessage "You have rehired Archer Four!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Four!" Hint
 
 [@ach5]
 #IF
-AFFORDGUARD 1 5
+AFFORD守卫 1 5
 #ACT
-CONQUESTGUARD 1 5
+CONQUEST守卫 1 5
 LocalMessage "You have rehired Archer Five!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Five!" Hint
 
 [@ach6]
 #IF
-AFFORDGUARD 1 6
+AFFORD守卫 1 6
 #ACT
-CONQUESTGUARD 1 6
+CONQUEST守卫 1 6
 LocalMessage "You have rehired Archer Six!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Six!" Hint
 
 [@ach7]
 #IF
-AFFORDGUARD 1 7
+AFFORD守卫 1 7
 #ACT
-CONQUESTGUARD 1 7
+CONQUEST守卫 1 7
 LocalMessage "You have rehired Archer Seven!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Seven!" Hint
 
 [@ach8]
 #IF
-AFFORDGUARD 1 8
+AFFORD守卫 1 8
 #ACT
-CONQUESTGUARD 1 8
+CONQUEST守卫 1 8
 LocalMessage "You have rehired Archer Eight!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Eight!" Hint
 
 [@ach9]
 #IF
-AFFORDGUARD 1 9
+AFFORD守卫 1 9
 #ACT
-CONQUESTGUARD 1 9
+CONQUEST守卫 1 9
 LocalMessage "You have rehired Archer Nine!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Nine!" Hint
 
 [@ach10]
 #IF
-AFFORDGUARD 1 10
+AFFORD守卫 1 10
 #ACT
-CONQUESTGUARD 1 10
+CONQUEST守卫 1 10
 LocalMessage "You have rehired Archer Ten!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Ten!" Hint
 
 [@ach11]
 #IF
-AFFORDGUARD 1 11
+AFFORD守卫 1 11
 #ACT
-CONQUESTGUARD 1 11
+CONQUEST守卫 1 11
 LocalMessage "You have rehired Archer Eleven!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Eleven!" Hint
 
 [@ach12]
 #IF
-AFFORDGUARD 1 12
+AFFORD守卫 1 12
 #ACT
-CONQUESTGUARD 1 12
+CONQUEST守卫 1 12
 LocalMessage "You have rehired Archer Twelve!" Hint
 #ELSEACT
 LocalMessage "You dont have the funds to rehire Archer Twelve!" Hint

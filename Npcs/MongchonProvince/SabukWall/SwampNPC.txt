@@ -31,7 +31,7 @@ You don't have enough funds..
 CHECKITEM SwampRelic
 #SAY
 Ah that Relic, such a beautiful piece of work.
-Be safe traveler.
+Be safe 游侠.
 
 <Enter/@next2_1> the swamp.
 <关闭/@exit>

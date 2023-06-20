@@ -13,7 +13,7 @@ LEVEL > 42
 LEVEL < 48
 #SAY
 一块神秘的石头.带有古代的符号.
-"内部被驱逐的<生物./@Woomaa>"
+"内部被驱逐的<生物./@WoOma>"
 {巫马之心/LightSteelBlue} Required {Level 43~48./KHAI}
  
 <关闭/@exit>
@@ -21,9 +21,9 @@ LEVEL < 48
 什么都没有发生.
  
  
-<关闭/@Exit>
+<关闭/@exit>
 
-[@Woomaa]
+[@WoOma]
 #IF
 CHECKITEM 巫马之心 1
 #ACT
