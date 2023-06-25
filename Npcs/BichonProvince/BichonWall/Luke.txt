@@ -8,30 +8,30 @@ GOTO @MayNotEnter
 
 [@MayNotEnter]
 #SAY
-HALT! You may not pass.
-I am the loyal Commander to the Emperor Far.
-"I can <Offer/@Bribe> you Gold to let me past."
-"I need to <see/@see> the Emperor!"
+停止！你不可以通过。
+我是远方皇帝的忠诚指挥官。
+"我可以<给你黄金/@Bribe>，让我过去。"
+"我要<见/@see>皇帝！"
 <关闭/@exit>
 
 [@see]
 #SAY
-抱歉 traveller I don't trust you. 
-If you complete a task for me, I shall escort you to the Emperor!
+抱歉 旅行者 我不相信你。
+如果你为我完成一项任务，我将护送你去见皇帝!
  
 <关闭/@exit>
 
 [@Bribe]
 #SAY
-Traveller.. You are trying to bribe the Commander of the 7th Rank.
-You do know how serious that is? 
-<对极了/@yes> I'm aware. 
-<不要/@no> I'm not aware.
+旅行者... 你在试图贿赂七级指挥官。
+你知道这有多严重吗？ 
+<对极了/@yes> 我知道。 
+<不要/@no> 我不知道。
 <关闭/@exit>
 
 [@no]
 #SAY
-I would suggest you leave before you spend some time behind bars.
+我建议你在花一些时间在监狱里之前离开。
  
 <关闭/@exit>
 
@@ -39,7 +39,7 @@ I would suggest you leave before you spend some time behind bars.
 #ACT
 GIVEBUFF PRISON 3600
 MOVE 0127 7 11
-LOCALMESSAGE "[Commander Luke] Take some time to think." Hint
+LOCALMESSAGE "[Commander Luke] 花一些时间思考。" Hint
 
 [Quests]
 154

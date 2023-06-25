@@ -12,16 +12,17 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 欢迎 to the Mir world.
-It is my job to guide newbies.
+It's my job to guide newbies.
 Anything I can help with?
 
-<升级/@hunting> >
-<战斗和技能/@combat>
-<基本信息/@basic>
+<Hunting info by each level/@hunting>
+<Combat & Skill info/@combat>
+<Basic information/@basic>
 
 [@hunting]
 #SAY
-It is wise to know where to hunt with your level in Mir world.
+It is wise to know where to hunt depending on your level in 
+the Mir world.
 Ask me anytime, I will be glad to guide you.
 <level 1~11/@level1-11>
 <level 11~21/@level11-21>
@@ -46,15 +47,15 @@ Please refer to the whole map by pressing B.
 #SAY
 If you wish for a safe hunt, try Hen, 鹿, 与 绵羊 near town.
 They do not attack until you hit them.
-In fact, you can get some fresh <meat/@slicemeat> 与 by trading it with butcher in town,
-you can money in return.
+In fact, you can get some fresh <meat/@slicemeat> 与 by trading it with a 
+butcher in any town, you can earn money in return.
 
 <返回/@level1-11>                              <Go to Main/@main>
 
 [@slicemeat]
 #SAY
-Slice meat: Getting 肉类 from domestic animal such as 小鸡en, 鹿 Click
-at dead body of those (Alt+left click) 与 acquire meat after slicing action.
+Slice meat: Getting 肉类 from domestic animal such as 小鸡en, 鹿.
+Click at dead a body of those (Alt+left click) 与 acquire meat after slicing action.
 
 Mining: Equip 镐头 to mine. Left click will aut半兽人tically of mining.
 Those acquired minerals will be used as raw material for
@@ -112,12 +113,12 @@ raft driving is most recommended.
 
 [@lvl14-17]
 #SAY
-If you wish for higher exp. Go 半兽人Cave northwest
+If you wish for higher exp cave. Go 半兽人Cave northwest
 of Bichon-province. This is the first Dungeon in Mir world where 洞穴蝙蝠,
-洞穴蛆虫, 与 骷髅兵 appear.
-Bring 蜡烛, 传送门 Scroll 与 enough potions.
+洞穴蛆虫, 与 骷髅兵s appear.
+Bring 蜡烛s, Town 传送s 与 enough potions.
 It is located far away from town.
-But be specially aware of poison from 洞穴蛆虫. You mat be paralyzed.
+But be specially aware of the poison from 洞穴蛆虫s. You may be paralyzed.
 
 <返回/@level11-21>                 <Go to Main/@main>
 
@@ -125,9 +126,9 @@ But be specially aware of poison from 洞穴蛆虫. You mat be paralyzed.
 #SAY
 Go to Dead Mine at the west of Bichon-Province or InsectCave at the
 southwest of WoomyonWoods.
-This place may give you a difficult time because killed 僵尸 will keep
+This place may give you a difficult time because dead 僵尸s will keep
 reviving for a few times.
-Thunderbolt of Wizard is very effective in this place.
+A Wizard's Thunderbolt is very effective in this place.
 
 <返回/@level11-21>                   <Go to Main/@main>
 
@@ -152,11 +153,11 @@ RedValley would be an alternative choice at this level.
 
 [@level41]
 #SAY
-Once you achieved this level, go to ZumaTemple at the East of Mongchon
-Province. Party is recommended since soloing here is very difficult.
+Once you've achieved this level, go to ZumaTemple towrads the East of Mongchon
+Province. A party is recommended since soloing here is very difficult.
 By the time you get used to this place, go to PastBichon by the TimeStone
 in Prajna field.
-You will meet scary monsters 与 fire dragon.
+You will meet scary monsters 与 a firey dragon.
 
 <返回/@hunting>                   <Go to Main/@main>
 
@@ -170,6 +171,9 @@ skills. Ask me anytime, I will be glad to guide you.
 <Warrior skill/@warrskill>
 <Wizard skill/@wizskill>
 <Taoist skill/@taoskill>
+<Assassin skill/@sinskill>
+<Archer skill/@arcskill>
+
 <Combat Technic/@combattech>
 
 <Go to Main/@main>
@@ -253,6 +257,58 @@ Taoist skill page 2:
 <召唤圣德瓦 38/@summondeva>     <诅咒 40/@curse>     <毒云 43/@poisoncloud>
 
 <返回/@combat>                         <Go to Main/@main>
+
+[@sinskill]
+#SAY
+Assassin skill page 1:
+Assassins are members of a secret organization 与 their history is relatively unknown. 
+They're capable of hiding themselves 与 performing attacks while being unseen by 
+others, which naturally makes them excellent at making fast kills. It is necessary 
+for them to avoid being in battles with multiple enemies due to their weak vitality 
+and strength.
+
+<致命之剑 7/@fatalsword>     <轻功 27/@轻功>     <毒剑 34/@毒剑>
+<双击 15/@doubleslash>     <天堂之剑 30/@heavenlysword>     <月光 36/@月光>
+<障碍物 20/@haste>     <火焰喷射
+ 33/@火焰喷射
+>     <猎手 38/@猎手>
+<闪光冲刺 25/@闪光冲刺>     <陷阱 33/@陷阱>     <迅捷脚步 40/@迅捷脚步>
+<黑暗之躯
+ 46/@黑暗之躯
+>     <裂缝 50/@cresentslash>     <出血 47/@hemorrhage>
+
+<返回/@combat>              <Go to Main/@main>
+
+[@arcskill]
+#SAY
+Archer skill page 1:
+Archers are a class of great accuracy 与 strength, 
+using their powerful skills with bows to deal extraordinary 
+damage from range. Much like wizards, they rely on their 
+keen instincts to dodge oncoming attacks as they tend to 
+leave themselves open to frontal attacks. However, 
+their physical prowess 与 deadly aim allows them to instil 
+fear into anyone they hit.
+
+<焦点 7/@focus>     <元素射击 20/@elementalshot>     <Backstep 30/@backstep>
+<直击 9/@straightshot>     <爆炸性陷阱 22/@explosive陷阱>     <延迟爆炸 31/@delayedexplosion>
+<MentalState 11/@mentalstate>     <专注力 23/@concentration>     <元素屏障 33/@elementalbarrier>
+<双响炮 14/@doubleshot>     <吸血鬼射击 26/@vampireshot>     <BindingShot 35/@bindingshot>
+<冥想 19/@meditation>     <召唤吸血鬼 28/@summonvampire>
+
+<返回/@combat>              <Go to Next/@arcskill2>
+
+[@arcskill2]
+#SAY
+Archer skill page 2:
+
+<召唤蟾蜍 37/@summontoad>     <毒药射击 40/@poisonshot>     <残废射击 43/@crippleshot>
+<召唤蛇类 46/@summonsnakes>     <汽油弹 48/@napalmshot>     <与自然同在 50/@onewithnature>
+
+<返回/@combat>                         <Go to Main/@main>
+
+
+-------------------------------------------------------------------------------------------------------
 
 [@fencing]
 #SAY
@@ -377,7 +433,7 @@ Defense power 与 duration time will depend on the skill level.
 Once the skill has been used, you will have to wait to use it again.
 
 <返回/@warrskill>                     <Go to Main/@main>
-
+------------------------------------------------------------------------------------------------------
 [@fireball]
 #SAY
 Fireball (Level 7)
@@ -584,7 +640,7 @@ If the caster is attacked while using the skill, it will be cancelled.
 The damage inflicted raises with the skill level.
 
 <返回/@wizskill>                     <Go to Main/@main>
-
+------------------------------------------------------------------------------------------------------
 [@healing]
 #SAY
 疗伤 (Level 7)
@@ -789,6 +845,188 @@ It requires Grey 毒剂
 
 <返回/@taoskill>                     <Go to Main/@main>
 
+------------------------------------------------------------------------------------------------------
+
+[@focus]
+#SAY
+焦点 (Level 7)
+
+Passively increases chance to hit with physical attacks. 
+Can also proc a critical attack to do extra damage.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@straightshot]
+#SAY
+直击 (Level 9)
+
+Infuses your arrow with mana to deal extra damage.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@mentalstate]
+#SAY
+MentalState (Level 11)
+
+TO BE ADDED
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@doubleshot]
+#SAY
+双响炮 (Level 14)
+
+Fire double arrows at your target.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@meditation]
+#SAY
+冥想 (Level 19)
+
+Allows gathering of elements when attacking monsters. 
+Can gain up to 4 elements.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@elementalshot]
+#SAY
+元素射击 (Level 20)
+
+High damage magical attack. Damage is increased per element. 
+Generates 2 elements if none exist. Pushes back target if 
+archer is higher level.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@explosive陷阱]
+#SAY
+爆炸性陷阱 (Level 22)
+
+Lay down a row of 陷阱s that explode on contact with an enemy.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@concentration]
+#SAY
+专注力 (Level 23)
+
+Increase the chance of gathering elements whilst active.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@vampireshot]
+#SAY
+VamnpireShot (Level 26)
+
+Fire a leaching arrow that can heal the archer based on 
+damage done. Chance to gain Vampire buff which enhances 
+Cripple Shot 与 与自然同在 spells.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@summonvampire]
+#SAY
+召唤吸血鬼 (Level 28)
+
+Summon a spider vampire every 40 seconds to fight for you. 
+The vampire pet can leach HP to its master.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@backstep]
+#SAY
+后撤步 (Level 30)
+
+Leap backwards out of danger.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@delayedexplosion]
+#SAY
+延迟爆炸 (Level 31)
+
+Fire an arrow that has a delayed explosion. 
+Gather more elements for more damage.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@elementalbarrier]
+#SAY
+元素屏障 (Level 33)
+
+Protects the caster with an elemental barrier. 
+More elements on cast increases damage reduction.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@bindingshot]
+#SAY
+BindingShot (Level 35)
+
+TO BE ADDED
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@summontoad]
+#SAY
+召唤蟾蜍 (Level 37)
+
+Summon a toad to fight for you for 15 seconds. 
+The toad cannot move 与 will explode if its master 
+leaves its view range.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@poisonshot]
+#SAY
+毒药射击 (Level 40)
+
+Fire a poison arrow to green poison enemies. 
+Lasts maximum of 15 seconds. Chance to gain Poison 
+Buff which enhances Cripple Shot 与 与自然同在 spells.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@crippleshot]
+#SAY
+残废射击 (Level 43)
+
+A special arrow that has enhances effects. 
+毒药射击 buff will make Cripple shot produce a 3×3 
+AOE poison attack. VampBuff will make Cripple shot 
+hit twice 与 steal HP.
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@summonsnakes]
+#SAY
+召唤蛇类 (Level 46)
+
+Summon a Totem that spawns a swarm of snakes that aggro 
+all monsters nearby 与 attack with a chance to paralysis 
+the target. Can only be cast every 80 seconds.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@napalmshot]
+#SAY
+汽油弹 (Level 48)
+
+Fire an arrow that explodes in a 5×5 radius around the target.
+
+<返回/@arcskill>                     <Go to Main/@main>
+
+[@onewithnature]
+#SAY
+与自然同在 (Level 50)
+
+Summon an elemental ring around the archer that deals damage 
+to all targets within a 5×5 radius of the archer.
+                                
+<返回/@arcskill>                     <Go to Main/@main>
+
+-------------------------------------------------------------------------------------------------------
+
 [@basic]
 #SAY
 These are the basic info. You must know as beginner.
@@ -854,3 +1092,9 @@ guild information 与 etc.
 <返回/@basic>                               <Go to Main/@main>
 
 [Quests]
+-9
+-12
+-15
+-18
+-21
+-26

@@ -11,29 +11,29 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-I am the Examiner for Bichon.
-In order to go to restricted ares, you are required to have a
-Bichon Token.
-If you would like a Bichon Token you can purchase one from me.
-<Buy Bichon Token/@Buy>
-<想问 about Bichon Token/@Ask>
+我是比奇的审查员。
+为了进入限制区，你必须有一个
+比熊令牌。
+如果你想要一个比熊令牌，你可以从我这里购买一个。
+<购买比熊令牌/@Buy>
+<什么是比熊令牌/@Ask> ？？？
 <关闭/@exit>
 
 [@Ask]
 #SAY
-In a book written 100 years ago,there is a section where it
-explainshow to enter hell. It is said the patch to hell was discovered
-past the 边境村. To investigate this area, we have prepared
-many investigators. If you'd like to see this place too, you should go
-ask their leader.
-Also you will need the Bichon Token to go thought the cave.
-<Buy Bichon Token/@Buy>
-<Will get next time/@next>
+在一本100年前写的书中，有一节是这样写的
+解释了如何进入地狱。据说，通往地狱的补丁被发现
+过了边境村。为了调查这个领域，我们准备了
+许多调查员。如果你也想看看这个地方，你应该去
+问他们的领导。
+此外，你还需要比熊令牌来考察这个山洞。
+<购买比熊令牌/@Buy>
+<我下次来/@next>
 
 
 [@Buy]
 #SAY
-Please choose what you want to buy.
+请选择你想买的东西.
  
  
 <返回/@Main>

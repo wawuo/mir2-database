@@ -8,15 +8,15 @@ GOTO @MAIN-2
 
 [@MAIN-1]
 #SAY
-游侠 游侠.. There's people going around ruining everything.
+游侠 游侠.. 有的人到处毁坏一切。
  
 <关闭/@exit>
 
 [@MAIN-2]
 #SAY
-Oh.. 抱歉.. You startled me. Well 你好 there..
-"Can you be of any assistance?"
-"I'm trying to spread a good word around about the <Emperor/@emperor>."
+哦...抱歉... 你吓了我一跳。好吧，你在那里...
+"你能提供什么帮助吗？"
+"我正在努力传播关于<皇帝>的好话。/@emperor>."
  
 <关闭/@exit>
 
@@ -24,4 +24,4 @@ Oh.. 抱歉.. You startled me. Well 你好 there..
 #ACT
 SET [540] 1
 #SAY
-Oh sure <$USERNAME> but please visit me again soon.
+哦，当然<$USERNAME>，但请尽快再次来看我。

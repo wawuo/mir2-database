@@ -88,23 +88,23 @@ GOTO @NPCNUMBER
 
 [@FailedNumber]
 #SAY
-NPC 没有选择一个数字
+NPC didnt select a number
 
 [@MainPage]
 #SAY
-你好，你想玩个游戏吗？
-你要做的就是猜猜我在想什么数字
-如果你猜对了，你就会得到赠品 100,000 {Gold/GOLD}
-然而，如果你猜错了，你将失去 10,000 {Gold/GOLD}
+你好, Do you want to play a game?
+All you have to do is guess what number I'm thinking
+If you guess correctly you will be gifted 100,000 {Gold/GOLD}
+However if you guess wrongly you will lose 10,000 {Gold/GOLD}
  
-你想不想<玩/@PLAY>?
+Would you like to <Play/@PLAY>?
  
  
 <关闭/@exit>
 
 [@Play]
-规则很简单。你所要做的就是猜出我想的那个数字
-我所想的数字。你的猜测是什么？
+The rules are simple. All you have to do is guess the number
+that I'm thinking of. What is your guess?
 <[ 1 ]/@Guess(1)>
 <[ 2 ]/@Guess(2)>
 <[ 3 ]/@Guess(3)>
@@ -129,7 +129,7 @@ CHECKGOLD < 10000
 #ACT
 GOTO @NotEnoughGold
 #ELSESAY
-恭喜你，你赢了! 享受您的 100,000 {Gold/GOLD} Coins.
+Congratulations, you Won! Enjoy your 100,000 {Gold/GOLD} Coins.
  
  
  
@@ -146,7 +146,7 @@ CHECKGOLD < 10000
 #ACT
 GOTO @NotEnoughGold
 #ELSESAY
-不幸的是，你输了，下一次运气会更好。
+Unfortunately you lost, better luck next time.
  
  
  
@@ -158,8 +158,8 @@ GOTO @NotEnoughGold
 TAKEGOLD 10000
 
 [@NotEnoughGold]
-你没有10,000 {金/GOLD}。
-请在你有资金赌博的时候再来。
+You do not have 10,000 {Gold/GOLD}
+Please come back when you have the funds to gamble.
  
  
  

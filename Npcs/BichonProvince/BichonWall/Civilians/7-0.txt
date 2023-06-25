@@ -18,25 +18,25 @@ GOTO @MAIN-3
 #ACT
 SET [539] 0
 #SAY
-Ah your the 游侠.. Ive been hearing about.
-Well I refuse to tell anyone about the Emperor!
+啊，你就是那个游侠。我一直在听说。
+我拒绝告诉任何人关于皇帝的事情！"！
  
-<Close/exit>
+<关闭/exit>
 
 [@MAIN-2]
 #ACT
 SET [541] 0
 #SAY
-Ah your the 游侠.. Ive been hearing about.
-Well I refuse to tell anyone about the Emperor!
+啊，你就是那个游侠。我一直在听说。
+我拒绝告诉任何人关于皇帝的事情！"！
  
-<Close/exit>
+<关闭/exit>
 
 [@MAIN-3]
 #SAY
-Have you ever heard about the Emperor? 
-Hes such a lazy good for nothing fool. Sooner we remove him
-from the throne the better. Its time for the free folk to 
-govern these lands.
+你听说过皇帝的事吗？
+他是个懒惰的、一无是处的傻瓜。我们越早把他赶出
+从皇位上下来越好。是时候让自由的人们来 
+管理这些土地。
  
 <关闭/@exit>

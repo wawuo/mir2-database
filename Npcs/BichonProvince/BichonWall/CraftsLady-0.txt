@@ -1,11 +1,11 @@
 [@MAIN]
 #SAY
-I am craft lady, specialized in the creation of new items.
-I have been sent here to check the living conditions of people.
-Unfortunately, it seems that many people are still suffering from
-poverty. So, I would like to help them with my making skills.
-If you also want anything to be made, you may as well ask me.
-<Crafting/@Craft>
+我是手工艺人，专门从事新物品的创作。
+我被派到这里来检查人们的生活状况。
+不幸的是，似乎许多人仍然在遭受着
+贫困。因此，我想用我的制作技术帮助他们。
+如果你也想做什么，不妨问问我。
+<工艺/@Craft>
 
 [@Craft]
 阳光普照

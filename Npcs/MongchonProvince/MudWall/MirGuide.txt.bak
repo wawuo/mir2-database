@@ -15,9 +15,9 @@ GOTO @Main-1
 It is my job to guide newbies.
 Anything I can help with?
 
-<升级/@hunting> >
-<战斗和技能/@combat>
-<基本信息/@basic>
+<Hunting info by each level/@hunting>
+<Combat & Skill info/@combat>
+<Basic information/@basic>
 
 [@hunting]
 #SAY
