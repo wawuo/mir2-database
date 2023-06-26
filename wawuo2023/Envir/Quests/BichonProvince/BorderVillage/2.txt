@@ -1,11 +1,12 @@
-[@Description]
-Could you do a favour for me as well? I want to
-give a present to {Jane/LimeGreen} to show my gratitude.
-But i cannot leave here at the moment. 
+﻿[@Description]
+你能不能也帮我一个忙？我想
+给{Jane/LimeGreen}一份礼物，以表示我的感谢.
+但我现在不能离开这里.
 
 [@TaskDescription]
-Find {姜茶/LightSteelBlue} from {Scarecrows/Crimson} and Deliver
-to {Assistant Jane/LimeGreen} in {BorderVillage/Yellow}.
+从{稻草人/Crimson}中找到{姜茶/LightSteelBlue}
+并将其交付给{边境村/Yellow}
+中的{助理员-Jane/LimeGreen}.这是一项任务.
 
 [@Completion]
 

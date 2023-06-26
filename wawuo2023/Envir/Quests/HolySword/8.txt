@@ -1,13 +1,13 @@
-[@Description]
-Now to get an {EvilHeart/LightSteelBlue}, You need to kill 
-{GreyEvilApes/Crimson}.You can find them when you 
+﻿[@Description]
+Now to get an{EvilHeart/LightSteelBlue}, You need to kill 
+{灰猿s/Crimson}.You can find them when you 
 through a hidden door. You can find this door on 
-the 5th floor towards {KingsRoom(RedMoonEvil)/Yellow} 
-at 182:179 Walk in the corner and you will get through 
+the 5th floor towards{KingsRoom(赤月恶魔)/Yellow}
+at 182:179 Walk in the corner和you will get through 
 the hidden door.
 
 [@TaskDescription]
-Kill {GreyEvilApes/Crimson} for the {EvilHeart/LightSteelBlue}.
+杀死{灰猿s/Crimson}for the{EvilHeart/LightSteelBlue}.
 
 [@Completion]
 

@@ -9,29 +9,29 @@ CHECKPKPOINT > 199
 #ELSEACT
 GOTO @Main-1
 
-[@Main-1]
+[@Main-1］
 #SAY
-Welcome <$USERNAME>, I am the Awakening Master.
-<Awaken/@Awakening> Item.
-<Disassemble/@Disassemble> Item.
+欢迎<$USERNAME>，我是觉醒大师.
+<觉醒/@Awakening>物品.
+<拆解/@Disassemble> 物品.
  
-=== Resetting Features ===
-<Downgrade/@Downgrade> Item <Reset/@Reset> Item.
+===重置功能 ===
+<降级/@Downgrade>项目 <重置/@Reset>物品.
 
 [@Disassemble]
 #SAY
-Choose which Item you wish to Disassemble.
+选择你想拆解的项目.
  
 <返回/@Main>
 
-[@Downgrade]
+[@Downgrade] 
 #SAY
-Choose which Item you wish to Downgrade.
+选择你要降级的项目.
  
 <返回/@Main>
-
-[@Reset]
+[@Reset] 
 #SAY
-Choose which Item you wish to Reset.
+
+选择你要重置的项目.
  
 <返回/@Main>

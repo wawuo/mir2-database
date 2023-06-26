@@ -1,9 +1,9 @@
-[@Description]
-Hello traveller. I also need some fruit to make 
-this wine. Could you get me 10 {乌木果实/LightSteelBlue}.
+﻿[@Description]
+你好，旅行者.我还需要一些水果来酿造这种酒.
+你能帮我采集 10个{乌木果实/LightSteelBlue}吗？
 
 [@TaskDescription]
-Please collect 10 {乌木果实/LightSteelBlue}
+请收集 10个{乌木果实/LightSteelBlue}.
 
 [@Completion]
 

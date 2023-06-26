@@ -1,9 +1,9 @@
-[@Description]
-Please head back to {TreePath/Yellow} and gather more 
+﻿[@Description]
+Please head back to{森林小径/Yellow}和 gather more 
 {Materials/LightSteelBlue}.
 
 [@TaskDescription]
-Find 5 {古老的树/LightSteelBlue} by killing {RootSpider's/Crimson}.
+Find 5{古老的树/LightSteelBlue}by killing{根蜘蛛's/Crimson}.
 
 [@Completion]
 

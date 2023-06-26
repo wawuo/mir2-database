@@ -4,8 +4,8 @@ ISADMIN
 #SAY
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
 You appear to have {<$GAMEGOLD>/ORANGE} gold coins to spend.
-<购买/@Buy> Script
-<出售/@Sell> Script
+<购买/@Buy> 脚本类
+<出售/@Sell> 脚本类
 
 #ELSEACT
 MOVE 0 300 300

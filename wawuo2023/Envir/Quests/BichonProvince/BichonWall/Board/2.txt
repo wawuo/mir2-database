@@ -1,8 +1,8 @@
-[@Description]
+﻿[@Description]
 BichonWall Bounty, Has been submitted.
 
 [@TaskDescription]
-Travel to {OmaCave/Yellow} and collect {Skeleton 骨头's/LightSteelBlue}.
+前往{半兽人洞穴/Yellow}和收集{骷髅兵 骨头's/LightSteelBlue}.
 
 [@Completion]
 

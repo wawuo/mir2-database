@@ -1,10 +1,10 @@
-[@Description]
-You seem more like a well-trained Archer now.
-I have asked {Peter/LimeGreen} to give you some work
-to do. The reward should help you in many ways,
+﻿[@Description]
+你现在看起来更像一个训练有素的射手.
+我已经让{Peter/LimeGreen}给你一些工作
+来做.奖励应该在很多方面对你有帮助、
 
 [@TaskDescription]
-Speak to {MirGuide Peter/LimeGreen} Coordinates 328:258
+与{传奇新手导师Peter/LimeGreen}交谈.坐标 328:258
 
 [@Completion]
 

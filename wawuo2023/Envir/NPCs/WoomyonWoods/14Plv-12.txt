@@ -6,7 +6,7 @@ cursed land?
  
 <Yes, I want to enter./@next>
 <Place Ancient Post Piece on the pillar/@next2>
-<退出/@exit>
+<关闭/@exit>
 
 
 [@next]

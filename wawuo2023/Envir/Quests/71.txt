@@ -1,10 +1,8 @@
-[@Description]
-I lost my bag because of the insects in the cave.
-They took all my belongings. Could you please
-get my stuff back? 
+﻿[@Description]
+我因为洞穴里的昆虫丢失了我的包。它们拿走了我所有的东西。你能帮我把我的东西拿回来吗？
 
 [@TaskDescription]
-Kill {VoiletKekTal/Crimson}, {KekTal/Crimson} and {BlueHoroBlaster's/Crimson} 
+杀死{紫罗兰凯克塔尔/Crimson}，{凯克塔尔/Crimson}和{蓝霍罗爆破者/Crimson}
 
 [@Completion]
 

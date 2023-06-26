@@ -12,9 +12,9 @@ SET [526] 1
 
 [@MAIN2]
 #SAY
-你好 <$USERNAME>, It's very strange to see new travelers.
-People tend to keep away because of the temperatures.
-Becarful the creatures are strong. If you like a challanege 
-follow the path North. It will lead to the SnowCavern from 
-rumours some kind of Ancient Creature lives within.
+你好 <$USERNAME>, 看到新的游侠是非常奇怪的。
+由于温度的原因，人们往往会远离。
+注意，这些生物很强壮。如果你喜欢挑战 
+沿着北边的路走。这条路会通向雪洞。
+有传言说里面住着某种古老的生物。
 <关闭/@exit>

@@ -24,12 +24,12 @@ GOTO @Main-2
 
 [@Main-1]
 #SAY
-Greeting's Traveler. The morale of the City has improved.
+问候的游侠. 城市的士气已经提高. 
  
 <关闭/@exit>
 
 [@MAIN-2]
 #SAY
-Greeting's Traveler. How are you on this fine day?
+问候的游侠. 在这个美好的日子里，你还好吗？
  
 <关闭/@exit>

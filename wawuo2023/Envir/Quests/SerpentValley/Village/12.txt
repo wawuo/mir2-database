@@ -1,14 +1,11 @@
-[@Description]
-Did you come to help me? Are you really going to
-help? Thank you so much. I never settle at one
-place, so I never have any neighbors to help me.
-My daugther got bitten by a {RedSnake/Crimson} and the 
-poison is almost killing her. I heard there is a 
-famous doctor, {Sandford/LimeGreen} in {PrajnaIsland/Yellow}.
+﻿[@Description]
+你是来帮我的吗？你真的会帮助？太谢谢你了.
+我从不在一个地方定居，所以从来没有邻居来帮助我.
+我的女儿被一条{红蛇/Crimson}咬了，毒药几乎要
+了她的命.我听说有一个 名医{Sandford/LimeGreen}在{般若岛/Yellow}.
 
 [@TaskDescription]
-Please visit {Sandford/LimeGreen} and retrieve the cure my 
-daughter
+请访问{Sandford/LimeGreen}并取回解药给我女儿.
 
 [@Completion]
 

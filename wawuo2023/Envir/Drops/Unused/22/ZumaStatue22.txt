@@ -1,28 +1,77 @@
-;Pots + Other
-
+;Gold
+1/5 Gold 20000
 
 ;Weapons
 
-
-;Armour
-
+;Armours
 
 ;Helmets
 
-
-;Necklace
-
+;Necklaces
 
 ;Bracelets
 
-
 ;Rings
 
-
-;Shoes
-
+;Amulets
 
 ;Belts
 
+;Boots
 
-;Stone
+;Stones
+
+;Torches
+
+;Potions
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

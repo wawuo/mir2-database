@@ -1,12 +1,10 @@
-[@Description]
-Thankyou traveler. For returning my son's {Robe/LightSteelBlue} I have a task
-if your to the challenge. My Son was looking for some treasure in 
-{SerpentDeadMine/Yellow} There was a letter in his Robes saying he found
-the Gold. Please return and retrieve the {被盗的黄金/LightSteelBlue}
+﻿[@Description]
+谢谢你，旅行者。为了归还我儿子的{Robe/LightSteelBlue}，如果你愿意接受挑
+战，我有一个任务。我的儿子在{毒蛇山谷死亡矿区/Yellow}寻找宝藏。他的长
+袍里有一封信，说他找到了黄金。请返回并取回{被盗的黄金/LightSteelBlue}。
 
 [@TaskDescription]
-Kill {RotNdZombie/Crimson} located on {SerpentDeadMine 2F/Yellow}
-
+杀死位于{毒蛇山谷死亡矿区 2F/Yellow}的{腐烂肉僵尸/Crimson}。
 [@Completion]
 
 [@KillTasks]

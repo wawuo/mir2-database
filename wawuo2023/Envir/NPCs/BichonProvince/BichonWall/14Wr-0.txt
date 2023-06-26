@@ -1,4 +1,4 @@
-;;Checking whether you have PremiumPasses.
+;;查看你是否有高级通行证.
 [@MAIN]
 #IF
 CHECKPKPOINT > 199
@@ -40,19 +40,19 @@ CHECKITEM PremiumPass[15d]
 #ACT
 GOTO @PremCaveMenu
 #ELSESAY
-You dont have a {Premium Pass/LightSteelBlue}.
+你没有{高级通行证/LightSteelBlue}.
 
 ;;Premium Cave Menu.
 [@PremCaveMenu]
 #SAY
-Congratulations <$USERNAME>, 
-Thank You for your contribution. As a reward you now have access
-to the following Premium Dungeons which don't have any Restrictions.
+恭喜<$USERNAME>、 
+谢谢您的贡献.作为奖励，你现在可以进入
+进入以下没有任何限制的高级地牢.
  
-<Dungeon 1/@PremDungeon1> | <Dungeon 2/@PremDungeon2> | <Dungeon 3/@PremDungeon3> - Dungeons to come.
-Quick Entry to:
-<Ancient Oma Cave/@AOC> | <Ancient Wooma Temple/@AWT> | <Ancient Stone Temple/@AST>
-<Ancient Zuma Temple/@AZT> | <Ancient Prajna Cave/@APC>
+<地牢1/@PremDungeon1> | <地牢2/@PremDungeon2> | <地牢3/@PremDungeon3> - 地牢即将到来.
+快速进入到：
+<古奥玛洞穴/@AOC> | <古沃玛神庙/@AWT> | <古石庙/@AST>.
+<古祖玛寺/@AZT> | <古般若洞/@APC>
 
 [@AOC]
 #ACT

@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好旅行者。我能为你做什么? 
+你好游侠.我能为你做什么? 
  
 <查看/@BuySell> 商店
 <修理/@Repair> 布帘.
@@ -21,7 +21,7 @@ GOTO @Main-1
 
 [@BuySell]
 #SAY
-Which item 想要出售或购买?
+哪个物品想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -34,7 +34,7 @@ Which item 想要出售或购买?
 
 [@Repair]
 #SAY
-你是不是想修理 drapery piece?
+你是不是想修理 衣物？
  
 <返回/@main>
 
@@ -78,14 +78,14 @@ GOTO @MAIN1-3
 
 [@MAIN1-1]
 #SAY
-你好 traveler.. I have been hearing good things about 
+你好 游侠.. I have been hearing good things about 
 the Emperors good deeds.
  
 <关闭/@exit>
 
 [@MAIN1-2]
 #SAY
-你好 again traveler.. Its a fine day is it not.
+你好 again 游侠.. Its a fine day is it not.
  
 <关闭/@exit>
 
@@ -93,7 +93,7 @@ the Emperors good deeds.
 #IF
 CHECKQUEST 157 1
 #SAY
-Thankyou traveler you have saved me some time.
+Thankyou 游侠 you have saved me some time.
 And boy o boy doesn't she talk a lot of rubbish..
  
 So you want my help spreading the good deed's of the <Emperor/@Emperor>?
@@ -107,6 +107,6 @@ How about you do something for me first?
 #ACT
 SET [541] 1
 #SAY
-Very well traveler.. 
+Very well 游侠.. 
  
 <关闭/@exit>

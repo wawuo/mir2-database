@@ -25,7 +25,7 @@ MOVE 0 300 300
 吃人的茎
 野猪牙
 毒药袋
-网络
+网
 玉环
 蓝药
 秘方
@@ -74,9 +74,9 @@ BoxofHolyWater(3)
 比熊的故事(1)
 比熊故事(2)
 比熊的故事(3)
-WierdPillarShard
-StrangePillarShard
-MysteriousPillarShard
+凶猛的柱子Shard
+陌生的柱子Shard
+神秘的柱子Shard
 兵团之花
 清洁的骷髅头
 普拉纳历史

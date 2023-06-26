@@ -1,8 +1,8 @@
-[@Description]
-The {VillageChief/LimeGreen} is looking for you. 
+﻿[@Description]
+The{VillageChief/LimeGreen}is looking for you. 
 
 [@TaskDescription]
-Speak to the {VillageChief/LimeGreen} in {Prajna Island/Yellow}
+Speak to the{VillageChief/LimeGreen}处于{Prajna Island/Yellow}
 
 [@Completion]
 

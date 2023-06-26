@@ -4,10 +4,10 @@ ISADMIN
 #SAY
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
 我看到你正穿着: {<$NECKLACE>/CORAL}
-<购买/@Buy> Necklace
-<出售/@Sell> Necklace
-<修理/@Repair> Necklace
-<特别修理/@SRepair> Necklace
+<购买/@Buy> 项链
+<出售/@Sell> 项链
+<修理/@Repair> 项链
+<特别修理/@SRepair> 项链
 
 #ELSEACT
 MOVE 0 300 300

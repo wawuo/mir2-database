@@ -1,10 +1,10 @@
-[@Description]
-The {Butcher/LimeGreen} in {WoomyonWoods/Yellow} just opened a
+﻿[@Description]
+The{Butcher/LimeGreen}处于{沃玛森林/Yellow}just opened a
 new store. He asked me for some help. 
 
 [@TaskDescription]
-Collect 10 {牛肉卷/LightSteelBlue} by Killing {WoomaSoldier's/Crimson}
-and deliver to the {Butcher/LimeGreen} in {WoomyonWoods/Yellow}
+收集 10{牛肉卷/LightSteelBlue}by Killing{沃玛士兵's/Crimson}
+and deliver to the{Butcher/LimeGreen}处于{沃玛森林/Yellow}
 
 [@Completion]
 

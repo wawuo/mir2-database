@@ -1,11 +1,11 @@
 [@Main]
 #SAY
-<Use./@main-1> teleport to the village stores
-<News/@ask> of the village
+<使用./@main-1>传送到村庄的商店
+<新闻/@ask>的村庄
 
-<<Create Hero/@CreateHero/Green>>
-<<ReviveHero/@ReviveHero/Red>>
-<<SealHero/@SealHero/Yellow>>
+<<创建英雄/@CreateHero/Green>>
+<<复活英雄/@ReviveHero/RED>>
+<<封印英雄/@SealHero/Yellow>>
 
 [@main-1]
 #SAY
@@ -13,7 +13,7 @@
 <首饰店/@go-access>   <试剂商店/@go-pot>  <比奇内墙客栈/@go-palace>
 <书店/@go-book>  <肉店/@go-meat>
 
-<关闭/@Exit>
+<关闭/@exit>
  
 
 [@ask]

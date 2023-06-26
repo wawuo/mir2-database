@@ -3,11 +3,11 @@
 ISADMIN
 #SAY
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
-I see you have: {<$MOUNT>/CORAL}
-Mount Loyalty: {<$MOUNTLOYALTY>/CORAL}
-You need to be Lebel 22 for mounts, Your Level: {<$LEVEL>/ORANGE}
-<购买/@Buy> Mount Equipment
-<出售/@Sell> Mount Equipment
+我看到你有：{<$MOUNT>/CORAL}
+坐骑忠诚度：{<$MOUNTLOYALTY>/CORAL}
+你需要达到 22 级才能使用坐骑，你的等级：{<$LEVEL>/ORANGE}
+<购买/@Buy> 坐骑装备
+<出售/@Sell> 坐骑装备
 
 #ELSEACT
 MOVE 0 300 300
@@ -37,16 +37,16 @@ MOVE 0 300 300
 [Trade]
 孟加拉虎
 BlueTiger
-BlackLeopard
-IceLeopard
+Black豹子
+Ice豹子
 PantheraTiger
 RedTiger
 WhiteTiger
-Wolf
-BrownWolf
-BlueWolf
-BlackWolf
-WhiteWolf
+狼
+Brown狼
+Blue狼
+Black狼
+White狼
 LeatherBridle
 GoldBridle
 BronzeBell
@@ -64,3 +64,4 @@ SilverMask
 TitaniumMask
 生肉
 瘦肉精
+

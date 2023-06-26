@@ -1,11 +1,9 @@
-[@Description]
-Did you want me to make you {坎尼茶/LightSteelBlue}? Hmm.. 
-I ran out of Ingredients. Do you think you can 
-get me 10 {食人叶/LightSteelBlue} and 10 {食人花籽/LightSteelBlue}?
+﻿[@Description]
+你想让我给你做{坎尼茶/LightSteelBlue}吗？嗯...我用完了材料。
+你能帮我弄到10个{食人叶/LightSteelBlue}和10个{食人花籽/LightSteelBlue}吗？
 
 [@TaskDescription]
-Collect 10 {食人叶/LightSteelBlue} and {食人花籽's/LightSteelBlue} from 
-{CannibalPlant's/Crimson}
+收集10个{食人叶/LightSteelBlue}和{食人花籽/LightSteelBlue}来自{食人植物/Crimson}
 
 [@Completion]
 

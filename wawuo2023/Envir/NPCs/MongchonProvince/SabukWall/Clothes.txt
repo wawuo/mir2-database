@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好旅行者。我能为你做什么? 
+你好游侠.我能为你做什么? 
 
 我看到你正穿着: {<$ARMOUR>/CORAL}
 我看到你正穿着: {<$BELT>/CORAL}
@@ -24,7 +24,7 @@ GOTO @Main-1
 
 [@BuySell]
 #SAY
-Which item 想要出售或购买?
+哪个物品想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -37,7 +37,7 @@ Which item 想要出售或购买?
 
 [@Repair]
 #SAY
-你是不是想修理 drapery piece?
+你是不是想修理 衣物？
  
 <返回/@main>
 

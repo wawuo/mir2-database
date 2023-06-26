@@ -24,13 +24,13 @@ GOTO @Main-2
 
 [@Main-1]
 #SAY
-Greeting's Traveler. How are you doing on this fine day?
+问候的游侠. 在这个美好的日子里，你还好吗？
  
 <关闭/@exit>
 
 [@MAIN-2]
 #SAY
-Greeting's Traveler. I wish times could be better..
-The Emperor needs to visit his people.. 
+问候的游侠. 我希望日子能好起来. 
+皇帝需要访问他的人民... 
  
 <关闭/@exit>

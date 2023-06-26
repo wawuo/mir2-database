@@ -1,6 +1,6 @@
 [@MAIN]
 #SAY
-I miss my farther.. 
+我想念我的远方... 
 
 [Quests]
 95

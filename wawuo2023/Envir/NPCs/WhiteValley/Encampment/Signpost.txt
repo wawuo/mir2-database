@@ -1,14 +1,14 @@
 [@Main]
 #SAY
-<Use./@main-1> teleport to the village stores
+<传送./@main-1>到村庄的商店
 
 
 [@main-1]
 #SAY
 <武器店/@go-weap>   <盔甲店/@go-cloth>   <首饰店/@go-access>   
-<General Store/@go-pot>   <书店/@go-book>
+<杂货店/@go-pot>   <书店/@go-book>
 
-<关闭/@Exit>
+<关闭/@exit>
  
 [@go-weap]
 #ACT

@@ -8,8 +8,8 @@
 1/10 青铜剑 
 1/10 短弓 
 1/10 铁剑 
-1/10 骨弓
- 
+1/10 骨弓 
+  
 1/10 锋利的华剑 
 1/10 短剑 
 1/20 钩状剑 
@@ -62,6 +62,16 @@
 1/30 金戒指 
 1/50 骷髅戒指 
 
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
 ;Potions
 1/1 太阳药水(中) 
 1/1 太阳药水(中) 
@@ -92,6 +102,18 @@
 1/35 肌力辅助剂(S) 
 1/35 魔法援助(S) 
 
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
 ;Books
 1/4 击剑 
 1/4 火球 
@@ -115,4 +137,41 @@
 1/75 延迟爆炸 
 1/100 后撤步 
 1/130 元素射击 
-1/55 双响炮
+1/55 双响炮 
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

@@ -1,10 +1,9 @@
-[@Description]
-I'm sorry but we are sold out of {蛇酒/LightSteelBlue}.
-I can make you some, But you will have to bring 
-me the ingredients.
+﻿[@Description]
+对不起，我们的{蛇酒/LightSteelBlue}已经售罄了。
+我可以为你制作一些，但你必须带来原料。
 
 [@TaskDescription]
-Please collect 10 {蛇身's/LightSteelBlue} from Snakes.
+请收集10个来自{蛇/Red}的{蛇身/LightSteelBlue}
 
 [@Completion]
 

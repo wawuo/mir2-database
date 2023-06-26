@@ -2,7 +2,7 @@
 #SAY
 Ahh...where am i?
 
-<退出/@exit>
+<关闭/@exit>
 
 
 [Quests]

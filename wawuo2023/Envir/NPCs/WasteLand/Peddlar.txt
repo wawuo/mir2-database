@@ -11,13 +11,13 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 旅行者。我能帮你做什么?
+你好 游侠.我能帮你做什么?
 
 我看到你在拿着: {<$TORCH>/CORAL}
 我看到你在拿着: {<$AMULET>/CORAL}
 
 <查看/@BuySell> 商店 
-<想问/@Ask> about Item
+<想问/@Ask> 关于物品
  
 <关闭/@exit>
 
@@ -36,58 +36,55 @@ GOTO @Main-1
 
 [@Ask]
 #SAY
-I deal with <蜡烛/candle>,<Dungeonescape/dungeonescape>,
-<随机传送卷/randomteleport>,<修复油/repairoil> 与 so on forth.
-I have heard that there are <Townteleport/townteleport> which come
-from monsters only
+我处理<蜡烛/candle>,<地下城传送/Dungeonescape>
+<随机传送卷/randomteleport>,<修复油/repairoil>与等等.
+我听说有<城镇传送卷/Townteleport>，它只来自怪物。
  
 <返回/@Main>
 
 [@candle]
 #SAY
-蜡烛s are needed when it's dark. without a candle
-you can not see anything-even your foot for darkness.
+蜡烛在黑暗之时是需要的。
+你就看不到任何东西--甚至你的脚也看不到的黑暗。
  
 <返回/@Ask>
 
-[@dungeonescape]
+[@Dungeonescape]
 #SAY
-A Dungeonescape scroll is a magic paper that moves you promptly
-to certain fields near the last village you visited.
-The power of Dungeonescape scroll is weak compared with
-城镇传送阵 scrolls but it could still save your liefe.
- 
+地下城逃生卷轴是一张神奇的纸，可以迅速移动你
+到您访问的最后一个村庄附近的某些田地。
+地下城逃亡卷轴的威力比起来很弱
+城镇传送阵卷轴，但它仍然可以拯救你的谎言。
 <返回/@Ask>
-
 [@randomteleport]
 #SAY
-A Randomteleport scroll is a magic paper that can
-make you randonly move to another place in the same map.
-For example if you were in a dungeon 1st floor, you will
-move to another place on that floor by using the RT.
-If situation is dangerous but you still have potions, use this
-to help you out of a tight situation.
+随机传送卷轴是一张神奇的纸，可以
+让你只移动到同一地图中的另一个地方。
+例如，如果您在地牢 1 楼，您将
+使用 RT 移动到该楼层的另一个位置。
+如果情况很危险，但你还有药水，请使用这个
+帮助您摆脱困境。
  
 <返回/@Ask>
 
 [@repairoil]
 #SAY
-A 修复油 makes the durabillity of you hand weapon rise,
-but this oil doesn't special repair your weapon, so
-remember that then maximum durabillity of the weapon
-goes down as time goes by.
-If the weapon at your hand was not expensive,
-repair with this oil sometimes during hunting.
-This will make hunts last longer.
- 
+一油让你的手武器的硬度上升，
+但是这种油不会特别修复你的武器，所以
+请记住，然后武器的最大硬度
+随着时间的流逝而下降。
+如果你手上的武器不贵，
+有时在狩猎期间用这种油修复。
+这将使狩猎持续更长时间。
 <返回/@Ask>
-
 [@townteleport]
 #SAY
-城镇传送阵 scrolls carn't be made now because the ancient
-skill is lost.... however....
-I have heard that it may come randomly from Monsters
-and you can return to a village promptly by using it...
+城镇传送阵的卷轴现在无法制作，因为古代的技术已经失传。
+
+但是....
+我听说，它可能是随机从怪物身上
+得到的
+并且你可以通过使用它迅速返回村庄......
  
 <返回/@Ask>
 

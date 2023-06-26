@@ -1,5 +1,5 @@
 [@main]
-你好 旅行者、 I'm the craft NPC for this cave.
+你好 游侠、 I'm the craft NPC for this cave.
 What can I help you with?
 
 <Craft Items/@craft>.
@@ -11,27 +11,27 @@ What can I help you with?
 The following are the items i can forge.
 
 - Ancient重装甲  <Forge/@arm1>
-- AncientRobe         <Forge/@arm2>
+- 远古之袍         <Forge/@arm2>
 - AncientPlate        <Forge/@arm3>
 - AncientSuit         <Forge/@arm4>
 - AncientLeather      <Forge/@arm5>
    
 * It will cost 20,000 Gold to forge an item.
 
-<退出/@exit>
+<关闭/@exit>
 
 [@arm1]
 #SAY
 * Ancient重装甲
-* Defense stats : Ac 6-20 - Amc 3-7 - Dc 0-1 - Hp +10.
-* Items required for forging,
+* 数据估计: Ac 6-20 - Amc 3-7 - Dc 0-1 - Hp +10.
+* 锻造所需的物品,
 - 40 锈迹斑斑的盔甲
-- 34 RhinoLeather
-- 32 MammothLeather
+- 34 犀牛皮
+- 32 猛犸象皮
 - 30 大骨
 - 12 铠甲书(DC)
-- 10 Platinum
--  5 StrongRope
+- 10 铂金
+-  5 强力绳索
 
 <Forge Now/@arm12>    <返回/@main>
 
@@ -40,23 +40,23 @@ The following are the items i can forge.
 GENDER MALE
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM RhinoLeather 34
-CHECKITEM MammothLeather 32
+CHECKITEM 犀牛皮 34
+CHECKITEM 猛犸象皮 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(DC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM RhinoLeather 34
-TAKEITEM MammothLeather 32
+TAKEITEM 犀牛皮 34
+TAKEITEM 猛犸象皮 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(DC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEITEM Ancient重装甲(男) 1
-LINEMESSAGE "You have forged Ancient重装甲." Hint
+LINEMESSAGE "你已经锻造了Ancient重装甲." Hint
 BREAK
 CLOSE
 
@@ -67,52 +67,52 @@ GOTO @arm12F
 #IF
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM RhinoLeather 34
-CHECKITEM MammothLeather 32
+CHECKITEM 犀牛皮 34
+CHECKITEM 猛犸象皮 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(DC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM RhinoLeather 34
-TAKEITEM MammothLeather 32
+TAKEITEM 犀牛皮 34
+TAKEITEM 猛犸象皮 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(DC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEITEM Ancient重装甲(女) 1
-LINEMESSAGE "You have forged Ancient重装甲." Hint
+LINEMESSAGE "你已经锻造了Ancient重装甲." Hint
 BREAK
 CLOSE
 
 #ELSESAY
-You don't have enough ingredients.
-Please check again.In order to make the Ancient重装甲,
-* Items required for forging,
+你没有足够的材料。
+请再次检查。锻造这个物品 Ancient重装甲,
+* 锻造所需的物品,
 - 40 锈迹斑斑的盔甲
-- 34 RhinoLeather
-- 32 MammothLeather
+- 34 犀牛皮
+- 32 猛犸象皮
 - 30 大骨
 - 12 铠甲书(DC)
-- 10 Platinum
--  5 StrongRope
+- 10 铂金
+-  5 强力绳索
 
 <返回/@main>
               
 [@arm2]
 #SAY
-* AncientRobe
-* Defense stats : Ac 4-14 - Amc 5-8 - Mc 0-7 - Hp +10. 
-* Items required for forging, 
+* 远古之袍
+* 数据估计: Ac 4-14 - Amc 5-8 - Mc 0-7 - Hp +10. 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 BeastLeather
-- 32 UndeadLeather
+- 34 野兽皮
+- 32 亡灵皮革
 - 30 大骨
 - 12 铠甲书(MC)
-- 10 Platinum
--  5 StrongRope
+- 10 铂金
+-  5 强力绳索
 
 <Forge Now/@arm23>    <返回/@main>
 
@@ -122,23 +122,23 @@ Please check again.In order to make the Ancient重装甲,
 GENDER MALE
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM BeastLeather 34
-CHECKITEM UndeadLeather 32
+CHECKITEM 野兽皮 34
+CHECKITEM 亡灵皮革 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(MC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM BeastLeather 34
-TAKEITEM UndeadLeather 32
+TAKEITEM 野兽皮 34
+TAKEITEM 亡灵皮革 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(MC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
-GIVEITEM AncientRobe(男) 1
-LINEMESSAGE "You have forged AncientRobe." Hint
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
+GIVEITEM 远古之袍(男) 1
+LINEMESSAGE "你已经锻造了远古之袍." Hint
 BREAK
 CLOSE
 
@@ -149,37 +149,37 @@ GOTO @arm23F
 #IF
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM BeastLeather 34
-CHECKITEM UndeadLeather 32
+CHECKITEM 野兽皮 34
+CHECKITEM 亡灵皮革 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(MC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM BeastLeather 34
-TAKEITEM UndeadLeather 32
+TAKEITEM 野兽皮 34
+TAKEITEM 亡灵皮革 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(MC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
-GIVEITEM AncientRobe(女) 1
-LINEMESSAGE "You have forged AncientRobe." Hint
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
+GIVEITEM 远古之袍(女) 1
+LINEMESSAGE "你已经锻造了远古之袍." Hint
 BREAK
 CLOSE
 
 #ELSESAY
-You don't have enough ingredients.
-Please check again.In order to make the AncientRobe, 
-* Items required for forging, 
+你没有足够的材料。
+请再次检查。锻造这个物品 远古之袍, 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 BeastLeather
-- 32 UndeadLeather
+- 34 野兽皮
+- 32 亡灵皮革
 - 30 大骨
 - 12 铠甲书(MC)
-- 10 Platinum
--  5 StrongRope   
+- 10 铂金
+-  5 强力绳索   
 
 <返回/@main>   
 
@@ -187,15 +187,15 @@ Please check again.In order to make the AncientRobe,
 [@arm3]
 #SAY
 * AncientPlate
-* Defense stats : Ac 6-15 - Amc 5-10 - Sc 0-6 - Hp +10. 
-* Items required for forging, 
+* 数据估计: Ac 6-15 - Amc 5-10 - Sc 0-6 - Hp +10. 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 DemonLeather
+- 34 恶魔Leather
 - 32 LightLeather
 - 30 大骨
 - 12 铠甲书(SC)
-- 10 Platinum
--  5 StrongRope
+- 10 铂金
+-  5 强力绳索
 
 <Forge Now/@arm33>    <返回/@main>
 
@@ -205,23 +205,23 @@ Please check again.In order to make the AncientRobe,
 GENDER MALE
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM DemonLeather 34
+CHECKITEM 恶魔Leather 34
 CHECKITEM LightLeather 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(SC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM DemonLeather 34
+TAKEITEM 恶魔Leather 34
 TAKEITEM LightLeather 32
 TAKEITEM 大骨 30
 TAKEITEM ArmourBookSC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEitem AncientPlate(男) 1
-LINEMESSAGE "You have forged AncientPlate." Hint
+LINEMESSAGE "你已经锻造了AncientPlate." Hint
 BREAK
 CLOSE
 
@@ -232,37 +232,37 @@ GOTO @arm33F
 #IF
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM DemonLeather 34
+CHECKITEM 恶魔Leather 34
 CHECKITEM LightLeather 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(SC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM DemonLeather 34
+TAKEITEM 恶魔Leather 34
 TAKEITEM LightLeather 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(SC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEITEM AncientPlate(女) 1
-LINEMESSAGE "You have forged AncientPlate." Hint
+LINEMESSAGE "你已经锻造了AncientPlate." Hint
 BREAK
 CLOSE
 
 #ELSESAY
-You don't have enough ingredients.
-Please check again.In order to make the AncientPlate, 
-* Items required for forging, 
+你没有足够的材料。
+请再次检查。锻造这个物品 AncientPlate, 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 DemonLeather
+- 34 恶魔Leather
 - 32 LightLeather
 - 30 大骨
 - 12 铠甲书(SC)
-- 10 Platinum
--  5 StrongRope   
+- 10 铂金
+-  5 强力绳索   
 
 <返回/@main>
 
@@ -270,15 +270,15 @@ Please check again.In order to make the AncientPlate,
 [@arm4]
 #SAY
 * AncientSuit
-* Defense stats : Ac 6-15 - Amc 5-10 - Dc 0-1 - Hp +10. 
-* Items required for forging, 
+* 数据估计: Ac 6-15 - Amc 5-10 - Dc 0-1 - Hp +10. 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 MammothLeather
+- 34 猛犸象皮
 - 32 BaboonLeather
 - 30 大骨
 - 12 铠甲书(DC)
-- 10 Platinum
--  5 StrongRope
+- 10 铂金
+-  5 强力绳索
 
 <Forge Now/@arm43>    <返回/@main>
 
@@ -288,23 +288,23 @@ Please check again.In order to make the AncientPlate,
 GENDER MALE
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM MammothLeather 34
+CHECKITEM 猛犸象皮 34
 CHECKITEM BaboonLeather 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(DC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM MammothLeather 34
+TAKEITEM 猛犸象皮 34
 TAKEITEM BaboonLeather 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(DC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEITEM AncientSuit(男) 1
-LINEMESSAGE "You have forged AncientSuit." Hint
+LINEMESSAGE "你已经锻造了AncientSuit." Hint
 BREAK
 CLOSE
 
@@ -315,52 +315,52 @@ GOTO @arm43F
 #IF
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM MammothLeather 34
+CHECKITEM 猛犸象皮 34
 CHECKITEM BaboonLeather 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(DC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM DemonLeather 34
+TAKEITEM 恶魔Leather 34
 TAKEITEM BaboonLeather 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(DC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEITEM AncientSuit(女) 1 
-LINEMESSAGE "You have forged AncientSuit." Hint
+LINEMESSAGE "你已经锻造了AncientSuit." Hint
 BREAK
 CLOSE
 
 #ELSESAY
-You don't have enough ingredients.
-Please check again.In order to make the AncientSuit, 
-* Items required for forging, 
+你没有足够的材料。
+请再次检查。锻造这个物品 AncientSuit, 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 MammothLeather
+- 34 猛犸象皮
 - 32 BaboonLeather
 - 30 大骨
 - 12 铠甲书(DC)
-- 10 Platinum
--  5 StrongRope   
+- 10 铂金
+-  5 强力绳索   
 
 <返回/@main>                       
 
 [@arm5]
 #SAY
 * AncientLeather
-* Defense stats : Ac 4-16 - Amc 6-10 - Mc 1-2 - Hp +10. 
-* Items required for forging, 
+* 数据估计: Ac 4-16 - Amc 6-10 - Mc 1-2 - Hp +10. 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 BeastLeather
-- 32 MammothLeather
+- 34 野兽皮
+- 32 猛犸象皮
 - 30 大骨
 - 12 铠甲书(MC)
-- 10 Platinum
--  5 StrongRope
+- 10 铂金
+-  5 强力绳索
 
 <Forge Now/@arm53>    <返回/@main>
 
@@ -370,23 +370,23 @@ Please check again.In order to make the AncientSuit,
 GENDER MALE
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM BeastLeather 34
-CHECKITEM MammothLeather 32
+CHECKITEM 野兽皮 34
+CHECKITEM 猛犸象皮 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(MC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM BeastLeather 34
-TAKEITEM MammothLeather 32
+TAKEITEM 野兽皮 34
+TAKEITEM 猛犸象皮 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(MC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEITEM AncientLeather(男) 1
-LINEMESSAGE "You have forged AncientLeather." Hint
+LINEMESSAGE "你已经锻造了AncientLeather." Hint
 BREAK
 CLOSE
 
@@ -397,36 +397,36 @@ GOTO @arm53F
 #IF
 CHECKGOLD > 20000
 CHECKITEM 锈迹斑斑的盔甲 40
-CHECKITEM BeastLeather 34
-CHECKITEM MammothLeather 32
+CHECKITEM 野兽皮 34
+CHECKITEM 猛犸象皮 32
 CHECKITEM 大骨 30
 CHECKITEM 铠甲书(MC) 12
-CHECKITEM Platinum 10
-CHECKITEM StrongRope 5
+CHECKITEM 铂金 10
+CHECKITEM 强力绳索 5
 #ACT
 TAKEGOLD 20000
 TAKEITEM 锈迹斑斑的盔甲 40
-TAKEITEM BeastLeather 34
-TAKEITEM MammothLeather 32
+TAKEITEM 野兽皮 34
+TAKEITEM 猛犸象皮 32
 TAKEITEM 大骨 30
 TAKEITEM 铠甲书(MC) 12
-TAKEITEM Platinum 10
-TAKEITEM StrongRope 5
+TAKEITEM 铂金 10
+TAKEITEM 强力绳索 5
 GIVEITEM AncientLeather(女) 1
-LINEMESSAGE "You have forged AncientLeather." Hint
+LINEMESSAGE "你已经锻造了AncientLeather." Hint
 BREAK
 CLOSE
 
 #ELSESAY
-You don't have enough ingredients.
-Please check again.In order to make the AncientLeather, 
-* Items required for forging, 
+你没有足够的材料。
+请再次检查。锻造这个物品 AncientLeather, 
+* 锻造所需的物品, 
 - 40 锈迹斑斑的盔甲
-- 34 BeastLeather
-- 32 UndeadLeather
+- 34 野兽皮
+- 32 亡灵皮革
 - 30 大骨
 - 12 铠甲书(MC)
-- 10 Platinum
--  5 StrongRope   
+- 10 铂金
+-  5 强力绳索   
 
 <返回/@main>                                                                                                                                                                                                                                               

@@ -14,11 +14,11 @@ Please <Show me some more/@MoreV&T1> Locations
 #SAY
 Teleport to: <Fortress/@FV&T1>
 Teleport to: <Seokcho Village/@SeoVV&T1>
-Teleport to: <CastleGi-Ryoong Castle/@CRCV&T1>
+Teleport to: <幽冥帝都-Ryoong Castle/@CRCV&T1>
 Teleport to: <Taoist Village/@TVV&T1>
 Teleport to: <Prajna Town/@PTV&T1> 
 Teleport to: <PastBichon Village/@PBV&T1> Required Level30
-Teleport to: <WasteLands/@WLV&T1>
+Teleport to: <废弃之地/@WLV&T1>
 <??/@_UseItem(49)>
 
 [@BVV&T1]

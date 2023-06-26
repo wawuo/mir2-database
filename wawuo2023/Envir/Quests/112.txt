@@ -1,14 +1,14 @@
-[@Description]
+﻿[@Description]
 So for once the rumours are true.
-Please return to the {Hidden Entrance/Yellow}. 
+Please 返回 to the{Hidden Entrance/Yellow}. 
  
 [@TaskDescription]
-Eliminate some {CrawlerZombies/Crimson}.
+消灭 some{爬行僵尸s/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-CrawlerZombie 50 "Eliminate some CrawlerZombies"
+爬行僵尸 50 "消灭 some 爬行僵尸s"
 
 [@ItemTasks]
 

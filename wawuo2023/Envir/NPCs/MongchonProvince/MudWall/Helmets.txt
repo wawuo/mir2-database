@@ -11,13 +11,13 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, how may I help you?
+欢迎，有什么可以帮助你的？
 我看到你正穿着: {<$HELMET>/CORAL}
 
 <交易/@BuySell> Helmets.
 <修理/@Repair> Helmet.
  
-<关闭/@Exit>
+<关闭/@exit>
 
 [@BuySell]
 What Helmet do you want to出售或购买?
@@ -26,7 +26,7 @@ What Helmet do you want to出售或购买?
 <返回/@Main>
 
 [@BuyBack]
-Please Choose which item you wish to repurchase.
+Please Choose 哪个物品you wish to repurchase.
  
 <返回/@Main>
 

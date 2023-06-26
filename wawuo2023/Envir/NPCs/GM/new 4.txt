@@ -1,14 +1,14 @@
--Red Cavern all movements are in with Bigmap icons too.
--Red Valley now has Bigmap Icons.
--Snow Cavern door to KR fixed.
--Lunar door added to treepath.
--Ice Hell doors fixed.
--Rebirth 1-3 now fully implemented. (Check BW Board)
--Dangerous Cavern now has a minimap/bigmap.
--Pranja Temple Door icon fixed for F 7>KR + Bigmap added to KR.
--Hell Fire KR now has a minimap/bigmap.
--Stone 陷阱 AI now correct. (130 > 255)
--Rebirth Panel added to GM_Manager in r001.
--GM_传送er has had a huge rework.
--GM Stable now displays currently equipped Mount 与 Mount Loyalalty.
--@GM command added to teleport admin accounts to r001 @ 100:100.
+-红色洞穴的所有动作也都有了大地图图标. 
+-红谷现在有了大地图图标. 
+-修复了通往KR的雪洞门. 
+-月球门被添加到树道上. 
+-修复了冰地狱的门. 
+-重生1-3现在完全实现. (查看BW板)
+-危险洞窟现在有一个最小地图/bigmap. 
+-普兰亚神庙的门图标已被固定为F7>KR+大地图添加到KR中. 
+-地狱之火KR现在有了小地图/大地图. 
+-石头陷阱的AI现在正确了. (130 > 255)
+-重生面板添加到r001的GM_Manager中. 
+-GM_传送者有了一个巨大的调整. 
+-GM稳定器现在可以显示当前装备的坐骑与坐骑的忠诚度. 
+-添加了@GM命令，可以将管理员账户传送到r001 @ 100:100. 

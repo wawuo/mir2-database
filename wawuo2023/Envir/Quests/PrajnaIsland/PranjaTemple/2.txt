@@ -1,16 +1,16 @@
-[@Description]
+﻿[@Description]
 
 [@TaskDescription]
-Eliminate 20 {WindMinotaur/Crimson}, {ElecMinotaur/Crimson}, 
-{FireMinotaur/Crimson} and {IceMinotaur/Crimson}.
+消灭 20{牛魔祭祀/Crimson},{Elec牛头魔/Crimson}, 
+{牛魔将军/Crimson}和{牛魔侍卫/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ElecMinotaur 20
-FireMinotaur 20
-IceMinotaur 20
-WindMinotaur 20
+Elec牛头魔 20
+牛魔将军 20
+牛魔侍卫 20
+牛魔祭祀 20
 
 [@ItemTasks]
 

@@ -11,16 +11,16 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome. Thanks for dropping in.
+欢迎.谢谢你的光临.
  
 <查看/@BuySell> 商店
-<修理/@Repair> Weapon.
+<修理/@Repair> 武器.
  
 <关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item 想要出售或购买?
+你想买或卖什么？?
 <返回 购买/@BuyBack>
  
 <返回/@main>
@@ -33,8 +33,8 @@ Which item 想要出售或购买?
 
 [@Repair]
 #SAY
-你是不是想修理 weapon?
-Show me the weapon that needs it.
+你是不是想修理武器?
+给我看看需要的武器.
  
 <返回/@main>
 

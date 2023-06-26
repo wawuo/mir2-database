@@ -1,6 +1,6 @@
 [@Main]
 #SAY
-I'm the Cave researcher in this area.
+我是这个地区的洞穴研究员
 
 <关闭/@exit>
 

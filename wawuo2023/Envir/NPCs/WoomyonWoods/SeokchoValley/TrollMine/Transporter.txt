@@ -1,23 +1,23 @@
 [@main]
 #SAY
-Have you heard the rumours of the beast
-that lurks in the 4th floor?
+你听说过关于潜伏在四楼的野兽的传言吗？
+潜伏在四楼的野兽？
 
-<Yes/@yes>  <No/@no>
+<对极了/@yes>  <不要/@no>
 
 [@no]
 #SAY
-I'm afraid if you haven't heard of the beast
-then it's best I don't help you get to his lair.
+恐怕如果你没有听说过这个野兽
+那么我最好不要帮你去他的巢穴。
 
-<I have heard the tails/@yes> <退出/@exit>
+<我听到它尾巴的声音/@yes> <关闭/@exit>
 
 [@yes]
 #SAY
-You must prepare yourself for he is unforgiving
-Please let me know when you're ready 与 i'll take you.
+你必须做好准备，因为他是无情的。
+当你准备好了，请告诉我，我将带你走。
 
-<I'm ready/@transport> <I'm still not ready/@exit>
+<我准备好了/@transport> <我还没有准备好/@next>
 
 [@transport]
 #ACT

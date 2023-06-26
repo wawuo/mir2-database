@@ -6,6 +6,6 @@
 [@next1]
 #ACT
 MOVE EBEEBOSS
-LocalMessage "You fell through a hidden hole!" Hint
+LocalMessage "你从一个隐蔽的洞里掉下来!" Hint
 BREAK
 CLOSE

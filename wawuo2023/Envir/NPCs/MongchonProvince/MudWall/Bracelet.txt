@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, 欢迎。我能为你做什么?
+欢迎, 欢迎.我能为你做什么?
 我看到你正穿着: {左: <$BRACELET_L> 右: <$BRACELET_R>/CORAL}
 
 <查看/@BuySell> 商店
@@ -21,7 +21,7 @@ Welcome, 欢迎。我能为你做什么?
 
 [@BuySell]
 #SAY
-Which item 想要出售或购买?
+哪个物品想要出售或购买?
 <返回 购买/@BuyBack>
  
 <返回/@main>

@@ -12,7 +12,7 @@
 
 ;Rings
 
-;护身符s
+;Amulets
 
 ;Belts
 
@@ -20,13 +20,13 @@
 
 ;Stones
 
-;火炬es
+;Torches
 
 ;Potions
 
 ;Ores
 
-;肉类
+;Meat
 
 ;Crafting Materials
 
@@ -46,7 +46,7 @@
 
 ;Bells
 
-;鞍座
+;Saddle
 
 ;Ribbon
 

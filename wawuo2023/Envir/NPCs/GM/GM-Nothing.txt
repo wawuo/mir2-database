@@ -3,8 +3,8 @@
 ISADMIN
 #SAY
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
-<购买/@Buy> Nothing!
-<出售/@Sell> Nothing!
+<购买/@Buy> 未分类!
+<出售/@Sell> 未归类!
 
 #ELSEACT
 MOVE 0 300 300

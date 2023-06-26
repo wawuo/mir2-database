@@ -1,0 +1,89 @@
+;Gold
+
+;Weapons
+1/1000 米尔剑 
+1/10 王子匕首 
+1/20 灵魂之刃5 
+
+;Armours
+
+;Helmets
+
+;Necklaces
+
+;Bracelets
+
+;Rings
+1/200 米尔戒指 
+1/20 红玉戒指 
+1/20 道德戒指 
+1/20 紫罗兰指环 
+1/20 驱逐戒指 
+
+;Amulets
+
+;Belts
+
+;Boots
+1/20 红玉鞋 
+1/200 米尔靴 
+
+;Stones
+1/20 动力石(XL) 
+
+;Torches
+
+;Potions
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+1/100 白狼 
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+1/20 鞍座 
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

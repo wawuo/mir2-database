@@ -11,8 +11,8 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 <$USERNAME>, Are you a beginner in this game?
-Please press ('H') to bring up the help menu.
+你好<$USERNAME>, 你是这个游戏的初学者吗？
+请按（'H'）调出帮助菜单.
  
 <关闭/@exit>
 

@@ -1,12 +1,12 @@
 [@MAIN]
 #SAY
-你好 旅行者。我能帮你做什么?
+你好 游侠.我能帮你做什么?
 
 我看到你在拿着: {<$TORCH>/CORAL}
 我看到你在拿着: {<$AMULET>/CORAL}
 
 <查看/@BuySell> 商店 
-<想问/@Ask> about Item.
+<想问/@Ask> 关于物品.
  
 <关闭/@exit>
 
@@ -25,74 +25,41 @@
 
 [@Ask]
 #SAY
-I deal with <蜡烛/candle>,<Dungeonescape/dungeonescape>,
-<随机传送卷/randomteleport>,<修复油/repairoil> 与 so on forth.
-I have heard that there are <Townteleport/townteleport> which come
-from monsters only
+我处理<蜡烛/candle>，<地牢逃脱卷/Dungeonescape>、
+<随机传送卷/randomteleport>,<修复油/repairoil>与等等.
+我听说，有一些<城镇传送卷/townteleport>只来自于怪物.
+妖怪的.
  
 <返回/@Main>
 
 [@candle]
 #SAY
-蜡烛s are needed when it's dark. without a 蜡烛
-you can not see anything-even your foot for darkness.
+天黑的时候需要蜡烛.
+你就看不见任何东西--甚至你的脚也看不见，因为天黑了.
  
 <返回/@Ask>
 
-[@dungeonescape]
+[@Dungeonescape]
 #SAY
-A Dungeonescape scroll is a magic paper that moves you promptly
-to certain fields near the last village you visited.
-The power of Dungeonescape scroll is weak compared with
-城镇传送阵 scrolls but it could still save your life.
+地牢逃脱卷卷轴是一张神奇的纸，它能让你迅速地移动到
+到你最后访问的村庄附近的某些地方.
+与城镇传送卷轴相比，地牢逃脱卷的力量很弱，但它仍能救你一命.
  
 <返回/@Ask>
 
 [@randomteleport]
 #SAY
-A Randomteleport scroll is a magic paper that can
-make you randonly move to another place in the same map.
-For example if you were in a dungeon 1st floor, you will
-move to another place on that floor by using the RT.
-If situation is dangerous but you still have potions, use this
-to help you out of a tight situation.
+随机传送卷轴是一张魔法纸，它可以
+让你随意移动到同一地图的另一个地方.
+例如，如果你在一个地下城的第一层，你将
+通过使用随机传送卷轴移动到该层的另一个地方.
+如果情况很危险但你还有药水，用这个
+来帮助你摆脱困境.
  
 <返回/@Ask>
 
 [@repairoil]
 #SAY
-A 修复油 makes the durabillity of you hand weapon rise,
-but this oil doesn't special repair your weapon, so
-remember that then maximum durabillity of the weapon
-goes down as time goes by.
-If the weapon at your hand was not expensive,
-repair with this oil sometimes during hunting.
-This will make hunts last longer.
- 
-<返回/@Ask>
-
-[@townteleport]
-#SAY
-城镇传送阵 scrolls carn't be made now because the ancient
-skill is lost.... however....
-I have heard that it may come randomly from Monsters
-and you can return to a village promptly by using it...
- 
-<返回/@Ask>
-
-[Types]
-8
-12
-
-[Trade]
-蜡烛
-火炬
-随机传送卷
-城镇传送阵
-地牢逃脱
-护身符
-修复油
-
-[Quests]
- 
-<关闭/@exit>
+修复油能使你的武器耐用性提高、
+但这种油并不能特别修复你的武器，所以
+请记

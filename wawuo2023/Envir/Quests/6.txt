@@ -1,14 +1,14 @@
-[@Description]
-Traveller.. I still think its to dangerous outside.
-Can you do a another favour for me?
+﻿[@Description]
+旅行者... 我还是觉得外面太危险了.
+你能再帮我一个忙吗？
 
 [@TaskDescription]
-Eliminate 10 {HookingCat's/Crimson}
+消灭10只{钩爪猫咪/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-HookingCat 10
+钩爪猫咪 10
 
 [@ItemTasks]
 

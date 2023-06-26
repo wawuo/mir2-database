@@ -1,14 +1,14 @@
-[@Description]
-Travel deep within {RedValley/Yellow} and Slay the
-{RedMoonEvil/Crimson}.
+﻿[@Description]
+Travel deep within{红色峡谷/Yellow}和 Slay the
+{赤月恶魔/Crimson}.
 
 [@TaskDescription]
-Eliminate the {RedMoonEvil/Crimson}.
+消灭 the{赤月恶魔/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-RedMoonEvil 1
+赤月恶魔 1
 
 [@ItemTasks]
 

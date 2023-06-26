@@ -1,11 +1,82 @@
 ;Gold
 1/10 Gold 100
 
+;Weapons
+
+;Armours
+
+;Helmets
+
+;Necklaces
+
+;Bracelets
+
+;Rings
+
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
+;Potions
+
+;Ores
+
+;Meat
+
 ;Crafting Materials
 1/3 蜘蛛牙 
-1/10 蜘蛛网
+1/10 蜘蛛网 
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
 
 ;Quest
 1/3 毒药袋 Q
-1/3 网络 Q
+1/3 网 Q
 1/7 蜘蛛腿 Q
+
+;Awakening
+
+;Pets
+
+;Transform
+

@@ -3,11 +3,10 @@
 ISADMIN
 #SAY
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
-I see you have {<$HP> | <$MAXHP> HP/RED} 与 {<$MP> | <$MAXMP> MP/ROYALBLUE}
-<购买/@Buy> Potion
-<出售/@Sell> Potion
- 
-Tip: Use {@superman/LIMEGREEN} for an infinite amount of HP 与 MP.
+我看到你有 {<$HP> | <$MAXHP> HP/RED} 和 {<$MP> | <$MAXMP> MP/ROYALBLUE}.
+<购买/@Buy> 药水
+<出售/@Sell> 药水
+提示：使用{@superman/LIMEGREEN}可以获得无限的HP和MP.
 
 #ELSEACT
 MOVE 0 300 300
@@ -43,8 +42,8 @@ Mackeral
 (MP)药物中量
 (MP)药物大量
 (MP)药物XL
-SunPotion
-SunPotion(男)
+阳光普照
+阳光普照(男)
 Ginseng
 OldGinseng
 HealthBooster

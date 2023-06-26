@@ -1,8 +1,8 @@
-[@Description]
+﻿[@Description]
 BichonWall Bounty, Has been submitted.
 
 [@TaskDescription]
-Collect {5 金色七叶树s/LightSteelBlue}. 
+收集{5 金色七叶树s/LightSteelBlue}. 
 
 [@Completion]
 

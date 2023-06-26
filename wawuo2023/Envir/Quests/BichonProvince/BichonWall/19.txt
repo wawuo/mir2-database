@@ -1,11 +1,9 @@
-[@Description]
-I'm making special armour useing {罕见的铜矿石/LightSteelBlue}.
-You can find these from the {Zombies/Crimson} in the 
-{Dead mine/Yellow}. 
+﻿[@Description]
+我正在用{罕见的铜矿石/LightSteelBlue}制作特殊的盔甲。你可以在{Dead mine/Yellow}的
+{僵尸/Crimson}那里找到这些。
 
 [@TaskDescription]
-Find 10 {罕见的铜矿石/LightSteelBlue} by hunting {Zombies/Crimson}.
-
+通过狩猎{僵尸/Crimson}找到10个{罕见的铜矿石/LightSteelBlue}。
 [@Completion]
 
 [@KillTasks]

@@ -1,53 +1,77 @@
 ;Gold
 1/10 Gold 1150
 
-;Pots + Other
-1/15 (HP)药物XL
-1/15 (MP)药物XL
-1/40 太阳药水
-1/40 太阳药水
-
 ;Weapons
 
-
-;Armour
-
+;Armours
 
 ;Helmets
 
-
-;Necklace
-
+;Necklaces
 
 ;Bracelets
 
-
 ;Rings
 
-
-;Shoes
-
+;Amulets
 
 ;Belts
 
+;Boots
 
-;Medals
+;Stones
 
+;Torches
 
-;Shields
+;Potions
 
+;Ores
 
-;Pads
+;Meat
 
+;Crafting Materials
 
-;Stone
+;Scrolls
 
+;Gems
+
+;Mount
 
 ;Books
 
+;Nothing
 
-;CraftingMaterials
+;Script
 
+;Reins
 
-;Quests
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
 

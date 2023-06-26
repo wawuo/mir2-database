@@ -1,11 +1,9 @@
-[@Description]
-You are the traveller {Jane/LimeGreen} recommended.
-Please can you hunt {Deer/Crimson} and bring me some 
-{Deer 肉类/LightSteelBlue}. If you want to know more about 
-butchering please press "H".
+﻿[@Description]
+你是{Jane/LimeGreen}推荐的旅行者吧？
+请你猎取{鹿/Crimson}并带给我一些{鹿肉/LightSteelBlue}.如果你想了解更多关于 请按 "H "键.
 
 [@TaskDescription]
-Collect {Deer 肉类/LightSteelBlue} by Hunting {Deer's/Crimson}
+通过猎杀{鹿/LightSteelBlue}收集{鹿肉/Crimson}.
 
 [@Completion]
 

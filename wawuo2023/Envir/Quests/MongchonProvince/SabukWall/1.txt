@@ -1,11 +1,11 @@
-[@Description]
+﻿[@Description]
 I'm a fool! I've lost the Oldest Book's around.
-I was visiting {SabukWall/Yellow} and fell then the
-next thing i knew. I was surround by {Zombies/Crimson}.
+I was visiting{SabukWall/Yellow}和 fell then the
+next thing i knew. I was surround by{僵尸s/Crimson}.
 
 [@TaskDescription]
-Find the Hidden Entrance in {SabukWall/Yellow} and find 
-the {BichonTales/LightSteelBlue}.
+Find the Hidden Entrance in{SabukWall/Yellow}和 find 
+the{比奇Tales/LightSteelBlue}.
 
 [@Completion]
 

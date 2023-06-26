@@ -11,8 +11,8 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome traveller,
-I sell Items for your Tiger! Please take alook!
+欢迎游侠、
+我为你的老虎出售物品! 请看一下吧!
  
 <查看/@BuySell> 商店
  
@@ -21,7 +21,7 @@ I sell Items for your Tiger! Please take alook!
 
 [@BuySell]
 #SAY
-What 想要 purchase?
+想要购买什么？
  
 <返回/@main>
 

@@ -1,10 +1,9 @@
-[@Description]
-That body seems to be one {Vincent/LimeGreen} is looking 
-for. The necklace matches the description 
-{Vincent/LimeGreen} gave.
+﻿[@Description]
+这具尸体似乎是{文森特/LimeGreen}正在寻找的人。
+的人。这条项链符合 {Vincent/LimeGreen}给的描述。
 
 [@TaskDescription]
-Return the {古老的颈链/LightSteelBlue} to {Vincent/LimeGreen}.
+返回{古老的颈链/LightSteelBlue}至{Vincent/LimeGreen}。
 
 [@Completion]
 

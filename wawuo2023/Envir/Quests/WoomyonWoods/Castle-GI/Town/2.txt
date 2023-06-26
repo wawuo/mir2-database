@@ -1,11 +1,10 @@
-[@Description]
-I got a message from {WoomyonWoods/Yellow} asking for 
-some help. Can you go to {WoomyonWoods/Yellow} and 
-help then with the trouble in {InsectCave/Yellow}? 
+﻿[@Description]
+我收到了来自{沃玛森林/Yellow}的信息，要求提供一些帮助
+你能不能{去沃玛森林/Yellow}和{解决蜈蚣洞/Yellow}中的问题? 
 
 [@TaskDescription]
-Please go speak to {MasterShok/LimeGreen} in
-{WoomyonWoods/Yellow}.
+快去{沃玛森林/Yellow}. 找{MasterShok/LimeGreen}说话
+
 
 [@Completion]
 

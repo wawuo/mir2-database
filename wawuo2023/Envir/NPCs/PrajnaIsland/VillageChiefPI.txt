@@ -25,7 +25,7 @@ GOTO @Main-1
  According to the legend, 1000 years ago there was an
  epic war, to decide the fate of the world. It happened
  right here on this island... The evil forces from their
- dark, underground lair rose from the earth, using the
+ 暗之, underground lair rose from the earth, using the
  island as a channel to invade the world. 
  <Next/@next1>
 
@@ -88,7 +88,7 @@ GOTO @Main-1
  <Next/@next7>
 
 [@next7]
- The frightened willagers could not bear any more
+ The frightened willagers could not 熊 any more
  与 called a famous shaman for an exorcism.
  Maybe because of the exorcism or something
  else, never again we have experienced

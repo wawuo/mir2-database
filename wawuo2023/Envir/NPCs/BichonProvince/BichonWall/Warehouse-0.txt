@@ -11,11 +11,11 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 旅行者 有什么事?
+你好 游侠 有什么事?
  
-<存取/@Storage> Storage
+<存取/@Storage> 仓库
 
-你有 <$PARCELAMOUNT> 包裹等着你。
+你有 <$PARCELAMOUNT> 包裹等着你.
 请到客栈内拜访玛丽
  
 <关闭/@exit>

@@ -1,12 +1,8 @@
-[@Description]
-Do you know how to get to {CastleGi-Ryoong/Yellow}? I 
-need to send a 烹饪书 to {Butcher Jim/LimeGreen} in
-{CastleGi-Ryoong/Yellow}? 
-
+﻿[@Description]
+你知道怎么去{CastleGi-Ryoong/Yellow}吗？我需要把一本秘方送到{CastleGi-Ryoong/Yellow}的{Butcher Jim/LimeGreen}那里。
 
 [@TaskDescription]
-Head North through {WoomyonWoods/Yellow} and
-deliver the {烹饪书/LightSteelBlue} to {Jim/LimeGreen} in {CastleGi-Ryoong/Yellow}
+穿过{沃玛森林/Yellow}向北走，把{秘方/LightSteelBlue}送到{CastleGi-Ryoong/Yellow}的{Jim/LimeGreen}那里。
 
 [@Completion]
 

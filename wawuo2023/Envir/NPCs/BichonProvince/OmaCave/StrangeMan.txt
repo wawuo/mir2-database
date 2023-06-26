@@ -1,7 +1,7 @@
 [@MAIN]
 #SAY
-A strong monster called 骨头Elite lives in OmaCave
-It's difficult to kill the monster.. If you face
-the monster.. run away!
+在兽人洞穴有一个强大的怪物，叫做骷髅精英.
+要杀死这个怪物是很困难的.如果你面对
+的时候......赶紧跑吧!
 <Ok/@exit>
 

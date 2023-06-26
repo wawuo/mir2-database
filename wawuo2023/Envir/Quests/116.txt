@@ -1,9 +1,9 @@
-[@Description]
+﻿[@Description]
 Please report to my Commanding Officer in 
-{BichonProvince/Yellow}.
+{比奇省/Yellow}.
 
 [@TaskDescription]
-Report to {SubjugationManager/LimeGreen} 
+Report to{SubjugationManager/LimeGreen}
 
 [@Completion]
 

@@ -1,10 +1,10 @@
-[@Description]
+﻿[@Description]
 Traveler, Can you please assist me? I placed an 
-order with {Ann/LimeGreen} in {BichonWall/Yellow} but this 
+order with{Ann/LimeGreen}处于{比奇Wall/Yellow}but this 
 was ages ago.. Can you enquire about my order.
 
 [@TaskDescription]
-Please travel to {BichonWall/Yellow} and speak to {Ann/LimeGreen}
+Please 前往{比奇Wall/Yellow}和 找他说话：{Ann/LimeGreen}
 the Drapery Merchant.
 
 [@Completion]

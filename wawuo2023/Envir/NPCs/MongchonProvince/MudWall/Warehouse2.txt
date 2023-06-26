@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 旅行者、 欢迎。我能为你做什么? 
+你好 游侠、 欢迎.我能为你做什么? 
  
 <交换/@mbind> 材料
  
@@ -20,7 +20,7 @@ GOTO @Main-1
 [@mbind]
 #SAY
 我可以用金条、金条包和金柜换成{Gold/Gold}.
-告诉我你的愿望。
+告诉我你的愿望.
  
 交换: <金条/@GBar>  变成  {Gold/GOLD} --收费{(2000 Gold)/Gold}
 交换: <金条包/@GBBundle>  变成  {Gold/GOLD} --收费{(10000 Gold)/Gold}

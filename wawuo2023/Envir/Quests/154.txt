@@ -1,12 +1,11 @@
-[@Description]
-The {Emperor/LIMEGREEN} is under my protection.
-The morale of the City is desire. Prove you are 
-worthey
+﻿[@Description]
+{皇帝/LIMEGREEN}是在我的保护下。
+城市的士气是欲望。
+证明你是他们的人
  
 [@TaskDescription]
-Spread good morale about the {Emperor/LIMEGREEN} in the 
-City. And I will accompany you to give him 
-the status of the current morale.
+传播关于{皇帝/LIMEGREEN}所在城市的良好士气。我将陪同你向他汇报目前的士气状况。
+目前士气的状况。
 
 [@Completion]
 

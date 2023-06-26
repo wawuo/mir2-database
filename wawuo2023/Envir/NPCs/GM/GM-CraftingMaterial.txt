@@ -3,8 +3,8 @@
 ISADMIN
 #SAY
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
-<购买/@Buy> Crafting Material
-<出售/@Sell> Crafting Material
+<购买/@Buy> 手工制作材料
+<出售/@Sell> 手工制作材料
 
 #ELSEACT
 MOVE 0 300 300

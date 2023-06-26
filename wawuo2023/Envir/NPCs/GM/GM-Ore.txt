@@ -3,8 +3,8 @@
 ISADMIN
 #SAY
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
-<购买/@Buy> Ore
-<出售/@Sell> Ore
+<购买/@Buy> 矿石
+<出售/@Sell> 矿石
 
 #ELSEACT
 MOVE 0 300 300
@@ -33,7 +33,7 @@ GoldOre
 黑铁矿
 Amethyst
 Ruby
-Platinum
+铂金
 Nephrite
 AdamintineOre
 EmeraldOre

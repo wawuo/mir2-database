@@ -1,18 +1,18 @@
-[@Description]
+﻿[@Description]
 Hello young Mirian, I'm planning going to
-{MongchonProvince/Yellow} frequently, but i haven't left
+{盟重省/Yellow}frequently, but i haven't left
 this town because of the snake on the way. 
-Do you think you can eliminate some of those 
+Do you think you can 消灭 some of those 
 snakes?
 
 [@TaskDescription]
-Eliminate 15 {RedViper/Crimson} and {TigerViper's/Crimson}
+消灭 15{红毒蛇/Crimson}和{虎毒蛇's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-RedViper 15
-TigerViper 15
+红毒蛇 15
+虎毒蛇 15
 
 [@ItemTasks]
 

@@ -1,17 +1,88 @@
+;Gold
+1/1 Gold 8500
+
+;Weapons
+
+;Armours
+
+;Helmets
+
+;Necklaces
+
+;Bracelets
+
+;Rings
+
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
+;Potions
+
+;Ores
+
+;Meat
+
 ;Crafting Materials
-
 1/2 棕色栗子 
 1/2 棕色栗子 
 1/2 棕色栗子 
-
 1/4 青铜板栗 
 1/4 青铜板栗 
-
 1/8 银色七叶树 
 1/8 银色七叶树 
-
 1/10 金色七叶树 
 1/10 金色七叶树 
+1/4 木材 
+1/10 木材 
 
-1/4 木材
-1/10 木材
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

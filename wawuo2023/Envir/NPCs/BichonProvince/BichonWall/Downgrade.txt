@@ -11,20 +11,20 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome <$USERNAME>, I Purchase Awakening Items
+欢迎<$USERNAME>，我购买觉醒道具
  
-<出售/@Sell> Awakening Items.
-<Disassemble/@Disassemble> Items.
+<出售/@Sell> 觉醒道具.
+<拆卸/@Disassemble> 物品s.
  
 [@Sell]
 #SAY
-Show me the Item you wish to 出售
+向我展示你的物品 出售
  
 <返回/@main>
 
 [@Disassemble]
 #SAY
-Choose which Item you wish to Disassemble.
+选择你想拆解的物品.
  
 <返回/@Main>
 

@@ -14,7 +14,7 @@ selling 10 Brown Chestnuts!
 
 <What is the/@info1> Infinite Bout?
 <I Will Challenge/@challenge1>
-<下次吧 time/@Exit>
+<下次吧 time/@next>
 
 [@info1]
 #SAY
@@ -24,7 +24,7 @@ monsters that will keep appearing all by themself.
 It is a chance to prove your true power and
 potential to the very limit.
 
-<What/@info2> should I bear in mind?
+<What/@info2> should I 熊 in mind?
 
 [@info2]
 #SAY
@@ -44,7 +44,7 @@ Or give it a go?
 
 I want to <hear it again./@info1>
 <Challenge!/@challenge2>
-<下次吧 time/@Exit>
+<下次吧 time/@next>
 
 [@challenge1]
 #SAY

@@ -1,15 +1,15 @@
-Quest 154 Start at Commander Luke.
+任务154 在指挥官卢克处开始. 
 ========================================================
-Civilian 1 Adds SET [539]
-Civilian 2 Does nothing
+平民1增加SET [539] . 
+平民2 没有任何作用
 ========================================================
-Civilian 3 Does nothing (Add Future Quest)
-Civilian 4 Does nothing
-Civilian 5 Adds SET [541] Cannot have SET [540] Active.
-Civilian 6 Does nothing
+平民3 什么都不做（增加未来任务）. 
+平民4 无所作为
+平民5 添加SET [541] 不能有SET [540] 活动. 
+平民6 无所作为
 ========================================================
-Civilian 7 Removes SET [539] & [541]
-Civilian 8 Adds SET [540] (Add Future Quests)
-Civilian 9 Removes SET [540]
+平民7 移除SET [539] 和 [541] . 
+平民8添加SET[540]（添加未来任务）. 
+平民9 移除SET[540]. 
 ========================================================
-Civilian 10 Does nothing
+平民10 什么都不做

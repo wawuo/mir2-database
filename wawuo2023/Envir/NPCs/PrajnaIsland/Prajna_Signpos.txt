@@ -1,12 +1,12 @@
 [@main]
 #SAY
 
-<Use./@main-1> teleport to the village stores
+<ä¼ é€./@main-1>åˆ°æ‘åº„çš„å•†åº—
 
 [@main-1]
 #SAY
-<ÎäÆ÷µê/@weap>   <¿ø¼×µê/@cloth>
-<Reagent store/@pot>   <Ê×ÊÎµê/@jewel>
+<æ­¦å™¨åº—/@weap>   <ç›”ç”²åº—/@cloth>
+<è¯•å‰‚å•†åº—/@pot>   <é¦–é¥°åº—/@jewel>
 <Village Chief House/@chief>  
 
 [@jewel]

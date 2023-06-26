@@ -11,18 +11,18 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-欢迎来到米尔世界。
-指导新手是我的工作。
+欢迎来到米尔世界.
+指导新手是我的工作.
 有什么我可以帮忙的吗？
 
-<Hunting info by each level/@hunting>
-<Combat & Skill info/@combat>
-<Basic information/@basic>
+<升级/@hunting> >
+<战斗和技能/@combat>
+<基本信息/@basic>
 
 [@hunting]
 #SAY
-以你在米尔世界的水平，知道在哪里打猎是明智的。
-你可以随时问我，我很乐意为你提供指导。
+以你在米尔世界的水平，知道在哪里打猎是明智的.
+你可以随时问我，我很乐意为你提供指导.
 <level 1~11/@level1-11>
 <level 11~21/@level11-21>
 <level 21~30/@level21-30>
@@ -33,10 +33,10 @@ GOTO @Main-1
 
 [@level1-11]
 #SAY
-开始在镇子周围打猎与进一步移动。
+开始在镇子周围打猎与进一步移动.
 比奇省, 沃玛森林, 盟重省, 桃源村、
-和吉良城堡是主要的狩猎区。
-请按B键查看整个地图。
+和幽冥帝都是主要的狩猎区.
+请按B键查看整个地图.
 
 <LV1~3/@lvl1-3>      <LV3~7/@lvl3-7>      <LV7~11/@lvl7-11>
 
@@ -44,7 +44,7 @@ GOTO @Main-1
 
 [@lvl1-3]
 #SAY
-如果你想安全地打猎，可以在城镇附近试试母鸡、鹿和羊。
+如果你想安全地打猎，可以在城镇附近试试母鸡、鹿和羊.
 他们不会攻击你，你可以击倒他们并挖他们的肉
 <肉/@slicemeat>卖给村里的屠夫
 
@@ -54,10 +54,10 @@ GOTO @Main-1
 [@slicemeat]
 #SAY
 切肉： 对鸡、鹿等家畜身上按（Alt+左键）点击这些动物的
-尸体会出现切肉动作，获得肉类。
+尸体会出现切肉动作，获得肉类.
 
-采矿： 装备镐头进行采矿。左键会自动进行采矿。
-获得的矿物将作为原材料用于制作物品或出售。
+采矿： 装备镐头进行采矿.左键会自动进行采矿.
+获得的矿物将作为原材料用于制作物品或出售.
 
 <返回/@basic>              <到下一步/@slicemeatnext>
 
@@ -65,35 +65,35 @@ GOTO @Main-1
 #SAY
 Medicinal 材料: You can acquire some medicinal 材料 from dead body of
 some monsters when taken such slicing meat action.
-( SpittingSpider, CannibalPlant, CaveMaggot )
+( 喷射蜘蛛, 食人植物, 洞穴蛆虫 )
 
 Item: You can acquire some item from dead body of some
 monsters when taken such slicing meat action.
-( SpiderBat, ToxicGhoul, Dung, etc )
+( 蜘蛛蝙蝠, 毒食尸鬼, 粪便, etc )
 
 <返回/@basic>                <回到主页面/@main>
 
 [@lvl3-7]
 #SAY
-Once you go far away from town, hunt HookingCat, RakingCat, Yob, Wolf,
-ShellNipper, Keratoid 与 etc.
+Once you go far away from town, hunt 钩爪猫咪, 抓爪猫咪, 流氓青年, 狼,
+壳夹子, 角质虫 与 etc.
 
 <返回/@level1-11>            <回到主页面/@main>
 
 [@lvl7-11]
 #SAY
 You can learn a special skill from Level 7.
-The combat abillity will be increased, so try Oma, ForestYeti, CannibalPlant,
-VisceralWorm, SpittingSpider 与 etc at this time.
+The combat abillity will be increased, so try 半兽人, 森林雪人, 食人植物,
+内脏虫, 喷射蜘蛛 与 etc at this time.
 But be specially aware of poison from Spitting Spider.
 
 <返回/@level1-11>              <回到主页面/@main>
 
 [@level11-21]
 #SAY
-从第11级就可以进入地牢了。这是一个黑暗的地方，蜡烛
-和传送门卷轴被认为是必不可少的物品。
-此外，准备好足够的药水，因为它们远离城镇。
+从第11级就可以进入地牢了.这是一个黑暗的地方，蜡烛
+和传送门卷轴被认为是必不可少的物品.
+此外，准备好足够的药水，因为它们远离城镇.
 
 <LV 11~14/@lvl11-14>      <LV 14~17/@lvl14-17>      <LV 17~22/@lvl17-22>
 
@@ -102,65 +102,65 @@ But be specially aware of poison from Spitting Spider.
 [@lvl11-14]
 #SAY
 如果你希望安全狩猎，可以试试红蛇、
-虎蛇，与在蛇谷与奥玛战士。
+虎蛇，与在蛇谷与奥玛战士.
 如果你是一个学习了地狱之火技能的巫师，
-那么你就可以尝试一下，这是最值得推荐的。
+那么你就可以尝试一下，这是最值得推荐的.
 
 <返回/@level11-21>         <回到主页面/@main>
 
 [@lvl14-17]
 #SAY
-如果你希望获得更高的经验。去比丘省西北部的OmaCave
-的西北方。这是米尔世界的第一个地牢，在那里出现了CaveBat、
-CaveMaggot, 与Skeleton出现。
-带上蜡烛、传送门卷轴和足够的药水。
-它位于离城镇很远的地方。
-但要特别注意CaveMaggot的毒药。你会被麻痹。
+如果你希望获得更高的经验.去比丘省西北部的半兽人Cave
+的西北方.这是米尔世界的第一个地牢，在那里出现了洞穴蝙蝠、
+洞穴蛆虫, 与骷髅兵出现.
+带上蜡烛、传送门卷轴和足够的药水.
+它位于离城镇很远的地方.
+但要特别注意洞穴蛆虫的毒药.你会被麻痹.
 <返回/@level11-21>                 <回到主页面/@main>
 
 [@lvl17-22]
 #SAY
-去比奇省西部的死亡矿井或伍米扬森林西南部的昆虫洞。
-在沃玛森林的西南方。这个地方可能会让你很难受，
-因为被杀死的僵尸会不断复活几次。巫师的霹雳火在这
-个地方非常有效。
+去比奇省西部的死亡矿井或伍米扬森林西南部的昆虫洞.
+在沃玛森林的西南方.这个地方可能会让你很难受，
+因为被杀死的僵尸会不断复活几次.巫师的 雷电术在这
+个地方非常有效.
 
 <返回/@level11-21>                   <回到主页面/@main>
 
 [@level21-30]
 #SAY
 建议去死亡谷，沃玛神庙、
-矿物矿在20级的前半段。
-而在30至35级时去斜角石墓或树径。
-在战斗中会有不可阻挡的紧张气氛。
+矿物矿在20级的前半段.
+而在30至35级时去斜角石墓或树径.
+在战斗中会有不可阻挡的紧张气氛.
 
 <返回/@hunting>                      <回到主页面/@main>
 
 [@level31-40]
 #SAY
-PrajnaIsland是30-40级的最佳狩猎区。
-Prajna field, PrajnaStoneCave是30级前半段的好地方。
-30级的一半。
-35至40级时去PrajnaTemple。
-红谷是这个级别的一个替代选择。
+PrajnaIsland是30-40级的最佳狩猎区.
+Prajna field, PrajnaStoneCave是30级前半段的好地方.
+30级的一半.
+35至40级时去PrajnaTemple.
+红谷是这个级别的一个替代选择.
 
 <返回/@hunting>                   <回到主页面/@main>
 
 [@level41]
 #SAY
-一旦你达到了这个级别，就去蒙村东部的祖玛寺。
-省。建议结伴而行，因为在这里单干是非常困难的。
+一旦你达到了这个级别，就去蒙村东部的祖玛寺.
+省.建议结伴而行，因为在这里单干是非常困难的.
 当你习惯了这个地方后，去Prajna野外的时间石旁的PastBichon
-在Prajna地区。
-你会遇到可怕的怪物与火龙。
+在Prajna地区.
+你会遇到可怕的怪物与火龙.
 
 <返回/@hunting>                   <回到主页面/@main>
 
 [@combat]
 #SAY
-你必须是一个坚强的斗士，才能在米尔世界生存。第一个要求是
-使自己熟悉各种技能和战斗。
-技能。随时可以问我，我很乐意为你提供指导。
+你必须是一个坚强的斗士，才能在米尔世界生存.第一个要求是
+使自己熟悉各种技能和战斗.
+技能.随时可以问我，我很乐意为你提供指导.
 
 <Skill learning & method/@skilllearning>
 <Warrior skill/@warrskill>
@@ -172,14 +172,14 @@ Prajna field, PrajnaStoneCave是30级前半段的好地方。
 
 [@skilllearning]
 #SAY
-1) 获得你的水平的技能书。(初级和中级技能书在镇上的书店出售。
-镇上的书店出售。高级技能书将在猎杀怪物时获得）。
-技能书会消失，并显示信息。
-2) 双击你库存中的技能书。
+1) 获得你的水平的技能书.(初级和中级技能书在镇上的书店出售.
+镇上的书店出售.高级技能书将在猎杀怪物时获得）.
+技能书会消失，并显示信息.
+2) 双击你库存中的技能书.
 如果它与你的工作和等级相符、
-它就会消失并出现成功信息。
-3) 打开技能屏幕（F11），激活所学技能。
-(决定哪一个键将被用于快速插槽）。
+它就会消失并出现成功信息.
+3) 打开技能屏幕（F11），激活所学技能.
+(决定哪一个键将被用于快速插槽）.
 
 <返回/@combat>                                    <Go to Next/@skilllearningnext>
 
@@ -206,8 +206,8 @@ Remember, Warrior skills are all melee type.
 [@wizskill]
 #SAY
 巫师技能第1页：
-巫师技能的特点是都是远距离攻击，有些则是多段攻击。
-多重攻击。但它会消耗很多MP。
+巫师技能的特点是都是远距离攻击，有些则是多段攻击.
+多重攻击.但它会消耗很多MP.
 
 <Fireball 7/@fireball>     <Hellfire 16/@hellfire>     <火墙 24/@fwall>
 <斥力 12/@repulse>     <Thunderbolt 17/@tbolt>     <闪电 26/@lightning>
@@ -224,7 +224,7 @@ Wizard skill page 2:
 <亡灵转化 32/@turnundead>     <火焰场 42/@ffield>
 <吸血术 33/@vamp>     <暴风雪 44/@blizzard>
 <冰风暴 35/@冰风暴>   <流星打击 49/@meteor>
-<火焰破坏者 38/@fdisrupt>
+<火焰break坏者 38/@fdisrupt>
 
 <返回/@combat>                   <回到主页面/@main>
 
@@ -234,9 +234,9 @@ Taoist skill page 1:
 Only Taoists can use tallisman or poison as one of the skills.
 
 <疗伤 7/@healing>     <召唤骷髅 19/@summonskel>     <启示 23/@rev>
-<精神之剑 9/@ssword>     <躲藏 20/@hiding>     <受祝福的盔甲 25/@blessarm>
-<中毒 14/@poison>     <大规模躲藏 21/@masshide>     <能量反击器 27/@energyrep>
-<灵魂火球 18/@sfb>   <灵魂盾牌 22/@soulshield>   <陷阱六边形 28/@陷阱hex>
+<精神之剑 9/@ssword>     <隐身术 20/@hiding>     <受祝福的盔甲 25/@blessarm>
+<中毒 14/@poison>     <大规模隐身术 21/@masshide>     <能量反击器 27/@energyrep>
+<灵魂火符 18/@sfb>   <灵魂盾牌 22/@soulshield>   <陷阱六边形 28/@陷阱hex>
 
 <返回/@combat>                         <Go to Next/@taoskill2>
 
@@ -530,7 +530,7 @@ MP will be consumed.
 
 [@fdisrupt]
 #SAY
-火焰破坏者 (Level 38)
+火焰break坏者 (Level 38)
 
 Create a powerful column on enemy no matter of any obstacles.
 (Physical objects).
@@ -608,7 +608,7 @@ MP 与 Poison will be consumed.
 
 [@sfb]
 #SAY
-灵魂火球 (Level 18)
+灵魂火符 (Level 18)
 
 Executes long-distance attacks like a wizards fireball skill,
 by hurling an amulet.
@@ -628,9 +628,9 @@ MP 与 amulet will be consumed.
 
 [@hiding]
 #SAY
-躲藏 (Level 20)
+隐身术 (Level 20)
 
-Makes invisible to mobs by hiding traces. 躲藏 will allow player not to be
+Makes invisible to mobs by hiding traces. 隐身术 will allow player not to be
 seen if unless do not move or attack after exercising this skill.
 It's a useful skill to make any situation 1 on 1, as you can hide 与 use a
 distance attack 与 only attacked mobs will approach you.
@@ -639,7 +639,7 @@ distance attack 与 only attacked mobs will approach you.
 
 [@masshide]
 #SAY
-大规模躲藏 (Level 21)
+大规模隐身术 (Level 21)
 
 Upgrade version of hiding skill which also affect other players to be invisible.
 Max. 9 people can be invisible if all are in 3x3 square area.
@@ -704,7 +704,7 @@ MP 与 amulet will be consumed.
 #SAY
 净化 (Level 30)
 
-Purifies poisoned or corrupted body by dark foce.
+Purifies poisoned or corrupted body by 暗之 foce.
 MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <回到主页面/@main>
@@ -750,7 +750,7 @@ MP 与 amulet will be consumed.
 #SAY
 召唤圣德瓦 (Level 38)
 
-Summons a HolyDeva.
+Summons a 圣天使.
 MP 与 amulet will be consumed.
 
 <返回/@taoskill>                     <回到主页面/@main>
@@ -781,7 +781,7 @@ Success rate depends on the skill level. It requires an 护身符 of Revival.
 Throw the amulet 与 a very strong poison cloud will appear in the area.
 This requires high concentration of Taoism 与 mentality.
 Once the skill has been used, you will have to wait to use it again.
-It requires Grey Poison.
+It requires Grey 毒剂
 
 <返回/@taoskill>                     <回到主页面/@main>
 
@@ -819,7 +819,7 @@ that will be disposed 与 click ground.
 <Special structure/@37894>
 *Palace  *Competing room
 <Special NPC/@37682>
-*CraftLady  *SignPost  *Coordinate  *Guard
+*CraftLady  *SignPost  *Coordinate  *守卫
 
 <返回/@basic>                               <回到主页面/@main>
 

@@ -4,7 +4,7 @@ ISADMIN
 #Say
 你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
 
-<Look at Awakening Items/@Buy>
+<看看觉醒的物品/@Buy>
 
 #ELSEACT
 MOVE 0 300 300

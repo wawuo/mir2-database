@@ -1,10 +1,10 @@
-[@Description]
-Thankyou, I remember this Ring it used to 
-belong to my grandmother. Please take this Gift 
-back to {Bradly/LimeGreen} to show my gratitude.
+﻿[@Description]
+谢谢你，我记得这个戒指，它曾经是 
+属于我的祖母.请把这个礼物 
+回到{Bradly/LimeGreen}以表达我的感激之情.
 
 [@TaskDescription]
-Please take this {蓝药/LightSteelBlue} to {Bradly/LimeGreen}
+请把这个{蓝药/LightSteelBlue}带到{Bradly/LimeGreen}
 
 [@Completion]
 

@@ -11,12 +11,12 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, 欢迎。我能为你做什么?
+欢迎, 欢迎.我能为你做什么?
  
 <出售/@Sell> 肉类.
 <想问/@meathelp> 我想卖肉，怎么得搞到？.
  
-<关闭/@Exit>
+<关闭/@exit>
 
 [@Sell]
 #SAY
@@ -28,7 +28,7 @@ Welcome, 欢迎。我能为你做什么?
 
 [@meathelp]
 #SAY
-{肉类/LightSteelBlue} 可以从以下几个方面获得 {Hens/Crimson}, {Deer/Crimson}, {Sheep/Crimson}, 与 {Wolves/Crimson}.
+{肉类/LightSteelBlue} 可以从以下几个方面获得 {鸡/Crimson}, {鹿/Crimson}, {羊/Crimson}, 与 {狼/Crimson}.
 要从一种动物身上获得肉，当然要杀死动物，生剁很残忍的.
 一旦你杀了它，按ALT键，同时左击
 在尸体上点击几秒钟.

@@ -1,17 +1,17 @@
-[@Description]
-Young traveller my name is {Smith/LimeGreen}.
+﻿[@Description]
+Young traveller my name is{Smith/LimeGreen}.
 There are so my monsters outside the village
-I don't know how I'll make it to {BichonWall/Yellow}
+I don't know how I'll make it to{比奇Wall/Yellow}
 Can you help me?
 
 [@TaskDescription]
-Eliminate 10 {Deer/Crimson} and {Scarecrow's/Crimson}.
+消灭 10{鹿/Crimson}和{稻草人's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-Deer 10
-Scarecrow 10
+鹿 10
+稻草人 10
 
 [@ItemTasks]
 

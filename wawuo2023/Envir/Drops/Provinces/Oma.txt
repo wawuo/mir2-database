@@ -12,8 +12,8 @@
 1/140 短弓 
 1/140 锋利的华剑 
 1/180 铁剑 
-1/180 骨弓
- 
+1/180 骨弓 
+  
 1/220 短剑 
 1/400 钩状剑 
 1/400 三叉戟 
@@ -53,14 +53,70 @@
 1/110 玻璃戒指 
 1/200 蓝戒指 
 
+;Amulets
+
+;Belts
+
+;Boots
+
 ;Stones
 1/400 动力石(S) 
+
+;Torches
 
 ;Potions
 1/60 (HP)药物小量 
 1/60 (MP)药物小量 
 1/600 太阳药水 
 
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
 ;Quest
 1/3 大妈的牙齿 Q
+
+;Awakening
+
+;Pets
+
+;Transform
 

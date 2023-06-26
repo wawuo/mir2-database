@@ -1,0 +1,85 @@
+;Gold
+
+;Weapons
+1/100 祖玛灵魂泉杖 
+1/100 灵魂之泉魔杖 
+1/100 速度的刀刃 
+
+;Armours
+
+;Helmets
+
+;Necklaces
+
+;Bracelets
+
+;Rings
+
+;Amulets
+
+;Belts
+
+;Boots
+1/1000 米尔靴 
+1/100 丝绸靴 
+
+;Stones
+
+;Torches
+
+;Potions
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+1/100 [H]战神油 
+1/100 祝福油 
+
+;Gems
+
+;Mount
+1/10 孟加拉虎 
+
+;Books
+
+;Nothing
+
+;Script
+1/10 召唤魔兽 
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

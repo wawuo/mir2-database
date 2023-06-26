@@ -1,10 +1,10 @@
-[@Description]
-Please can you take this {Algea/LightSteelBlue} to 
-{MongchonProvince/Yellow}.
+﻿[@Description]
+Please can you take this{Algea/LightSteelBlue}至
+{盟重省/Yellow}.
 
 [@TaskDescription]
-Deliver the {Algea/LightSteelBlue} to {CraftsLady/LimeGreen} in 
-{MongchonProvince/Yellow}.
+Deliver the{Algea/LightSteelBlue}至{CraftsLady/LimeGreen}处于 
+{盟重省/Yellow}.
 
 [@Completion]
 

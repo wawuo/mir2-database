@@ -1,8 +1,8 @@
-[@Description]
+﻿[@Description]
 Report that the Carriage was attacked.
 
 [@TaskDescription]
-Return to the {LeadTrainer/LimeGreen}.
+返回 to the{Lead教练/LimeGreen}.
 
 [@Completion]
 
@@ -23,4 +23,4 @@ Return to the {LeadTrainer/LimeGreen}.
 3500
 
 // Pickup - BrokenCarriage 11 103 391
-// Hand In - LeadTrainer_Harry 1002 11 8
+// Hand In - Lead教练_Harry 1002 11 8

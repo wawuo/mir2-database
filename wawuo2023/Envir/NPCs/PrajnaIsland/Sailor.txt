@@ -31,7 +31,7 @@ MOVE 0 253 673
 You Dont Have enough {Gold/Gold} to use my Service!
 Be gone, don't waste my time again!
  
-<退出/@exit>
+<关闭/@exit>
 
 [@brdmove1]
 #IF
@@ -43,4 +43,4 @@ MOVE WHITEVILLAGE 67 93
 You Dont Have enough {Gold/Gold} to use my Service!
 Be gone, don't waste my time again!
  
-<退出/@exit>
+<关闭/@exit>

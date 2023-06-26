@@ -11,11 +11,11 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-The empty lot across the bridge is the site
-where stone statues of the top 10 World Heroes
-and 10 Continental Heroes, who brought the glory to
-Mir continent, will be erected.
-If you wish to know the names of the heroes,
-go over there 与 look at the statues.
+桥对面的空地是
+10位世界英雄和10位大陆英雄的石头雕像.
+和10位大陆英雄的石雕，他们为和平大陆带来了荣耀.
+大陆英雄的石像，将在这里竖立.
+如果你想知道这些英雄的名字、
+到那里去看看这些雕像吧.
  
 <关闭/@exit>

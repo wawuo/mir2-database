@@ -1,10 +1,10 @@
-[@Description]
-Hello traveller..
-{Butcher John/LimeGreen} is loooking for some help.
-I think its an urgent matter.
+﻿[@Description]
+你好，旅行者.
+{Butcher John/LimeGreen}正在寻找一些帮助.
+我认为这是一个紧急事件.
 
 [@TaskDescription]
-Speak to {Butcher John/LimeGreen} at Coordinates 293:603
+在坐标293:603处与{Butcher John/LimeGreen}交谈.
 
 [@Completion]
 

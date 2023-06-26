@@ -5,11 +5,11 @@
 #SAY
 I can send you several places nearby.
 
-<ÎäÆ÷µê/@weapon>   <¿ø¼×µê/@Armour>
-<Êéµê/@book>   <Ê×ÊÎµê/@access>
-<¿ÍÕ»//@store>
+<æ­¦å™¨åº—/@weapon>   <ç›”ç”²åº—/@Armour>
+<ä¹¦åº—/@book>   <é¦–é¥°åº—/@access>
+<å®¢æ ˆ//@store>
 
-I will be back <later/@Exit>
+<æˆ‘ä¸‹æ¬¡å†æ¥å§ /@exit>
 
 [@weapon]
 #ACT

@@ -17,19 +17,19 @@ GOTO @Main-1
 那么你怎么说?
  
 我要使用这个 <服务/@tele>
-下次吧 <时间/@exit> 
+下次吧 <时间/@next> 
 
 [@tele]
 #SAY
 你想去哪个地方?
 
-我的服务费是 2000         金币
+我的服务费是 2000 金币
 
 <<边境村/@Border>>
 <<蛇谷/@Serpent>>
 <<盟重土城/@MudWall>>
-<<道教之家/@TaoVillage>>
-<<吉良城堡/@CastleGi>>
+<<白日门/@TaoVillage>>
+<<幽冥帝都/@CastleGi>>
 <<沃玛营地/@Camp>>
 
 [@Border]
@@ -88,9 +88,9 @@ GOTO @gold
 
 [@gold]
 #SAY
-对不起，你没有足够的         金币
+对不起，你没有足够的 金币
 
-<退出/@Exit>
+<关闭/@exit>
 
 [Quests]
 -57

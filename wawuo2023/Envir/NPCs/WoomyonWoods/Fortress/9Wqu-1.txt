@@ -1,7 +1,7 @@
 ;MasterShok Woomyon Woods
 [@main]
 #SAY
-I had to seek refuge in this town.. My Cabin is gone.
+我不得不在这个小镇上寻求庇护。我的小屋已经不在了。
 
 <关闭/@exit>
 

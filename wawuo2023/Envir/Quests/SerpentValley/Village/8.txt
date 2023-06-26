@@ -1,9 +1,8 @@
-[@Description]
-Here's the {蛇酒/LightSteelBlue} for {MongchonScout/LimeGreen} as 
-promised. Please enjoy.
+﻿[@Description]
+这是之前承诺要送给{盟重童子军/LimeGreen}的{蛇酒/LightSteelBlue}，拿去吧.
 
 [@TaskDescription]
-Deliver the {蛇酒/LightSteelBlue} to {MongchonScout/LimeGreen}.
+将{蛇酒/LightSteelBlue}送到{盟重童子军/LimeGreen}手中.
 
 [@Completion]
 

@@ -1,6 +1,6 @@
-[@Description]
-Please travel back to {TaoVillage/Yellow} and speak with 
-the {LeadTrainer/LimeGreen}.
+﻿[@Description]
+Please travel back to{白日门/Yellow}和 speak with 
+the{Lead教练/LimeGreen}.
 
 [@TaskDescription]
 
@@ -22,4 +22,4 @@ the {LeadTrainer/LimeGreen}.
 [@GoldReward]
 
 // Pickup - 
-// Hand In - LeadTrainer_Harry 1002 11 8
+// Hand In - Lead教练_Harry 1002 11 8

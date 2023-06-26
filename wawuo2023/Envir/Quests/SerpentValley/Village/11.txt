@@ -1,11 +1,11 @@
-[@Description]
-Do you know where {SerpentValley/Yellow} is? It's a
-small town northwest of here. {Robert/LimeGreen} in that
-town is looking for some help. 
-Are you interested?
+﻿[@Description]
+你知道{毒蛇山谷/Yellow}在哪里吗？那是一个
+小镇的西北部.那个镇上的{Robert/LimeGreen}
+正在寻找一些帮助.
+你有兴趣吗？
 
 [@TaskDescription]
-Speak to {Robert/LimeGreen} in {SerpentValley/Yellow}
+与{毒蛇山谷/Yellow}的{Robert/LimeGreen}对话.
 
 [@Completion]
 

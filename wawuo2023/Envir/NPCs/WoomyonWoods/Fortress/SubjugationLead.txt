@@ -1,7 +1,7 @@
 [@Main]
 #SAY
-I'm the Leader of this Town.. Our wall's are strong to keep
-away to creatures.
+我是这个镇的领袖。我们的墙很坚固，可以阻止
+入侵怪物。
 
 [Quests]
 -97

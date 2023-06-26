@@ -4,7 +4,7 @@ CHECK [530] 1
 #ACT
 GOTO @Next1
 #ELSESAY
-Welcome <$USERNAME>, 欢迎。我能为你做什么?
+欢迎 <$USERNAME>, 欢迎.我能为你做什么?
 
 <关闭/@exit>
 #ELSEACT
@@ -16,7 +16,7 @@ CHECKQUEST 146 1
 #ACT
 GOTO @CHECK2
 #ELSESAY
-Welcome <$USERNAME>, 欢迎。我能为你做什么?
+欢迎 <$USERNAME>, 欢迎.我能为你做什么?
 
 <关闭/@exit>
 
@@ -30,90 +30,90 @@ GOTO @Next2
 
 [@Next2]
 #SAY
-Come here, pal!
-I have been waiting for you a long time..
+来到这里，朋友！
+我已经等了你很久了。
  
-It's your destiny you never escape from it even after you die....
-Ah friend, Will you take my orders 与 get through the hard way?
+这是你的命运，即使你死了，你也无法摆脱它....
+啊，朋友，你会接受我的命令与通过艰难的方式吗？
  
-<I'll follow your orders with pleasure/@Quest1>
+<我很乐意听从你的命令/@Quest1>
 
 [@Quest1]
 #SAY
-Well. This is my duty. This is why i have waited for you instead of
-leaving here You came here with a 翡翠水晶.. My name is Abel,
-and my nickname was Thunderman before i died. Originally I had
-striven for martial art training since I was 5 years old When I was
-30 years old I was never scared of anyone in the world Then I was 
-arrogant for I took a pride in my martial art, consequently it made 
-me a lot of enemies. But I was no longer interested in community life
-<Next/@Quest2>
+好吧。这是我的职责。这就是为什么我一直在等你，而不是离开这里。
+离开这里 你是带着翡翠水晶来的... 我的名字叫阿贝尔、
+我死前的绰号是雷人。原本我
+我从5岁开始就努力学习武术。
+30岁的时候，我从来没有害怕过世界上的任何人。
+傲慢，因为我对我的武术感到自豪，因此它使我有很多敌人。
+我有很多的敌人。但我对社会生活不再感兴趣了
+<下一页/@Quest2>
 
 [@Quest2]
 #SAY
-So I disappeared from the sight of people to look for stronger monsters
-I finally reached the highest floor of the RedMoon Valley, no one had
-been until then And I found something in a ugly, wet, shady 与 
-bad-smelling room... It's the Crystal of huge demon. Filled with hatred...
-anger... uncontrollably the rough heartbeasts of mad 与 murderous
-monster beat within it... Its power was so strong that I was frightened
-and scared of it 与 I thought I should try to kill it anyhow
-<That's why you need the HolySword./@Quest3>
+于是我从人们的视线中消失了，去寻找更强大的怪物。
+我终于到达了红月谷的最高层，在此之前没有人去过。
+我在一个丑陋、潮湿、阴暗与恶臭的房间里发现了一些东西 
+恶臭的房间里发现了一些东西... 它是巨大的恶魔水晶。充满了憎恨...
+愤怒......不受控制的疯狂与谋杀的粗暴的心兽
+恶魔在它里面跳动... 它的力量是如此强大，以至于我感到害怕
+害怕它 我想无论如何我应该试着杀了它
+<这就是为什么你需要圣剑的原因./@Quest3>
 
 [@Quest3]
 #SAY
-Your right. I tried hiring a HolySword, the best sword of all, from
-the taoist school located below the mountain. But they didn't trust me
-for I had a bad reputation at that time. So they expelled me from there
-It made me angry 与 I extorted the sword by force of arms.
-I came here with the sword but... It seems to have been the first
-wrong step. My mind was still filled with arrogance at that time.
-<Next/@Quest4>
+你说得对。我试着雇了一把圣剑，那是最好的剑，来自位于下面的道教学校。
+山下的道教学校。但他们不相信我
+因为我当时的名声不好。所以他们把我赶出了那里。
+这让我很生气与我用武力敲诈了这把剑。
+我带着剑来到这里，但... 这似乎是第一个
+错误的一步。那时候我的心里还充满了傲慢。
+<下一页/@Quest4>
 
 [@Quest4]
 #SAY
-The enemy heard I had extorted a treasure 与 they rushed me, to 
-kill with anger The people who got into the RedMoon Valley on that 
-day were affected by the RedMoonEvil, the origin of the demon, 
-Consequently,madness of murder dominated their spirit. People 
-murdered each others, enemies 与 friends alike the heaps of corpses 
-blocked the way 与 the flow of blood became a river of red I 
-managed to escape from it because I held a HolySword, a priceless 
-sword, But I had murdered several people already by that time.
-<Next/@Quest5>
+敌人听说我敲诈了一笔钱财，就把我赶了出来。
+当天进入红月谷的人都受到了赤月恶魔的影响。
+当天进入红月谷的人受到了赤月恶魔的影响，这是恶魔的起源、 
+因此，疯狂的杀戮支配着他们的精神。人们 
+互相残杀，敌人和朋友都是如此。
+挡住了去路，血流成了红色的河流。
+我设法逃了出来，因为我持有一把圣剑，一把无价之宝。
+但那时我已经杀了好几个人了。
+<下一页/@Quest5>
 
 [@Quest5]
 #SAY
-I tried to use anger against the RedMoonEvil, the terrible monster.
-But anger 与 loathing can not beat demonic power. The minuet
-I stabbed the RedMoonEvil I was showered with its blood and
-promptly demon energy made me a demon of a man Because the 
-HolySword could not protect me any more due to demon energy growning 
-in my mind The HolySword also became a demon sword, a 
-红月之剑. Ugh everything was my fault.
-<Then how can I killed the RedMoonEvil/@Quest6>
+我试图用愤怒来对付赤月恶魔，这个可怕的怪物。
+但愤怒与厌恶并不能战胜恶魔的力量。小步舞曲
+我刺伤了赤月恶魔，我被它的血淋了一下，然后
+恶魔的能量使我成为了一个恶魔。
+由于恶魔能量在我脑海中的增长，圣剑不能再保护我了。
+圣剑也变成了一把恶魔剑，一把 
+红月之剑。唉，一切都是我的错。
+<那我怎么能杀死赤月恶魔/@Quest6>？
 
 [@Quest6]
 #SAY
-Although RedMoonEvil defeated me 与 the HolySword at the time,
-The HolySword filled with taoist power injured RedMoonEvil fatally.
-In spite of the passage of time, RedMoonEvil has not fully
-recovered from the wound Therefore you who are not affected
-with evil energy are able to kill the monster RedMoonEvil is a
-demonic creature giving serious problems to the human community
-We should get rid of it absolutely. Now keep in mind what I say
-<Give me an order, Please./@Quest7>
+虽然赤月恶魔当时打败了我与圣剑、
+充满道家力量的圣剑对赤月恶魔造成了致命的伤害。
+尽管时间流逝，赤月恶魔仍未完全康复。
+因此，没有受到邪气影响的你
+的人能够杀死赤月恶魔。
+给人类社会带来严重问题的恶魔生物
+我们应该绝对摆脱它。现在记住我说的话
+<请给我一个命令，/@Quest7>。
 
 [@Quest7]
 #SAY
-Since I became a demon of a man due to the blood of RedMoonEvil...
-The 红月之剑 led me to wander over RedMoon Valley 与 
-Murder. Fighting 与 slaying for over 100 years when i faught against
-a certain RedEvilApe the 红月之剑 was finally broken I recovered
-my spirit from grasp of the huge demonic power 与 I aquired a
-skill to let my soul remain even after my body Died. Now I would
-like to ask you, get back the 红月亮芯片 与 bring it to me
-If left alone, other person will become a victim like me....
+自从我因赤月恶魔之血而成为一名恶魔后......
+红月之剑使我在红月谷上空徘徊与 
+谋杀。当我与某位红猿对抗时，战斗与杀戮已超过100年。
+红月之剑终于被打破了。
+我从巨大的恶魔力量中恢复了我的灵魂 与我获得了一种技能
+让我的灵魂在我的身体死亡后仍然存在的技能。现在我想
+现在我想请你把红月亮芯片拿回来，并把它交给我。
+如果放任不管，其他人也会像我一样成为受害者....。
 <关闭/@Quest8>
 
 [@Quest8]
@@ -124,7 +124,7 @@ CLOSE
 
 [@Next3]
 #SAY
-Welcome <$USERNAME>, 欢迎。我能为你做什么?
+欢迎 <$USERNAME>, 欢迎.我能为你做什么?
 
 <关闭/@exit>
 

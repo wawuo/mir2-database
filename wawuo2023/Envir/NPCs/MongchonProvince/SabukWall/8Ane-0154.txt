@@ -11,12 +11,12 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-欢迎。我能为你做什么?
+欢迎.我能为你做什么?
  
 <查看/@BuySell> 商店
 <修理/@Repair> 项链.
  
-<关闭/@Exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY

@@ -5,7 +5,7 @@
 CHECKQUEST 153 1
 #SAY
 带有古代符号的神秘石头.
-"古老的地下城 <限一人/@omacavea>" {Level10~22./KHAKI}
+"古老的地下城 <限一人/@半兽人cavea>" {Level10~22./KHAKI}
  
 <关闭/@exit>
 #ELSEACT
@@ -24,7 +24,7 @@ SET [536] 1
  
 <关闭/@exit>
 
-[@omacavea]
+[@半兽人cavea]
 #IF
 LEVEL > 9 
 LEVEL < 22

@@ -1,20 +1,11 @@
-TITLE=Welcome to Legend of Mir 2
-             !!MUST READ!!
+TITLE=欢迎来到“终极”传奇2
+             必须阅读！！！
+些游戏所有游戏数据归服务器管理员所有。
+服务器管理员在不亏损的情况下，让此服
+务器可以长久运行，在力所能及的情况下
+保证河游戏数据的完整性，服务器管理者
+不对游戏内或涉及此游戏所产生的任何有
+价或无价的产物、数据作承诺，丢失不保.
 
-
-
-
-
-
-
-
-
-
-
-
-
-By clicking close and continuing to play the
-game you are agreeing to the terms of
-service above.
-(LOMCN/http://LOMCN.ORG)
-(DATABASE/https://github.com/Suprcode/mir2-database/tree/main/Jev)
+通过点击关闭并继续玩这个游戏，即表示
+您同意上述服务条款。

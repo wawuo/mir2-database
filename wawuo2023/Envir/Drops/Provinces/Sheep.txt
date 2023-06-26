@@ -12,7 +12,7 @@
 
 ;Rings
 
-;护身符s
+;Amulets
 
 ;Belts
 
@@ -20,16 +20,15 @@
 
 ;Stones
 
-;火炬es
+;Torches
 
 ;Potions
 
 ;Ores
 
-;肉类
-1/5 羊肉 
-1/10 羊肉 
-
+;Meat
+1/5 羊肉
+1/10 羊肉
 ;Crafting Materials
 
 ;Scrolls
@@ -48,7 +47,7 @@
 
 ;Bells
 
-;鞍座
+;Saddle
 
 ;Ribbon
 

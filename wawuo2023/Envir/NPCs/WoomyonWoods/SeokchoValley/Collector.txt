@@ -11,15 +11,15 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-你好 Traveler. 
-Do you have anything for sale? 
-<出售/@Sell> Items
+你好 游侠. 
+你有什么东西要卖吗？
+<出售/@Sell> 物品s
 
 <关闭/@exit>
 
 [@Sell]
 #SAY
-What do you have for trade?
+你有什么可以交易的？
 
 [TYPES]
 5

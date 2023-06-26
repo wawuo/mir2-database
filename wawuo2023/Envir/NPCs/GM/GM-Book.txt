@@ -2,15 +2,15 @@
 #IF
 ISADMIN
 #SAY
-你好 {<$USERNAME>/KHAKI}, 我名叫 {<$NPCNAME>/KHAKI}.
-<购买/@Buy> Book
-<出售/@Sell> Book
- 
-Learn all <Warrior/@Warrior> , <Wizard/@Wizard> , <Taoist/@Taoist> , <Archer/@Archer> , <Assassin/@Assassin> spells.
+你好 {<USERNAME>/KHAKI}, 我名叫 {<NPCNAME>/KHAKI}.
+<购买/@Buy> 书籍
+<出售/@Sell> 书籍
+
+学习所有 <战士/@Warrior>、<巫师/@Wizard>、<道士/@Taoist>、<弓箭手/@Archer>、<刺客/@Assassin> 技能.
 
 #ELSEACT
 MOVE 0 300 300
- 
+
 [@Sell]
 #SAY
 出售
@@ -46,10 +46,10 @@ GIVESKILL 不朽的皮肤 3
 #ACT
 GIVESKILL 火球 3
 GIVESKILL 斥力 3
-GIVESKILL 电击 3
+GIVESKILL诱惑之光 3
 GIVESKILL 大火球 3
 GIVESKILL 地狱之火 3
-GIVESKILL 霹雳火 3
+GIVESKILL  雷电术 3
 GIVESKILL 传送 3
 GIVESKILL 火焰弹 3
 GIVESKILL 火墙 3
@@ -60,82 +60,11 @@ GIVESKILL 魔法盾 3
 GIVESKILL 亡灵转化 3
 GIVESKILL 吸血术 3
 GIVESKILL 冰风暴 3
-GIVESKILL 火焰破坏者 3
+GIVESKILL 火焰break坏者 3
 GIVESKILL 镜像 3
 GIVESKILL 火焰场 3
 GIVESKILL 暴风雪 3
-GIVESKILL 魔力助推器 3
-GIVESKILL 流星打击 3
-GIVESKILL 冰刺 3
-GIVESKILL 风暴逃逸 3
-GIVESKILL 快速移动 3
-[@Taoist]
-#ACT
-GIVESKILL 疗伤 3
-GIVESKILL 精神之剑 3
-GIVESKILL 中毒 3
-GIVESKILL 灵魂火球 3
-GIVESKILL 召唤骷髅 3
-GIVESKILL 躲藏 3
-GIVESKILL 大规模躲藏 3
-GIVESKILL 灵魂盾牌 3
-GIVESKILL 启示 3
-GIVESKILL 受祝福的盔甲 3
-GIVESKILL 能量反击器 3
-GIVESKILL 陷阱六边形 3
-GIVESKILL 净化 3
-GIVESKILL 大规模治疗 3
-GIVESKILL 幻觉 3
-GIVESKILL 终极强化器 3
-GIVESKILL 召唤神术 3
-GIVESKILL 转世 3
-GIVESKILL 召唤圣德瓦 3
-GIVESKILL 诅咒 3
-GIVESKILL 瘟疫 3
-GIVESKILL 毒云 3
-GIVESKILL 能量护盾 3
-GIVESKILL 治愈圈 3
-[@Assassin]
-#ACT
-GIVESKILL 致命之剑 3
-GIVESKILL 双击 3
-GIVESKILL 障碍物 3
-GIVESKILL 闪光冲刺 3
-GIVESKILL 轻功 3
-GIVESKILL 天堂之剑 3
-GIVESKILL 火焰喷射 3
-GIVESKILL 陷阱 3
-GIVESKILL 毒剑 3
-GIVESKILL 月光 3
-GIVESKILL 猎手 3
-GIVESKILL 迅捷脚步 3
-GIVESKILL 黑暗之躯 3
-GIVESKILL 出血 3
-GIVESKILL CrescentSlash 3
-GIVESKILL 月雾 3
-GIVESKILL 猫头鹰 3
-[@Archer]
-#ACT
-GIVESKILL 焦点 
-GIVESKILL 直击 3
-GIVESKILL 双响炮 3
-GIVESKILL 爆炸性陷阱 3
-GIVESKILL 延迟爆炸 3
-GIVESKILL 冥想 3
-GIVESKILL 后撤步 3
-GIVESKILL 元素射击 3
-GIVESKILL 专注力 3
-GIVESKILL 元素屏障 3
-GIVESKILL 召唤吸血鬼 3
-GIVESKILL 吸血鬼射击 3
-GIVESKILL 召唤蟾蜍 3
-GIVESKILL 毒药射击 3
-GIVESKILL 残废射击 3
-GIVESKILL 召唤蛇类 3
-GIVESKILL 汽油弹 3
-GIVESKILL 与自然同在 3
-GIVESKILL 石头陷阱 3
-GIVESKILL 传送门 3
+GIVESKILL 魔力助蚥reak
 
 [Types]
 20
@@ -181,6 +110,7 @@ GIVESKILL 传送门 3
 魔力助推器
 流星打击
 冰刺
+眨眼
 风暴逃逸
 快速移动
 疗伤
@@ -206,12 +136,13 @@ GIVESKILL 传送门 3
 瘟疫
 毒云
 能量护盾
+宠物强化器
 治愈圈
 致命之剑
 双击
 障碍物
 闪光冲刺
-轻功
+光之体
 天堂之剑
 火焰喷射
 陷阱
@@ -223,19 +154,20 @@ GIVESKILL 传送门 3
 出血
 裂缝
 月雾
-猫头鹰
 焦点
 直击
+精神状态
 双响炮
-爆炸性陷阱
-延迟爆炸
 冥想
-后撤步
 元素射击
+爆炸性陷阱
 专注力
-元素屏障
-召唤吸血鬼
 吸血鬼射击
+召唤吸血鬼
+后撤步
+延迟爆炸
+元素屏障
+捆绑射击
 召唤蟾蜍
 毒药射击
 残废射击

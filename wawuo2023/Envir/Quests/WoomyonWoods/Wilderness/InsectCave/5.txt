@@ -1,10 +1,9 @@
-[@Description]
-I got attacked a couple days ago, and I got 
-poisoned. I bought the {解毒剂/LightSteelBlue} but the mobs 
-took my bag. 
+﻿[@Description]
+几天前我被攻击了，我中了毒。我买了{解毒剂/LightSteelBlue}，
+但暴徒们抢走了我的包。 
 
 [@TaskDescription]
-Kill {KekTal's/Crimson} and find {Soho's/LimeGreen} {解毒剂/LightSteelBlue}
+杀死{凯克塔尔/Crimson} 找到{Soho's/LimeGreen}{解毒剂/LightSteelBlue}
 
 [@Completion]
 

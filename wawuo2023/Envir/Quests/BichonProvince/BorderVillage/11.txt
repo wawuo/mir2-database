@@ -1,17 +1,17 @@
-[@Description]
-{Assistant Jane/LimeGreen} sent you? 
-I can't reject anyone that she has
-recommended, but I cant just accept anyone 
-as my disciple. You will have to pass my test.
+﻿[@Description]
+{助理员-Jane/LimeGreen}送给你的？
+我不能拒绝她推荐的任何人
+推荐的人，但我也不能随便接受任何人 
+作为我的弟子.你必须要通过我的测试.
 
 [@TaskDescription]
-Eliminate 10 {Oma's/Crimson} and {RakingCat's/Crimson}
+消灭10个{半兽人/Crimson}和{钉钯猫/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-Oma 10
-RakingCat 10
+半兽人 10
+抓爪猫咪 10
 
 [@ItemTasks]
 

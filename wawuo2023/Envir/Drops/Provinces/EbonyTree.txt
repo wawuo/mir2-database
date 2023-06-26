@@ -1,5 +1,35 @@
+;Gold
+1/1 Gold 8500
+
+;Weapons
+
+;Armours
+
+;Helmets
+
+;Necklaces
+
+;Bracelets
+
+;Rings
+
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
+;Potions
+
+;Ores
+
+;Meat
+
 ;Crafting Materials
-
 1/1 乌木果实 
 1/1 乌木果实 
 1/2 乌木果实 
@@ -9,10 +39,51 @@
 1/3 乌木果实 
 1/4 乌木果实 
 1/4 乌木果实 
+1/10 木材 
+1/20 木材 
 
-1/10 木材
-1/20 木材
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
 
 ;Quest
 1/4 乌木果实 Q
+
+;Awakening
+
+;Pets
+
+;Transform
 

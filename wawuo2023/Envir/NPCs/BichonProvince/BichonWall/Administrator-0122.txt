@@ -9,92 +9,22 @@ CHECKPKPOINT > 199
 #ELSEACT
 GOTO @Main-1
 
-[@Main-1]
+[@Main-1］
 #SAY
-This is the palace of Bichon wall.
-I am the Administrator. How may I help you ?
-<Request Guild creation/@CREATEGUILD>
-<Request Guild war/@REQUESTWAR>
-Required {Gold/Gold}: <$GUILDWARFEE> Last's for <$GUILDWARTIME> Minutes.
-<Request Sabuk conquest war/@requestcastlewar>
-<想问 how to create a Guild/@buildguildexp> || <想问 about Guild war/@guildwarexp>
+这里是比丘的宫殿.
+我是管理员.有什么可以帮助你的吗？
+<要求创建行会/@CREATEGUILD>
+<要求行会战争/@REQUESTWAR>.
+需要 {Gold/Gold}： <$GUILDWARFEE> 最后的<$GUILDWARTIME>分钟.
+<请求沙巴克征服战争/@requestcastlewar>.
+<想问如何创建一个公会/@buildguildexp>|<想问关于公会战争/@guildwarexp>.
 
  
 
 [@buildguildexp]
 #SAY
-In order to qualify for guild creation
-you need to bring me several items:-
-One million {Gold/Gold} & the Horn of WoomaTaurus, who lives
-in deep in the Wooma Temple in Woomyon Woods.
-Please keep in mind that no special characters
-are allowed in guild names.
-Guilds made by using alt codes or spaces in the name
-will be deleted 与 no refund made.
-<返回/@main>
-
-[@guildwarexp]]
-#SAY
-<Guild war/@guildwar2> means war done by legal request.  
-Actually, due to the number of guilds 与 struggles between 
-them, the government approve <legal/@warrule> guild war. 
-When <requested/@propose>, war will be allowed for 3 hours. 
-You'll have to pay <$GUILDWARFEE> {Gold/Gold} as request fee. 
- 
-<返回/@main>
-
-[@guildwar2]
-#SAY
-When you request guild war, names of allies will appear in blue,
-on the other side, enemy names will appear orange.
-If you are connected during a Guild War, the message:
-'War with {nnn} guild' will appear in chatting window and
-if you kill a member of the enemy guild you will not
-be regarded as PK.
-<返回/@guildwarexp>
-
-[@warrule]
-#SAY
-Guildwar cannot take place in village.
-It can be executed out of certain ranges from the 
-village or inside contest area (like inside some buildings).
-However, if you are PK your ID will be red in colour,
-even during war.
- 
-<返回/@guildwarexp>
-
-[@propose]
-#SAY
-Proposal of guild war only can be requested
-by Guildchief.
-<返回/@guildwarexp>
-
-[@donate]
-#SAY
-We are not collecting donation money yet.
- 
- <返回/@main>
-
-[@requestcastlewar]
-#SAY
-To request Sabuk conquest war you should have 祖玛乐. 
-Do you have it? 
-Once you request to conquer Sabuk the fight will 
-start 2 days later.
- 
- <Apply for Sabuk conquest/@requestcastlewarnow>
- 
- <返回/@main>
-
-[~@request_ok]
-#SAY
-Wall conquest war accepted. 
-Run to Sabuk wall as fast as you can 
-to ask the oldman for the date 与 time of the war.
- 
-<退出/@exit>
-; time of wall conquest war is
-; <$CASTLEWARDATE> PM 8.
-
-
-
+为了获得创建公会的资格
+你需要带给我几样东西：-
+一百万{黄金/金币}和沃玛教主的号角，他住在Wo半兽人神庙的深处.
+住在Woomyon森林的Wo半兽人 Temple深处.
+请记

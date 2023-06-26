@@ -13,6 +13,8 @@
 1/40 布衣(男) 
 1/40 布衣(女) 
 
+;Helmets
+
 ;Necklaces
 1/40 黄金项链 
 1/40 精准项链 
@@ -23,6 +25,67 @@
 ;Rings
 1/40 铜戒指 
 
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
 ;Potions
 1/40 (HP)药物小量 
 1/40 (MP)药物小量 
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

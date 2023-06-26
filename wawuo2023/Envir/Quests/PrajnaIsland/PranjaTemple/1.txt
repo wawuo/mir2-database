@@ -1,13 +1,13 @@
-[@Description]
+﻿[@Description]
 
 [@TaskDescription]
-Travel South-East to {PrajnaTemple/Yellow} and Kill 30 
-{Minotaur's/Crimson}.
+Travel South-East to{般若岛神庙/Yellow}和 Kill 30 
+{牛头魔's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-Minotaur 30
+牛头魔 30
 
 [@ItemTasks]
 

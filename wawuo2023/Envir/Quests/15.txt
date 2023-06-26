@@ -1,10 +1,10 @@
-[@Description]
-You seem more like a well-trained Taoist now.
-I have asked Peter to give you some work
-to do. The reward should help you in many ways,
+﻿[@Description]
+你现在看起来更像一个训练有素的道士.
+我已经让彼得给你一些工作
+做.这个奖励应该对你有很多帮助.
 
 [@TaskDescription]
-Speak to {MirGuide Peter/LimeGreen} Coordinates 335:275
+找他说话：{传奇新手导师 Peter/LimeGreen}坐标:335:275
 
 [@Completion]
 

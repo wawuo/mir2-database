@@ -5,20 +5,20 @@ CHECKQUEST 153 1
 #ACT
 GOTO @MAIN-1
 #ELSESAY
-Nothing happens.
+无事发生
 
 [@MAIN-1]
 #IF
 LEVEL > 47
 LEVEL < 56
 #SAY
-A Mysterious Stone with Ancient symbols.
-"The 骨头s are crunching the Fear is <within/@prajnacavea>"
-{普拉纳之心/LightSteelBlue} Required {Level48~55./KHAKI}
+一块带有古代符号的神秘石头.
+"咕嘟咕嘟 "的声音响起 <恐惧就在其中/@prajnacavea>"
+{普拉纳之心/LightSteelBlue} 需要 {Level48~55./KHAKI}
  
 <关闭/@exit>
 #ELSESAY
-Nothing happens. 
+无事发生 
  
  
 <关闭/@exit>
@@ -30,7 +30,7 @@ CHECKITEM 普拉纳之心 1
 TAKEITEM 普拉纳之心 1
 MOVE D2051A 113 174
 #ELSESAY
-Nothing happens.
+无事发生
  
  
 <关闭/@exit>

@@ -1,14 +1,14 @@
-[@Description]
+﻿[@Description]
 The Howling oh the Howling.. Search for the 
-Source and Kill the creature.
+Source和Kill the creature.
 
 [@TaskDescription]
-Eliminate the {OmaWarrior/Crimson}.
+消灭 the{半兽人Warrior/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-OmaWarrior 1
+半兽人勇士 1
 
 [@ItemTasks]
 

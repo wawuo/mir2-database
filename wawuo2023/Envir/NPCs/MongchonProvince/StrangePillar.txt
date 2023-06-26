@@ -4,9 +4,9 @@ CHECKQUEST 110 0
 #SAY
 What a strange pillar.
 #ELSESAY
-You get an eerie feeling when touching then pillar..
+摸柱子时，你会有一种阴森的感觉. 
 #ELSEACT
 SET [522] 1
-LOCALMESSAGE "StrangePillar has been found!" Hint
+LOCALMESSAGE "陌生的柱子 已被发现!" Hint
 BREAK
 CLOSE

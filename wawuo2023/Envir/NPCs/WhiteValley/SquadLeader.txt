@@ -1,5 +1,5 @@
 [@MAIN]
 #SAY
-Me 与 my Squad was ambushed! becareful Traveler.
+我与我的小队被伏击了！小心点游侠.
  
 <关闭/@exit>

@@ -1,12 +1,10 @@
-[@Description]
-Hmm.. The information seems to refer to the 
-{骨头Elite/Crimson}. Can you help us and hunt 
-this monster? We cannot leave our town since 
-we are under attack as well. 
+﻿[@Description]
+嗯......这些信息似乎是指{骷髅精英/Crimson}.你能帮助我们杀了这
+个怪物吗？我们不能离开我们的小镇，因为我们也在被攻击.
 
 [@TaskDescription]
-Please eliminate the {骨头Elite/Crimson} and bring back his 
-{Head/LightSteelBlue}.
+
+请消灭{骷髅精英/Crimson}并带回他的{头部/LightSteelBlue}.
 
 [@Completion]
 

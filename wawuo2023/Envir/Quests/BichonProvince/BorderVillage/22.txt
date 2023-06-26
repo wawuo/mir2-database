@@ -1,10 +1,8 @@
-[@Description]
-The {Border village/Yellow} is in trouble! More guards are
-getting injured with frequent attacks from 
-monsters. {Ruben/LimeGreen} asked for {遗物/LightSteelBlue} for the injured.
+﻿[@Description]
+边境村/黄色}有麻烦了! 越来越多的守卫在怪物的频繁攻击下受伤.{Ruben/LimeGreen}要求为受伤的人提供{遗物/LightSteelBlue}.
 
 [@TaskDescription]
-Collect 10 {遗物/LightSteelBlue} by hunting {CaveMaggots/Crimson}
+通过猎杀{洞穴蛆虫/Crimson}收集10个{遗物/LightSteelBlue}.
 [@Completion]
 
 [@KillTasks]

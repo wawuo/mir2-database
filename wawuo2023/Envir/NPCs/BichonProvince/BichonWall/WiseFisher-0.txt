@@ -11,7 +11,7 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Glad to see you, how can I help you?
+很高兴见到你，我能为你做些什么？
  
 <交易/@Buy> Fishing 材料.
 <出售/@sell> Fish.
@@ -21,21 +21,21 @@ Glad to see you, how can I help you?
 
 [@Buy]
 #SAY
-Please select what you want to buy
+请选择你想购买的东西
 <返回 购买/@BuyBack>
  
 <返回/@main>
 
 [@sell]
 #SAY
-Lay down your Fish to be sold
+请将您的鱼放下以便出售.
  
  
  <返回/@main>
 
 [@BuyBack]
 #SAY
-Item's you are still able to purchase back.
+你仍然能够购买回来的物品.
  
 <返回/@Main>
 

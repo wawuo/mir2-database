@@ -7,8 +7,8 @@
 1/150 锋利的华剑 
 1/150 短剑 
 1/150 铁剑 
-1/150 骨弓
- 
+1/150 骨弓 
+  
 1/150 青铜斧 
 1/250 钩状剑 
 1/250 三叉戟 
@@ -49,10 +49,32 @@
 1/500 蛇眼戒指 
 1/500 珍珠戒指 
 
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
 ;Potions
 1/30 (HP)药物中量 
 1/30 (MP)药物中量 
 1/100 太阳药水 
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
 
 ;Books
 1/100 击剑 
@@ -91,3 +113,40 @@
 1/700 后撤步 
 1/1000 元素射击 
 1/400 双响炮 
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+
