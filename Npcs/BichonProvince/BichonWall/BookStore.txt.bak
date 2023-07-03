@@ -1,0 +1,306 @@
+[@Main]
+#IF
+CHECKPKPOINT > 199
+#SAY
+我不会帮助像你这样的恶人...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+欢迎，有什么需要我帮忙的吗？
+ 
+<查看/@BuySell> 商店
+打听 <解释/@helpbooks> 技能相关.
+Seeking <Information/@information>
+ 
+<关闭/@exit>
+
+[@BuySell]
+#SAY
+请选择您想要的书出售或购买.
+<返回 购买/@BuyBack>
+ 
+<返回/@Main>
+
+[@helpbooks]
+#SAY
+你对什么类型的书感兴趣?
+ 
+战士：  <技能列表/@War1>
+法师：   <技能列表/@Wiz1>
+道士：   <技能列表/@Tao1>
+刺客： <技能列表/@Assa1>
+弓箭手：   <技能列表/@Arc1>
+
+
+[@War1]
+#SAY
+Level  7: 基础剑术
+Level 15: 攻杀剑术
+Level 22: 刺杀
+Level 26: 半月剑法
+Level 30: 野蛮冲撞
+Level 32: 双击
+Level 32: 禁锢
+<更多/@War2> <返回/@helpbooks>
+
+[@War2]
+#SAY
+Level 35: 烈火剑法
+Level 36: 狮子吼
+Level 38: 十字半月
+Level 38: 刀锋雪崩
+Level 39: 保护场
+Level 44: 愤怒
+Level 50: 斩击爆裂
+<返回/@helpbooks>
+
+[@Wiz1]
+#SAY
+Level  7: 火球术
+Level 12: 抗拒火环
+Level 13: 诱惑之光
+Level 15: 大火球
+Level 16: 地狱之火
+Level 17: 雷电术
+<更多/@Wiz2> <返回/@helpbooks>
+
+[@Wiz2]
+#SAY
+Level 19: 瞬间移动.
+Level 22:  爆裂火焰
+Level 24: 火墙
+LLevel 26: 疾光电影
+Level 28: 寒霜紧缩
+Level 30：地狱雷光
+Level 31: 魔法盾
+Level 32: 圣言术
+<更多/@Wiz3> <返回/@helpBooks>
+
+[@Wiz3]
+#SAY
+Level 33: 吸血术
+Level 35: 冰咆哮
+Level 38: 灭天火
+Level 41: 镜像
+Level 42: 火焰场
+Level 44: 暴风雪
+Level 49: 流星打击
+Level 53: 冰冻术
+<返回/@helpBooks>
+
+[@Tao1]
+#SAY
+Level  7: 疗伤
+Level  9: 精神之剑
+Level 14: 中毒
+Level 18: 灵魂火符
+Level 19: 召唤骷髅
+Level 20: 隐身术
+<更多/@Tao2> <返回/@helpbooks>
+
+[@Tao2]
+#SAY
+Level 21: 大规模隐身术
+Level 22: 灵魂盾牌
+Level 23: 启示
+Level 25: 受祝福的盔甲
+Level 27: 能量反击器
+Level 28: 困魔咒
+Level 30: 净化
+<更多/@Tao3> <返回/@helpBooks>
+
+[@Tao3]
+#SAY
+Level 31: 群体治疗
+Level 31: 幻觉
+Level 33: 终极强化器
+Level 35: 召唤神兽
+Level 37: 转世
+Level 38: 召唤圣德瓦
+Level 40: 诅咒
+Level 43: 群体施毒术
+Level 48:苍穹之盾
+<返回/@helpBooks>
+
+
+[@Assa1]
+#SAY
+Level  7: 致命之剑
+Level 15: 双击
+Level 20: 障碍物
+Level 25: 闪光冲刺
+Level 27: 轻功
+Level 30: 天堂之剑
+Level 33: 火焰喷射
+
+<更多/@Assa2> <返回/@helpBooks>
+
+[@Assa2]
+#SAY
+Level 33: 陷阱
+Level 34: 毒剑
+Level 36: 月光
+Level 38: 猎手
+Level 40: 迅捷脚步
+Level 46: 黑暗之躯
+
+Level 50: MoonBlade
+<返回/@helpBooks>
+
+
+[@Arc1]
+#SAY
+Level  7: 焦点
+Level  9: 直击
+Level 11: 精神状态
+Level 14: 双响炮
+Level 19: 冥想
+Level 20: 元素射击
+Level 22: 爆炸性陷阱
+<更多/@Arc2> <返回/@helpBooks>
+
+[@Arc2]
+#SAY
+Level 23: 专注力
+Level 26: 吸血鬼射击
+Level 28: 召唤吸血鬼
+Level 30: 后撤步
+Level 31: 延迟爆炸
+Level 33: 元素屏障
+Level 35: 捆绑射击
+<更多/@Arc3> <返回/@helpBooks>
+
+[@Arc3]
+#SAY
+Level 37: 召唤蟾蜍
+Level 40: 毒药射击
+Level 43: 残废射击
+Level 46: 召唤蛇类
+Level 48: 汽油弹
+Level 50: 与自然同在
+<返回/@helpBooks>
+
+[@Information]
+#IF
+CHECKQUEST 152 1
+#ACT
+SET [533] 1
+#SAY
+Hmm... Think ive seen those symbols before...
+Sir Mogu was asking about that language many years ago.
+Travel to the Tavern 与 talk to him about it.
+<Thank You/@next>
+
+
+[Types]
+20
+
+[Trade]
+击剑
+杀人
+刺杀
+半月形
+肩部冲刺
+双闸刀
+禁锢
+火焰之剑
+狮子吼
+十字半月
+刀锋雪崩
+保护场
+愤怒
+反击
+斩击爆裂
+怒击
+不朽的皮肤
+火球
+斥力
+电击
+大火球
+地狱之火
+霹雳火
+传送
+火焰弹
+火墙
+闪电
+寒霜紧缩
+雷霆风暴
+魔法盾
+亡灵转化
+吸血术
+冰风暴
+火焰破坏者
+镜像
+火焰场
+暴风雪
+魔力助推器
+流星打击
+冰刺
+风暴逃逸
+快速移动
+疗伤
+精神之剑
+中毒
+灵魂火球
+召唤骷髅
+躲藏
+大规模躲藏
+灵魂盾牌
+启示
+受祝福的盔甲
+能量反击器
+陷阱六边形
+净化
+大规模治疗
+幻觉
+终极强化器
+召唤神术
+转世
+召唤圣德瓦
+诅咒
+瘟疫
+毒云
+能量护盾
+治愈圈
+致命之剑
+双击
+障碍物
+闪光冲刺
+轻功
+天堂之剑
+火焰喷射
+陷阱
+毒剑
+月光
+猎手
+迅捷脚步
+黑暗之躯
+出血
+裂缝
+月雾
+猫头鹰
+焦点
+直击
+双响炮
+爆炸性陷阱
+延迟爆炸
+冥想
+后撤步
+元素射击
+专注力
+元素屏障
+召唤吸血鬼
+吸血鬼射击
+召唤蟾蜍
+毒药射击
+残废射击
+召唤蛇类
+汽油弹
+与自然同在
+石头陷阱
+传送门

@@ -1,0 +1,178 @@
+[@Main]
+#IF
+ISADMIN
+#SAY
+你好 {<USERNAME>/KHAKI}, 我名叫 {<NPCNAME>/KHAKI}.
+<购买/@Buy> 书籍
+<出售/@Sell> 书籍
+
+学习所有 <战士/@Warrior>、<巫师/@Wizard>、<道士/@Taoist>、<弓箭手/@Archer>、<刺客/@Assassin> 技能.
+
+#ELSEACT
+MOVE 0 300 300
+
+[@Sell]
+#SAY
+出售
+ 
+<返回/@Main>
+
+[@Buy]
+#SAY
+购买
+ 
+<返回/@Main>
+
+[@Warrior]
+#Act
+GIVESKILL 击剑 3
+GIVESKILL 杀人 3
+GIVESKILL 刺杀 3
+GIVESKILL 半月形 3
+GIVESKILL 肩部冲刺 3
+GIVESKILL 双闸刀 3
+GIVESKILL 禁锢 3
+GIVESKILL 火焰之剑 3
+GIVESKILL 狮子吼 3
+GIVESKILL 双闸刀 3
+GIVESKILL 刀锋雪崩 3
+GIVESKILL 保护场 3
+GIVESKILL 愤怒 3
+GIVESKILL 反击 3
+GIVESKILL 斩击爆裂 3
+GIVESKILL 怒击 3
+GIVESKILL 不朽的皮肤 3
+[@Wizard]
+#ACT
+GIVESKILL 火球 3
+GIVESKILL 斥力 3
+GIVESKILL诱惑之光 3
+GIVESKILL 大火球 3
+GIVESKILL 地狱之火 3
+GIVESKILL  雷电术 3
+GIVESKILL 传送 3
+GIVESKILL 火焰弹 3
+GIVESKILL 火墙 3
+GIVESKILL 闪电 3
+GIVESKILL 寒霜紧缩 3
+GIVESKILL 雷霆风暴 3
+GIVESKILL 魔法盾 3
+GIVESKILL 亡灵转化 3
+GIVESKILL 吸血术 3
+GIVESKILL 冰风暴 3
+GIVESKILL 火焰break坏者 3
+GIVESKILL 镜像 3
+GIVESKILL 火焰场 3
+GIVESKILL 暴风雪 3
+GIVESKILL 魔力助蚥reak
+
+[Types]
+20
+
+[Trade]
+击剑
+杀人
+刺杀
+半月形
+肩部冲刺
+双闸刀
+禁锢
+火焰之剑
+狮子吼
+十字半月
+刀锋雪崩
+保护场
+愤怒
+反击
+斩击爆裂
+怒击
+不朽的皮肤
+火球
+斥力
+电击
+大火球
+地狱之火
+霹雳火
+传送
+火焰弹
+火墙
+闪电
+寒霜紧缩
+雷霆风暴
+魔法盾
+亡灵转化
+吸血术
+冰风暴
+火焰破坏者
+镜像
+火焰场
+暴风雪
+魔力助推器
+流星打击
+冰刺
+眨眼
+风暴逃逸
+快速移动
+疗伤
+精神之剑
+中毒
+灵魂火球
+召唤骷髅
+躲藏
+大规模躲藏
+灵魂盾牌
+启示
+受祝福的盔甲
+能量反击器
+陷阱六边形
+净化
+大规模治疗
+幻觉
+终极强化器
+召唤神术
+转世
+召唤圣德瓦
+诅咒
+瘟疫
+毒云
+能量护盾
+宠物强化器
+治愈圈
+致命之剑
+双击
+障碍物
+闪光冲刺
+光之体
+天堂之剑
+火焰喷射
+陷阱
+毒剑
+月光
+猎手
+迅捷脚步
+黑暗之躯
+出血
+裂缝
+月雾
+焦点
+直击
+精神状态
+双响炮
+冥想
+元素射击
+爆炸性陷阱
+专注力
+吸血鬼射击
+召唤吸血鬼
+后撤步
+延迟爆炸
+元素屏障
+捆绑射击
+召唤蟾蜍
+毒药射击
+残废射击
+召唤蛇类
+汽油弹
+与自然同在
+石头陷阱
+传送门
